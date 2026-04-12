@@ -6,6 +6,13 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
+
+def parse_iso(s):
+    """Parse ISO8601 string, handling trailing Z for older Python."""
+    if s and s.endswith("Z"):
+        s = s[:-1] + "+00:00"
+    return datetime.fromisoformat(s)
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = REPO_ROOT / "data" / "raw"
 OUT_DIR = REPO_ROOT / "docs" / "data" / "summary"
@@ -56,7 +63,7 @@ def build_sport_details(all_events):
         fd = e.get("from_date")
         if fd:
             try:
-                hour = datetime.fromisoformat(fd).hour
+                hour = parse_iso(fd).hour
             except (ValueError, TypeError):
                 pass
         sf[sport][facility].append((taken, pmax, hour))
@@ -93,6 +100,40 @@ def build_sport_details(all_events):
     return result
 
 
+def build_facility_busyness(all_events):
+    """Infer facility busyness per hour from aggregate lesson fill rates."""
+    # facility -> day_of_week -> hour -> list of fill ratios
+    fb = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+
+    for e in all_events:
+        facility = e.get("facility_name") or "Unknown"
+        fd = e.get("from_date")
+        if not fd:
+            continue
+        try:
+            dt = parse_iso(fd)
+        except (ValueError, TypeError):
+            continue
+        pmax = e["places_max"]
+        taken = e.get("places_taken") or 0
+        fb[facility][dt.weekday()][dt.hour].append(taken / pmax)
+
+    result = {}
+    for fac in sorted(fb):
+        days = {}
+        for day in range(7):
+            hours = {}
+            for hour in range(24):
+                ratios = fb[fac][day].get(hour, [])
+                if ratios:
+                    hours[str(hour)] = round(sum(ratios) / len(ratios) * 100, 1)
+            if hours:
+                days[str(day)] = hours
+        if days:
+            result[fac] = days
+    return result
+
+
 def write_json(path, obj):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2, ensure_ascii=False))
@@ -110,6 +151,9 @@ def main():
 
     # sport_details.json
     write_json(OUT_DIR / "sport_details.json", build_sport_details(all_events))
+
+    # facility_busyness.json
+    write_json(OUT_DIR / "facility_busyness.json", build_facility_busyness(all_events))
 
     # Clean up old output files
     for old in ("by_sport.json", "by_facility.json", "heatmap.json"):
