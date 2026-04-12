@@ -51,6 +51,8 @@
     const colors = values.map((v) => occupancyColor(v));
 
     destroyChart(canvasId);
+    const container = document.getElementById(canvasId).parentElement;
+    container.style.height = Math.max(400, entries.length * 22) + "px";
     const ctx = document.getElementById(canvasId).getContext("2d");
     chartInstances[canvasId] = new Chart(ctx, {
       type: "bar",
@@ -68,7 +70,7 @@
       options: {
         indexAxis: "y",
         responsive: true,
-        maintainAspectRatio: true,
+        maintainAspectRatio: false,
         plugins: {
           legend: { display: false },
           tooltip: {
@@ -114,6 +116,8 @@
     const colors = values.map((v) => occupancyColor(v));
 
     destroyChart(canvasId);
+    const container = document.getElementById(canvasId).parentElement;
+    container.style.height = Math.max(400, sports.length * 20) + "px";
     const ctx = document.getElementById(canvasId).getContext("2d");
     chartInstances[canvasId] = new Chart(ctx, {
       type: "bar",
@@ -129,19 +133,20 @@
         ],
       },
       options: {
+        indexAxis: "y",
         responsive: true,
-        maintainAspectRatio: true,
+        maintainAspectRatio: false,
         plugins: {
           legend: { display: false },
           tooltip: {
             callbacks: {
-              label: (ctx) => `${ctx.parsed.y.toFixed(1)}%`,
+              label: (ctx) => `${ctx.parsed.x.toFixed(1)}%`,
             },
           },
         },
         scales: {
-          x: { ticks: { maxRotation: 45, font: { size: 10 } } },
-          y: { beginAtZero: true, max: 100, title: { display: true, text: "Avg Occupancy %" } },
+          x: { beginAtZero: true, max: 100, title: { display: true, text: "Avg Occupancy %" } },
+          y: { ticks: { font: { size: 10 } } },
         },
       },
     });
@@ -160,6 +165,8 @@
     const colors = values.map((v) => occupancyColor(v));
 
     destroyChart(canvasId);
+    const container = document.getElementById(canvasId).parentElement;
+    container.style.height = Math.max(400, facilities.length * 22) + "px";
     const ctx = document.getElementById(canvasId).getContext("2d");
     chartInstances[canvasId] = new Chart(ctx, {
       type: "bar",
@@ -175,19 +182,20 @@
         ],
       },
       options: {
+        indexAxis: "y",
         responsive: true,
-        maintainAspectRatio: true,
+        maintainAspectRatio: false,
         plugins: {
           legend: { display: false },
           tooltip: {
             callbacks: {
-              label: (ctx) => `${ctx.parsed.y.toFixed(1)}%`,
+              label: (ctx) => `${ctx.parsed.x.toFixed(1)}%`,
             },
           },
         },
         scales: {
-          x: { ticks: { maxRotation: 45, font: { size: 10 } } },
-          y: { beginAtZero: true, max: 100, title: { display: true, text: "Avg Occupancy %" } },
+          x: { beginAtZero: true, max: 100, title: { display: true, text: "Avg Occupancy %" } },
+          y: { ticks: { font: { size: 10 } } },
         },
       },
     });
