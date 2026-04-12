@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ASVZ Stats</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <header>
+    <h1>ASVZ Stats</h1>
+    <p class="subtitle">Occupancy trends across ASVZ sports facilities</p>
+    <p id="last-updated"></p>
+  </header>
+
+  <nav>
+    <button class="tab active" data-tab="overview">Overview</button>
+    <button class="tab" data-tab="sports">By Sport</button>
+    <button class="tab" data-tab="facilities">By Facility</button>
+    <button class="tab" data-tab="heatmap">Heatmap</button>
+    <button class="tab" data-tab="trends">Trends</button>
+  </nav>
+
+  <main>
+    <section id="tab-overview" class="tab-content active">
+      <h2>Current Occupancy by Facility</h2>
+      <div class="loading">Loading...</div>
+      <canvas id="chart-overview"></canvas>
+    </section>
+
+    <section id="tab-sports" class="tab-content">
+      <h2>Occupancy by Sport</h2>
+      <select id="sport-select"></select>
+      <div class="loading">Loading...</div>
+      <canvas id="chart-sports"></canvas>
+    </section>
+
+    <section id="tab-facilities" class="tab-content">
+      <h2>Facility Comparison</h2>
+      <div class="loading">Loading...</div>
+      <canvas id="chart-facilities"></canvas>
+    </section>
+
+    <section id="tab-heatmap" class="tab-content">
+      <h2>Weekly Occupancy Heatmap</h2>
+      <div class="loading">Loading...</div>
+      <canvas id="canvas-heatmap" width="450" height="650"></canvas>
+    </section>
+
+    <section id="tab-trends" class="tab-content">
+      <h2>Trends</h2>
+      <div class="loading">Loading...</div>
+      <canvas id="chart-trends"></canvas>
+    </section>
+  </main>
+
+  <footer>
+    <p>Data collected every 30 min from the <a href="https://asvz.ch" target="_blank">ASVZ</a> public API.</p>
+    <p><a href="https://github.com/Darkroom4364/ASVZ-Stats" target="_blank">Source on GitHub</a></p>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/charts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

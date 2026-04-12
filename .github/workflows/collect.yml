@@ -1,0 +1,39 @@
+name: Collect ASVZ Data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run collector
+        run: python collector/collect.py
+
+      - name: Run aggregator
+        run: python collector/aggregate.py
+
+      - name: Cleanup old raw data
+        run: find data/raw -name "*.json" -mtime +90 -delete
+
+      - name: Commit and push
+        run: |
+          git config user.name "ASVZ-Stats Bot"
+          git config user.email "bot@asvz-stats.github.io"
+          git add data/
+          git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
