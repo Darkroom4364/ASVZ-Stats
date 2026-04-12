@@ -3,34 +3,92 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ASVZ Stats</title>
+  <title>ASVZ Stats — Live Occupancy Dashboard</title>
+  <meta name="description" content="Real-time occupancy tracking across all ASVZ sports facilities in Zurich.">
+  <meta property="og:title" content="ASVZ Stats — Live Occupancy Dashboard">
+  <meta property="og:description" content="Real-time occupancy tracking across all ASVZ sports facilities in Zurich.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#007aff">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23007aff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M18 8h1a4 4 0 0 1 0 8h-1'/><path d='M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z'/><line x1='6' y1='1' x2='6' y2='4'/><line x1='10' y1='1' x2='10' y2='4'/><line x1='14' y1='1' x2='14' y2='4'/></svg>">
   <link rel="stylesheet" href="css/style.css">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
 </head>
 <body>
-  <header>
-    <h1>ASVZ Stats</h1>
-    <p class="subtitle">Occupancy across ASVZ sports facilities</p>
-    <p id="last-updated"></p>
-  </header>
+  <div id="loading-overlay" class="loading-overlay">
+    <div class="spinner"></div>
+    <p>Loading ASVZ data…</p>
+  </div>
 
-  <main>
-    <!-- Main view: sport cards grid -->
+  <div id="app" class="app hidden">
+    <header>
+      <div class="header-top">
+        <h1>ASVZ Stats</h1>
+        <button id="theme-toggle" class="icon-btn" title="Toggle dark mode" aria-label="Toggle dark mode">
+          <span class="icon-sun"><i data-lucide="sun" class="lucide-icon"></i></span>
+          <span class="icon-moon"><i data-lucide="moon" class="lucide-icon"></i></span>
+        </button>
+      </div>
+      <p class="subtitle">Live occupancy across ASVZ sports facilities</p>
+      <p id="last-updated"></p>
+    </header>
+
+    <!-- Global stats bar -->
+    <div id="stats-bar" class="stats-bar"></div>
+
+    <!-- Main view -->
     <div id="view-cards">
+      <!-- Tab navigation -->
+      <nav class="tabs">
+        <button class="tab active" data-tab="all">All Sports</button>
+        <button class="tab" data-tab="now">Happening Now</button>
+        <button class="tab" data-tab="busiest">Busiest</button>
+        <button class="tab" data-tab="available">Most Available</button>
+      </nav>
+
+      <!-- Search and controls -->
+      <div class="controls">
+        <div class="search-box">
+          <span class="search-icon"><i data-lucide="search" class="lucide-icon"></i></span>
+          <input type="text" id="search" placeholder="Search sports or facilities…" autocomplete="off">
+          <button id="search-clear" class="search-clear hidden"><i data-lucide="x" class="lucide-icon icon-xs"></i></button>
+        </div>
+        <div class="sort-controls">
+          <label for="sort-select">Sort:</label>
+          <select id="sort-select">
+            <option value="name">Name A→Z</option>
+            <option value="name-desc">Name Z→A</option>
+            <option value="occ-desc">Occupancy ↓</option>
+            <option value="occ-asc">Occupancy ↑</option>
+            <option value="capacity">Capacity ↓</option>
+          </select>
+        </div>
+      </div>
+
+      <p id="results-count" class="results-count"></p>
+
+      <!-- Now section -->
+      <div id="now-section" class="now-section hidden">
+        <div id="now-grid" class="now-grid"></div>
+      </div>
+
+      <!-- Cards grid -->
       <div id="cards-grid" class="cards-grid"></div>
     </div>
 
-    <!-- Detail view: sport drill-down with facility charts -->
+    <!-- Detail view -->
     <div id="view-detail" class="hidden">
-      <button id="back-btn" class="back-btn">&larr; Back</button>
-      <h2 id="detail-sport-name"></h2>
+      <button id="back-btn" class="back-btn"><i data-lucide="arrow-left" class="lucide-icon"></i> Back</button>
+      <div id="detail-header" class="detail-header"></div>
+      <div id="detail-live-events" class="detail-live-events"></div>
       <div id="detail-facilities"></div>
     </div>
-  </main>
 
-  <footer>
-    <p>Data collected every 30 min from the <a href="https://asvz.ch" target="_blank">ASVZ</a> public API. <a href="https://github.com/Darkroom4364/ASVZ-Stats" target="_blank">Source</a></p>
-  </footer>
+    <footer>
+      <p>Data collected every 30 min from the <a href="https://asvz.ch" target="_blank" rel="noopener">ASVZ</a> public API.</p>
+      <p><a href="https://github.com/Darkroom4364/ASVZ-Stats" target="_blank" rel="noopener">Source on GitHub</a></p>
+    </footer>
+  </div>
 
   <script src="js/data.js"></script>
   <script src="js/charts.js"></script>
