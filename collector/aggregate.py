@@ -42,64 +42,55 @@ def build_latest(snapshots):
     return latest
 
 
-def build_grouped(all_events, key):
-    """Group events by key and compute per-group stats."""
-    groups = defaultdict(lambda: {"occ_sum": 0.0, "count": 0, "nids": set(), "pmax_sum": 0})
+def build_sport_details(all_events):
+    """Build per-sport, per-facility occupancy details with hourly breakdown."""
+    # sport -> facility -> list of (taken, pmax, hour_or_none)
+    sf = defaultdict(lambda: defaultdict(list))
+
     for e in all_events:
-        name = e.get(key) or "Unknown"
+        sport = e.get("sport_name") or "Unknown"
+        facility = e.get("facility_name") or "Unknown"
         pmax = e["places_max"]
         taken = e.get("places_taken") or 0
-        g = groups[name]
-        g["occ_sum"] += taken / pmax * 100
-        g["count"] += 1
-        g["pmax_sum"] += pmax
-        if e.get("nid"):
-            g["nids"].add(e["nid"])
+        hour = None
+        fd = e.get("from_date")
+        if fd:
+            try:
+                hour = datetime.fromisoformat(fd).hour
+            except (ValueError, TypeError):
+                pass
+        sf[sport][facility].append((taken, pmax, hour))
 
     result = {}
-    for name, g in sorted(groups.items()):
-        n = g["count"]
-        result[name] = {
-            "avg_occupancy_pct": round(g["occ_sum"] / n, 1) if n else 0,
-            "total_lessons": len(g["nids"]),
-            "avg_places_max": round(g["pmax_sum"] / n, 1) if n else 0,
-            "data_points": n,
+    for sport in sorted(sf):
+        facilities = {}
+        sport_occ = []
+        for fac in sorted(sf[sport]):
+            entries = sf[sport][fac]
+            occs = [t / m * 100 for t, m, _ in entries]
+            sport_occ.extend(occs)
+            last_taken, last_max, _ = entries[-1]
+            # by_hour
+            hour_buckets = defaultdict(list)
+            for t, m, h in entries:
+                if h is not None:
+                    hour_buckets[h].append(t / m * 100)
+            by_hour = {str(h): round(sum(v) / len(v), 1) for h, v in sorted(hour_buckets.items())}
+
+            facilities[fac] = {
+                "avg_occupancy_pct": round(sum(occs) / len(occs), 1),
+                "places_taken": last_taken,
+                "places_max": last_max,
+                "data_points": len(entries),
+                "by_hour": by_hour,
+            }
+
+        result[sport] = {
+            "avg_occupancy_pct": round(sum(sport_occ) / len(sport_occ), 1) if sport_occ else 0,
+            "facility_count": len(facilities),
+            "facilities": facilities,
         }
     return result
-
-
-def build_heatmap(all_events):
-    """Build (day, hour) → avg occupancy ratio, globally and per sport."""
-    global_cells = defaultdict(list)
-    sport_cells = defaultdict(lambda: defaultdict(list))
-
-    for e in all_events:
-        fd = e.get("from_date")
-        if not fd:
-            continue
-        try:
-            dt = datetime.fromisoformat(fd)
-        except (ValueError, TypeError):
-            continue
-        pmax = e["places_max"]
-        taken = e.get("places_taken") or 0
-        ratio = taken / pmax
-        day = str(dt.weekday())
-        hour = str(dt.hour)
-        global_cells[(day, hour)].append(ratio)
-        sport = e.get("sport_name") or "Unknown"
-        sport_cells[sport][(day, hour)].append(ratio)
-
-    def cells_to_dict(cells):
-        out = defaultdict(dict)
-        for (d, h), vals in cells.items():
-            out[d][h] = round(sum(vals) / len(vals), 4)
-        return dict(out)
-
-    return {
-        "global": cells_to_dict(global_cells),
-        "by_sport": {s: cells_to_dict(c) for s, c in sorted(sport_cells.items())},
-    }
 
 
 def write_json(path, obj):
@@ -117,14 +108,14 @@ def main():
     # Collect all valid events across every snapshot
     all_events = [e for snap in snapshots for e in valid_events(snap)]
 
-    # by_sport.json
-    write_json(OUT_DIR / "by_sport.json", {"sports": build_grouped(all_events, "sport_name")})
+    # sport_details.json
+    write_json(OUT_DIR / "sport_details.json", build_sport_details(all_events))
 
-    # by_facility.json
-    write_json(OUT_DIR / "by_facility.json", {"facilities": build_grouped(all_events, "facility_name")})
-
-    # heatmap.json
-    write_json(OUT_DIR / "heatmap.json", build_heatmap(all_events))
+    # Clean up old output files
+    for old in ("by_sport.json", "by_facility.json", "heatmap.json"):
+        p = OUT_DIR / old
+        if p.exists():
+            p.unlink()
 
     print(f"Aggregated {len(snapshots)} snapshots, {len(all_events)} events → {OUT_DIR}")
 

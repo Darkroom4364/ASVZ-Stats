@@ -10,54 +10,26 @@
 <body>
   <header>
     <h1>ASVZ Stats</h1>
-    <p class="subtitle">Occupancy trends across ASVZ sports facilities</p>
+    <p class="subtitle">Occupancy across ASVZ sports facilities</p>
     <p id="last-updated"></p>
   </header>
 
-  <nav>
-    <button class="tab active" data-tab="overview">Overview</button>
-    <button class="tab" data-tab="sports">By Sport</button>
-    <button class="tab" data-tab="facilities">By Facility</button>
-    <button class="tab" data-tab="heatmap">Heatmap</button>
-    <button class="tab" data-tab="trends">Trends</button>
-  </nav>
-
   <main>
-    <section id="tab-overview" class="tab-content active">
-      <h2>Current Occupancy by Facility</h2>
-      <div class="loading">Loading...</div>
-      <div class="chart-container"><canvas id="chart-overview"></canvas></div>
-    </section>
+    <!-- Main view: sport cards grid -->
+    <div id="view-cards">
+      <div id="cards-grid" class="cards-grid"></div>
+    </div>
 
-    <section id="tab-sports" class="tab-content">
-      <h2>Occupancy by Sport</h2>
-      <select id="sport-select"></select>
-      <div class="loading">Loading...</div>
-      <div class="chart-container"><canvas id="chart-sports"></canvas></div>
-    </section>
-
-    <section id="tab-facilities" class="tab-content">
-      <h2>Facility Comparison</h2>
-      <div class="loading">Loading...</div>
-      <div class="chart-container"><canvas id="chart-facilities"></canvas></div>
-    </section>
-
-    <section id="tab-heatmap" class="tab-content">
-      <h2>Weekly Occupancy Heatmap</h2>
-      <div class="loading">Loading...</div>
-      <canvas id="canvas-heatmap" width="450" height="650"></canvas>
-    </section>
-
-    <section id="tab-trends" class="tab-content">
-      <h2>Trends</h2>
-      <div class="loading">Loading...</div>
-      <div class="chart-container"><canvas id="chart-trends"></canvas></div>
-    </section>
+    <!-- Detail view: sport drill-down with facility charts -->
+    <div id="view-detail" class="hidden">
+      <button id="back-btn" class="back-btn">&larr; Back</button>
+      <h2 id="detail-sport-name"></h2>
+      <div id="detail-facilities"></div>
+    </div>
   </main>
 
   <footer>
-    <p>Data collected every 30 min from the <a href="https://asvz.ch" target="_blank">ASVZ</a> public API.</p>
-    <p><a href="https://github.com/Darkroom4364/ASVZ-Stats" target="_blank">Source on GitHub</a></p>
+    <p>Data collected every 30 min from the <a href="https://asvz.ch" target="_blank">ASVZ</a> public API. <a href="https://github.com/Darkroom4364/ASVZ-Stats" target="_blank">Source</a></p>
   </footer>
 
   <script src="js/data.js"></script>
