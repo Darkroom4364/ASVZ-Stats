@@ -59,6 +59,7 @@
   // ── State ──────────────────────────────────────────
   var sportData = null;
   var latestData = null;
+  var busynessData = null;
   var currentTab = "all";
   var currentSort = "name";
   var searchQuery = "";
@@ -256,12 +257,22 @@
     if (currentTab === "now") {
       grid.innerHTML = "";
       grid.classList.add("hidden");
+      document.getElementById("busyness-section").classList.add("hidden");
       renderNowSection();
+      return;
+    }
+
+    if (currentTab === "facilities") {
+      grid.innerHTML = "";
+      grid.classList.add("hidden");
+      document.getElementById("now-section").classList.add("hidden");
+      renderBusynessSection();
       return;
     }
 
     grid.classList.remove("hidden");
     document.getElementById("now-section").classList.add("hidden");
+    document.getElementById("busyness-section").classList.add("hidden");
 
     ASVZCharts.destroyAll();
 
@@ -330,6 +341,51 @@
     });
 
     refreshIcons();
+  }
+
+  // ── Facility Busyness ──────────────────────────────
+  async function renderBusynessSection() {
+    var section = document.getElementById("busyness-section");
+    if (currentTab !== "facilities") {
+      section.classList.add("hidden");
+      return;
+    }
+    section.classList.remove("hidden");
+
+    if (!busynessData) {
+      busynessData = await ASVZData.fetchFacilityBusyness();
+    }
+    if (!busynessData || Object.keys(busynessData).length === 0) {
+      section.innerHTML = '<div class="no-results">' + icon("inbox") + '<p>No busyness data yet</p></div>';
+      refreshIcons();
+      return;
+    }
+
+    var facilities = Object.keys(busynessData).sort();
+    if (searchQuery) {
+      var q = searchQuery.toLowerCase();
+      facilities = facilities.filter(function (f) { return f.toLowerCase().includes(q); });
+    }
+
+    updateResultsCount(facilities.length);
+
+    section.innerHTML = facilities.map(function (fac) {
+      var canvasId = "busyness-" + sanitizeId(fac);
+      return '<div class="facility-section">' +
+        '<h3>' + icon("building-2", "icon-sm") + ' ' + esc(fac) + '</h3>' +
+        '<p class="occ-badge">' + icon("clock", "icon-xs") + ' Estimated busyness by day & hour (inferred from lesson fill rates)</p>' +
+        '<div style="overflow-x:auto"><canvas id="' + canvasId + '"></canvas></div>' +
+      '</div>';
+    }).join("");
+
+    refreshIcons();
+
+    requestAnimationFrame(function () {
+      facilities.forEach(function (fac) {
+        var canvasId = "busyness-" + sanitizeId(fac);
+        ASVZCharts.renderBusynessHeatmap(canvasId, busynessData[fac]);
+      });
+    });
   }
 
   // ── Detail View ────────────────────────────────────
@@ -501,10 +557,12 @@
       var results = await Promise.all([
         ASVZData.fetchSportDetails(),
         ASVZData.fetchLatest(),
+        ASVZData.fetchFacilityBusyness(),
       ]);
 
       sportData = results[0];
       latestData = results[1];
+      busynessData = results[2];
 
       if (!sportData) {
         throw new Error("Failed to load sport data");

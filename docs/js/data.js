@@ -56,6 +56,7 @@
   window.ASVZData = {
     fetchSportDetails: function () { return fetchJSON("sport_details.json"); },
     fetchLatest: function () { return fetchJSON("latest.json"); },
+    fetchFacilityBusyness: function () { return fetchJSON("facility_busyness.json"); },
     getHappeningNow: getHappeningNow,
     getUpcoming: getUpcoming,
     getEventsForSport: getEventsForSport,

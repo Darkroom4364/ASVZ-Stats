@@ -169,7 +169,89 @@
     });
   }
 
+  function renderBusynessHeatmap(canvasId, dayHourData) {
+    var canvas = document.getElementById(canvasId);
+    if (!canvas) return;
+    var ctx = canvas.getContext("2d");
+
+    var days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+    var cellW = 52, cellH = 22, labelLeft = 50, labelTop = 24;
+    var dark = isDark();
+
+    canvas.width = labelLeft + days.length * cellW;
+    canvas.height = labelTop + 24 * cellH;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    var labelColor = dark ? "#8e8e93" : "#6e6e73";
+    var borderColor = dark ? "#2a2a2a" : "#e8e8ed";
+    var baseColor = dark ? [30, 30, 30] : [240, 240, 240];
+
+    // Day labels
+    ctx.font = "11px -apple-system, sans-serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = labelColor;
+    for (var d = 0; d < 7; d++) {
+      ctx.fillText(days[d], labelLeft + d * cellW + cellW / 2, labelTop / 2);
+    }
+
+    // Hour labels (every 2 hours)
+    ctx.textAlign = "right";
+    for (var h = 0; h < 24; h++) {
+      if (h % 2 === 0) {
+        ctx.fillStyle = labelColor;
+        ctx.fillText(String(h).padStart(2, "0") + ":00", labelLeft - 6, labelTop + h * cellH + cellH / 2);
+      }
+    }
+
+    // Cells
+    for (var d = 0; d < 7; d++) {
+      for (var h = 0; h < 24; h++) {
+        var val = (dayHourData[String(d)] && dayHourData[String(d)][String(h)]) || 0;
+        var x = labelLeft + d * cellW;
+        var y = labelTop + h * cellH;
+
+        // Interpolate color
+        var r, g, b;
+        if (val <= 0) {
+          r = baseColor[0]; g = baseColor[1]; b = baseColor[2];
+        } else if (val <= 30) {
+          var t = val / 30;
+          r = Math.round(baseColor[0] + (48 - baseColor[0]) * t);
+          g = Math.round(baseColor[1] + (164 - baseColor[1]) * t);
+          b = Math.round(baseColor[2] + (108 - baseColor[2]) * t);
+        } else if (val <= 60) {
+          var t = (val - 30) / 30;
+          r = Math.round(48 + (229 - 48) * t);
+          g = Math.round(164 + (160 - 164) * t);
+          b = Math.round(108 + (0 - 108) * t);
+        } else {
+          var t = Math.min((val - 60) / 40, 1);
+          r = Math.round(229 + (229 - 229) * t);
+          g = Math.round(160 + (72 - 160) * t);
+          b = Math.round(0 + (77 - 0) * t);
+        }
+
+        ctx.fillStyle = "rgb(" + r + "," + g + "," + b + ")";
+        ctx.fillRect(x, y, cellW, cellH);
+
+        ctx.strokeStyle = borderColor;
+        ctx.lineWidth = 1;
+        ctx.strokeRect(x, y, cellW, cellH);
+
+        if (val > 0) {
+          ctx.font = "9px -apple-system, sans-serif";
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillStyle = val > 60 ? "#fff" : (dark ? "#ccc" : "#333");
+          ctx.fillText(val.toFixed(0) + "%", x + cellW / 2, y + cellH / 2);
+        }
+      }
+    }
+  }
+
   window.ASVZCharts = {
+    renderBusynessHeatmap: renderBusynessHeatmap,
     renderFacilityChart: renderFacilityChart,
     renderSparkline: renderSparkline,
     destroyAll: destroyAll,
