@@ -8,7 +8,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = REPO_ROOT / "data" / "raw"
-OUT_DIR = REPO_ROOT / "data" / "summary"
+OUT_DIR = REPO_ROOT / "docs" / "data" / "summary"
 
 
 def load_all_snapshots():

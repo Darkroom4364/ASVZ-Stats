@@ -3,10 +3,7 @@
   const cache = {};
 
   function getBasePath() {
-    if (location.hostname.includes("github.io")) {
-      return "/ASVZ-Stats/data/summary/";
-    }
-    return "../data/summary/";
+    return "data/summary/";
   }
 
   async function fetchJSON(file) {

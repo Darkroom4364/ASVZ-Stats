@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "ASVZ-Stats Bot"
           git config user.email "bot@asvz-stats.github.io"
-          git add data/
+          git add data/ docs/data/
           git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
