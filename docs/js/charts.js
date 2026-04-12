@@ -169,6 +169,20 @@
     });
   }
 
+  function roundRect(ctx, x, y, w, h, r) {
+    ctx.beginPath();
+    ctx.moveTo(x + r, y);
+    ctx.lineTo(x + w - r, y);
+    ctx.quadraticCurveTo(x + w, y, x + w, y + r);
+    ctx.lineTo(x + w, y + h - r);
+    ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+    ctx.lineTo(x + r, y + h);
+    ctx.quadraticCurveTo(x, y + h, x, y + h - r);
+    ctx.lineTo(x, y + r);
+    ctx.quadraticCurveTo(x, y, x + r, y);
+    ctx.closePath();
+  }
+
   function renderBusynessHeatmap(canvasId, dayHourData) {
     var canvas = document.getElementById(canvasId);
     if (!canvas) return;
@@ -176,6 +190,7 @@
 
     var days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
     var cellW = 52, cellH = 22, labelLeft = 50, labelTop = 24;
+    var gap = 2, radius = 3;
     var dark = isDark();
 
     canvas.width = labelLeft + days.length * cellW;
@@ -183,11 +198,10 @@
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
     var labelColor = dark ? "#8e8e93" : "#6e6e73";
-    var borderColor = dark ? "#2a2a2a" : "#e8e8ed";
-    var baseColor = dark ? [30, 30, 30] : [240, 240, 240];
+    var fontStack = "10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif";
 
     // Day labels
-    ctx.font = "11px -apple-system, sans-serif";
+    ctx.font = fontStack;
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
     ctx.fillStyle = labelColor;
@@ -208,43 +222,28 @@
     for (var d = 0; d < 7; d++) {
       for (var h = 0; h < 24; h++) {
         var val = (dayHourData[String(d)] && dayHourData[String(d)][String(h)]) || 0;
-        var x = labelLeft + d * cellW;
-        var y = labelTop + h * cellH;
+        var x = labelLeft + d * cellW + gap / 2;
+        var y = labelTop + h * cellH + gap / 2;
+        var w = cellW - gap;
+        var hh = cellH - gap;
 
-        // Interpolate color
-        var r, g, b;
+        // Color: faint bg at 0%, then occColor-based interpolation
         if (val <= 0) {
-          r = baseColor[0]; g = baseColor[1]; b = baseColor[2];
-        } else if (val <= 30) {
-          var t = val / 30;
-          r = Math.round(baseColor[0] + (48 - baseColor[0]) * t);
-          g = Math.round(baseColor[1] + (164 - baseColor[1]) * t);
-          b = Math.round(baseColor[2] + (108 - baseColor[2]) * t);
-        } else if (val <= 60) {
-          var t = (val - 30) / 30;
-          r = Math.round(48 + (229 - 48) * t);
-          g = Math.round(164 + (160 - 164) * t);
-          b = Math.round(108 + (0 - 108) * t);
+          ctx.fillStyle = dark ? "rgba(255,255,255,0.03)" : "rgba(0,0,0,0.02)";
         } else {
-          var t = Math.min((val - 60) / 40, 1);
-          r = Math.round(229 + (229 - 229) * t);
-          g = Math.round(160 + (72 - 160) * t);
-          b = Math.round(0 + (77 - 0) * t);
+          var alpha = 0.15 + 0.85 * Math.min(val / 100, 1);
+          ctx.fillStyle = occColorAlpha(val, alpha);
         }
 
-        ctx.fillStyle = "rgb(" + r + "," + g + "," + b + ")";
-        ctx.fillRect(x, y, cellW, cellH);
-
-        ctx.strokeStyle = borderColor;
-        ctx.lineWidth = 1;
-        ctx.strokeRect(x, y, cellW, cellH);
+        roundRect(ctx, x, y, w, hh, radius);
+        ctx.fill();
 
         if (val > 0) {
-          ctx.font = "9px -apple-system, sans-serif";
+          ctx.font = fontStack;
           ctx.textAlign = "center";
           ctx.textBaseline = "middle";
-          ctx.fillStyle = val > 60 ? "#fff" : (dark ? "#ccc" : "#333");
-          ctx.fillText(val.toFixed(0) + "%", x + cellW / 2, y + cellH / 2);
+          ctx.fillStyle = val > 60 ? "#fff" : (dark ? "rgba(255,255,255,0.85)" : "rgba(0,0,0,0.7)");
+          ctx.fillText(val.toFixed(0) + "%", x + w / 2, y + hh / 2);
         }
       }
     }

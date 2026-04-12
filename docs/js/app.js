@@ -310,7 +310,7 @@
         html += '<div class="facility-row">' +
           '<div class="facility-name"><span>' + esc(name) + '</span><span>' + fpct + '%</span></div>' +
           '<div class="progress-track"><div class="progress-fill ' + fillClass(fpct) + '" style="width:' + fpct + '%"></div></div>' +
-          '<div class="occ-text">' + (f.places_taken || 0) + ' / ' + f.places_max + ' places</div>' +
+          '<div class="occ-text">' + (f.places_taken || 0) + ' / ' + f.places_max + ' enrolled</div>' +
         '</div>';
       });
 
