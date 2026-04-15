@@ -146,8 +146,18 @@ def main():
     latest = build_latest(iter(snapshots)) if snapshots else None
     write_json(OUT_DIR / "latest.json", latest or {})
 
-    # Collect all valid events across every snapshot
-    all_events = [e for snap in snapshots for e in valid_events(snap)]
+    # Collect all valid events, keeping only the peak observation per event
+    # (highest places_taken) to reflect actual fill, not early registration
+    best = {}
+    for snap in snapshots:
+        for e in valid_events(snap):
+            nid = e.get("nid")
+            if nid is None:
+                continue
+            prev = best.get(nid)
+            if prev is None or (e.get("places_taken") or 0) > (prev.get("places_taken") or 0):
+                best[nid] = e
+    all_events = list(best.values())
 
     # sport_details.json
     write_json(OUT_DIR / "sport_details.json", build_sport_details(all_events))
