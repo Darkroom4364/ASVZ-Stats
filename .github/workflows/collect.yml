@@ -2,7 +2,7 @@ name: Collect ASVZ Data
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 4-20 * * *"
   workflow_dispatch:
 
 permissions:
