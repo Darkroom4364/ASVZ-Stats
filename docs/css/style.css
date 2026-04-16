@@ -600,13 +600,23 @@ h1 {
   font-weight: 500;
 }
 
+.busyness-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+  gap: 8px;
+}
+
 .facility-section {
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 18px 20px;
-  margin-bottom: 12px;
+  padding: 12px 14px;
   transition: background var(--transition);
+}
+
+.facility-section canvas {
+  max-width: 100%;
+  height: auto;
 }
 
 .facility-section h3 {
@@ -702,7 +712,7 @@ footer p + p {
 
   .controls { flex-direction: column; }
 
-  .cards-grid, .now-grid, .live-events-grid {
+  .cards-grid, .now-grid, .live-events-grid, .busyness-section {
     grid-template-columns: 1fr;
   }
 
