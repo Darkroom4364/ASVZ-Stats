@@ -374,7 +374,7 @@
       return '<div class="facility-section">' +
         '<h3>' + icon("building-2", "icon-sm") + ' ' + esc(fac) + '</h3>' +
         '<p class="occ-badge">' + icon("clock", "icon-xs") + ' Estimated busyness by day & hour (inferred from lesson fill rates)</p>' +
-        '<div style="overflow-x:auto"><canvas id="' + canvasId + '"></canvas></div>' +
+        '<div style="overflow-x:auto;text-align:center"><canvas id="' + canvasId + '" style="display:inline-block"></canvas></div>' +
       '</div>';
     }).join("");
 
