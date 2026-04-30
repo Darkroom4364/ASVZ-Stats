@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-30T20:12:20.827588+00:00",
+  "ts": "2026-04-30T21:34:30.803401+00:00",
   "events": [
     {
       "nid": 733924,
@@ -58,20 +58,6 @@
       "cancelled": false
     },
     {
-      "nid": 750339,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 11,
-      "places_max": 11,
-      "places_taken": 0,
-      "from_date": "2026-05-01T09:30:00Z",
-      "to_date": "2026-05-01T10:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 834243,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -82,6 +68,20 @@
       "places_taken": 2,
       "from_date": "2026-05-01T09:30:00Z",
       "to_date": "2026-05-01T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 750339,
+      "sport_name": "Entspannen",
+      "title": "Relax CAB",
+      "facility_name": "Relax CAB",
+      "location": "Relax CAB",
+      "places_free": 11,
+      "places_max": 11,
+      "places_taken": 0,
+      "from_date": "2026-05-01T09:30:00Z",
+      "to_date": "2026-05-01T10:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -464,20 +464,6 @@
       "cancelled": false
     },
     {
-      "nid": 781374,
-      "sport_name": "Rennvelo",
-      "title": "Treff",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 16,
-      "places_taken": null,
-      "from_date": "2026-05-02T08:00:00Z",
-      "to_date": "2026-05-02T13:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 757113,
       "sport_name": "Rudern",
       "title": "Einstiegskurs PRC 01",
@@ -492,20 +478,6 @@
       "cancelled": false
     },
     {
-      "nid": 756947,
-      "sport_name": "Running",
-      "title": "Dauerlauf",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 18,
-      "places_max": 30,
-      "places_taken": 12,
-      "from_date": "2026-05-02T08:00:00Z",
-      "to_date": "2026-05-02T10:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 737002,
       "sport_name": "Juniors Club",
       "title": "Juniors Club",
@@ -517,6 +489,34 @@
       "from_date": "2026-05-02T08:00:00Z",
       "to_date": "2026-05-02T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 781374,
+      "sport_name": "Rennvelo",
+      "title": "Treff",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-05-02T08:00:00Z",
+      "to_date": "2026-05-02T13:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 756947,
+      "sport_name": "Running",
+      "title": "Dauerlauf",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 16,
+      "places_max": 30,
+      "places_taken": 14,
+      "from_date": "2026-05-02T08:00:00Z",
+      "to_date": "2026-05-02T10:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -18146,20 +18146,6 @@
       "cancelled": false
     },
     {
-      "nid": 774137,
-      "sport_name": "Tennis",
-      "title": "M+F | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-05-08T17:30:00Z",
-      "to_date": "2026-05-08T18:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 758225,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -18171,6 +18157,20 @@
       "from_date": "2026-05-08T17:30:00Z",
       "to_date": "2026-05-08T19:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774137,
+      "sport_name": "Tennis",
+      "title": "M+F | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-05-08T17:30:00Z",
+      "to_date": "2026-05-08T18:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -25944,20 +25944,6 @@
       "cancelled": false
     },
     {
-      "nid": 774143,
-      "sport_name": "Tennis",
-      "title": "M+F | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-05-12T17:30:00Z",
-      "to_date": "2026-05-12T18:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 848956,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -25969,6 +25955,20 @@
       "from_date": "2026-05-12T17:30:00Z",
       "to_date": "2026-05-12T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774143,
+      "sport_name": "Tennis",
+      "title": "M+F | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-05-12T17:30:00Z",
+      "to_date": "2026-05-12T18:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -52502,20 +52502,6 @@
       "cancelled": false
     },
     {
-      "nid": 738130,
-      "sport_name": "Fitnessberatung",
-      "title": "Med. Trainingsberatung",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 1,
-      "places_max": 1,
-      "places_taken": 0,
-      "from_date": "2026-05-27T10:15:00Z",
-      "to_date": "2026-05-27T11:15:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
       "nid": 745136,
       "sport_name": "BodyART",
       "title": "Training",
@@ -52681,6 +52667,20 @@
       "from_date": "2026-05-27T10:15:00Z",
       "to_date": "2026-05-27T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 738130,
+      "sport_name": "Fitnessberatung",
+      "title": "Med. Trainingsberatung",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 1,
+      "places_taken": 1,
+      "from_date": "2026-05-27T10:15:00Z",
+      "to_date": "2026-05-27T11:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -86989,9 +86989,9 @@
       "title": "Jazz Dance Workshop mit Jorge Vazquez",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 38,
+      "places_free": 37,
       "places_max": 40,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-06-13T11:00:00Z",
       "to_date": "2026-06-13T12:25:00Z",
       "niveau_name": "Einsteiger 2 + Mittlere",
@@ -183892,20 +183892,6 @@
       "cancelled": false
     },
     {
-      "nid": 754892,
-      "sport_name": "Beachvolleyball",
-      "title": "Intensivwoche",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 24,
-      "places_max": 26,
-      "places_taken": 2,
-      "from_date": "2026-08-17T16:00:00Z",
-      "to_date": "2026-08-21T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 755104,
       "sport_name": "Zumba",
       "title": "Training",
@@ -183944,6 +183930,20 @@
       "places_taken": null,
       "from_date": "2026-08-17T16:00:00Z",
       "to_date": "2026-08-17T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 754892,
+      "sport_name": "Beachvolleyball",
+      "title": "Intensivwoche",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 23,
+      "places_max": 26,
+      "places_taken": 3,
+      "from_date": "2026-08-17T16:00:00Z",
+      "to_date": "2026-08-21T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
