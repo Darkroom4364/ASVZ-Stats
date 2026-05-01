@@ -747,16 +747,16 @@
     }
   },
   "Bouldern": {
-    "avg_occupancy_pct": 32.9,
+    "avg_occupancy_pct": 33.4,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 55.0,
+        "avg_occupancy_pct": 60.0,
         "places_taken": 8,
         "places_max": 40,
         "data_points": 4,
         "by_hour": {
-          "15": 55.0
+          "15": 60.0
         }
       },
       "Sport Center Irchel": {
@@ -925,12 +925,12 @@
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 16.3,
+        "avg_occupancy_pct": 16.4,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 89,
         "by_hour": {
-          "7": 11.7,
+          "7": 12.5,
           "16": 16.7
         }
       },
@@ -2968,7 +2968,7 @@
         "places_max": 4,
         "data_points": 85,
         "by_hour": {
-          "8": 9.3,
+          "8": 10.0,
           "10": 4.4,
           "16": 19.4
         }
@@ -3165,11 +3165,11 @@
     }
   },
   "Segeln Jollen": {
-    "avg_occupancy_pct": 34.3,
+    "avg_occupancy_pct": 34.7,
     "facility_count": 1,
     "facilities": {
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 34.3,
+        "avg_occupancy_pct": 34.7,
         "places_taken": 1,
         "places_max": 8,
         "data_points": 87,
@@ -3177,7 +3177,7 @@
           "9": 0.0,
           "10": 35.0,
           "11": 25.0,
-          "14": 39.9,
+          "14": 40.8,
           "15": 0.0
         }
       }
