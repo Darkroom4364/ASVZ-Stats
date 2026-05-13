@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-13T20:02:08.523589+00:00",
+  "ts": "2026-05-13T21:44:27.219581+00:00",
   "events": [
     {
       "nid": 759867,
@@ -1136,20 +1136,6 @@
       "cancelled": false
     },
     {
-      "nid": 760222,
-      "sport_name": "Rudern",
-      "title": "Ruderausfahrt 2 | ARZ",
-      "facility_name": "Ruderclubs Zürichsee",
-      "location": "Mythenquai 81, 8002 Zürich",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-05-15T10:30:00Z",
-      "to_date": "2026-05-15T12:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
       "nid": 848983,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -1161,6 +1147,20 @@
       "from_date": "2026-05-15T10:30:00Z",
       "to_date": "2026-05-15T11:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 760222,
+      "sport_name": "Rudern",
+      "title": "Ruderausfahrt 2 | ARZ",
+      "facility_name": "Ruderclubs Zürichsee",
+      "location": "Mythenquai 81, 8002 Zürich",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-05-15T10:30:00Z",
+      "to_date": "2026-05-15T12:00:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -1351,9 +1351,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 9,
+      "places_free": 8,
       "places_max": 30,
-      "places_taken": 21,
+      "places_taken": 22,
       "from_date": "2026-05-15T12:20:00Z",
       "to_date": "2026-05-15T13:50:00Z",
       "niveau_name": "Alle",
@@ -5756,20 +5756,6 @@
       "cancelled": false
     },
     {
-      "nid": 851636,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 2,
-      "places_taken": null,
-      "from_date": "2026-05-18T15:30:00Z",
-      "to_date": "2026-05-18T16:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 737306,
       "sport_name": "Fitnessberatung",
       "title": "Programm-Einführung",
@@ -5809,6 +5795,20 @@
       "from_date": "2026-05-18T15:30:00Z",
       "to_date": "2026-05-18T16:30:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 851636,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 1,
+      "places_max": 2,
+      "places_taken": 1,
+      "from_date": "2026-05-18T15:30:00Z",
+      "to_date": "2026-05-18T16:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -18207,9 +18207,9 @@
       "title": "E-Kurs ",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 3,
+      "places_free": 2,
       "places_max": 4,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-05-22T13:30:00Z",
       "to_date": "2026-07-10T15:00:00Z",
       "niveau_name": "Einsteiger",
@@ -28604,20 +28604,6 @@
       "cancelled": false
     },
     {
-      "nid": 738142,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 2,
-      "places_max": 2,
-      "places_taken": 0,
-      "from_date": "2026-05-28T15:30:00Z",
-      "to_date": "2026-05-28T16:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 760192,
       "sport_name": "Beachvolleyball",
       "title": "Training Outdoor",
@@ -28671,6 +28657,20 @@
       "from_date": "2026-05-28T15:30:00Z",
       "to_date": "2026-05-28T16:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 738142,
+      "sport_name": "Fitnessberatung",
+      "title": "Programm-Einführung",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 1,
+      "places_max": 2,
+      "places_taken": 1,
+      "from_date": "2026-05-28T15:30:00Z",
+      "to_date": "2026-05-28T16:30:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -36197,9 +36197,9 @@
       "title": "Sommer-Fechtplausch",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 25,
+      "places_free": 24,
       "places_max": 30,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-06-01T16:15:00Z",
       "to_date": "2026-06-01T20:00:00Z",
       "niveau_name": "Alle",
@@ -38297,9 +38297,9 @@
       "title": "ROCK THE BLOCK - ASVZ Boulderplausch",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 11,
+      "places_free": 10,
       "places_max": 30,
-      "places_taken": 19,
+      "places_taken": 20,
       "from_date": "2026-06-02T15:45:00Z",
       "to_date": "2026-06-02T19:00:00Z",
       "niveau_name": "Alle",
@@ -112016,20 +112016,6 @@
       "cancelled": false
     },
     {
-      "nid": 796102,
-      "sport_name": "Rennvelo",
-      "title": "Fahrtechnikkurs Gruppenfahren und Bikehandling",
-      "facility_name": null,
-      "location": null,
-      "places_free": 12,
-      "places_max": 16,
-      "places_taken": 4,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 732159,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -112251,6 +112237,20 @@
       "from_date": "2026-07-09T16:00:00Z",
       "to_date": "2026-07-09T17:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 796102,
+      "sport_name": "Rennvelo",
+      "title": "Fahrtechnikkurs Gruppenfahren und Bikehandling",
+      "facility_name": null,
+      "location": null,
+      "places_free": 12,
+      "places_max": 16,
+      "places_taken": 4,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T18:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -186137,9 +186137,9 @@
       "title": "M-Kurs",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 4,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-08-31T15:30:00Z",
       "to_date": "2026-09-10T17:00:00Z",
       "niveau_name": "Mittlere",
@@ -211122,6 +211122,20 @@
       "cancelled": false
     },
     {
+      "nid": 856873,
+      "sport_name": "Rennvelo",
+      "title": "Camp in Tenero – Am Lago Maggiore im Tessin",
+      "facility_name": null,
+      "location": "Centro Sportivo, Tenero",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-12T08:00:00Z",
+      "to_date": "2026-09-14T14:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 739933,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -212872,20 +212886,6 @@
       "cancelled": false
     },
     {
-      "nid": 796109,
-      "sport_name": "Rennvelo",
-      "title": "Fahrtechnikkurs Gruppenfahren und Bikehandling",
-      "facility_name": null,
-      "location": null,
-      "places_free": null,
-      "places_max": 16,
-      "places_taken": null,
-      "from_date": "2026-09-16T16:00:00Z",
-      "to_date": "2026-09-16T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 769355,
       "sport_name": "Running",
       "title": "Coaching mit Schwerpunkt auf die Integration in den Alltag/Verletzungsprävention",
@@ -212924,6 +212924,20 @@
       "places_taken": null,
       "from_date": "2026-09-16T16:00:00Z",
       "to_date": "2026-09-16T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 796109,
+      "sport_name": "Rennvelo",
+      "title": "Fahrtechnikkurs Gruppenfahren und Bikehandling",
+      "facility_name": null,
+      "location": null,
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-16T16:00:00Z",
+      "to_date": "2026-09-16T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },

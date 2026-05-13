@@ -1246,16 +1246,16 @@
     }
   },
   "Fechten": {
-    "avg_occupancy_pct": 23.7,
+    "avg_occupancy_pct": 24.1,
     "facility_count": 1,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 23.7,
+        "avg_occupancy_pct": 24.1,
         "places_taken": 4,
         "places_max": 20,
         "data_points": 10,
         "by_hour": {
-          "16": 26.4,
+          "16": 26.7,
           "17": 0.0
         }
       }
@@ -1277,7 +1277,7 @@
     }
   },
   "Fitnessberatung": {
-    "avg_occupancy_pct": 31.2,
+    "avg_occupancy_pct": 31.3,
     "facility_count": 7,
     "facilities": {
       "Sport Center Fluntern": {
@@ -1321,7 +1321,7 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 31.5,
+        "avg_occupancy_pct": 31.7,
         "places_taken": 0,
         "places_max": 2,
         "data_points": 197,
@@ -1331,7 +1331,7 @@
           "10": 27.8,
           "12": 11.8,
           "14": 33.3,
-          "15": 27.0,
+          "15": 28.4,
           "16": 40.5
         }
       },
@@ -1992,7 +1992,7 @@
         "data_points": 73,
         "by_hour": {
           "10": 10.0,
-          "12": 13.9,
+          "12": 14.1,
           "16": 26.1,
           "18": 16.2
         }
@@ -2624,11 +2624,11 @@
     }
   },
   "Padel": {
-    "avg_occupancy_pct": 40.3,
+    "avg_occupancy_pct": 40.4,
     "facility_count": 2,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 40.1,
+        "avg_occupancy_pct": 40.2,
         "places_taken": 0,
         "places_max": 4,
         "data_points": 640,
@@ -2640,9 +2640,9 @@
           "10": 60.2,
           "11": 42.7,
           "12": 48.9,
-          "13": 49.4,
+          "13": 50.0,
           "14": 55.6,
-          "15": 40.0,
+          "15": 41.2,
           "16": 43.3,
           "17": 42.8,
           "18": 35.6,
@@ -2817,7 +2817,7 @@
     }
   },
   "Rennvelo": {
-    "avg_occupancy_pct": 14.4,
+    "avg_occupancy_pct": 14.3,
     "facility_count": 4,
     "facilities": {
       "Sport Center Irchel": {
@@ -2850,12 +2850,12 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 38.8,
+        "avg_occupancy_pct": 33.2,
         "places_taken": 0,
         "places_max": 16,
-        "data_points": 6,
+        "data_points": 7,
         "by_hour": {
-          "8": 91.2,
+          "8": 60.8,
           "16": 12.5
         }
       }
