@@ -1,20 +1,6 @@
 {
-  "ts": "2026-05-13T21:44:27.219581+00:00",
+  "ts": "2026-05-14T06:50:25.480822+00:00",
   "events": [
-    {
-      "nid": 759867,
-      "sport_name": "Kanu",
-      "title": "Vertiefungskurs Wildwasser, Camp Tessin ",
-      "facility_name": null,
-      "location": "Diverse Flüsse",
-      "places_free": 0,
-      "places_max": 7,
-      "places_taken": 7,
-      "from_date": "2026-05-14T06:00:00Z",
-      "to_date": "2026-05-17T16:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
     {
       "nid": 848971,
       "sport_name": "Padel",
@@ -91,9 +77,9 @@
       "title": "Relax CAB",
       "facility_name": "Relax CAB",
       "location": "Relax CAB",
-      "places_free": 11,
+      "places_free": 10,
       "places_max": 11,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-05-14T09:30:00Z",
       "to_date": "2026-05-14T10:15:00Z",
       "niveau_name": "Alle",
@@ -259,9 +245,9 @@
       "title": "Dance Yoga (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 30,
+      "places_free": 29,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-05-15T05:30:00Z",
       "to_date": "2026-05-15T06:20:00Z",
       "niveau_name": "Alle",
@@ -287,9 +273,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 25,
+      "places_free": 24,
       "places_max": 25,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-05-15T06:00:00Z",
       "to_date": "2026-05-15T07:00:00Z",
       "niveau_name": "Alle",
@@ -301,9 +287,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 25,
+      "places_free": 0,
       "places_max": 25,
-      "places_taken": 0,
+      "places_taken": 25,
       "from_date": "2026-05-15T06:00:00Z",
       "to_date": "2026-05-15T07:00:00Z",
       "niveau_name": "Alle",
@@ -1351,9 +1337,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 8,
+      "places_free": 7,
       "places_max": 30,
-      "places_taken": 22,
+      "places_taken": 23,
       "from_date": "2026-05-15T12:20:00Z",
       "to_date": "2026-05-15T13:50:00Z",
       "niveau_name": "Alle",
@@ -1483,7 +1469,7 @@
       "from_date": "2026-05-15T14:00:00Z",
       "to_date": "2026-05-15T15:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 746449,
@@ -1805,7 +1791,7 @@
       "from_date": "2026-05-15T15:30:00Z",
       "to_date": "2026-05-15T16:15:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 757402,
@@ -2312,20 +2298,6 @@
       "cancelled": false
     },
     {
-      "nid": 756441,
-      "sport_name": "Rowing Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 15,
-      "places_max": 15,
-      "places_taken": 0,
-      "from_date": "2026-05-15T17:30:00Z",
-      "to_date": "2026-05-15T18:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 848990,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -2408,6 +2380,20 @@
       "to_date": "2026-05-15T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 756441,
+      "sport_name": "Rowing Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 15,
+      "places_max": 15,
+      "places_taken": 0,
+      "from_date": "2026-05-15T17:30:00Z",
+      "to_date": "2026-05-15T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 744418,
@@ -5803,9 +5789,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 1,
+      "places_free": 2,
       "places_max": 2,
-      "places_taken": 1,
+      "places_taken": 0,
       "from_date": "2026-05-18T15:30:00Z",
       "to_date": "2026-05-18T16:30:00Z",
       "niveau_name": "Alle",
@@ -26546,20 +26532,6 @@
       "cancelled": false
     },
     {
-      "nid": 774169,
-      "sport_name": "Tennis",
-      "title": "M+F | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-05-27T17:30:00Z",
-      "to_date": "2026-05-27T18:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 856273,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -26571,6 +26543,20 @@
       "from_date": "2026-05-27T17:30:00Z",
       "to_date": "2026-05-27T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774169,
+      "sport_name": "Tennis",
+      "title": "M+F | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-05-27T17:30:00Z",
+      "to_date": "2026-05-27T18:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -32300,20 +32286,6 @@
       "cancelled": false
     },
     {
-      "nid": 774173,
-      "sport_name": "Tennis",
-      "title": "W1+2 | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-05-29T17:30:00Z",
-      "to_date": "2026-05-29T18:30:00Z",
-      "niveau_name": "Wettkämpfer 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 856296,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -32325,6 +32297,20 @@
       "from_date": "2026-05-29T17:30:00Z",
       "to_date": "2026-05-29T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774173,
+      "sport_name": "Tennis",
+      "title": "W1+2 | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 1,
+      "places_max": 4,
+      "places_taken": 3,
+      "from_date": "2026-05-29T17:30:00Z",
+      "to_date": "2026-05-29T18:30:00Z",
+      "niveau_name": "Wettkämpfer 1 + 2",
       "cancelled": false
     },
     {
@@ -38297,9 +38283,9 @@
       "title": "ROCK THE BLOCK - ASVZ Boulderplausch",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 10,
+      "places_free": 9,
       "places_max": 30,
-      "places_taken": 20,
+      "places_taken": 21,
       "from_date": "2026-06-02T15:45:00Z",
       "to_date": "2026-06-02T19:00:00Z",
       "niveau_name": "Alle",
@@ -42875,9 +42861,9 @@
       "title": "Outdoor Rowing Class - ROW2GETHER",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 26,
+      "places_free": 25,
       "places_max": 40,
-      "places_taken": 14,
+      "places_taken": 15,
       "from_date": "2026-06-04T14:30:00Z",
       "to_date": "2026-06-04T15:30:00Z",
       "niveau_name": "Alle",
@@ -45502,20 +45488,6 @@
       "cancelled": false
     },
     {
-      "nid": 757118,
-      "sport_name": "Rudern",
-      "title": "Einstiegs-Wochenendkurs RCU 01",
-      "facility_name": null,
-      "location": "Greifensee | Ruderclub Uster",
-      "places_free": 0,
-      "places_max": 8,
-      "places_taken": 8,
-      "from_date": "2026-06-05T15:00:00Z",
-      "to_date": "2026-06-07T18:00:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 754366,
       "sport_name": "TRX Suspension Training",
       "title": "Hiit & Flow",
@@ -45527,6 +45499,20 @@
       "from_date": "2026-06-05T15:00:00Z",
       "to_date": "2026-06-05T15:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757118,
+      "sport_name": "Rudern",
+      "title": "Einstiegs-Wochenendkurs RCU 01",
+      "facility_name": null,
+      "location": "Greifensee | Ruderclub Uster",
+      "places_free": 0,
+      "places_max": 8,
+      "places_taken": 8,
+      "from_date": "2026-06-05T15:00:00Z",
+      "to_date": "2026-06-07T18:00:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -115180,20 +115166,6 @@
       "cancelled": false
     },
     {
-      "nid": 736581,
-      "sport_name": "Standup Paddeln",
-      "title": "Training | LongDistance",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-07-12T08:30:00Z",
-      "to_date": "2026-07-12T11:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 848134,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -115205,6 +115177,20 @@
       "from_date": "2026-07-12T08:30:00Z",
       "to_date": "2026-07-12T09:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736581,
+      "sport_name": "Standup Paddeln",
+      "title": "Training | LongDistance",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 16,
+      "places_max": 16,
+      "places_taken": 0,
+      "from_date": "2026-07-12T08:30:00Z",
+      "to_date": "2026-07-12T11:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
