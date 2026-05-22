@@ -2369,7 +2369,7 @@
     }
   },
   "Modern Contemporary": {
-    "avg_occupancy_pct": 16.0,
+    "avg_occupancy_pct": 16.1,
     "facility_count": 3,
     "facilities": {
       "Sport Center Irchel": {
@@ -2383,14 +2383,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 13.4,
+        "avg_occupancy_pct": 13.5,
         "places_taken": 0,
         "places_max": 60,
         "data_points": 46,
         "by_hour": {
           "9": 12.9,
           "11": 25.0,
-          "12": 2.5,
+          "12": 5.0,
           "14": 9.7,
           "18": 26.7
         }
@@ -2854,13 +2854,13 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 38.7,
+        "avg_occupancy_pct": 39.9,
         "places_taken": 3,
         "places_max": 16,
         "data_points": 7,
         "by_hour": {
           "8": 68.8,
-          "16": 16.1
+          "16": 18.2
         }
       }
     }
@@ -3231,21 +3231,21 @@
     }
   },
   "Segeln Yacht": {
-    "avg_occupancy_pct": 73.5,
+    "avg_occupancy_pct": 73.9,
     "facility_count": 2,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 52.3,
+        "avg_occupancy_pct": 53.1,
         "places_taken": 0,
         "places_max": 4,
         "data_points": 65,
         "by_hour": {
           "7": 36.1,
           "8": 40.9,
-          "10": 80.0,
+          "10": 82.5,
           "11": 66.7,
           "12": 25.0,
-          "15": 59.4
+          "15": 60.4
         }
       },
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
@@ -4353,13 +4353,13 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 22.6,
+        "avg_occupancy_pct": 22.7,
         "places_taken": 0,
         "places_max": 25,
         "data_points": 89,
         "by_hour": {
           "9": 76.0,
-          "10": 12.9,
+          "10": 13.0,
           "15": 56.0,
           "16": 26.0,
           "17": 100.0

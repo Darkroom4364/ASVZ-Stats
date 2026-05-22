@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-22T20:22:25.968446+00:00",
+  "ts": "2026-05-22T21:45:17.070324+00:00",
   "events": [
     {
       "nid": 796654,
@@ -21,9 +21,9 @@
       "title": "Training",
       "facility_name": "Toni-Areal",
       "location": "Toni-Areal",
-      "places_free": 0,
+      "places_free": 2,
       "places_max": 30,
-      "places_taken": 30,
+      "places_taken": 28,
       "from_date": "2026-05-23T07:00:00Z",
       "to_date": "2026-05-23T07:55:00Z",
       "niveau_name": "Alle",
@@ -100,20 +100,6 @@
       "cancelled": false
     },
     {
-      "nid": 746521,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Toni-Areal",
-      "location": "Toni-Areal",
-      "places_free": 0,
-      "places_max": 30,
-      "places_taken": 30,
-      "from_date": "2026-05-23T08:00:00Z",
-      "to_date": "2026-05-23T08:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 781384,
       "sport_name": "Rennvelo",
       "title": "Treff",
@@ -147,11 +133,25 @@
       "title": "Body Pump",
       "facility_name": "Sport Center Winterthur",
       "location": "Sport Center Winterthur",
-      "places_free": 4,
+      "places_free": 5,
       "places_max": 30,
-      "places_taken": 26,
+      "places_taken": 25,
       "from_date": "2026-05-23T08:00:00Z",
       "to_date": "2026-05-23T09:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746521,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Toni-Areal",
+      "location": "Toni-Areal",
+      "places_free": 1,
+      "places_max": 30,
+      "places_taken": 29,
+      "from_date": "2026-05-23T08:00:00Z",
+      "to_date": "2026-05-23T08:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -315,9 +315,9 @@
       "title": "Training",
       "facility_name": "Sport Center Winterthur",
       "location": "Sport Center Winterthur",
-      "places_free": 14,
+      "places_free": 12,
       "places_max": 25,
-      "places_taken": 11,
+      "places_taken": 13,
       "from_date": "2026-05-23T10:00:00Z",
       "to_date": "2026-05-23T11:10:00Z",
       "niveau_name": "Alle",
@@ -19098,20 +19098,6 @@
       "cancelled": false
     },
     {
-      "nid": 850555,
-      "sport_name": "Segeln Yacht",
-      "title": "Training",
-      "facility_name": null,
-      "location": null,
-      "places_free": 2,
-      "places_max": 4,
-      "places_taken": 2,
-      "from_date": "2026-06-02T15:30:00Z",
-      "to_date": "2026-06-02T18:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 742167,
       "sport_name": "Tauchen",
       "title": "PADI Discover Scuba Diving im Zürichsee 01",
@@ -19123,6 +19109,20 @@
       "from_date": "2026-06-02T15:30:00Z",
       "to_date": "2026-06-02T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 850555,
+      "sport_name": "Segeln Yacht",
+      "title": "Training",
+      "facility_name": null,
+      "location": null,
+      "places_free": 1,
+      "places_max": 4,
+      "places_taken": 3,
+      "from_date": "2026-06-02T15:30:00Z",
+      "to_date": "2026-06-02T18:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -29206,20 +29206,6 @@
       "cancelled": false
     },
     {
-      "nid": 825861,
-      "sport_name": "Modern Contemporary",
-      "title": "Contemporary Workshop | Luciano Di Natale",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 39,
-      "places_max": 40,
-      "places_taken": 1,
-      "from_date": "2026-06-07T12:30:00Z",
-      "to_date": "2026-06-07T13:55:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 865444,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -29231,6 +29217,20 @@
       "from_date": "2026-06-07T12:30:00Z",
       "to_date": "2026-06-07T13:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 825861,
+      "sport_name": "Modern Contemporary",
+      "title": "Contemporary Workshop | Luciano Di Natale",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 38,
+      "places_max": 40,
+      "places_taken": 2,
+      "from_date": "2026-06-07T12:30:00Z",
+      "to_date": "2026-06-07T13:55:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -36365,9 +36365,9 @@
       "title": "Fahrtechnikkurs Abfahrt und Kurven fahren",
       "facility_name": null,
       "location": null,
-      "places_free": 8,
+      "places_free": 7,
       "places_max": 12,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-06-10T16:00:00Z",
       "to_date": "2026-06-10T18:00:00Z",
       "niveau_name": "Alle",
@@ -42049,9 +42049,9 @@
       "title": "Training",
       "facility_name": null,
       "location": null,
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 4,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-06-13T10:30:00Z",
       "to_date": "2026-06-13T13:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
