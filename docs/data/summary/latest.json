@@ -1,48 +1,6 @@
 {
-  "ts": "2026-05-23T12:03:56.539228+00:00",
+  "ts": "2026-05-23T14:12:02.711662+00:00",
   "events": [
-    {
-      "nid": 853825,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 2,
-      "places_taken": 2,
-      "from_date": "2026-05-23T12:30:00Z",
-      "to_date": "2026-05-23T13:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 853826,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 2,
-      "places_taken": 2,
-      "from_date": "2026-05-23T13:30:00Z",
-      "to_date": "2026-05-23T14:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 754572,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 4,
-      "places_max": 16,
-      "places_taken": 12,
-      "from_date": "2026-05-23T13:30:00Z",
-      "to_date": "2026-05-23T15:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 742260,
       "sport_name": "Tauchen",
@@ -1015,9 +973,9 @@
       "title": "Training Basics",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 18,
+      "places_free": 14,
       "places_max": 20,
-      "places_taken": 2,
+      "places_taken": 6,
       "from_date": "2026-05-26T09:30:00Z",
       "to_date": "2026-05-26T10:50:00Z",
       "niveau_name": "Alle",
@@ -1472,20 +1430,6 @@
       "cancelled": false
     },
     {
-      "nid": 746525,
-      "sport_name": "Brazilian Jiu Jitsu",
-      "title": "Training Basics",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-05-26T11:00:00Z",
-      "to_date": "2026-05-26T12:20:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 747486,
       "sport_name": "Meditation",
       "title": "Freies Meditieren",
@@ -1538,6 +1482,20 @@
       "places_taken": 0,
       "from_date": "2026-05-26T11:00:00Z",
       "to_date": "2026-05-26T11:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746525,
+      "sport_name": "Brazilian Jiu Jitsu",
+      "title": "Training Basics",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 18,
+      "places_max": 20,
+      "places_taken": 2,
+      "from_date": "2026-05-26T11:00:00Z",
+      "to_date": "2026-05-26T12:20:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1738,20 +1696,6 @@
       "cancelled": false
     },
     {
-      "nid": 746526,
-      "sport_name": "Taekwondo",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 27,
-      "places_max": 27,
-      "places_taken": 0,
-      "from_date": "2026-05-26T12:15:00Z",
-      "to_date": "2026-05-26T13:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 757342,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -1762,6 +1706,20 @@
       "places_taken": 0,
       "from_date": "2026-05-26T12:15:00Z",
       "to_date": "2026-05-26T14:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746526,
+      "sport_name": "Taekwondo",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 25,
+      "places_max": 27,
+      "places_taken": 2,
+      "from_date": "2026-05-26T12:15:00Z",
+      "to_date": "2026-05-26T13:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1878,20 +1836,6 @@
       "cancelled": false
     },
     {
-      "nid": 746527,
-      "sport_name": "Boxen",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 24,
-      "places_max": 24,
-      "places_taken": 0,
-      "from_date": "2026-05-26T14:10:00Z",
-      "to_date": "2026-05-26T15:40:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 751635,
       "sport_name": "Seniorenuni Sport",
       "title": "Yoga 60plus",
@@ -1902,6 +1846,20 @@
       "places_taken": 0,
       "from_date": "2026-05-26T14:10:00Z",
       "to_date": "2026-05-26T15:05:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746527,
+      "sport_name": "Boxen",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 21,
+      "places_max": 24,
+      "places_taken": 3,
+      "from_date": "2026-05-26T14:10:00Z",
+      "to_date": "2026-05-26T15:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -2368,20 +2326,6 @@
       "cancelled": false
     },
     {
-      "nid": 742173,
-      "sport_name": "Tauchen",
-      "title": "Geführter Tauchgang im Zürichsee 02",
-      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 0,
-      "places_max": 3,
-      "places_taken": 3,
-      "from_date": "2026-05-26T15:30:00Z",
-      "to_date": "2026-05-26T18:30:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
       "nid": 737329,
       "sport_name": "Fitnessberatung",
       "title": "Programm-Einführung",
@@ -2407,6 +2351,20 @@
       "from_date": "2026-05-26T15:30:00Z",
       "to_date": "2026-05-26T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 742173,
+      "sport_name": "Tauchen",
+      "title": "Geführter Tauchgang im Zürichsee 02",
+      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "places_free": 0,
+      "places_max": 3,
+      "places_taken": 3,
+      "from_date": "2026-05-26T15:30:00Z",
+      "to_date": "2026-05-26T18:30:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -10325,9 +10283,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 1,
       "places_max": 2,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-05-29T07:30:00Z",
       "to_date": "2026-05-29T08:30:00Z",
       "niveau_name": "Alle",
@@ -30410,20 +30368,6 @@
       "cancelled": false
     },
     {
-      "nid": 742176,
-      "sport_name": "Tauchen",
-      "title": "Geführter Tauchgang im Zürichsee 05",
-      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 0,
-      "places_max": 3,
-      "places_taken": 3,
-      "from_date": "2026-06-08T15:30:00Z",
-      "to_date": "2026-06-08T18:30:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
       "nid": 732094,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -30519,6 +30463,20 @@
       "from_date": "2026-06-08T15:30:00Z",
       "to_date": "2026-06-08T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 742176,
+      "sport_name": "Tauchen",
+      "title": "Geführter Tauchgang im Zürichsee 05",
+      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "places_free": 0,
+      "places_max": 3,
+      "places_taken": 3,
+      "from_date": "2026-06-08T15:30:00Z",
+      "to_date": "2026-06-08T18:30:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -30723,9 +30681,9 @@
       "title": "Coaching mit Schwerpunkt Trainingsplanung & Wettkampfvorbereitung",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 0,
+      "places_free": 1,
       "places_max": 4,
-      "places_taken": 4,
+      "places_taken": 3,
       "from_date": "2026-06-08T16:00:00Z",
       "to_date": "2026-06-08T17:30:00Z",
       "niveau_name": "Alle",
@@ -37961,9 +37919,9 @@
       "title": "Geführter Tauchgang im Zürichsee 06",
       "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
       "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 3,
+      "places_free": 1,
       "places_max": 6,
-      "places_taken": 3,
+      "places_taken": 5,
       "from_date": "2026-06-11T15:30:00Z",
       "to_date": "2026-06-11T18:30:00Z",
       "niveau_name": "Gemäss Ausschreibung",
@@ -79172,20 +79130,6 @@
       "cancelled": false
     },
     {
-      "nid": 848896,
-      "sport_name": "Rudern",
-      "title": "Einstiegskurs ARZ 10",
-      "facility_name": "Ruderclubs Zürichsee",
-      "location": "Mythenquai 81, 8002 Zürich",
-      "places_free": 3,
-      "places_max": 4,
-      "places_taken": 1,
-      "from_date": "2026-07-01T09:00:00Z",
-      "to_date": "2026-08-19T10:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 754093,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
@@ -79197,6 +79141,20 @@
       "from_date": "2026-07-01T09:00:00Z",
       "to_date": "2026-07-01T09:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 848896,
+      "sport_name": "Rudern",
+      "title": "Einstiegskurs ARZ 10",
+      "facility_name": "Ruderclubs Zürichsee",
+      "location": "Mythenquai 81, 8002 Zürich",
+      "places_free": 2,
+      "places_max": 4,
+      "places_taken": 2,
+      "from_date": "2026-07-01T09:00:00Z",
+      "to_date": "2026-08-19T10:30:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -84926,20 +84884,6 @@
       "cancelled": false
     },
     {
-      "nid": 757120,
-      "sport_name": "Rudern",
-      "title": "Einstiegs-Wochenendkurs RCU 02",
-      "facility_name": null,
-      "location": "Greifensee | Ruderclub Uster",
-      "places_free": 0,
-      "places_max": 8,
-      "places_taken": 8,
-      "from_date": "2026-07-03T15:00:00Z",
-      "to_date": "2026-07-05T18:00:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 864900,
       "sport_name": "Calisthenics",
       "title": "Full Body Strength",
@@ -84951,6 +84895,20 @@
       "from_date": "2026-07-03T15:00:00Z",
       "to_date": "2026-07-03T16:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757120,
+      "sport_name": "Rudern",
+      "title": "Einstiegs-Wochenendkurs RCU 02",
+      "facility_name": null,
+      "location": "Greifensee | Ruderclub Uster",
+      "places_free": 0,
+      "places_max": 8,
+      "places_taken": 8,
+      "from_date": "2026-07-03T15:00:00Z",
+      "to_date": "2026-07-05T18:00:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -88291,9 +88249,9 @@
       "title": "Grundkurs Wildwasser 11",
       "facility_name": "Badi Wollishofen",
       "location": "Diverse Gewässer",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 7,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-07-06T16:30:00Z",
       "to_date": "2026-07-19T16:30:00Z",
       "niveau_name": "Einsteiger",
