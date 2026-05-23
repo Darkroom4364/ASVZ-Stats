@@ -1,48 +1,6 @@
 {
-  "ts": "2026-05-23T10:56:36.115348+00:00",
+  "ts": "2026-05-23T12:03:56.539228+00:00",
   "events": [
-    {
-      "nid": 838661,
-      "sport_name": "Padel",
-      "title": "Begleitetes Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-05-23T10:45:00Z",
-      "to_date": "2026-05-23T12:15:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 734652,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 2,
-      "places_max": 3,
-      "places_taken": 1,
-      "from_date": "2026-05-23T11:00:00Z",
-      "to_date": "2026-05-23T12:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755225,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 1,
-      "places_max": 16,
-      "places_taken": 15,
-      "from_date": "2026-05-23T11:30:00Z",
-      "to_date": "2026-05-23T13:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 853825,
       "sport_name": "Padel",
@@ -77,9 +35,9 @@
       "title": "Freies Spiel",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 6,
+      "places_free": 4,
       "places_max": 16,
-      "places_taken": 10,
+      "places_taken": 12,
       "from_date": "2026-05-23T13:30:00Z",
       "to_date": "2026-05-23T15:25:00Z",
       "niveau_name": "Alle",
@@ -5924,20 +5882,6 @@
       "cancelled": false
     },
     {
-      "nid": 845566,
-      "sport_name": "Roundnet",
-      "title": "Mini-Turnier -  Mittlere",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Hönggerberg",
-      "places_free": 4,
-      "places_max": 8,
-      "places_taken": 4,
-      "from_date": "2026-05-27T16:00:00Z",
-      "to_date": "2026-05-27T19:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 851718,
       "sport_name": "Handball",
       "title": "Beachhandball Training",
@@ -5991,6 +5935,20 @@
       "from_date": "2026-05-27T16:00:00Z",
       "to_date": "2026-05-27T19:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 845566,
+      "sport_name": "Roundnet",
+      "title": "Mini-Turnier -  Mittlere",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Hönggerberg",
+      "places_free": 3,
+      "places_max": 8,
+      "places_taken": 5,
+      "from_date": "2026-05-27T16:00:00Z",
+      "to_date": "2026-05-27T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -11599,9 +11557,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 0,
       "places_max": 1,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-05-29T14:30:00Z",
       "to_date": "2026-05-29T15:30:00Z",
       "niveau_name": "Alle",
@@ -11860,20 +11818,6 @@
       "cancelled": false
     },
     {
-      "nid": 856294,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 2,
-      "places_taken": null,
-      "from_date": "2026-05-29T15:30:00Z",
-      "to_date": "2026-05-29T16:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 850808,
       "sport_name": "Massage",
       "title": "Grundkurs für entspannte Muskeln",
@@ -11913,6 +11857,20 @@
       "from_date": "2026-05-29T15:30:00Z",
       "to_date": "2026-05-29T16:30:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 856294,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 1,
+      "places_max": 2,
+      "places_taken": 1,
+      "from_date": "2026-05-29T15:30:00Z",
+      "to_date": "2026-05-29T16:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -30765,9 +30723,9 @@
       "title": "Coaching mit Schwerpunkt Trainingsplanung & Wettkampfvorbereitung",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 4,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-06-08T16:00:00Z",
       "to_date": "2026-06-08T17:30:00Z",
       "niveau_name": "Alle",
@@ -57351,9 +57309,9 @@
       "title": " Karaoke Special 90min",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 20,
-      "places_taken": 18,
+      "places_taken": 19,
       "from_date": "2026-06-20T14:00:00Z",
       "to_date": "2026-06-20T15:30:00Z",
       "niveau_name": "Alle",
@@ -118904,20 +118862,6 @@
       "cancelled": false
     },
     {
-      "nid": 821310,
-      "sport_name": "Windsurfen",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": null,
-      "places_max": 8,
-      "places_taken": null,
-      "from_date": "2026-07-29T16:00:00Z",
-      "to_date": "2026-07-29T18:15:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 834379,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
@@ -118971,6 +118915,20 @@
       "from_date": "2026-07-29T16:00:00Z",
       "to_date": "2026-07-29T17:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 821310,
+      "sport_name": "Windsurfen",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": null,
+      "places_max": 8,
+      "places_taken": null,
+      "from_date": "2026-07-29T16:00:00Z",
+      "to_date": "2026-07-29T18:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
