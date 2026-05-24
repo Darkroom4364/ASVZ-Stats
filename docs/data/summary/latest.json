@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-24T20:11:03.981141+00:00",
+  "ts": "2026-05-24T21:32:14.684489+00:00",
   "events": [
     {
       "nid": 856248,
@@ -1934,20 +1934,6 @@
       "cancelled": false
     },
     {
-      "nid": 746529,
-      "sport_name": "Brazilian Jiu Jitsu",
-      "title": "Wrestling for BJJ",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-05-26T15:30:00Z",
-      "to_date": "2026-05-26T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 747269,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -2099,6 +2085,20 @@
       "from_date": "2026-05-26T15:30:00Z",
       "to_date": "2026-05-26T17:00:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 746529,
+      "sport_name": "Brazilian Jiu Jitsu",
+      "title": "Wrestling for BJJ",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": 19,
+      "places_max": 20,
+      "places_taken": 1,
+      "from_date": "2026-05-26T15:30:00Z",
+      "to_date": "2026-05-26T17:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -2312,20 +2312,6 @@
       "cancelled": false
     },
     {
-      "nid": 756975,
-      "sport_name": "Running",
-      "title": "Lauftraining",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-05-26T16:00:00Z",
-      "to_date": "2026-05-26T17:15:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 758448,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -2435,6 +2421,20 @@
       "from_date": "2026-05-26T16:00:00Z",
       "to_date": "2026-05-26T17:15:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 756975,
+      "sport_name": "Running",
+      "title": "Lauftraining",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": 29,
+      "places_max": 30,
+      "places_taken": 1,
+      "from_date": "2026-05-26T16:00:00Z",
+      "to_date": "2026-05-26T17:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -2620,20 +2620,6 @@
       "cancelled": false
     },
     {
-      "nid": 746533,
-      "sport_name": "Ju-Jitsu / Selbstverteidigung",
-      "title": "Training",
-      "facility_name": "Rämibühl",
-      "location": "Rämibühl",
-      "places_free": 37,
-      "places_max": 40,
-      "places_taken": 3,
-      "from_date": "2026-05-26T16:15:00Z",
-      "to_date": "2026-05-26T17:45:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 746531,
       "sport_name": "Karate-Do",
       "title": "Training",
@@ -2653,12 +2639,26 @@
       "title": "Hügellauftraining",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 46,
+      "places_free": 45,
       "places_max": 50,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-05-26T16:15:00Z",
       "to_date": "2026-05-26T17:45:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 746533,
+      "sport_name": "Ju-Jitsu / Selbstverteidigung",
+      "title": "Training",
+      "facility_name": "Rämibühl",
+      "location": "Rämibühl",
+      "places_free": 36,
+      "places_max": 40,
+      "places_taken": 4,
+      "from_date": "2026-05-26T16:15:00Z",
+      "to_date": "2026-05-26T17:45:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -3353,9 +3353,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 27,
+      "places_free": 26,
       "places_max": 40,
-      "places_taken": 13,
+      "places_taken": 14,
       "from_date": "2026-05-26T18:00:00Z",
       "to_date": "2026-05-26T19:30:00Z",
       "niveau_name": "Alle",
@@ -4487,9 +4487,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 16,
+      "places_free": 15,
       "places_max": 24,
-      "places_taken": 8,
+      "places_taken": 9,
       "from_date": "2026-05-27T10:30:00Z",
       "to_date": "2026-05-27T11:45:00Z",
       "niveau_name": "Alle",
@@ -6386,30 +6386,30 @@
       "cancelled": false
     },
     {
-      "nid": 753409,
-      "sport_name": "Kung Fu",
-      "title": "Ving Tsun Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 14,
-      "places_max": 15,
-      "places_taken": 1,
-      "from_date": "2026-05-27T17:30:00Z",
-      "to_date": "2026-05-27T19:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 753410,
       "sport_name": "Ju-Jitsu / Selbstverteidigung",
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 29,
+      "places_free": 27,
       "places_max": 30,
-      "places_taken": 1,
+      "places_taken": 3,
       "from_date": "2026-05-27T17:30:00Z",
       "to_date": "2026-05-27T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753409,
+      "sport_name": "Kung Fu",
+      "title": "Ving Tsun Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 13,
+      "places_max": 15,
+      "places_taken": 2,
+      "from_date": "2026-05-27T17:30:00Z",
+      "to_date": "2026-05-27T19:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -6495,20 +6495,6 @@
       "from_date": "2026-05-27T18:00:00Z",
       "to_date": "2026-05-27T19:40:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753740,
-      "sport_name": "Volleyball",
-      "title": "Training ",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 18,
-      "places_max": 18,
-      "places_taken": 0,
-      "from_date": "2026-05-27T18:00:00Z",
-      "to_date": "2026-05-27T19:40:00Z",
-      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -6607,6 +6593,20 @@
       "from_date": "2026-05-27T18:00:00Z",
       "to_date": "2026-05-27T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753740,
+      "sport_name": "Volleyball",
+      "title": "Training ",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 18,
+      "places_max": 18,
+      "places_taken": 0,
+      "from_date": "2026-05-27T18:00:00Z",
+      "to_date": "2026-05-27T19:40:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -7422,20 +7422,6 @@
       "cancelled": false
     },
     {
-      "nid": 774170,
-      "sport_name": "Tennis",
-      "title": "W1+2 | Training",
-      "facility_name": "Sportcenter Schumacher",
-      "location": "Sportcenter Schumacher",
-      "places_free": 3,
-      "places_max": 4,
-      "places_taken": 1,
-      "from_date": "2026-05-28T10:00:00Z",
-      "to_date": "2026-05-28T11:00:00Z",
-      "niveau_name": "Wettkämpfer 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 756448,
       "sport_name": "Rowing Class",
       "title": "Training",
@@ -7447,6 +7433,20 @@
       "from_date": "2026-05-28T10:00:00Z",
       "to_date": "2026-05-28T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774170,
+      "sport_name": "Tennis",
+      "title": "W1+2 | Training",
+      "facility_name": "Sportcenter Schumacher",
+      "location": "Sportcenter Schumacher",
+      "places_free": 2,
+      "places_max": 4,
+      "places_taken": 2,
+      "from_date": "2026-05-28T10:00:00Z",
+      "to_date": "2026-05-28T11:00:00Z",
+      "niveau_name": "Wettkämpfer 1 + 2",
       "cancelled": false
     },
     {
@@ -17628,20 +17628,6 @@
       "cancelled": true
     },
     {
-      "nid": 753513,
-      "sport_name": "Volleyball",
-      "title": "Spiel ",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 12,
-      "places_taken": 0,
-      "from_date": "2026-06-02T10:15:00Z",
-      "to_date": "2026-06-02T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 753605,
       "sport_name": "Volleyball",
       "title": "Spiel",
@@ -17653,20 +17639,6 @@
       "from_date": "2026-06-02T10:15:00Z",
       "to_date": "2026-06-02T11:30:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753606,
-      "sport_name": "Volleyball",
-      "title": "Spiel ",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 12,
-      "places_taken": 0,
-      "from_date": "2026-06-02T10:15:00Z",
-      "to_date": "2026-06-02T11:15:00Z",
-      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -17723,6 +17695,34 @@
       "from_date": "2026-06-02T10:15:00Z",
       "to_date": "2026-06-02T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753513,
+      "sport_name": "Volleyball",
+      "title": "Spiel ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 12,
+      "places_max": 12,
+      "places_taken": 0,
+      "from_date": "2026-06-02T10:15:00Z",
+      "to_date": "2026-06-02T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753606,
+      "sport_name": "Volleyball",
+      "title": "Spiel ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 12,
+      "places_max": 12,
+      "places_taken": 0,
+      "from_date": "2026-06-02T10:15:00Z",
+      "to_date": "2026-06-02T11:15:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -20993,9 +20993,9 @@
       "title": "ASVZ Sprint OL",
       "facility_name": null,
       "location": "Schwamendingen West – Saatlen (rund um die Autobahn-Einhausung)",
-      "places_free": 17,
+      "places_free": 16,
       "places_max": 20,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-06-03T15:00:00Z",
       "to_date": "2026-06-03T18:00:00Z",
       "niveau_name": "Alle",
@@ -22010,20 +22010,6 @@
       "cancelled": false
     },
     {
-      "nid": 753742,
-      "sport_name": "Volleyball",
-      "title": "Training ",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 18,
-      "places_max": 18,
-      "places_taken": 0,
-      "from_date": "2026-06-03T18:00:00Z",
-      "to_date": "2026-06-03T19:40:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 755566,
       "sport_name": "Fussball",
       "title": "Futsal, Training Frauen",
@@ -22077,6 +22063,20 @@
       "from_date": "2026-06-03T18:00:00Z",
       "to_date": "2026-06-03T20:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753742,
+      "sport_name": "Volleyball",
+      "title": "Training ",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 18,
+      "places_max": 18,
+      "places_taken": 0,
+      "from_date": "2026-06-03T18:00:00Z",
+      "to_date": "2026-06-03T19:40:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -115213,9 +115213,9 @@
       "title": "Fortsetzungskurs PRC 01",
       "facility_name": "Ruderclubs Zürichsee",
       "location": "Mythenquai 67, 8002 Zürich",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 6,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-07-27T17:00:00Z",
       "to_date": "2026-08-19T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
