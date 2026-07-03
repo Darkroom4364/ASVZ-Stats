@@ -565,7 +565,7 @@
         "data_points": 89,
         "by_hour": {
           "7": 42.2,
-          "8": 43.3,
+          "8": 43.4,
           "10": 19.6,
           "16": 54.3,
           "17": 50.3
@@ -657,7 +657,7 @@
     }
   },
   "Bodyforming": {
-    "avg_occupancy_pct": 30.8,
+    "avg_occupancy_pct": 30.9,
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
@@ -717,12 +717,12 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 41.2,
+        "avg_occupancy_pct": 41.3,
         "places_taken": 0,
         "places_max": 25,
         "data_points": 66,
         "by_hour": {
-          "8": 32.0,
+          "8": 32.2,
           "10": 36.5,
           "14": 28.8,
           "15": 64.1
@@ -1615,7 +1615,7 @@
     }
   },
   "Golf": {
-    "avg_occupancy_pct": 53.5,
+    "avg_occupancy_pct": 53.8,
     "facility_count": 3,
     "facilities": {
       "Golfpark Otelfingen": {
@@ -1628,7 +1628,7 @@
         }
       },
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 62.8,
+        "avg_occupancy_pct": 63.3,
         "places_taken": 0,
         "places_max": 5,
         "data_points": 43,
@@ -1640,7 +1640,7 @@
           "12": 49.1,
           "13": 52.0,
           "14": 40.0,
-          "15": 96.0,
+          "15": 100.0,
           "16": 75.0,
           "17": 66.7
         }
@@ -1790,7 +1790,7 @@
         "places_max": 35,
         "data_points": 69,
         "by_hour": {
-          "10": 31.9,
+          "10": 32.1,
           "12": 12.5,
           "14": 25.4,
           "15": 11.3
@@ -1830,12 +1830,12 @@
     "facility_count": 4,
     "facilities": {
       "Rämibühl": {
-        "avg_occupancy_pct": 22.8,
+        "avg_occupancy_pct": 22.9,
         "places_taken": 0,
         "places_max": 40,
         "data_points": 46,
         "by_hour": {
-          "16": 22.8
+          "16": 22.9
         }
       },
       "Sport Center Hönggerberg": {
@@ -2441,18 +2441,18 @@
     }
   },
   "Mountainbike": {
-    "avg_occupancy_pct": 26.6,
+    "avg_occupancy_pct": 26.8,
     "facility_count": 1,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 26.6,
+        "avg_occupancy_pct": 26.8,
         "places_taken": 0,
         "places_max": 6,
         "data_points": 38,
         "by_hour": {
           "5": 12.5,
           "8": 0.0,
-          "16": 27.7
+          "16": 28.0
         }
       }
     }
@@ -2817,12 +2817,12 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 56.7,
+        "avg_occupancy_pct": 56.8,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 82,
         "by_hour": {
-          "7": 63.7,
+          "7": 63.9,
           "8": 67.1,
           "10": 67.6,
           "16": 13.3
@@ -2962,17 +2962,17 @@
     }
   },
   "Rudern": {
-    "avg_occupancy_pct": 66.3,
+    "avg_occupancy_pct": 66.6,
     "facility_count": 2,
     "facilities": {
       "Ruderclubs Zürichsee": {
-        "avg_occupancy_pct": 80.8,
+        "avg_occupancy_pct": 81.1,
         "places_taken": 4,
         "places_max": 4,
         "data_points": 48,
         "by_hour": {
           "3": 24.0,
-          "4": 62.7,
+          "4": 66.0,
           "5": 80.0,
           "6": 100.0,
           "7": 100.0,
@@ -3327,17 +3327,17 @@
     }
   },
   "Shotokan Karate": {
-    "avg_occupancy_pct": 22.3,
+    "avg_occupancy_pct": 22.4,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 22.6,
+        "avg_occupancy_pct": 22.8,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 61,
         "by_hour": {
           "16": 13.8,
-          "17": 27.0
+          "17": 27.2
         }
       },
       "Sport Center Polyterrasse": {
@@ -3697,18 +3697,18 @@
         "places_max": 25,
         "data_points": 72,
         "by_hour": {
-          "8": 50.8,
+          "8": 51.1,
           "9": 20.1,
           "11": 38.9
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 46.1,
+        "avg_occupancy_pct": 46.2,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 97,
         "by_hour": {
-          "7": 34.3,
+          "7": 34.6,
           "10": 57.8,
           "14": 39.3,
           "15": 18.6,
@@ -4132,15 +4132,15 @@
         }
       },
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 45.6,
+        "avg_occupancy_pct": 45.7,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 113,
         "by_hour": {
           "7": 31.9,
           "9": 50.6,
-          "11": 47.2,
-          "13": 27.8,
+          "11": 47.5,
+          "13": 28.1,
           "16": 60.6
         }
       },
@@ -4446,13 +4446,13 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 36.0,
+        "avg_occupancy_pct": 36.1,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 97,
         "by_hour": {
           "5": 37.9,
-          "9": 62.2,
+          "9": 62.7,
           "10": 34.0,
           "17": 26.7
         }
@@ -4482,12 +4482,12 @@
     "facility_count": 8,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 22.2,
+        "avg_occupancy_pct": 22.8,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 18,
         "by_hour": {
-          "8": 22.2
+          "8": 22.8
         }
       },
       "Neumarkt Oerlikon": {
