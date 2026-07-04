@@ -1,17 +1,17 @@
 {
   "ASVZ Academy": {
-    "avg_occupancy_pct": 47.8,
+    "avg_occupancy_pct": 48.3,
     "facility_count": 5,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 59.7,
-        "places_taken": 17,
+        "avg_occupancy_pct": 61.0,
+        "places_taken": 18,
         "places_max": 20,
         "data_points": 4,
         "by_hour": {
           "6": 88.0,
           "7": 65.0,
-          "8": 85.0,
+          "8": 90.0,
           "15": 0.9
         }
       },
@@ -414,12 +414,12 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 40.0,
-        "places_taken": 16,
+        "avg_occupancy_pct": 42.5,
+        "places_taken": 17,
         "places_max": 40,
         "data_points": 1,
         "by_hour": {
-          "20": 40.0
+          "20": 42.5
         }
       },
       "Winterthur Sportpark Deutweg": {
@@ -661,13 +661,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 13.8,
+        "avg_occupancy_pct": 13.9,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 39,
         "by_hour": {
           "7": 8.8,
-          "8": 18.9
+          "8": 19.3
         }
       },
       "PH Zürich": {
@@ -1009,7 +1009,7 @@
     }
   },
   "Calisthenics": {
-    "avg_occupancy_pct": 83.3,
+    "avg_occupancy_pct": 83.5,
     "facility_count": 4,
     "facilities": {
       "Sport Center Fluntern": {
@@ -1043,12 +1043,12 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 92.8,
-        "places_taken": 24,
+        "avg_occupancy_pct": 92.9,
+        "places_taken": 23,
         "places_max": 24,
-        "data_points": 25,
+        "data_points": 26,
         "by_hour": {
-          "16": 100.0,
+          "16": 99.8,
           "17": 77.5
         }
       }
@@ -1399,16 +1399,16 @@
     }
   },
   "Flag Football": {
-    "avg_occupancy_pct": 13.8,
+    "avg_occupancy_pct": 14.0,
     "facility_count": 1,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 13.8,
+        "avg_occupancy_pct": 14.0,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 21,
         "by_hour": {
-          "16": 13.8
+          "16": 14.0
         }
       }
     }
@@ -2551,7 +2551,7 @@
     }
   },
   "Natural Approach": {
-    "avg_occupancy_pct": 17.6,
+    "avg_occupancy_pct": 17.8,
     "facility_count": 4,
     "facilities": {
       "Sport Center Fluntern": {
@@ -2584,12 +2584,12 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 15.3,
+        "avg_occupancy_pct": 15.7,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 36,
+        "data_points": 35,
         "by_hour": {
-          "16": 16.7,
+          "16": 17.4,
           "17": 12.5
         }
       }
@@ -2645,24 +2645,24 @@
     }
   },
   "Paddeln": {
-    "avg_occupancy_pct": 20.7,
+    "avg_occupancy_pct": 20.8,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 20.7,
+        "avg_occupancy_pct": 20.8,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 115,
         "by_hour": {
           "8": 18.7,
-          "11": 10.3,
+          "11": 11.6,
           "16": 23.0
         }
       }
     }
   },
   "Padel": {
-    "avg_occupancy_pct": 49.3,
+    "avg_occupancy_pct": 49.4,
     "facility_count": 2,
     "facilities": {
       "Sport Center Fluntern": {
@@ -2677,7 +2677,7 @@
           "9": 38.9,
           "10": 47.2,
           "11": 44.2,
-          "12": 46.2,
+          "12": 46.8,
           "13": 47.1,
           "14": 56.1,
           "15": 63.2,
@@ -2728,7 +2728,7 @@
     "facility_count": 8,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 35.7,
+        "avg_occupancy_pct": 35.8,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 328,
@@ -2739,7 +2739,7 @@
           "8": 26.5,
           "9": 39.3,
           "10": 35.0,
-          "11": 41.4,
+          "11": 41.6,
           "15": 38.2,
           "16": 47.2,
           "17": 22.1,
@@ -2786,7 +2786,7 @@
           "5": 34.5,
           "7": 28.1,
           "10": 16.1,
-          "11": 37.6,
+          "11": 37.7,
           "12": 18.3,
           "13": 29.2,
           "14": 34.7,
@@ -3337,7 +3337,7 @@
         "data_points": 61,
         "by_hour": {
           "16": 13.8,
-          "17": 27.4
+          "17": 27.6
         }
       },
       "Sport Center Polyterrasse": {
@@ -3524,16 +3524,16 @@
     }
   },
   "Standup Paddeln": {
-    "avg_occupancy_pct": 23.7,
+    "avg_occupancy_pct": 23.8,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 23.7,
+        "avg_occupancy_pct": 23.8,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 107,
         "by_hour": {
-          "8": 20.0,
+          "8": 20.8,
           "11": 22.6,
           "13": 60.0,
           "15": 68.8,
@@ -3586,23 +3586,23 @@
     }
   },
   "Surfskaten": {
-    "avg_occupancy_pct": 22.8,
+    "avg_occupancy_pct": 23.0,
     "facility_count": 1,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 22.8,
+        "avg_occupancy_pct": 23.0,
         "places_taken": 0,
         "places_max": 8,
         "data_points": 69,
         "by_hour": {
-          "15": 17.9,
+          "15": 18.2,
           "16": 32.6
         }
       }
     }
   },
   "T-BOW": {
-    "avg_occupancy_pct": 16.5,
+    "avg_occupancy_pct": 16.6,
     "facility_count": 6,
     "facilities": {
       "PH Zürich": {
@@ -3630,7 +3630,7 @@
         "places_max": 55,
         "data_points": 108,
         "by_hour": {
-          "10": 10.7,
+          "10": 10.8,
           "15": 22.0
         }
       },
@@ -3723,12 +3723,12 @@
     "facility_count": 3,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 14.4,
+        "avg_occupancy_pct": 14.5,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 41,
         "by_hour": {
-          "15": 21.5,
+          "15": 21.8,
           "17": 2.5,
           "18": 8.2
         }
@@ -4349,7 +4349,7 @@
         "by_hour": {
           "5": 11.3,
           "6": 25.0,
-          "7": 19.2,
+          "7": 19.3,
           "8": 21.8,
           "9": 19.3,
           "10": 21.2,
@@ -4416,7 +4416,7 @@
           "8": 16.0,
           "9": 4.8,
           "10": 14.8,
-          "11": 20.7,
+          "11": 20.8,
           "12": 11.7,
           "13": 11.2,
           "14": 13.8
