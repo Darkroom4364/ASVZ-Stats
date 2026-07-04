@@ -661,13 +661,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 14.0,
+        "avg_occupancy_pct": 14.3,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 39,
         "by_hour": {
           "7": 8.8,
-          "8": 19.5
+          "8": 20.0
         }
       },
       "PH Zürich": {
@@ -843,17 +843,17 @@
     }
   },
   "Brazilian Jiu Jitsu": {
-    "avg_occupancy_pct": 33.1,
+    "avg_occupancy_pct": 33.2,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 28.0,
+        "avg_occupancy_pct": 28.2,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 40,
         "by_hour": {
           "13": 12.1,
-          "15": 45.3,
+          "15": 45.8,
           "17": 15.0
         }
       },
@@ -1569,7 +1569,7 @@
           "14": 30.2,
           "15": 18.3,
           "16": 0.0,
-          "18": 38.9
+          "18": 39.1
         }
       },
       "Sport Center Irchel": {
@@ -1826,16 +1826,16 @@
     }
   },
   "Ju-Jitsu / Selbstverteidigung": {
-    "avg_occupancy_pct": 22.9,
+    "avg_occupancy_pct": 23.0,
     "facility_count": 4,
     "facilities": {
       "Rämibühl": {
-        "avg_occupancy_pct": 23.2,
+        "avg_occupancy_pct": 23.4,
         "places_taken": 0,
         "places_max": 40,
         "data_points": 46,
         "by_hour": {
-          "16": 23.2
+          "16": 23.4
         }
       },
       "Sport Center Hönggerberg": {
@@ -1965,16 +1965,16 @@
     }
   },
   "Karate-Do": {
-    "avg_occupancy_pct": 29.0,
+    "avg_occupancy_pct": 29.1,
     "facility_count": 3,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 28.8,
+        "avg_occupancy_pct": 28.9,
         "places_taken": 0,
         "places_max": 25,
         "data_points": 26,
         "by_hour": {
-          "16": 28.8
+          "16": 28.9
         }
       },
       "Sport Center Polyterrasse": {
@@ -2372,12 +2372,12 @@
     "facility_count": 3,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 41.7,
+        "avg_occupancy_pct": 41.8,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 19,
         "by_hour": {
-          "18": 41.7
+          "18": 41.8
         }
       },
       "Sport Center Polyterrasse": {
@@ -2645,17 +2645,17 @@
     }
   },
   "Paddeln": {
-    "avg_occupancy_pct": 20.9,
+    "avg_occupancy_pct": 21.0,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 20.9,
+        "avg_occupancy_pct": 21.0,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 115,
         "by_hour": {
           "8": 18.7,
-          "11": 12.2,
+          "11": 12.8,
           "16": 23.0
         }
       }
@@ -2786,7 +2786,7 @@
           "5": 34.5,
           "7": 28.1,
           "10": 16.1,
-          "11": 37.8,
+          "11": 37.9,
           "12": 18.3,
           "13": 29.2,
           "14": 34.7,
@@ -3038,7 +3038,7 @@
           "7": 60.0,
           "8": 40.0,
           "10": 13.0,
-          "16": 51.3
+          "16": 51.4
         }
       },
       "Sport Center Polyterrasse": {
@@ -3191,7 +3191,7 @@
         }
       },
       "Bad Bungertwies": {
-        "avg_occupancy_pct": 47.1,
+        "avg_occupancy_pct": 47.2,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 201,
@@ -3199,7 +3199,7 @@
           "4": 50.0,
           "10": 52.4,
           "17": 54.0,
-          "18": 46.0,
+          "18": 46.1,
           "19": 41.3
         }
       },
@@ -3331,13 +3331,13 @@
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 23.2,
+        "avg_occupancy_pct": 23.3,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 61,
         "by_hour": {
           "16": 13.8,
-          "17": 27.8
+          "17": 27.9
         }
       },
       "Sport Center Polyterrasse": {
@@ -3811,7 +3811,7 @@
     }
   },
   "Tauchen": {
-    "avg_occupancy_pct": 40.7,
+    "avg_occupancy_pct": 40.9,
     "facility_count": 4,
     "facilities": {
       "Bad Bungertwies": {
@@ -3844,14 +3844,14 @@
         }
       },
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 34.9,
+        "avg_occupancy_pct": 35.1,
         "places_taken": 1,
         "places_max": 6,
         "data_points": 79,
         "by_hour": {
           "6": 12.5,
           "14": 56.2,
-          "15": 35.0
+          "15": 35.2
         }
       }
     }
@@ -4416,7 +4416,7 @@
           "8": 16.0,
           "9": 4.8,
           "10": 14.8,
-          "11": 21.3,
+          "11": 21.4,
           "12": 11.7,
           "13": 11.2,
           "14": 13.8
