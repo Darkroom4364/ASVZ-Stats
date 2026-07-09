@@ -1,132 +1,6 @@
 {
-  "ts": "2026-07-08T21:14:12.478172+00:00",
+  "ts": "2026-07-09T07:43:02.716432+00:00",
   "events": [
-    {
-      "nid": 743139,
-      "sport_name": "Tai Chi & Qi Gong",
-      "title": "Einsteiger (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-07-09T05:15:00Z",
-      "to_date": "2026-07-09T06:25:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": true
-    },
-    {
-      "nid": 745656,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Toni-Areal",
-      "location": "Toni-Areal",
-      "places_free": 22,
-      "places_max": 30,
-      "places_taken": 8,
-      "from_date": "2026-07-09T05:30:00Z",
-      "to_date": "2026-07-09T06:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741470,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 14,
-      "places_max": 35,
-      "places_taken": 21,
-      "from_date": "2026-07-09T05:45:00Z",
-      "to_date": "2026-07-09T06:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753183,
-      "sport_name": "Les Mills Core",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 27,
-      "places_max": 40,
-      "places_taken": 13,
-      "from_date": "2026-07-09T06:00:00Z",
-      "to_date": "2026-07-09T06:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 905985,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 1,
-      "places_max": 2,
-      "places_taken": 1,
-      "from_date": "2026-07-09T06:30:00Z",
-      "to_date": "2026-07-09T07:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 743140,
-      "sport_name": "Pilates",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 26,
-      "places_max": 30,
-      "places_taken": 4,
-      "from_date": "2026-07-09T06:30:00Z",
-      "to_date": "2026-07-09T07:25:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 751388,
-      "sport_name": "Entspannen",
-      "title": "Relax Uniturm",
-      "facility_name": "Relax Uniturm",
-      "location": "Relax Uniturm",
-      "places_free": 36,
-      "places_max": 36,
-      "places_taken": 0,
-      "from_date": "2026-07-09T07:00:00Z",
-      "to_date": "2026-07-09T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748458,
-      "sport_name": "Bodyfit 50plus",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 49,
-      "places_max": 50,
-      "places_taken": 1,
-      "from_date": "2026-07-09T07:00:00Z",
-      "to_date": "2026-07-09T07:50:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 880392,
-      "sport_name": "T-BOW",
-      "title": "Workout",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": 21,
-      "places_max": 25,
-      "places_taken": 4,
-      "from_date": "2026-07-09T07:15:00Z",
-      "to_date": "2026-07-09T08:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 905986,
       "sport_name": "Padel",
@@ -147,25 +21,11 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 26,
+      "places_free": 25,
       "places_max": 30,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-07-09T07:30:00Z",
       "to_date": "2026-07-09T08:40:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748459,
-      "sport_name": "Rückenfit",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 31,
-      "places_max": 35,
-      "places_taken": 4,
-      "from_date": "2026-07-09T08:00:00Z",
-      "to_date": "2026-07-09T08:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -175,11 +35,25 @@
       "title": "Tanzen 60plus",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 4,
+      "places_free": 5,
       "places_max": 50,
-      "places_taken": 46,
+      "places_taken": 45,
       "from_date": "2026-07-09T08:00:00Z",
       "to_date": "2026-07-09T08:50:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 748459,
+      "sport_name": "Rückenfit",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 28,
+      "places_max": 35,
+      "places_taken": 7,
+      "from_date": "2026-07-09T08:00:00Z",
+      "to_date": "2026-07-09T08:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -203,9 +77,9 @@
       "title": "Yoga & Meditation",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 23,
+      "places_free": 24,
       "places_max": 30,
-      "places_taken": 7,
+      "places_taken": 6,
       "from_date": "2026-07-09T08:45:00Z",
       "to_date": "2026-07-09T10:00:00Z",
       "niveau_name": "Alle",
@@ -245,9 +119,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 14,
+      "places_free": 10,
       "places_max": 32,
-      "places_taken": 18,
+      "places_taken": 22,
       "from_date": "2026-07-09T09:00:00Z",
       "to_date": "2026-07-09T09:55:00Z",
       "niveau_name": "Alle",
@@ -259,9 +133,9 @@
       "title": "Bodyfit 60plus",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 10,
+      "places_free": 12,
       "places_max": 55,
-      "places_taken": 45,
+      "places_taken": 43,
       "from_date": "2026-07-09T09:05:00Z",
       "to_date": "2026-07-09T09:50:00Z",
       "niveau_name": "Alle",
@@ -329,9 +203,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 16,
+      "places_free": 14,
       "places_max": 20,
-      "places_taken": 4,
+      "places_taken": 6,
       "from_date": "2026-07-09T09:55:00Z",
       "to_date": "2026-07-09T10:55:00Z",
       "niveau_name": "Alle",
@@ -408,42 +282,14 @@
       "cancelled": false
     },
     {
-      "nid": 756464,
-      "sport_name": "Rowing Class",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 2,
-      "places_max": 20,
-      "places_taken": 18,
-      "from_date": "2026-07-09T10:00:00Z",
-      "to_date": "2026-07-09T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 749795,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Core | Body Attack Les Mills Core ",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 52,
-      "places_max": 60,
-      "places_taken": 8,
-      "from_date": "2026-07-09T10:00:00Z",
-      "to_date": "2026-07-09T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 746832,
       "sport_name": "Yoga",
       "title": "Training",
       "facility_name": "Sport Center Winterthur",
       "location": "Sport Center Winterthur",
-      "places_free": 23,
+      "places_free": 22,
       "places_max": 25,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-07-09T10:00:00Z",
       "to_date": "2026-07-09T11:00:00Z",
       "niveau_name": "Alle",
@@ -455,25 +301,39 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 43,
+      "places_free": 41,
       "places_max": 50,
-      "places_taken": 7,
+      "places_taken": 9,
       "from_date": "2026-07-09T10:00:00Z",
       "to_date": "2026-07-09T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 741592,
-      "sport_name": "Muscle Pump",
+      "nid": 756464,
+      "sport_name": "Rowing Class",
       "title": "Training",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": 0,
-      "places_max": 30,
-      "places_taken": 30,
-      "from_date": "2026-07-09T10:05:00Z",
-      "to_date": "2026-07-09T11:05:00Z",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 7,
+      "places_max": 20,
+      "places_taken": 13,
+      "from_date": "2026-07-09T10:00:00Z",
+      "to_date": "2026-07-09T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 749795,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Core | Body Attack Les Mills Core ",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 51,
+      "places_max": 60,
+      "places_taken": 9,
+      "from_date": "2026-07-09T10:00:00Z",
+      "to_date": "2026-07-09T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -483,25 +343,25 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 21,
+      "places_free": 19,
       "places_max": 35,
-      "places_taken": 14,
+      "places_taken": 16,
       "from_date": "2026-07-09T10:05:00Z",
       "to_date": "2026-07-09T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 743736,
-      "sport_name": "Meditation",
+      "nid": 741592,
+      "sport_name": "Muscle Pump",
       "title": "Training",
-      "facility_name": "Relax CAB",
-      "location": "Meditationsbox im Relax CAB",
-      "places_free": 8,
-      "places_max": 10,
-      "places_taken": 2,
-      "from_date": "2026-07-09T10:10:00Z",
-      "to_date": "2026-07-09T10:55:00Z",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": 3,
+      "places_max": 30,
+      "places_taken": 27,
+      "from_date": "2026-07-09T10:05:00Z",
+      "to_date": "2026-07-09T11:05:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -511,11 +371,25 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 16,
+      "places_free": 12,
       "places_max": 30,
-      "places_taken": 14,
+      "places_taken": 18,
       "from_date": "2026-07-09T10:10:00Z",
       "to_date": "2026-07-09T11:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 743736,
+      "sport_name": "Meditation",
+      "title": "Training",
+      "facility_name": "Relax CAB",
+      "location": "Meditationsbox im Relax CAB",
+      "places_free": 7,
+      "places_max": 10,
+      "places_taken": 3,
+      "from_date": "2026-07-09T10:10:00Z",
+      "to_date": "2026-07-09T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -548,20 +422,6 @@
       "cancelled": false
     },
     {
-      "nid": 750535,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 10,
-      "places_max": 11,
-      "places_taken": 1,
-      "from_date": "2026-07-09T10:15:00Z",
-      "to_date": "2026-07-09T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 758708,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -576,14 +436,14 @@
       "cancelled": false
     },
     {
-      "nid": 749902,
-      "sport_name": "Kondi",
-      "title": "klassisch",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 108,
-      "places_max": 120,
-      "places_taken": 12,
+      "nid": 750535,
+      "sport_name": "Entspannen",
+      "title": "Relax CAB",
+      "facility_name": "Relax CAB",
+      "location": "Relax CAB",
+      "places_free": 10,
+      "places_max": 11,
+      "places_taken": 1,
       "from_date": "2026-07-09T10:15:00Z",
       "to_date": "2026-07-09T11:00:00Z",
       "niveau_name": "Alle",
@@ -595,11 +455,25 @@
       "title": "Training",
       "facility_name": "Toni-Areal",
       "location": "Toni-Areal",
-      "places_free": 3,
+      "places_free": 0,
       "places_max": 30,
-      "places_taken": 27,
+      "places_taken": 30,
       "from_date": "2026-07-09T10:15:00Z",
       "to_date": "2026-07-09T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 749902,
+      "sport_name": "Kondi",
+      "title": "klassisch",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 100,
+      "places_max": 120,
+      "places_taken": 20,
+      "from_date": "2026-07-09T10:15:00Z",
+      "to_date": "2026-07-09T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -609,9 +483,9 @@
       "title": "Super Kondi",
       "facility_name": "PH Zürich",
       "location": "PH Zürich",
-      "places_free": 109,
+      "places_free": 107,
       "places_max": 120,
-      "places_taken": 11,
+      "places_taken": 13,
       "from_date": "2026-07-09T10:20:00Z",
       "to_date": "2026-07-09T11:05:00Z",
       "niveau_name": "Alle",
@@ -702,20 +576,6 @@
       "cancelled": false
     },
     {
-      "nid": 741593,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 0,
-      "places_max": 55,
-      "places_taken": 55,
-      "from_date": "2026-07-09T11:00:00Z",
-      "to_date": "2026-07-09T12:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 774377,
       "sport_name": "Tennis",
       "title": "F | Freies Spiel",
@@ -744,14 +604,28 @@
       "cancelled": false
     },
     {
+      "nid": 741593,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 0,
+      "places_max": 55,
+      "places_taken": 55,
+      "from_date": "2026-07-09T11:00:00Z",
+      "to_date": "2026-07-09T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 754177,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 25,
-      "places_taken": 24,
+      "places_taken": 25,
       "from_date": "2026-07-09T11:05:00Z",
       "to_date": "2026-07-09T12:00:00Z",
       "niveau_name": "Alle",
@@ -833,9 +707,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 30,
+      "places_free": 28,
       "places_max": 35,
-      "places_taken": 5,
+      "places_taken": 7,
       "from_date": "2026-07-09T12:05:00Z",
       "to_date": "2026-07-09T13:30:00Z",
       "niveau_name": "Einsteiger 1 + 2",
@@ -875,9 +749,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 46,
+      "places_free": 44,
       "places_max": 50,
-      "places_taken": 4,
+      "places_taken": 6,
       "from_date": "2026-07-09T13:40:00Z",
       "to_date": "2026-07-09T14:40:00Z",
       "niveau_name": "Alle",
@@ -889,9 +763,9 @@
       "title": "Power Yoga",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 24,
+      "places_free": 22,
       "places_max": 30,
-      "places_taken": 6,
+      "places_taken": 8,
       "from_date": "2026-07-09T13:45:00Z",
       "to_date": "2026-07-09T14:55:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -931,11 +805,25 @@
       "title": "Core Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 16,
+      "places_free": 19,
       "places_max": 19,
-      "places_taken": 3,
+      "places_taken": 0,
       "from_date": "2026-07-09T14:25:00Z",
       "to_date": "2026-07-09T15:20:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
+      "nid": 755683,
+      "sport_name": "Fussball",
+      "title": "Futsal, Begleitetes Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 28,
+      "places_max": 41,
+      "places_taken": 13,
+      "from_date": "2026-07-09T14:30:00Z",
+      "to_date": "2026-07-09T16:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -945,25 +833,11 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 2,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-07-09T14:30:00Z",
       "to_date": "2026-07-09T15:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755683,
-      "sport_name": "Fussball",
-      "title": "Futsal, Begleitetes Spiel",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 29,
-      "places_max": 41,
-      "places_taken": 12,
-      "from_date": "2026-07-09T14:30:00Z",
-      "to_date": "2026-07-09T16:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -987,9 +861,9 @@
       "title": "Training",
       "facility_name": "Sport Center Gloriarank",
       "location": "Sport Center Gloriarank",
-      "places_free": 27,
+      "places_free": 26,
       "places_max": 36,
-      "places_taken": 9,
+      "places_taken": 10,
       "from_date": "2026-07-09T14:45:00Z",
       "to_date": "2026-07-09T16:05:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -1001,9 +875,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 0,
+      "places_free": 1,
       "places_max": 55,
-      "places_taken": 55,
+      "places_taken": 54,
       "from_date": "2026-07-09T14:45:00Z",
       "to_date": "2026-07-09T15:45:00Z",
       "niveau_name": "Alle",
@@ -1015,9 +889,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 3,
+      "places_free": 1,
       "places_max": 24,
-      "places_taken": 21,
+      "places_taken": 23,
       "from_date": "2026-07-09T14:50:00Z",
       "to_date": "2026-07-09T16:20:00Z",
       "niveau_name": "Alle",
@@ -1080,34 +954,6 @@
       "cancelled": false
     },
     {
-      "nid": 744017,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 22,
-      "places_max": 30,
-      "places_taken": 8,
-      "from_date": "2026-07-09T15:00:00Z",
-      "to_date": "2026-07-09T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750019,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 24,
-      "places_max": 35,
-      "places_taken": 11,
-      "from_date": "2026-07-09T15:00:00Z",
-      "to_date": "2026-07-09T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 903033,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -1122,34 +968,6 @@
       "cancelled": false
     },
     {
-      "nid": 745022,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 15,
-      "places_max": 20,
-      "places_taken": 5,
-      "from_date": "2026-07-09T15:00:00Z",
-      "to_date": "2026-07-09T16:10:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741595,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 3,
-      "places_max": 35,
-      "places_taken": 32,
-      "from_date": "2026-07-09T15:00:00Z",
-      "to_date": "2026-07-09T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 754970,
       "sport_name": "Zumba",
       "title": "Training",
@@ -1160,6 +978,62 @@
       "places_taken": 6,
       "from_date": "2026-07-09T15:00:00Z",
       "to_date": "2026-07-09T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 745022,
+      "sport_name": "Yoga",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 10,
+      "places_max": 20,
+      "places_taken": 10,
+      "from_date": "2026-07-09T15:00:00Z",
+      "to_date": "2026-07-09T16:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 744017,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 19,
+      "places_max": 30,
+      "places_taken": 11,
+      "from_date": "2026-07-09T15:00:00Z",
+      "to_date": "2026-07-09T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 741595,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 2,
+      "places_max": 35,
+      "places_taken": 33,
+      "from_date": "2026-07-09T15:00:00Z",
+      "to_date": "2026-07-09T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 750019,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 17,
+      "places_max": 35,
+      "places_taken": 18,
+      "from_date": "2026-07-09T15:00:00Z",
+      "to_date": "2026-07-09T15:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1276,31 +1150,31 @@
       "cancelled": false
     },
     {
-      "nid": 737715,
-      "sport_name": "Functional Group Training",
-      "title": "Training 45'",
-      "facility_name": "Sport Center Gloriarank",
-      "location": "Sport Center Gloriarank",
-      "places_free": 4,
-      "places_max": 12,
-      "places_taken": 8,
-      "from_date": "2026-07-09T15:30:00Z",
-      "to_date": "2026-07-09T16:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 781415,
       "sport_name": "Rennvelo",
       "title": "Treff",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 8,
+      "places_free": 7,
       "places_max": 32,
-      "places_taken": 24,
+      "places_taken": 25,
       "from_date": "2026-07-09T15:30:00Z",
       "to_date": "2026-07-09T18:30:00Z",
       "niveau_name": "Einsteiger + Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 737715,
+      "sport_name": "Functional Group Training",
+      "title": "Training 45'",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": 3,
+      "places_max": 12,
+      "places_taken": 9,
+      "from_date": "2026-07-09T15:30:00Z",
+      "to_date": "2026-07-09T16:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -1309,11 +1183,25 @@
       "title": "Training",
       "facility_name": "Sport Center Winterthur",
       "location": "Sport Center Winterthur",
-      "places_free": 4,
+      "places_free": 1,
       "places_max": 30,
-      "places_taken": 26,
+      "places_taken": 29,
       "from_date": "2026-07-09T15:40:00Z",
       "to_date": "2026-07-09T16:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 905445,
+      "sport_name": "Rowing Class",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 7,
+      "places_max": 20,
+      "places_taken": 13,
+      "from_date": "2026-07-09T15:45:00Z",
+      "to_date": "2026-07-09T16:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1323,9 +1211,9 @@
       "title": "Super Kondi Body Attack",
       "facility_name": "Sport Center Winterthur",
       "location": "Sport Center Winterthur",
-      "places_free": 26,
+      "places_free": 25,
       "places_max": 30,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-07-09T15:45:00Z",
       "to_date": "2026-07-09T16:40:00Z",
       "niveau_name": "Alle",
@@ -1343,34 +1231,6 @@
       "from_date": "2026-07-09T15:45:00Z",
       "to_date": "2026-07-09T16:45:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 905445,
-      "sport_name": "Rowing Class",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 8,
-      "places_max": 20,
-      "places_taken": 12,
-      "from_date": "2026-07-09T15:45:00Z",
-      "to_date": "2026-07-09T16:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 846278,
-      "sport_name": "Bogensport",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 14,
-      "places_max": 15,
-      "places_taken": 1,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:55:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -1402,17 +1262,101 @@
       "cancelled": false
     },
     {
-      "nid": 748463,
-      "sport_name": "Aerial Yoga & Fitness",
+      "nid": 846278,
+      "sport_name": "Bogensport",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 12,
+      "places_max": 15,
+      "places_taken": 3,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:55:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 733167,
+      "sport_name": "BigAir",
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 14,
-      "places_max": 19,
+      "places_free": 11,
+      "places_max": 15,
+      "places_taken": 4,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 854065,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 9,
+      "places_max": 20,
+      "places_taken": 11,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 854144,
+      "sport_name": "Ultimate Frisbee",
+      "title": "Training & Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 19,
+      "places_max": 24,
       "places_taken": 5,
       "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:05:00Z",
-      "niveau_name": "Einsteiger",
+      "to_date": "2026-07-09T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 866269,
+      "sport_name": "Parkour",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 19,
+      "places_max": 25,
+      "places_taken": 6,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753793,
+      "sport_name": "Volleyball",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:50:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755685,
+      "sport_name": "Fussball",
+      "title": "Freies Spiel, Rasen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 0,
+      "places_max": 32,
+      "places_taken": 32,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -1421,12 +1365,54 @@
       "title": "Training",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 1,
+      "places_free": 2,
       "places_max": 10,
-      "places_taken": 9,
+      "places_taken": 8,
       "from_date": "2026-07-09T16:00:00Z",
       "to_date": "2026-07-09T17:00:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 748463,
+      "sport_name": "Aerial Yoga & Fitness",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 15,
+      "places_max": 19,
+      "places_taken": 4,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:05:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 854064,
+      "sport_name": "Basketball",
+      "title": "Freies Spiel",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 3,
+      "places_max": 14,
+      "places_taken": 11,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:30:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 754274,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": 0,
+      "places_max": 20,
+      "places_taken": 20,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T16:50:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -1435,6 +1421,62 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
+      "places_free": 0,
+      "places_max": 25,
+      "places_taken": 25,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 861903,
+      "sport_name": "Slacklinen",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 12,
+      "places_max": 16,
+      "places_taken": 4,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 743144,
+      "sport_name": "Yoga",
+      "title": "Training (mit Livestream)",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 20,
+      "places_max": 30,
+      "places_taken": 10,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736254,
+      "sport_name": "Funktionelles Outdoortraining",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 12,
+      "places_max": 20,
+      "places_taken": 8,
+      "from_date": "2026-07-09T16:00:00Z",
+      "to_date": "2026-07-09T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 745465,
+      "sport_name": "Bodyforming",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
       "places_free": 0,
       "places_max": 25,
       "places_taken": 25,
@@ -1458,184 +1500,16 @@
       "cancelled": false
     },
     {
-      "nid": 755685,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Rasen",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 0,
-      "places_max": 32,
-      "places_taken": 32,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 736579,
       "sport_name": "Standup Paddeln",
       "title": "Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 3,
+      "places_free": 1,
       "places_max": 16,
-      "places_taken": 13,
+      "places_taken": 15,
       "from_date": "2026-07-09T16:00:00Z",
       "to_date": "2026-07-09T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 861903,
-      "sport_name": "Slacklinen",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 13,
-      "places_max": 16,
-      "places_taken": 3,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 733167,
-      "sport_name": "BigAir",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 15,
-      "places_taken": 3,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 866269,
-      "sport_name": "Parkour",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 20,
-      "places_max": 25,
-      "places_taken": 5,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753793,
-      "sport_name": "Volleyball",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 2,
-      "places_max": 16,
-      "places_taken": 14,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:50:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 754274,
-      "sport_name": "TRX Suspension Training",
-      "title": "Training",
-      "facility_name": "Sport Center Gloriarank",
-      "location": "Sport Center Gloriarank",
-      "places_free": 0,
-      "places_max": 20,
-      "places_taken": 20,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T16:50:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 854065,
-      "sport_name": "Basketball",
-      "title": "Training Basics",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 9,
-      "places_max": 20,
-      "places_taken": 11,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 854064,
-      "sport_name": "Basketball",
-      "title": "Freies Spiel",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 1,
-      "places_max": 14,
-      "places_taken": 13,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:30:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 743144,
-      "sport_name": "Yoga",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 25,
-      "places_max": 30,
-      "places_taken": 5,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:10:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 745465,
-      "sport_name": "Bodyforming",
-      "title": "Training",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 0,
-      "places_max": 25,
-      "places_taken": 25,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 736254,
-      "sport_name": "Funktionelles Outdoortraining",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 20,
-      "places_taken": 8,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 854144,
-      "sport_name": "Ultimate Frisbee",
-      "title": "Training & Spiel",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 19,
-      "places_max": 24,
-      "places_taken": 5,
-      "from_date": "2026-07-09T16:00:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1659,9 +1533,9 @@
       "title": "Training",
       "facility_name": "Toni-Areal",
       "location": "Toni-Areal",
-      "places_free": 9,
+      "places_free": 6,
       "places_max": 30,
-      "places_taken": 21,
+      "places_taken": 24,
       "from_date": "2026-07-09T16:05:00Z",
       "to_date": "2026-07-09T17:05:00Z",
       "niveau_name": "Alle",
@@ -1673,26 +1547,12 @@
       "title": "Workout",
       "facility_name": "Sport Center Gloriarank",
       "location": "Sport Center Gloriarank",
-      "places_free": 26,
+      "places_free": 25,
       "places_max": 30,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-07-09T16:10:00Z",
       "to_date": "2026-07-09T17:10:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 746835,
-      "sport_name": "Ju-Jitsu / Selbstverteidigung",
-      "title": "Training",
-      "facility_name": "Rämibühl",
-      "location": "Rämibühl",
-      "places_free": 25,
-      "places_max": 40,
-      "places_taken": 15,
-      "from_date": "2026-07-09T16:15:00Z",
-      "to_date": "2026-07-09T17:45:00Z",
-      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -1710,17 +1570,87 @@
       "cancelled": false
     },
     {
+      "nid": 854066,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 11,
+      "places_max": 16,
+      "places_taken": 5,
+      "from_date": "2026-07-09T16:15:00Z",
+      "to_date": "2026-07-09T18:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 846242,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": 3,
+      "places_max": 20,
+      "places_taken": 17,
+      "from_date": "2026-07-09T16:15:00Z",
+      "to_date": "2026-07-09T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 736679,
       "sport_name": "Paddeln",
       "title": "Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 3,
+      "places_free": 0,
       "places_max": 20,
-      "places_taken": 17,
+      "places_taken": 20,
       "from_date": "2026-07-09T16:15:00Z",
       "to_date": "2026-07-09T18:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746835,
+      "sport_name": "Ju-Jitsu / Selbstverteidigung",
+      "title": "Training",
+      "facility_name": "Rämibühl",
+      "location": "Rämibühl",
+      "places_free": 23,
+      "places_max": 40,
+      "places_taken": 17,
+      "from_date": "2026-07-09T16:15:00Z",
+      "to_date": "2026-07-09T17:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 756588,
+      "sport_name": "Unihockey",
+      "title": "Spiel Kleinfeld",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 27,
+      "places_max": 36,
+      "places_taken": 9,
+      "from_date": "2026-07-09T16:15:00Z",
+      "to_date": "2026-07-09T17:45:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 738721,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 6,
+      "places_max": 20,
+      "places_taken": 14,
+      "from_date": "2026-07-09T16:15:00Z",
+      "to_date": "2026-07-09T17:10:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
       "cancelled": false
     },
     {
@@ -1738,48 +1668,6 @@
       "cancelled": false
     },
     {
-      "nid": 854066,
-      "sport_name": "Basketball",
-      "title": "Training Tactics",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 11,
-      "places_max": 16,
-      "places_taken": 5,
-      "from_date": "2026-07-09T16:15:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 738721,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 7,
-      "places_max": 20,
-      "places_taken": 13,
-      "from_date": "2026-07-09T16:15:00Z",
-      "to_date": "2026-07-09T17:10:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
-      "nid": 756588,
-      "sport_name": "Unihockey",
-      "title": "Spiel Kleinfeld",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 31,
-      "places_max": 36,
-      "places_taken": 5,
-      "from_date": "2026-07-09T16:15:00Z",
-      "to_date": "2026-07-09T17:45:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 738246,
       "sport_name": "Fitnessberatung",
       "title": "Einzelberatung",
@@ -1794,20 +1682,6 @@
       "cancelled": true
     },
     {
-      "nid": 846242,
-      "sport_name": "Burner Games",
-      "title": "Training",
-      "facility_name": "Sport Center Gloriarank",
-      "location": "Sport Center Gloriarank",
-      "places_free": 3,
-      "places_max": 20,
-      "places_taken": 17,
-      "from_date": "2026-07-09T16:15:00Z",
-      "to_date": "2026-07-09T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 813124,
       "sport_name": "Golf",
       "title": "Einsteigerkurs Donnerstag",
@@ -1818,6 +1692,20 @@
       "places_taken": 5,
       "from_date": "2026-07-09T16:30:00Z",
       "to_date": "2026-07-30T17:55:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 746836,
+      "sport_name": "Boxen",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 7,
+      "places_max": 24,
+      "places_taken": 17,
+      "from_date": "2026-07-09T16:30:00Z",
+      "to_date": "2026-07-09T18:00:00Z",
       "niveau_name": "Einsteiger",
       "cancelled": false
     },
@@ -1836,28 +1724,14 @@
       "cancelled": false
     },
     {
-      "nid": 746836,
-      "sport_name": "Boxen",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 6,
-      "places_max": 24,
-      "places_taken": 18,
-      "from_date": "2026-07-09T16:30:00Z",
-      "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 737717,
       "sport_name": "Functional Group Training",
       "title": "Training 45'",
       "facility_name": "Sport Center Gloriarank",
       "location": "Sport Center Gloriarank",
-      "places_free": 3,
+      "places_free": 1,
       "places_max": 12,
-      "places_taken": 9,
+      "places_taken": 11,
       "from_date": "2026-07-09T16:30:00Z",
       "to_date": "2026-07-09T17:15:00Z",
       "niveau_name": "Alle",
@@ -1883,9 +1757,9 @@
       "title": "Training",
       "facility_name": "Sport Center Winterthur",
       "location": "Sport Center Winterthur",
-      "places_free": 23,
+      "places_free": 22,
       "places_max": 30,
-      "places_taken": 7,
+      "places_taken": 8,
       "from_date": "2026-07-09T16:45:00Z",
       "to_date": "2026-07-09T17:45:00Z",
       "niveau_name": "Alle",
@@ -1911,9 +1785,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 22,
-      "places_taken": 20,
+      "places_taken": 21,
       "from_date": "2026-07-09T16:50:00Z",
       "to_date": "2026-07-09T18:20:00Z",
       "niveau_name": "Alle",
@@ -1948,17 +1822,17 @@
       "cancelled": false
     },
     {
-      "nid": 758906,
-      "sport_name": "Cycling Class",
+      "nid": 732160,
+      "sport_name": "CrossFit",
       "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 0,
-      "places_max": 25,
-      "places_taken": 25,
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 5,
+      "places_max": 10,
+      "places_taken": 5,
       "from_date": "2026-07-09T17:00:00Z",
       "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Alle",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -1976,30 +1850,16 @@
       "cancelled": false
     },
     {
-      "nid": 732160,
-      "sport_name": "CrossFit",
+      "nid": 758906,
+      "sport_name": "Cycling Class",
       "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 5,
-      "places_max": 10,
-      "places_taken": 5,
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 0,
+      "places_max": 25,
+      "places_taken": 25,
       "from_date": "2026-07-09T17:00:00Z",
       "to_date": "2026-07-09T18:00:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 755686,
-      "sport_name": "Fussball",
-      "title": "Begleitetes Spiel, Rasen",
-      "facility_name": null,
-      "location": "Schulhaus Tössfeld",
-      "places_free": 11,
-      "places_max": 16,
-      "places_taken": 5,
-      "from_date": "2026-07-09T17:00:00Z",
-      "to_date": "2026-07-09T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -2009,12 +1869,26 @@
       "title": "Training Outdoor",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 14,
-      "places_taken": 12,
+      "places_taken": 13,
       "from_date": "2026-07-09T17:00:00Z",
       "to_date": "2026-07-09T18:30:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 755686,
+      "sport_name": "Fussball",
+      "title": "Begleitetes Spiel, Rasen",
+      "facility_name": null,
+      "location": "Schulhaus Tössfeld",
+      "places_free": 7,
+      "places_max": 16,
+      "places_taken": 9,
+      "from_date": "2026-07-09T17:00:00Z",
+      "to_date": "2026-07-09T18:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -2023,9 +1897,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 19,
+      "places_free": 18,
       "places_max": 19,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-07-09T17:10:00Z",
       "to_date": "2026-07-09T18:15:00Z",
       "niveau_name": "Alle",
@@ -2051,9 +1925,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 18,
+      "places_free": 14,
       "places_max": 30,
-      "places_taken": 12,
+      "places_taken": 16,
       "from_date": "2026-07-09T17:10:00Z",
       "to_date": "2026-07-09T18:40:00Z",
       "niveau_name": "Mittlere",
@@ -2074,28 +1948,14 @@
       "cancelled": false
     },
     {
-      "nid": 738836,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 12,
-      "places_max": 24,
-      "places_taken": 12,
-      "from_date": "2026-07-09T17:15:00Z",
-      "to_date": "2026-07-09T19:15:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 744463,
       "sport_name": "Yoga",
       "title": "Training",
       "facility_name": "Sport Center Gloriarank",
       "location": "Sport Center Gloriarank",
-      "places_free": 31,
+      "places_free": 30,
       "places_max": 35,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-07-09T17:15:00Z",
       "to_date": "2026-07-09T18:25:00Z",
       "niveau_name": "Alle",
@@ -2116,16 +1976,58 @@
       "cancelled": false
     },
     {
+      "nid": 738836,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 6,
+      "places_max": 24,
+      "places_taken": 18,
+      "from_date": "2026-07-09T17:15:00Z",
+      "to_date": "2026-07-09T19:15:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 752439,
       "sport_name": "Body Combat",
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 12,
+      "places_free": 4,
       "places_max": 35,
-      "places_taken": 23,
+      "places_taken": 31,
       "from_date": "2026-07-09T17:15:00Z",
       "to_date": "2026-07-09T18:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 860917,
+      "sport_name": "Manege",
+      "title": "Geräteturnen",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 15,
+      "places_max": 18,
+      "places_taken": 3,
+      "from_date": "2026-07-09T17:30:00Z",
+      "to_date": "2026-07-09T19:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 863297,
+      "sport_name": "Manege",
+      "title": "Akrobatik",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 17,
+      "places_max": 24,
+      "places_taken": 7,
+      "from_date": "2026-07-09T17:30:00Z",
+      "to_date": "2026-07-09T19:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -2144,58 +2046,16 @@
       "cancelled": false
     },
     {
-      "nid": 863297,
-      "sport_name": "Manege",
-      "title": "Akrobatik",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 18,
-      "places_max": 24,
-      "places_taken": 6,
-      "from_date": "2026-07-09T17:30:00Z",
-      "to_date": "2026-07-09T19:40:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 738998,
       "sport_name": "Breakdance",
       "title": "Training",
       "facility_name": "PH Zürich",
       "location": "PH Zürich",
-      "places_free": 27,
+      "places_free": 25,
       "places_max": 30,
-      "places_taken": 3,
+      "places_taken": 5,
       "from_date": "2026-07-09T17:30:00Z",
       "to_date": "2026-07-09T19:40:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 860917,
-      "sport_name": "Manege",
-      "title": "Geräteturnen",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 14,
-      "places_max": 18,
-      "places_taken": 4,
-      "from_date": "2026-07-09T17:30:00Z",
-      "to_date": "2026-07-09T19:40:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 735735,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 2,
-      "places_max": 3,
-      "places_taken": 1,
-      "from_date": "2026-07-09T18:00:00Z",
-      "to_date": "2026-07-09T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -2210,6 +2070,34 @@
       "places_taken": 6,
       "from_date": "2026-07-09T18:00:00Z",
       "to_date": "2026-07-09T19:30:00Z",
+      "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 735735,
+      "sport_name": "Squash",
+      "title": "Freies Spiel",
+      "facility_name": "Winterthur Squashanlage Gertrud",
+      "location": "Winterthur Squashanlage Gertrud",
+      "places_free": 1,
+      "places_max": 3,
+      "places_taken": 2,
+      "from_date": "2026-07-09T18:00:00Z",
+      "to_date": "2026-07-09T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757619,
+      "sport_name": "Badminton",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 31,
+      "places_max": 48,
+      "places_taken": 17,
+      "from_date": "2026-07-09T18:00:00Z",
+      "to_date": "2026-07-09T19:45:00Z",
       "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
@@ -2233,26 +2121,12 @@
       "title": "Full Body Strength",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 12,
-      "places_taken": 10,
+      "places_taken": 11,
       "from_date": "2026-07-09T18:00:00Z",
       "to_date": "2026-07-09T19:15:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 757619,
-      "sport_name": "Badminton",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 31,
-      "places_max": 48,
-      "places_taken": 17,
-      "from_date": "2026-07-09T18:00:00Z",
-      "to_date": "2026-07-09T19:45:00Z",
-      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -2261,9 +2135,9 @@
       "title": "Power",
       "facility_name": "Bad Riedtli",
       "location": "Bad Riedtli",
-      "places_free": 19,
+      "places_free": 17,
       "places_max": 35,
-      "places_taken": 16,
+      "places_taken": 18,
       "from_date": "2026-07-09T18:15:00Z",
       "to_date": "2026-07-09T19:00:00Z",
       "niveau_name": "Alle",
@@ -2275,9 +2149,9 @@
       "title": "Technik und Tanz",
       "facility_name": "Sport Center Gloriarank",
       "location": "Sport Center Gloriarank",
-      "places_free": 30,
+      "places_free": 25,
       "places_max": 36,
-      "places_taken": 6,
+      "places_taken": 11,
       "from_date": "2026-07-09T18:15:00Z",
       "to_date": "2026-07-09T20:00:00Z",
       "niveau_name": "Einsteiger 2 + Mittlere",
@@ -2303,9 +2177,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 34,
+      "places_free": 33,
       "places_max": 40,
-      "places_taken": 6,
+      "places_taken": 7,
       "from_date": "2026-07-09T18:30:00Z",
       "to_date": "2026-07-09T19:45:00Z",
       "niveau_name": "Alle",
@@ -2317,9 +2191,9 @@
       "title": "Bachata",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 8,
+      "places_free": 6,
       "places_max": 30,
-      "places_taken": 22,
+      "places_taken": 24,
       "from_date": "2026-07-09T18:45:00Z",
       "to_date": "2026-07-09T20:00:00Z",
       "niveau_name": "Einsteiger 1 + 2",
@@ -2331,9 +2205,9 @@
       "title": "Dance Yoga (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 30,
+      "places_free": 29,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-07-10T05:30:00Z",
       "to_date": "2026-07-10T06:20:00Z",
       "niveau_name": "Alle",
@@ -2345,9 +2219,9 @@
       "title": "Body Pump",
       "facility_name": "Toni-Areal",
       "location": "Toni-Areal",
-      "places_free": 29,
+      "places_free": 19,
       "places_max": 29,
-      "places_taken": 0,
+      "places_taken": 10,
       "from_date": "2026-07-10T05:30:00Z",
       "to_date": "2026-07-10T06:30:00Z",
       "niveau_name": "Alle",
@@ -2359,9 +2233,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 20,
+      "places_free": 17,
       "places_max": 20,
-      "places_taken": 0,
+      "places_taken": 3,
       "from_date": "2026-07-10T05:50:00Z",
       "to_date": "2026-07-10T06:50:00Z",
       "niveau_name": "Alle",
@@ -2373,9 +2247,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 25,
+      "places_free": 0,
       "places_max": 25,
-      "places_taken": 0,
+      "places_taken": 25,
       "from_date": "2026-07-10T06:00:00Z",
       "to_date": "2026-07-10T07:00:00Z",
       "niveau_name": "Alle",
@@ -2415,9 +2289,9 @@
       "title": "Training",
       "facility_name": "Toni-Areal",
       "location": "Toni-Areal",
-      "places_free": 30,
+      "places_free": 27,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 3,
       "from_date": "2026-07-10T06:30:00Z",
       "to_date": "2026-07-10T07:30:00Z",
       "niveau_name": "Alle",
@@ -2443,9 +2317,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 35,
+      "places_free": 30,
       "places_max": 35,
-      "places_taken": 0,
+      "places_taken": 5,
       "from_date": "2026-07-10T07:00:00Z",
       "to_date": "2026-07-10T07:55:00Z",
       "niveau_name": "Alle",
@@ -2457,9 +2331,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 19,
+      "places_free": 14,
       "places_max": 19,
-      "places_taken": 0,
+      "places_taken": 5,
       "from_date": "2026-07-10T07:25:00Z",
       "to_date": "2026-07-10T08:20:00Z",
       "niveau_name": "Alle",
@@ -2816,20 +2690,6 @@
       "cancelled": false
     },
     {
-      "nid": 850373,
-      "sport_name": "Running",
-      "title": "Einstieg ins Laufen",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 14,
-      "places_max": 15,
-      "places_taken": 1,
-      "from_date": "2026-07-10T10:00:00Z",
-      "to_date": "2026-07-10T11:00:00Z",
-      "niveau_name": "Einsteiger 1",
-      "cancelled": false
-    },
-    {
       "nid": 774264,
       "sport_name": "Tennis",
       "title": "W1+2 | Training",
@@ -2855,6 +2715,20 @@
       "from_date": "2026-07-10T10:00:00Z",
       "to_date": "2026-07-10T11:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 850373,
+      "sport_name": "Running",
+      "title": "Einstieg ins Laufen",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 14,
+      "places_max": 15,
+      "places_taken": 1,
+      "from_date": "2026-07-10T10:00:00Z",
+      "to_date": "2026-07-10T11:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -3516,17 +3390,17 @@
       "cancelled": false
     },
     {
-      "nid": 757121,
-      "sport_name": "Rudern",
-      "title": "Einstiegs-Wochenendkurs RCU 03",
-      "facility_name": null,
-      "location": "Greifensee | Ruderclub Uster",
+      "nid": 864901,
+      "sport_name": "Calisthenics",
+      "title": "Full Body Strength",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
       "places_free": 0,
-      "places_max": 8,
-      "places_taken": 8,
+      "places_max": 12,
+      "places_taken": 12,
       "from_date": "2026-07-10T15:00:00Z",
-      "to_date": "2026-07-12T18:00:00Z",
-      "niveau_name": "Einsteiger",
+      "to_date": "2026-07-10T16:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -3544,17 +3418,17 @@
       "cancelled": false
     },
     {
-      "nid": 864901,
-      "sport_name": "Calisthenics",
-      "title": "Full Body Strength",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
+      "nid": 757121,
+      "sport_name": "Rudern",
+      "title": "Einstiegs-Wochenendkurs RCU 03",
+      "facility_name": null,
+      "location": "Greifensee | Ruderclub Uster",
       "places_free": 0,
-      "places_max": 12,
-      "places_taken": 12,
+      "places_max": 8,
+      "places_taken": 8,
       "from_date": "2026-07-10T15:00:00Z",
-      "to_date": "2026-07-10T16:15:00Z",
-      "niveau_name": "Alle",
+      "to_date": "2026-07-12T18:00:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -4151,9 +4025,9 @@
       "title": "Schnupper Longjog",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 15,
+      "places_free": 14,
       "places_max": 15,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-07-11T07:15:00Z",
       "to_date": "2026-07-11T09:15:00Z",
       "niveau_name": "Gemäss Ausschreibung",
@@ -4165,9 +4039,9 @@
       "title": "Longjog",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 30,
+      "places_free": 28,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 2,
       "from_date": "2026-07-11T07:15:00Z",
       "to_date": "2026-07-11T09:15:00Z",
       "niveau_name": "Gemäss Ausschreibung",
@@ -4213,6 +4087,20 @@
       "from_date": "2026-07-11T07:30:00Z",
       "to_date": "2026-07-11T09:00:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": true
+    },
+    {
+      "nid": 907234,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-11T07:30:00Z",
+      "to_date": "2026-07-11T08:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -4342,6 +4230,20 @@
       "cancelled": false
     },
     {
+      "nid": 907235,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-11T08:30:00Z",
+      "to_date": "2026-07-11T09:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 765771,
       "sport_name": "Bodyforming",
       "title": "Training",
@@ -4426,20 +4328,6 @@
       "cancelled": false
     },
     {
-      "nid": 821566,
-      "sport_name": "Padel",
-      "title": "Begleitetes Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 7,
-      "places_taken": null,
-      "from_date": "2026-07-11T09:00:00Z",
-      "to_date": "2026-07-11T10:30:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 731271,
       "sport_name": "Wakeboard-surf-foil/Wasserski",
       "title": "Gruppe 3 Sa-So 11:00-14:00 Uhr",
@@ -4452,6 +4340,20 @@
       "to_date": "2026-07-12T12:00:00Z",
       "niveau_name": "Einsteiger",
       "cancelled": false
+    },
+    {
+      "nid": 821566,
+      "sport_name": "Padel",
+      "title": "Begleitetes Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 7,
+      "places_taken": null,
+      "from_date": "2026-07-11T09:00:00Z",
+      "to_date": "2026-07-11T10:30:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": true
     },
     {
       "nid": 755953,
@@ -4506,6 +4408,20 @@
       "places_taken": 0,
       "from_date": "2026-07-11T09:30:00Z",
       "to_date": "2026-07-11T11:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907236,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-11T09:30:00Z",
+      "to_date": "2026-07-11T10:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -5411,9 +5327,9 @@
       "title": "F | Mo-So, 0900-1025",
       "facility_name": "Tennisanlage Fluntern",
       "location": "Tennisanlage Fluntern",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 6,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-07-13T07:00:00Z",
       "to_date": "2026-07-19T08:25:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -6862,20 +6778,6 @@
       "cancelled": false
     },
     {
-      "nid": 736683,
-      "sport_name": "Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-07-13T16:15:00Z",
-      "to_date": "2026-07-13T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 738999,
       "sport_name": "Hip Hop",
       "title": "House",
@@ -6971,6 +6873,20 @@
       "from_date": "2026-07-13T16:15:00Z",
       "to_date": "2026-07-13T17:45:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 736683,
+      "sport_name": "Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 20,
+      "places_max": 20,
+      "places_taken": 0,
+      "from_date": "2026-07-13T16:15:00Z",
+      "to_date": "2026-07-13T18:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -8561,9 +8477,9 @@
       "title": "Gennaker- / Regattatraining",
       "facility_name": null,
       "location": null,
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 4,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-07-14T15:30:00Z",
       "to_date": "2026-07-14T18:30:00Z",
       "niveau_name": "D-Schein",
@@ -10614,20 +10530,6 @@
       "cancelled": false
     },
     {
-      "nid": 759939,
-      "sport_name": "Running",
-      "title": "Coaching mit Schwerpunkt Lauftechnik & Trainingsplanung",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 4,
-      "places_max": 4,
-      "places_taken": 0,
-      "from_date": "2026-07-15T16:00:00Z",
-      "to_date": "2026-07-15T17:30:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 764089,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -10752,6 +10654,20 @@
       "to_date": "2026-07-15T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 759939,
+      "sport_name": "Running",
+      "title": "Coaching mit Schwerpunkt Lauftechnik & Trainingsplanung",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 4,
+      "places_max": 4,
+      "places_taken": 0,
+      "from_date": "2026-07-15T16:00:00Z",
+      "to_date": "2026-07-15T17:30:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": true
     },
     {
       "nid": 744893,
@@ -12476,20 +12392,6 @@
       "cancelled": false
     },
     {
-      "nid": 906311,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 2,
-      "places_taken": null,
-      "from_date": "2026-07-16T15:30:00Z",
-      "to_date": "2026-07-16T16:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 760199,
       "sport_name": "Beachvolleyball",
       "title": "Training Outdoor",
@@ -12515,6 +12417,20 @@
       "from_date": "2026-07-16T15:30:00Z",
       "to_date": "2026-07-16T16:30:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 906311,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 1,
+      "places_max": 2,
+      "places_taken": 1,
+      "from_date": "2026-07-16T15:30:00Z",
+      "to_date": "2026-07-16T16:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -14478,20 +14394,6 @@
       "cancelled": false
     },
     {
-      "nid": 757122,
-      "sport_name": "Rudern",
-      "title": "Fortgeschrittenen-Wochenendkurs RCU 01",
-      "facility_name": null,
-      "location": "Greifensee | Ruderclub Uster",
-      "places_free": 0,
-      "places_max": 8,
-      "places_taken": 8,
-      "from_date": "2026-07-17T15:00:00Z",
-      "to_date": "2026-07-19T18:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 759393,
       "sport_name": "Volleyball",
       "title": "Spiel ",
@@ -14503,6 +14405,20 @@
       "from_date": "2026-07-17T15:00:00Z",
       "to_date": "2026-07-17T16:10:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 757122,
+      "sport_name": "Rudern",
+      "title": "Fortgeschrittenen-Wochenendkurs RCU 01",
+      "facility_name": null,
+      "location": "Greifensee | Ruderclub Uster",
+      "places_free": 0,
+      "places_max": 8,
+      "places_taken": 8,
+      "from_date": "2026-07-17T15:00:00Z",
+      "to_date": "2026-07-19T18:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -15057,9 +14973,9 @@
       "title": "Schnuppertraining",
       "facility_name": null,
       "location": null,
-      "places_free": 2,
+      "places_free": 0,
       "places_max": 4,
-      "places_taken": 2,
+      "places_taken": 4,
       "from_date": "2026-07-18T08:00:00Z",
       "to_date": "2026-07-18T11:00:00Z",
       "niveau_name": "Alle",
@@ -15281,9 +15197,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 1,
       "places_max": 2,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-07-18T10:30:00Z",
       "to_date": "2026-07-18T11:30:00Z",
       "niveau_name": "Alle",
@@ -16043,7 +15959,7 @@
       "from_date": "2026-07-20T05:45:00Z",
       "to_date": "2026-07-20T06:45:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 742410,
@@ -16057,6 +15973,20 @@
       "from_date": "2026-07-20T06:25:00Z",
       "to_date": "2026-07-20T07:35:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 907237,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T06:30:00Z",
+      "to_date": "2026-07-20T07:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -16116,6 +16046,20 @@
       "cancelled": false
     },
     {
+      "nid": 907238,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T07:30:00Z",
+      "to_date": "2026-07-20T08:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 743744,
       "sport_name": "Yoga",
       "title": "Yoga & Meditation",
@@ -16125,20 +16069,6 @@
       "places_max": 30,
       "places_taken": 0,
       "from_date": "2026-07-20T07:40:00Z",
-      "to_date": "2026-07-20T08:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 847186,
-      "sport_name": "TRX Suspension Training",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": null,
-      "places_max": 19,
-      "places_taken": null,
-      "from_date": "2026-07-20T08:00:00Z",
       "to_date": "2026-07-20T08:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
@@ -16156,6 +16086,20 @@
       "to_date": "2026-07-22T17:00:00Z",
       "niveau_name": "Einsteiger",
       "cancelled": false
+    },
+    {
+      "nid": 847186,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-07-20T08:00:00Z",
+      "to_date": "2026-07-20T08:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 850879,
@@ -16186,6 +16130,20 @@
       "cancelled": false
     },
     {
+      "nid": 907239,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T08:30:00Z",
+      "to_date": "2026-07-20T09:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 734414,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -16196,6 +16154,20 @@
       "places_taken": 0,
       "from_date": "2026-07-20T09:00:00Z",
       "to_date": "2026-07-20T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 744690,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 32,
+      "places_max": 32,
+      "places_taken": 0,
+      "from_date": "2026-07-20T09:00:00Z",
+      "to_date": "2026-07-20T09:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -16211,20 +16183,6 @@
       "from_date": "2026-07-20T09:00:00Z",
       "to_date": "2026-07-24T10:30:00Z",
       "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 744690,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 32,
-      "places_max": 32,
-      "places_taken": 0,
-      "from_date": "2026-07-20T09:00:00Z",
-      "to_date": "2026-07-20T09:55:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -16284,6 +16242,20 @@
       "cancelled": false
     },
     {
+      "nid": 907240,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T09:30:00Z",
+      "to_date": "2026-07-20T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 734765,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -16308,20 +16280,6 @@
       "places_taken": 0,
       "from_date": "2026-07-20T10:00:00Z",
       "to_date": "2026-07-20T10:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 749160,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 120,
-      "places_max": 120,
-      "places_taken": 0,
-      "from_date": "2026-07-20T10:00:00Z",
-      "to_date": "2026-07-20T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -16354,6 +16312,20 @@
       "cancelled": false
     },
     {
+      "nid": 749160,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 120,
+      "places_max": 120,
+      "places_taken": 0,
+      "from_date": "2026-07-20T10:00:00Z",
+      "to_date": "2026-07-20T10:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
       "nid": 744691,
       "sport_name": "Yoga",
       "title": "Training",
@@ -16379,7 +16351,7 @@
       "from_date": "2026-07-20T10:05:00Z",
       "to_date": "2026-07-20T11:15:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 742534,
@@ -16462,6 +16434,20 @@
       "places_taken": 0,
       "from_date": "2026-07-20T10:15:00Z",
       "to_date": "2026-07-20T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907241,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T10:30:00Z",
+      "to_date": "2026-07-20T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -16564,6 +16550,20 @@
       "cancelled": false
     },
     {
+      "nid": 907242,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T11:30:00Z",
+      "to_date": "2026-07-20T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 750567,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -16631,6 +16631,34 @@
       "from_date": "2026-07-20T12:00:00Z",
       "to_date": "2026-07-20T13:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 907243,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T12:30:00Z",
+      "to_date": "2026-07-20T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907244,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T13:30:00Z",
+      "to_date": "2026-07-20T14:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -16704,6 +16732,20 @@
       "cancelled": false
     },
     {
+      "nid": 907245,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 1,
+      "places_taken": null,
+      "from_date": "2026-07-20T14:30:00Z",
+      "to_date": "2026-07-20T15:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 740758,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -16715,7 +16757,7 @@
       "from_date": "2026-07-20T14:50:00Z",
       "to_date": "2026-07-20T15:45:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 735226,
@@ -16858,6 +16900,20 @@
       "cancelled": false
     },
     {
+      "nid": 907246,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 1,
+      "places_taken": null,
+      "from_date": "2026-07-20T15:30:00Z",
+      "to_date": "2026-07-20T16:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 905421,
       "sport_name": "Rowing Class",
       "title": "Training",
@@ -16883,7 +16939,7 @@
       "from_date": "2026-07-20T15:55:00Z",
       "to_date": "2026-07-20T16:50:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 735421,
@@ -17124,17 +17180,17 @@
       "cancelled": false
     },
     {
-      "nid": 739386,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-07-20T16:45:00Z",
-      "to_date": "2026-07-20T17:45:00Z",
-      "niveau_name": "Einsteiger 2",
+      "nid": 907247,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 1,
+      "places_taken": null,
+      "from_date": "2026-07-20T16:30:00Z",
+      "to_date": "2026-07-20T17:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -17150,6 +17206,20 @@
       "to_date": "2026-07-20T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 739386,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-07-20T16:45:00Z",
+      "to_date": "2026-07-20T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": true
     },
     {
       "nid": 744321,
@@ -17306,6 +17376,20 @@
       "cancelled": false
     },
     {
+      "nid": 907248,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T17:30:00Z",
+      "to_date": "2026-07-20T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 846281,
       "sport_name": "Bogensport",
       "title": "Training",
@@ -17331,7 +17415,7 @@
       "from_date": "2026-07-20T17:50:00Z",
       "to_date": "2026-07-20T19:20:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 735757,
@@ -17418,6 +17502,20 @@
       "cancelled": false
     },
     {
+      "nid": 907249,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-20T18:30:00Z",
+      "to_date": "2026-07-20T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 742628,
       "sport_name": "Pilates",
       "title": "Training (mit Livestream)",
@@ -17446,6 +17544,20 @@
       "cancelled": false
     },
     {
+      "nid": 907250,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T06:30:00Z",
+      "to_date": "2026-07-21T07:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 751420,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -17460,6 +17572,20 @@
       "cancelled": false
     },
     {
+      "nid": 907251,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T07:30:00Z",
+      "to_date": "2026-07-21T08:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 742755,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining (mit Livestream)",
@@ -17470,6 +17596,20 @@
       "places_taken": 0,
       "from_date": "2026-07-21T07:50:00Z",
       "to_date": "2026-07-21T08:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907252,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T08:30:00Z",
+      "to_date": "2026-07-21T09:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -17527,7 +17667,7 @@
       "from_date": "2026-07-21T09:00:00Z",
       "to_date": "2026-07-21T09:55:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 750568,
@@ -17540,6 +17680,20 @@
       "places_taken": 0,
       "from_date": "2026-07-21T09:30:00Z",
       "to_date": "2026-07-21T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907253,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T09:30:00Z",
+      "to_date": "2026-07-21T10:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -17586,20 +17740,6 @@
       "cancelled": false
     },
     {
-      "nid": 752839,
-      "sport_name": "Body Balance",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-07-21T10:00:00Z",
-      "to_date": "2026-07-21T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 854073,
       "sport_name": "Basketball",
       "title": "Spiel",
@@ -17610,6 +17750,20 @@
       "places_taken": null,
       "from_date": "2026-07-21T10:00:00Z",
       "to_date": "2026-07-21T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
+      "nid": 752839,
+      "sport_name": "Body Balance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 20,
+      "places_max": 20,
+      "places_taken": 0,
+      "from_date": "2026-07-21T10:00:00Z",
+      "to_date": "2026-07-21T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": true
     },
@@ -17625,7 +17779,7 @@
       "from_date": "2026-07-21T10:05:00Z",
       "to_date": "2026-07-21T11:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 742757,
@@ -17666,6 +17820,20 @@
       "places_taken": 0,
       "from_date": "2026-07-21T10:15:00Z",
       "to_date": "2026-07-21T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907254,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T10:30:00Z",
+      "to_date": "2026-07-21T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -17726,20 +17894,6 @@
       "cancelled": false
     },
     {
-      "nid": 740982,
-      "sport_name": "Muscle Pump",
-      "title": "Body Pump",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 35,
-      "places_max": 35,
-      "places_taken": 0,
-      "from_date": "2026-07-21T11:05:00Z",
-      "to_date": "2026-07-21T12:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 759477,
       "sport_name": "Yoga",
       "title": "Training",
@@ -17752,6 +17906,20 @@
       "to_date": "2026-07-21T12:05:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 740982,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 35,
+      "places_max": 35,
+      "places_taken": 0,
+      "from_date": "2026-07-21T11:05:00Z",
+      "to_date": "2026-07-21T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 744034,
@@ -17782,6 +17950,20 @@
       "cancelled": false
     },
     {
+      "nid": 907255,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T11:30:00Z",
+      "to_date": "2026-07-21T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 750571,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -17792,6 +17974,34 @@
       "places_taken": 0,
       "from_date": "2026-07-21T11:45:00Z",
       "to_date": "2026-07-21T15:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907256,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T12:30:00Z",
+      "to_date": "2026-07-21T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907257,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T13:30:00Z",
+      "to_date": "2026-07-21T14:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -17848,6 +18058,20 @@
       "places_taken": 0,
       "from_date": "2026-07-21T14:30:00Z",
       "to_date": "2026-07-21T15:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907258,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T14:30:00Z",
+      "to_date": "2026-07-21T15:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -17936,20 +18160,6 @@
       "cancelled": false
     },
     {
-      "nid": 738498,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-07-21T15:30:00Z",
-      "to_date": "2026-07-21T16:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 883343,
       "sport_name": "Segeln Yacht",
       "title": "Training",
@@ -18018,6 +18228,20 @@
       "to_date": "2026-07-21T17:00:00Z",
       "niveau_name": "Mittlere",
       "cancelled": false
+    },
+    {
+      "nid": 738498,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-07-21T15:30:00Z",
+      "to_date": "2026-07-21T16:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": true
     },
     {
       "nid": 744696,
@@ -18132,20 +18356,6 @@
       "cancelled": false
     },
     {
-      "nid": 749535,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 120,
-      "places_max": 120,
-      "places_taken": 0,
-      "from_date": "2026-07-21T16:00:00Z",
-      "to_date": "2026-07-21T16:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 805023,
       "sport_name": "Mountainbike",
       "title": "Trails & Skills",
@@ -18214,6 +18424,20 @@
       "to_date": "2026-07-21T17:15:00Z",
       "niveau_name": "Fortgeschrittene",
       "cancelled": false
+    },
+    {
+      "nid": 749535,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 120,
+      "places_max": 120,
+      "places_taken": 0,
+      "from_date": "2026-07-21T16:00:00Z",
+      "to_date": "2026-07-21T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 742759,
@@ -18370,20 +18594,6 @@
       "cancelled": false
     },
     {
-      "nid": 738567,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-07-21T17:00:00Z",
-      "to_date": "2026-07-21T18:30:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 744697,
       "sport_name": "Tone&Stretch",
       "title": "Training",
@@ -18468,6 +18678,20 @@
       "cancelled": false
     },
     {
+      "nid": 738567,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-07-21T17:00:00Z",
+      "to_date": "2026-07-21T18:30:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": true
+    },
+    {
       "nid": 742851,
       "sport_name": "Stretch & Relax",
       "title": "Training (mit Livestream)",
@@ -18507,7 +18731,7 @@
       "from_date": "2026-07-21T17:15:00Z",
       "to_date": "2026-07-21T18:45:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 795041,
@@ -18520,6 +18744,20 @@
       "places_taken": null,
       "from_date": "2026-07-21T17:25:00Z",
       "to_date": "2026-07-21T18:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907259,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 1,
+      "places_taken": null,
+      "from_date": "2026-07-21T17:30:00Z",
+      "to_date": "2026-07-21T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -18591,7 +18829,7 @@
       "from_date": "2026-07-21T18:05:00Z",
       "to_date": "2026-07-21T19:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 744036,
@@ -18636,6 +18874,20 @@
       "cancelled": false
     },
     {
+      "nid": 907260,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-21T18:30:00Z",
+      "to_date": "2026-07-21T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 752840,
       "sport_name": "Body Balance",
       "title": "Training (mit Livestream)",
@@ -18661,7 +18913,7 @@
       "from_date": "2026-07-22T05:45:00Z",
       "to_date": "2026-07-22T06:45:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 742852,
@@ -18678,6 +18930,20 @@
       "cancelled": false
     },
     {
+      "nid": 907261,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T06:30:00Z",
+      "to_date": "2026-07-22T07:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 741125,
       "sport_name": "Muscle Pump",
       "title": "Body Pump",
@@ -18689,7 +18955,7 @@
       "from_date": "2026-07-22T06:55:00Z",
       "to_date": "2026-07-22T07:50:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 751424,
@@ -18720,6 +18986,20 @@
       "cancelled": false
     },
     {
+      "nid": 907262,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T07:30:00Z",
+      "to_date": "2026-07-22T08:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 742853,
       "sport_name": "Pilates",
       "title": "Training (mit Livestream)",
@@ -18730,6 +19010,20 @@
       "places_taken": 0,
       "from_date": "2026-07-22T08:05:00Z",
       "to_date": "2026-07-22T09:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907263,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T08:30:00Z",
+      "to_date": "2026-07-22T09:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -18804,6 +19098,20 @@
       "cancelled": false
     },
     {
+      "nid": 907264,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T09:30:00Z",
+      "to_date": "2026-07-22T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 734769,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -18871,7 +19179,7 @@
       "from_date": "2026-07-22T10:00:00Z",
       "to_date": "2026-07-22T11:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 744896,
@@ -18986,6 +19294,20 @@
       "cancelled": false
     },
     {
+      "nid": 907265,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T10:30:00Z",
+      "to_date": "2026-07-22T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 751426,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -19084,6 +19406,20 @@
       "cancelled": false
     },
     {
+      "nid": 907266,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T11:30:00Z",
+      "to_date": "2026-07-22T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 750575,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -19098,6 +19434,20 @@
       "cancelled": false
     },
     {
+      "nid": 907267,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T12:30:00Z",
+      "to_date": "2026-07-22T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 744898,
       "sport_name": "Bodyforming",
       "title": "Training",
@@ -19108,6 +19458,20 @@
       "places_taken": 0,
       "from_date": "2026-07-22T12:50:00Z",
       "to_date": "2026-07-22T13:50:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907268,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T13:30:00Z",
+      "to_date": "2026-07-22T14:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -19151,6 +19515,20 @@
       "from_date": "2026-07-22T14:00:00Z",
       "to_date": "2026-07-22T14:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
+      "nid": 907269,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T14:30:00Z",
+      "to_date": "2026-07-22T15:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -19193,7 +19571,7 @@
       "from_date": "2026-07-22T15:05:00Z",
       "to_date": "2026-07-22T16:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 744899,
@@ -19263,6 +19641,20 @@
       "from_date": "2026-07-22T15:30:00Z",
       "to_date": "2026-07-22T16:30:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 907270,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T15:30:00Z",
+      "to_date": "2026-07-22T16:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -19336,20 +19728,6 @@
       "cancelled": false
     },
     {
-      "nid": 749799,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 120,
-      "places_max": 120,
-      "places_taken": 0,
-      "from_date": "2026-07-22T16:00:00Z",
-      "to_date": "2026-07-22T16:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 771786,
       "sport_name": "Wandern",
       "title": "Mittwochwanderung | Ferienstimmung am Rhein",
@@ -19392,20 +19770,6 @@
       "cancelled": false
     },
     {
-      "nid": 834378,
-      "sport_name": "TRX Suspension Training",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": null,
-      "places_max": 19,
-      "places_taken": null,
-      "from_date": "2026-07-22T16:00:00Z",
-      "to_date": "2026-07-22T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 845546,
       "sport_name": "Roundnet",
       "title": "Begleitetes Spiel, Outdoor",
@@ -19416,6 +19780,34 @@
       "places_taken": null,
       "from_date": "2026-07-22T16:00:00Z",
       "to_date": "2026-07-22T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
+      "nid": 749799,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 120,
+      "places_max": 120,
+      "places_taken": 0,
+      "from_date": "2026-07-22T16:00:00Z",
+      "to_date": "2026-07-22T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
+      "nid": 834378,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-07-22T16:00:00Z",
+      "to_date": "2026-07-22T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": true
     },
@@ -19571,6 +19963,20 @@
       "from_date": "2026-07-22T16:30:00Z",
       "to_date": "2026-07-22T18:00:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 907271,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T16:30:00Z",
+      "to_date": "2026-07-22T17:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -19812,6 +20218,20 @@
       "cancelled": false
     },
     {
+      "nid": 907272,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T17:30:00Z",
+      "to_date": "2026-07-22T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 735761,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -19868,6 +20288,20 @@
       "cancelled": false
     },
     {
+      "nid": 907273,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-22T18:30:00Z",
+      "to_date": "2026-07-22T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 740197,
       "sport_name": "Salsa",
       "title": "Training",
@@ -19907,7 +20341,7 @@
       "from_date": "2026-07-23T05:45:00Z",
       "to_date": "2026-07-23T06:45:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 743156,
@@ -19921,6 +20355,20 @@
       "from_date": "2026-07-23T06:30:00Z",
       "to_date": "2026-07-23T07:25:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 907274,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T06:30:00Z",
+      "to_date": "2026-07-23T07:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -19952,6 +20400,20 @@
       "cancelled": false
     },
     {
+      "nid": 907275,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T07:30:00Z",
+      "to_date": "2026-07-23T08:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907225,
       "sport_name": "Foilsurfen",
       "title": "PumpFoil Workshop 47",
@@ -19962,6 +20424,20 @@
       "places_taken": 1,
       "from_date": "2026-07-23T08:00:00Z",
       "to_date": "2026-07-23T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907276,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T08:30:00Z",
+      "to_date": "2026-07-23T09:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -20022,6 +20498,20 @@
       "cancelled": false
     },
     {
+      "nid": 907277,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T09:30:00Z",
+      "to_date": "2026-07-23T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 746875,
       "sport_name": "Boxen",
       "title": "Einstiegstraining",
@@ -20061,7 +20551,7 @@
       "from_date": "2026-07-23T09:55:00Z",
       "to_date": "2026-07-23T10:55:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 734771,
@@ -20106,20 +20596,6 @@
       "cancelled": false
     },
     {
-      "nid": 749800,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Core | Body Attack Les Mills Core ",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-07-23T10:00:00Z",
-      "to_date": "2026-07-23T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 756466,
       "sport_name": "Rowing Class",
       "title": "Training",
@@ -20134,6 +20610,20 @@
       "cancelled": false
     },
     {
+      "nid": 749800,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Core | Body Attack Les Mills Core ",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-07-23T10:00:00Z",
+      "to_date": "2026-07-23T10:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
       "nid": 755051,
       "sport_name": "Zumba",
       "title": "Training",
@@ -20145,7 +20635,7 @@
       "from_date": "2026-07-23T10:05:00Z",
       "to_date": "2026-07-23T11:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 743608,
@@ -20186,6 +20676,20 @@
       "places_taken": 0,
       "from_date": "2026-07-23T10:15:00Z",
       "to_date": "2026-07-23T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907278,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T10:30:00Z",
+      "to_date": "2026-07-23T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -20299,7 +20803,7 @@
       "from_date": "2026-07-23T11:10:00Z",
       "to_date": "2026-07-23T12:55:00Z",
       "niveau_name": "Einsteiger 2",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 743159,
@@ -20330,6 +20834,20 @@
       "cancelled": false
     },
     {
+      "nid": 907279,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T11:30:00Z",
+      "to_date": "2026-07-23T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 750579,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -20340,6 +20858,34 @@
       "places_taken": 0,
       "from_date": "2026-07-23T11:45:00Z",
       "to_date": "2026-07-23T15:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907280,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T12:30:00Z",
+      "to_date": "2026-07-23T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907281,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T13:30:00Z",
+      "to_date": "2026-07-23T14:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -20396,6 +20942,20 @@
       "places_taken": 0,
       "from_date": "2026-07-23T14:30:00Z",
       "to_date": "2026-07-23T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907282,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T14:30:00Z",
+      "to_date": "2026-07-23T15:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -20470,20 +21030,6 @@
       "cancelled": false
     },
     {
-      "nid": 741599,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 35,
-      "places_max": 35,
-      "places_taken": 0,
-      "from_date": "2026-07-23T15:00:00Z",
-      "to_date": "2026-07-23T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 745024,
       "sport_name": "Yoga",
       "title": "Training",
@@ -20510,6 +21056,20 @@
       "to_date": "2026-07-23T15:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 741599,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 35,
+      "places_max": 35,
+      "places_taken": 0,
+      "from_date": "2026-07-23T15:00:00Z",
+      "to_date": "2026-07-23T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 781425,
@@ -20550,6 +21110,20 @@
       "places_taken": 0,
       "from_date": "2026-07-23T15:30:00Z",
       "to_date": "2026-07-23T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907283,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-23T15:30:00Z",
+      "to_date": "2026-07-23T16:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -20733,7 +21307,7 @@
       "from_date": "2026-07-23T16:05:00Z",
       "to_date": "2026-07-23T17:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 744473,
@@ -20764,20 +21338,6 @@
       "cancelled": false
     },
     {
-      "nid": 738725,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-07-23T16:15:00Z",
-      "to_date": "2026-07-23T17:10:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 846248,
       "sport_name": "Burner Games",
       "title": "Training",
@@ -20804,6 +21364,20 @@
       "to_date": "2026-07-23T17:45:00Z",
       "niveau_name": "Fortgeschrittene 1 + 2",
       "cancelled": false
+    },
+    {
+      "nid": 738725,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 20,
+      "places_max": 20,
+      "places_taken": 0,
+      "from_date": "2026-07-23T16:15:00Z",
+      "to_date": "2026-07-23T17:10:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": true
     },
     {
       "nid": 746877,
@@ -20904,20 +21478,6 @@
       "cancelled": false
     },
     {
-      "nid": 758908,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 25,
-      "places_max": 25,
-      "places_taken": 0,
-      "from_date": "2026-07-23T17:00:00Z",
-      "to_date": "2026-07-23T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 755724,
       "sport_name": "Fussball",
       "title": "Begleitetes Spiel, Rasen",
@@ -20932,6 +21492,20 @@
       "cancelled": false
     },
     {
+      "nid": 758908,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 25,
+      "places_max": 25,
+      "places_taken": 0,
+      "from_date": "2026-07-23T17:00:00Z",
+      "to_date": "2026-07-23T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
       "nid": 740345,
       "sport_name": "Salsa",
       "title": "Training",
@@ -20943,21 +21517,7 @@
       "from_date": "2026-07-23T17:10:00Z",
       "to_date": "2026-07-23T18:40:00Z",
       "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 738838,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 24,
-      "places_max": 24,
-      "places_taken": 0,
-      "from_date": "2026-07-23T17:15:00Z",
-      "to_date": "2026-07-23T19:15:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 744475,
@@ -20986,6 +21546,20 @@
       "to_date": "2026-07-23T18:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 738838,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 24,
+      "places_max": 24,
+      "places_taken": 0,
+      "from_date": "2026-07-23T17:15:00Z",
+      "to_date": "2026-07-23T19:15:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": true
     },
     {
       "nid": 735763,
@@ -21069,7 +21643,7 @@
       "from_date": "2026-07-23T18:45:00Z",
       "to_date": "2026-07-23T20:00:00Z",
       "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 743281,
@@ -21100,6 +21674,20 @@
       "cancelled": false
     },
     {
+      "nid": 907284,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T06:30:00Z",
+      "to_date": "2026-07-24T07:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 751432,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -21124,6 +21712,20 @@
       "places_taken": 0,
       "from_date": "2026-07-24T07:25:00Z",
       "to_date": "2026-07-24T08:20:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
+      "nid": 907285,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T07:30:00Z",
+      "to_date": "2026-07-24T08:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -21156,6 +21758,20 @@
       "cancelled": false
     },
     {
+      "nid": 907286,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T08:30:00Z",
+      "to_date": "2026-07-24T09:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 754393,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
@@ -21167,7 +21783,7 @@
       "from_date": "2026-07-24T08:30:00Z",
       "to_date": "2026-07-24T09:30:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 743283,
@@ -21198,20 +21814,6 @@
       "cancelled": false
     },
     {
-      "nid": 741877,
-      "sport_name": "Muscle Pump",
-      "title": "Body Pump",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 35,
-      "places_max": 35,
-      "places_taken": 0,
-      "from_date": "2026-07-24T09:00:00Z",
-      "to_date": "2026-07-24T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 745194,
       "sport_name": "Rückenfit",
       "title": "Training",
@@ -21226,6 +21828,20 @@
       "cancelled": false
     },
     {
+      "nid": 741877,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 35,
+      "places_max": 35,
+      "places_taken": 0,
+      "from_date": "2026-07-24T09:00:00Z",
+      "to_date": "2026-07-24T09:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
       "nid": 750580,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -21236,6 +21852,20 @@
       "places_taken": 0,
       "from_date": "2026-07-24T09:30:00Z",
       "to_date": "2026-07-24T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907287,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T09:30:00Z",
+      "to_date": "2026-07-24T10:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -21282,20 +21912,6 @@
       "cancelled": false
     },
     {
-      "nid": 740347,
-      "sport_name": "Standard/Latin Tänze",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-07-24T10:00:00Z",
-      "to_date": "2026-07-24T11:30:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 751433,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -21338,20 +21954,6 @@
       "cancelled": false
     },
     {
-      "nid": 751797,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-07-24T10:00:00Z",
-      "to_date": "2026-07-24T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 774275,
       "sport_name": "Tennis",
       "title": "W1+2 | Training",
@@ -21366,6 +21968,34 @@
       "cancelled": false
     },
     {
+      "nid": 740347,
+      "sport_name": "Standard/Latin Tänze",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-07-24T10:00:00Z",
+      "to_date": "2026-07-24T11:30:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": true
+    },
+    {
+      "nid": 751797,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-07-24T10:00:00Z",
+      "to_date": "2026-07-24T10:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
+    },
+    {
       "nid": 752736,
       "sport_name": "Body Combat",
       "title": "Training",
@@ -21377,7 +22007,7 @@
       "from_date": "2026-07-24T10:05:00Z",
       "to_date": "2026-07-24T11:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 743284,
@@ -21432,6 +22062,20 @@
       "places_taken": 0,
       "from_date": "2026-07-24T10:15:00Z",
       "to_date": "2026-07-24T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907288,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T10:30:00Z",
+      "to_date": "2026-07-24T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -21548,6 +22192,20 @@
       "cancelled": false
     },
     {
+      "nid": 907289,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T11:30:00Z",
+      "to_date": "2026-07-24T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 750583,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -21558,6 +22216,34 @@
       "places_taken": 0,
       "from_date": "2026-07-24T11:45:00Z",
       "to_date": "2026-07-24T15:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907290,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T12:30:00Z",
+      "to_date": "2026-07-24T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907291,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T13:30:00Z",
+      "to_date": "2026-07-24T14:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -21600,6 +22286,20 @@
       "places_taken": 0,
       "from_date": "2026-07-24T14:30:00Z",
       "to_date": "2026-07-24T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907292,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T14:30:00Z",
+      "to_date": "2026-07-24T15:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -21688,6 +22388,20 @@
       "cancelled": false
     },
     {
+      "nid": 907293,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T15:30:00Z",
+      "to_date": "2026-07-24T16:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 757433,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -21755,7 +22469,7 @@
       "from_date": "2026-07-24T16:00:00Z",
       "to_date": "2026-07-24T17:30:00Z",
       "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 736694,
@@ -21814,6 +22528,20 @@
       "cancelled": false
     },
     {
+      "nid": 907294,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T16:30:00Z",
+      "to_date": "2026-07-24T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 739794,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -21825,7 +22553,7 @@
       "from_date": "2026-07-24T16:30:00Z",
       "to_date": "2026-07-24T18:00:00Z",
       "niveau_name": "Einsteiger 2",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 744477,
@@ -21912,6 +22640,20 @@
       "cancelled": false
     },
     {
+      "nid": 907295,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T17:30:00Z",
+      "to_date": "2026-07-24T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 744478,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -21982,6 +22724,20 @@
       "cancelled": false
     },
     {
+      "nid": 907296,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-24T18:30:00Z",
+      "to_date": "2026-07-24T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 759920,
       "sport_name": "Kanu",
       "title": "Vertiefungskurs Wildwasser, Safetytag",
@@ -22034,6 +22790,20 @@
       "places_taken": 0,
       "from_date": "2026-07-25T07:30:00Z",
       "to_date": "2026-07-25T09:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907297,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T07:30:00Z",
+      "to_date": "2026-07-25T08:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -22094,20 +22864,6 @@
       "cancelled": false
     },
     {
-      "nid": 883306,
-      "sport_name": "Segeln Yacht",
-      "title": "Schnuppertraining",
-      "facility_name": null,
-      "location": null,
-      "places_free": 3,
-      "places_max": 4,
-      "places_taken": 1,
-      "from_date": "2026-07-25T08:00:00Z",
-      "to_date": "2026-07-25T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 821294,
       "sport_name": "Windsurfen",
       "title": "Einsteigerkurs 07",
@@ -22122,6 +22878,20 @@
       "cancelled": false
     },
     {
+      "nid": 883306,
+      "sport_name": "Segeln Yacht",
+      "title": "Schnuppertraining",
+      "facility_name": null,
+      "location": null,
+      "places_free": 3,
+      "places_max": 4,
+      "places_taken": 1,
+      "from_date": "2026-07-25T08:00:00Z",
+      "to_date": "2026-07-25T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 736695,
       "sport_name": "Paddeln",
       "title": "Long Training",
@@ -22132,6 +22902,20 @@
       "places_taken": 0,
       "from_date": "2026-07-25T08:30:00Z",
       "to_date": "2026-07-25T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907298,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T08:30:00Z",
+      "to_date": "2026-07-25T09:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -22220,6 +23004,20 @@
       "cancelled": false
     },
     {
+      "nid": 907299,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T09:30:00Z",
+      "to_date": "2026-07-25T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 734775,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -22259,6 +23057,20 @@
       "from_date": "2026-07-25T10:30:00Z",
       "to_date": "2026-07-31T14:00:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 907300,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T10:30:00Z",
+      "to_date": "2026-07-25T11:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -22332,6 +23144,20 @@
       "cancelled": false
     },
     {
+      "nid": 907301,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T11:30:00Z",
+      "to_date": "2026-07-25T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 737449,
       "sport_name": "Fitnessberatung",
       "title": "Einzelberatung",
@@ -22346,6 +23172,20 @@
       "cancelled": false
     },
     {
+      "nid": 907302,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T12:30:00Z",
+      "to_date": "2026-07-25T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 754581,
       "sport_name": "Volleyball",
       "title": "Freies Spiel",
@@ -22356,6 +23196,20 @@
       "places_taken": 0,
       "from_date": "2026-07-25T13:30:00Z",
       "to_date": "2026-07-25T15:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907303,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T13:30:00Z",
+      "to_date": "2026-07-25T14:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -22399,6 +23253,20 @@
       "from_date": "2026-07-25T14:30:00Z",
       "to_date": "2026-07-31T18:00:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 907304,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-25T14:30:00Z",
+      "to_date": "2026-07-25T15:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -22486,6 +23354,20 @@
       "cancelled": false
     },
     {
+      "nid": 907305,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T07:30:00Z",
+      "to_date": "2026-07-26T08:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 743531,
       "sport_name": "Bodyforming",
       "title": "Training (mit Livestream)",
@@ -22528,6 +23410,20 @@
       "cancelled": false
     },
     {
+      "nid": 907306,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T08:30:00Z",
+      "to_date": "2026-07-26T09:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 734420,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -22538,6 +23434,20 @@
       "places_taken": 0,
       "from_date": "2026-07-26T09:00:00Z",
       "to_date": "2026-07-26T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907307,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T09:30:00Z",
+      "to_date": "2026-07-26T10:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -22566,6 +23476,20 @@
       "places_taken": 0,
       "from_date": "2026-07-26T10:00:00Z",
       "to_date": "2026-07-26T10:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907308,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T10:30:00Z",
+      "to_date": "2026-07-26T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -22626,6 +23550,48 @@
       "cancelled": false
     },
     {
+      "nid": 907309,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T11:30:00Z",
+      "to_date": "2026-07-26T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907310,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T12:30:00Z",
+      "to_date": "2026-07-26T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 907311,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T13:30:00Z",
+      "to_date": "2026-07-26T14:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 735029,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -22651,6 +23617,20 @@
       "from_date": "2026-07-26T14:30:00Z",
       "to_date": "2026-07-26T18:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 907312,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 2,
+      "places_taken": null,
+      "from_date": "2026-07-26T14:30:00Z",
+      "to_date": "2026-07-26T15:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -35287,9 +36267,9 @@
       "title": "Einstiegskurs",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 16,
+      "places_free": 15,
       "places_max": 20,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-08-05T08:45:00Z",
       "to_date": "2026-09-09T10:15:00Z",
       "niveau_name": "Einsteiger",
@@ -37317,9 +38297,9 @@
       "title": "Einstiegskurs",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 19,
+      "places_free": 18,
       "places_max": 20,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-08-06T12:30:00Z",
       "to_date": "2026-09-10T14:00:00Z",
       "niveau_name": "Einsteiger",
@@ -49086,6 +50066,34 @@
       "cancelled": false
     },
     {
+      "nid": 757075,
+      "sport_name": "Running",
+      "title": "Longjog",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-08-15T07:15:00Z",
+      "to_date": "2026-08-15T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
+      "nid": 757074,
+      "sport_name": "Running",
+      "title": "Schnupper Longjog",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 15,
+      "places_max": 15,
+      "places_taken": 0,
+      "from_date": "2026-08-15T07:15:00Z",
+      "to_date": "2026-08-15T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
       "nid": 737459,
       "sport_name": "Fitnessberatung",
       "title": "Programm-Einführung",
@@ -49153,34 +50161,6 @@
       "from_date": "2026-08-15T08:00:00Z",
       "to_date": "2026-08-15T13:00:00Z",
       "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 757074,
-      "sport_name": "Running",
-      "title": "Schnupper Longjog",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 15,
-      "places_max": 15,
-      "places_taken": 0,
-      "from_date": "2026-08-15T08:00:00Z",
-      "to_date": "2026-08-15T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
-      "nid": 757075,
-      "sport_name": "Running",
-      "title": "Longjog",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-08-15T08:00:00Z",
-      "to_date": "2026-08-15T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -56315,9 +57295,9 @@
       "title": "E | Mi, 1400-1555",
       "facility_name": "Tennisanlage Fluntern",
       "location": "Tennisanlage Fluntern",
-      "places_free": 3,
+      "places_free": 2,
       "places_max": 6,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-08-19T12:00:00Z",
       "to_date": "2026-09-30T13:55:00Z",
       "niveau_name": "Einsteiger",
@@ -62134,6 +63114,20 @@
       "cancelled": false
     },
     {
+      "nid": 757084,
+      "sport_name": "Running",
+      "title": "Longjog",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-08-22T07:15:00Z",
+      "to_date": "2026-08-22T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
       "nid": 737471,
       "sport_name": "Fitnessberatung",
       "title": "Programm-Einführung",
@@ -62243,20 +63237,6 @@
       "from_date": "2026-08-22T08:00:00Z",
       "to_date": "2026-08-23T14:00:00Z",
       "niveau_name": "Einsteiger 1",
-      "cancelled": false
-    },
-    {
-      "nid": 757084,
-      "sport_name": "Running",
-      "title": "Longjog",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-08-22T08:00:00Z",
-      "to_date": "2026-08-22T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -75910,6 +76890,34 @@
       "cancelled": false
     },
     {
+      "nid": 757094,
+      "sport_name": "Running",
+      "title": "Longjog",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-08-29T07:15:00Z",
+      "to_date": "2026-08-29T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
+      "nid": 757093,
+      "sport_name": "Running",
+      "title": "Schnupper Longjog",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 15,
+      "places_max": 15,
+      "places_taken": 0,
+      "from_date": "2026-08-29T07:15:00Z",
+      "to_date": "2026-08-29T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
       "nid": 821573,
       "sport_name": "Padel",
       "title": "Begleitetes Spiel",
@@ -76047,34 +77055,6 @@
       "from_date": "2026-08-29T08:00:00Z",
       "to_date": "2026-08-29T11:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 757093,
-      "sport_name": "Running",
-      "title": "Schnupper Longjog",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 15,
-      "places_max": 15,
-      "places_taken": 0,
-      "from_date": "2026-08-29T08:00:00Z",
-      "to_date": "2026-08-29T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
-      "nid": 757094,
-      "sport_name": "Running",
-      "title": "Longjog",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-08-29T08:00:00Z",
-      "to_date": "2026-08-29T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -89980,6 +90960,20 @@
       "cancelled": false
     },
     {
+      "nid": 757103,
+      "sport_name": "Running",
+      "title": "Longjog",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-09-05T07:15:00Z",
+      "to_date": "2026-09-05T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
       "nid": 737495,
       "sport_name": "Fitnessberatung",
       "title": "Programm-Einführung",
@@ -90089,20 +91083,6 @@
       "from_date": "2026-09-05T08:00:00Z",
       "to_date": "2026-09-05T08:55:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 757103,
-      "sport_name": "Running",
-      "title": "Longjog",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-09-05T08:00:00Z",
-      "to_date": "2026-09-05T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -91002,20 +91982,6 @@
       "cancelled": false
     },
     {
-      "nid": 736636,
-      "sport_name": "Standup Paddeln",
-      "title": "Training | LongDistance",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-09-06T08:30:00Z",
-      "to_date": "2026-09-06T11:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 742148,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -91027,6 +91993,20 @@
       "from_date": "2026-09-06T08:30:00Z",
       "to_date": "2026-09-06T09:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736636,
+      "sport_name": "Standup Paddeln",
+      "title": "Training | LongDistance",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 16,
+      "places_max": 16,
+      "places_taken": 0,
+      "from_date": "2026-09-06T08:30:00Z",
+      "to_date": "2026-09-06T11:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -91184,20 +92164,6 @@
       "cancelled": false
     },
     {
-      "nid": 742149,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-09-06T11:00:00Z",
-      "to_date": "2026-09-06T11:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 821576,
       "sport_name": "Padel",
       "title": "Begleitetes Spiel",
@@ -91209,6 +92175,20 @@
       "from_date": "2026-09-06T11:00:00Z",
       "to_date": "2026-09-06T12:30:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 742149,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-09-06T11:00:00Z",
+      "to_date": "2026-09-06T11:55:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -91268,20 +92248,6 @@
       "cancelled": false
     },
     {
-      "nid": 853961,
-      "sport_name": "Basketball",
-      "title": "Begleitetes Spiel",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 60,
-      "places_taken": null,
-      "from_date": "2026-09-06T12:00:00Z",
-      "to_date": "2026-09-06T14:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 756667,
       "sport_name": "Zumba",
       "title": "Training",
@@ -91293,6 +92259,20 @@
       "from_date": "2026-09-06T12:00:00Z",
       "to_date": "2026-09-06T12:55:00Z",
       "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 853961,
+      "sport_name": "Basketball",
+      "title": "Begleitetes Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-06T12:00:00Z",
+      "to_date": "2026-09-06T14:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -91408,20 +92388,6 @@
       "cancelled": false
     },
     {
-      "nid": 733859,
-      "sport_name": "Schwimmen",
-      "title": "Sonntags Special: Ausdauerfokussiertes Training",
-      "facility_name": "Bad Bungertwies",
-      "location": "Bad Bungertwies",
-      "places_free": 14,
-      "places_max": 14,
-      "places_taken": 0,
-      "from_date": "2026-09-06T17:00:00Z",
-      "to_date": "2026-09-06T18:15:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 735850,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -91474,6 +92440,20 @@
       "places_taken": 10,
       "from_date": "2026-09-06T17:00:00Z",
       "to_date": "2026-09-12T08:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 733859,
+      "sport_name": "Schwimmen",
+      "title": "Sonntags Special: Ausdauerfokussiertes Training",
+      "facility_name": "Bad Bungertwies",
+      "location": "Bad Bungertwies",
+      "places_free": 14,
+      "places_max": 14,
+      "places_taken": 0,
+      "from_date": "2026-09-06T17:00:00Z",
+      "to_date": "2026-09-06T18:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
@@ -102389,9 +103369,9 @@
       "title": "D-Scheinkurs DKY23",
       "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
       "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 4,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-09-11T09:45:00Z",
       "to_date": "2026-10-17T15:00:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -104050,6 +105030,20 @@
       "cancelled": false
     },
     {
+      "nid": 757112,
+      "sport_name": "Running",
+      "title": "Longjog",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-09-12T07:15:00Z",
+      "to_date": "2026-09-12T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
       "nid": 737507,
       "sport_name": "Fitnessberatung",
       "title": "Programm-Einführung",
@@ -104159,20 +105153,6 @@
       "from_date": "2026-09-12T08:00:00Z",
       "to_date": "2026-09-12T13:00:00Z",
       "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 757112,
-      "sport_name": "Running",
-      "title": "Longjog",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-09-12T08:00:00Z",
-      "to_date": "2026-09-12T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -106948,20 +107928,6 @@
       "cancelled": false
     },
     {
-      "nid": 861940,
-      "sport_name": "Tennis",
-      "title": "F | Camp Tenero",
-      "facility_name": null,
-      "location": "Tenero",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-09-18T11:00:00Z",
-      "to_date": "2026-09-20T14:00:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 906383,
       "sport_name": "Foilsurfen",
       "title": "PumpFoil Workshop 46",
@@ -106987,6 +107953,20 @@
       "from_date": "2026-09-18T11:00:00Z",
       "to_date": "2026-09-20T14:00:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 861940,
+      "sport_name": "Tennis",
+      "title": "F | Camp Tenero",
+      "facility_name": null,
+      "location": "Tenero",
+      "places_free": 0,
+      "places_max": 6,
+      "places_taken": 6,
+      "from_date": "2026-09-18T11:00:00Z",
+      "to_date": "2026-09-20T14:00:00Z",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
