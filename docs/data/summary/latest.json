@@ -1,20 +1,6 @@
 {
-  "ts": "2026-07-11T15:35:06.239780+00:00",
+  "ts": "2026-07-11T17:04:33.729941+00:00",
   "events": [
-    {
-      "nid": 735412,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 2,
-      "places_max": 3,
-      "places_taken": 1,
-      "from_date": "2026-07-11T16:00:00Z",
-      "to_date": "2026-07-11T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 735738,
       "sport_name": "Squash",
@@ -49,9 +35,9 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 12,
+      "places_free": 11,
       "places_max": 30,
-      "places_taken": 18,
+      "places_taken": 19,
       "from_date": "2026-07-12T07:00:00Z",
       "to_date": "2026-07-12T07:55:00Z",
       "niveau_name": "Alle",
@@ -63,9 +49,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 9,
+      "places_free": 5,
       "places_max": 55,
-      "places_taken": 46,
+      "places_taken": 50,
       "from_date": "2026-07-12T07:15:00Z",
       "to_date": "2026-07-12T08:15:00Z",
       "niveau_name": "Alle",
@@ -156,20 +142,6 @@
       "cancelled": false
     },
     {
-      "nid": 736581,
-      "sport_name": "Standup Paddeln",
-      "title": "Training | LongDistance",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 7,
-      "places_max": 16,
-      "places_taken": 9,
-      "from_date": "2026-07-12T08:30:00Z",
-      "to_date": "2026-07-12T11:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 848134,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -181,6 +153,20 @@
       "from_date": "2026-07-12T08:30:00Z",
       "to_date": "2026-07-12T09:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736581,
+      "sport_name": "Standup Paddeln",
+      "title": "Training | LongDistance",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 8,
+      "places_max": 16,
+      "places_taken": 8,
+      "from_date": "2026-07-12T08:30:00Z",
+      "to_date": "2026-07-12T11:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -231,9 +217,9 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 38,
+      "places_free": 37,
       "places_max": 40,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-07-12T10:00:00Z",
       "to_date": "2026-07-12T10:55:00Z",
       "niveau_name": "Alle",
@@ -245,9 +231,9 @@
       "title": "Balance Pump",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 46,
+      "places_free": 45,
       "places_max": 55,
-      "places_taken": 9,
+      "places_taken": 10,
       "from_date": "2026-07-12T10:00:00Z",
       "to_date": "2026-07-12T11:00:00Z",
       "niveau_name": "Alle",
@@ -287,9 +273,9 @@
       "title": "Pilates | Les Mills Shapes",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 10,
+      "places_free": 9,
       "places_max": 30,
-      "places_taken": 20,
+      "places_taken": 21,
       "from_date": "2026-07-12T11:05:00Z",
       "to_date": "2026-07-12T12:00:00Z",
       "niveau_name": "Alle",
@@ -385,9 +371,9 @@
       "title": "freies Spiel",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 18,
+      "places_free": 16,
       "places_max": 22,
-      "places_taken": 4,
+      "places_taken": 6,
       "from_date": "2026-07-12T13:35:00Z",
       "to_date": "2026-07-12T15:30:00Z",
       "niveau_name": "Alle",
@@ -1752,20 +1738,6 @@
       "cancelled": false
     },
     {
-      "nid": 737439,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 2,
-      "places_taken": 2,
-      "from_date": "2026-07-13T15:30:00Z",
-      "to_date": "2026-07-13T16:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 781418,
       "sport_name": "Rennvelo",
       "title": "Gravel-Treff",
@@ -1822,6 +1794,20 @@
       "cancelled": false
     },
     {
+      "nid": 737439,
+      "sport_name": "Fitnessberatung",
+      "title": "Programm-Einführung",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 1,
+      "places_max": 2,
+      "places_taken": 1,
+      "from_date": "2026-07-13T15:30:00Z",
+      "to_date": "2026-07-13T16:30:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 905420,
       "sport_name": "Rowing Class",
       "title": "Training",
@@ -1860,34 +1846,6 @@
       "places_taken": 0,
       "from_date": "2026-07-13T16:00:00Z",
       "to_date": "2026-07-13T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 736479,
-      "sport_name": "Calisthenics",
-      "title": "Full Body Strength",
-      "facility_name": "Toni-Areal",
-      "location": "Toni-Areal",
-      "places_free": 24,
-      "places_max": 24,
-      "places_taken": 0,
-      "from_date": "2026-07-13T16:00:00Z",
-      "to_date": "2026-07-13T17:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 736255,
-      "sport_name": "Funktionelles Outdoortraining",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 35,
-      "places_max": 35,
-      "places_taken": 0,
-      "from_date": "2026-07-13T16:00:00Z",
-      "to_date": "2026-07-13T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -2046,6 +2004,34 @@
       "cancelled": false
     },
     {
+      "nid": 736255,
+      "sport_name": "Funktionelles Outdoortraining",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 34,
+      "places_max": 35,
+      "places_taken": 1,
+      "from_date": "2026-07-13T16:00:00Z",
+      "to_date": "2026-07-13T17:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736479,
+      "sport_name": "Calisthenics",
+      "title": "Full Body Strength",
+      "facility_name": "Toni-Areal",
+      "location": "Toni-Areal",
+      "places_free": 0,
+      "places_max": 24,
+      "places_taken": 24,
+      "from_date": "2026-07-13T16:00:00Z",
+      "to_date": "2026-07-13T17:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 744315,
       "sport_name": "Yoga",
       "title": "Training",
@@ -2158,20 +2144,6 @@
       "cancelled": false
     },
     {
-      "nid": 757038,
-      "sport_name": "Running",
-      "title": "Lauftraining",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 15,
-      "places_max": 15,
-      "places_taken": 0,
-      "from_date": "2026-07-13T16:15:00Z",
-      "to_date": "2026-07-13T17:45:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 736683,
       "sport_name": "Paddeln",
       "title": "Training",
@@ -2183,6 +2155,20 @@
       "from_date": "2026-07-13T16:15:00Z",
       "to_date": "2026-07-13T18:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757038,
+      "sport_name": "Running",
+      "title": "Lauftraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 12,
+      "places_max": 15,
+      "places_taken": 3,
+      "from_date": "2026-07-13T16:15:00Z",
+      "to_date": "2026-07-13T17:45:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -2914,20 +2900,6 @@
       "cancelled": false
     },
     {
-      "nid": 751603,
-      "sport_name": "Seniorenuni Sport",
-      "title": "Tanzen 60plus",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 50,
-      "places_max": 50,
-      "places_taken": 0,
-      "from_date": "2026-07-14T09:00:00Z",
-      "to_date": "2026-07-14T09:50:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 752204,
       "sport_name": "Body Combat",
       "title": "Training",
@@ -2938,6 +2910,20 @@
       "places_taken": 0,
       "from_date": "2026-07-14T09:00:00Z",
       "to_date": "2026-07-14T09:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 751603,
+      "sport_name": "Seniorenuni Sport",
+      "title": "Tanzen 60plus",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 50,
+      "places_max": 50,
+      "places_taken": 0,
+      "from_date": "2026-07-14T09:00:00Z",
+      "to_date": "2026-07-14T09:50:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -4076,20 +4062,6 @@
       "cancelled": false
     },
     {
-      "nid": 746855,
-      "sport_name": "Kickboxen",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 40,
-      "places_max": 40,
-      "places_taken": 0,
-      "from_date": "2026-07-14T16:15:00Z",
-      "to_date": "2026-07-14T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 749534,
       "sport_name": "Kondi",
       "title": "klassisch",
@@ -4129,20 +4101,6 @@
       "from_date": "2026-07-14T16:15:00Z",
       "to_date": "2026-07-14T17:45:00Z",
       "niveau_name": "Fortgeschrittene 2",
-      "cancelled": false
-    },
-    {
-      "nid": 746854,
-      "sport_name": "Karate-Do",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 25,
-      "places_max": 25,
-      "places_taken": 0,
-      "from_date": "2026-07-14T16:15:00Z",
-      "to_date": "2026-07-14T17:45:00Z",
-      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -4199,6 +4157,34 @@
       "from_date": "2026-07-14T16:15:00Z",
       "to_date": "2026-07-14T18:00:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 746855,
+      "sport_name": "Kickboxen",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 30,
+      "places_max": 40,
+      "places_taken": 10,
+      "from_date": "2026-07-14T16:15:00Z",
+      "to_date": "2026-07-14T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746854,
+      "sport_name": "Karate-Do",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 24,
+      "places_max": 25,
+      "places_taken": 1,
+      "from_date": "2026-07-14T16:15:00Z",
+      "to_date": "2026-07-14T17:45:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -19966,20 +19952,6 @@
       "cancelled": false
     },
     {
-      "nid": 737450,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 2,
-      "places_max": 2,
-      "places_taken": 0,
-      "from_date": "2026-07-27T15:30:00Z",
-      "to_date": "2026-07-27T16:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 742282,
       "sport_name": "Tauchen",
       "title": "Refresher im Zürichsee 20",
@@ -20047,6 +20019,20 @@
       "from_date": "2026-07-27T15:30:00Z",
       "to_date": "2026-07-27T18:30:00Z",
       "niveau_name": "D-Schein",
+      "cancelled": false
+    },
+    {
+      "nid": 737450,
+      "sport_name": "Fitnessberatung",
+      "title": "Programm-Einführung",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 2,
+      "places_taken": 2,
+      "from_date": "2026-07-27T15:30:00Z",
+      "to_date": "2026-07-27T16:30:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -27685,9 +27671,9 @@
       "title": "Schnuppertraining",
       "facility_name": null,
       "location": null,
-      "places_free": null,
+      "places_free": 3,
       "places_max": 4,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-08-02T08:00:00Z",
       "to_date": "2026-08-02T11:00:00Z",
       "niveau_name": "Alle",
@@ -40644,20 +40630,6 @@
       "cancelled": false
     },
     {
-      "nid": 805201,
-      "sport_name": "Hochtouren",
-      "title": "Breithorn 02 (4164m ü.M.) ",
-      "facility_name": null,
-      "location": "Wallis",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-08-12T09:00:00Z",
-      "to_date": "2026-08-14T16:00:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 754098,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
@@ -40683,6 +40655,20 @@
       "from_date": "2026-08-12T09:00:00Z",
       "to_date": "2026-08-12T09:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 805201,
+      "sport_name": "Hochtouren",
+      "title": "Breithorn 02 (4164m ü.M.) ",
+      "facility_name": null,
+      "location": "Wallis",
+      "places_free": 1,
+      "places_max": 4,
+      "places_taken": 3,
+      "from_date": "2026-08-12T09:00:00Z",
+      "to_date": "2026-08-14T16:00:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
