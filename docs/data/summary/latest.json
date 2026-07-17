@@ -1,155 +1,15 @@
 {
-  "ts": "2026-07-17T10:53:17.101603+00:00",
+  "ts": "2026-07-17T12:15:37.154145+00:00",
   "events": [
-    {
-      "nid": 906317,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 2,
-      "places_taken": null,
-      "from_date": "2026-07-17T10:30:00Z",
-      "to_date": "2026-07-17T11:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 751414,
-      "sport_name": "Entspannen",
-      "title": "Relax Uniturm",
-      "facility_name": "Relax Uniturm",
-      "location": "Relax Uniturm",
-      "places_free": 11,
-      "places_max": 12,
-      "places_taken": 1,
-      "from_date": "2026-07-17T10:45:00Z",
-      "to_date": "2026-07-17T11:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 734760,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 3,
-      "places_max": 3,
-      "places_taken": 0,
-      "from_date": "2026-07-17T11:00:00Z",
-      "to_date": "2026-07-17T12:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 747562,
-      "sport_name": "Meditation",
-      "title": "Freies Meditieren",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-07-17T11:00:00Z",
-      "to_date": "2026-07-17T15:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750561,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 11,
-      "places_max": 11,
-      "places_taken": 0,
-      "from_date": "2026-07-17T11:00:00Z",
-      "to_date": "2026-07-17T11:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 745190,
-      "sport_name": "Yoga",
-      "title": "Yoga & Meditation",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 5,
-      "places_max": 20,
-      "places_taken": 15,
-      "from_date": "2026-07-17T11:00:00Z",
-      "to_date": "2026-07-17T12:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 744030,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 28,
-      "places_max": 30,
-      "places_taken": 2,
-      "from_date": "2026-07-17T11:15:00Z",
-      "to_date": "2026-07-17T12:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 751415,
-      "sport_name": "Entspannen",
-      "title": "Relax Uniturm",
-      "facility_name": "Relax Uniturm",
-      "location": "Relax Uniturm",
-      "places_free": 36,
-      "places_max": 36,
-      "places_taken": 0,
-      "from_date": "2026-07-17T11:30:00Z",
-      "to_date": "2026-07-17T15:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 906318,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 2,
-      "places_taken": null,
-      "from_date": "2026-07-17T11:30:00Z",
-      "to_date": "2026-07-17T12:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750562,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 43,
-      "places_max": 44,
-      "places_taken": 1,
-      "from_date": "2026-07-17T11:45:00Z",
-      "to_date": "2026-07-17T15:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 746864,
       "sport_name": "Kickboxen",
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 17,
+      "places_free": 12,
       "places_max": 30,
-      "places_taken": 13,
+      "places_taken": 18,
       "from_date": "2026-07-17T12:20:00Z",
       "to_date": "2026-07-17T13:50:00Z",
       "niveau_name": "Alle",
@@ -189,9 +49,9 @@
       "title": "Power Yoga (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 22,
+      "places_free": 20,
       "places_max": 30,
-      "places_taken": 8,
+      "places_taken": 10,
       "from_date": "2026-07-17T13:45:00Z",
       "to_date": "2026-07-17T14:55:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -324,58 +184,30 @@
       "cancelled": false
     },
     {
-      "nid": 744031,
-      "sport_name": "Pilates",
-      "title": "T-BOW® Pilates ",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 22,
-      "places_max": 30,
-      "places_taken": 8,
-      "from_date": "2026-07-17T15:00:00Z",
-      "to_date": "2026-07-17T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748484,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 18,
-      "places_max": 35,
-      "places_taken": 17,
-      "from_date": "2026-07-17T15:00:00Z",
-      "to_date": "2026-07-17T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748485,
-      "sport_name": "T-BOW",
-      "title": "Balance Pump",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 34,
-      "places_max": 55,
-      "places_taken": 21,
-      "from_date": "2026-07-17T15:00:00Z",
-      "to_date": "2026-07-17T16:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 759392,
       "sport_name": "Volleyball",
       "title": "Spiel ",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 12,
-      "places_taken": 11,
+      "places_taken": 12,
       "from_date": "2026-07-17T15:00:00Z",
       "to_date": "2026-07-17T16:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 750563,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": 91,
+      "places_max": 120,
+      "places_taken": 29,
+      "from_date": "2026-07-17T15:00:00Z",
+      "to_date": "2026-07-17T15:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -394,16 +226,30 @@
       "cancelled": false
     },
     {
-      "nid": 750563,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 92,
-      "places_max": 120,
-      "places_taken": 28,
+      "nid": 748484,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 19,
+      "places_max": 35,
+      "places_taken": 16,
       "from_date": "2026-07-17T15:00:00Z",
       "to_date": "2026-07-17T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 748485,
+      "sport_name": "T-BOW",
+      "title": "Balance Pump",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 35,
+      "places_max": 55,
+      "places_taken": 20,
+      "from_date": "2026-07-17T15:00:00Z",
+      "to_date": "2026-07-17T16:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -413,11 +259,25 @@
       "title": "Freies Spiel, Kunstrasen",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 13,
+      "places_free": 12,
       "places_max": 20,
-      "places_taken": 7,
+      "places_taken": 8,
       "from_date": "2026-07-17T15:00:00Z",
       "to_date": "2026-07-17T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 744031,
+      "sport_name": "Pilates",
+      "title": "T-BOW® Pilates ",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 21,
+      "places_max": 30,
+      "places_taken": 9,
+      "from_date": "2026-07-17T15:00:00Z",
+      "to_date": "2026-07-17T15:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -478,20 +338,6 @@
       "cancelled": false
     },
     {
-      "nid": 736586,
-      "sport_name": "Standup Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 6,
-      "places_max": 16,
-      "places_taken": 10,
-      "from_date": "2026-07-17T16:00:00Z",
-      "to_date": "2026-07-17T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 758809,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -506,30 +352,44 @@
       "cancelled": false
     },
     {
+      "nid": 735418,
+      "sport_name": "Squash",
+      "title": "Freies Spiel",
+      "facility_name": "Winterthur Squashanlage Gertrud",
+      "location": "Winterthur Squashanlage Gertrud",
+      "places_free": 0,
+      "places_max": 3,
+      "places_taken": 3,
+      "from_date": "2026-07-17T16:00:00Z",
+      "to_date": "2026-07-17T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 743362,
       "sport_name": "Chi Ball",
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 20,
+      "places_free": 18,
       "places_max": 25,
-      "places_taken": 5,
+      "places_taken": 7,
       "from_date": "2026-07-17T16:00:00Z",
       "to_date": "2026-07-17T16:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 735418,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 1,
-      "places_max": 3,
-      "places_taken": 2,
+      "nid": 736586,
+      "sport_name": "Standup Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 8,
+      "places_max": 16,
+      "places_taken": 8,
       "from_date": "2026-07-17T16:00:00Z",
-      "to_date": "2026-07-17T17:00:00Z",
+      "to_date": "2026-07-17T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -548,20 +408,6 @@
       "cancelled": true
     },
     {
-      "nid": 850477,
-      "sport_name": "Taekwondo",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 20,
-      "places_taken": 8,
-      "from_date": "2026-07-17T16:15:00Z",
-      "to_date": "2026-07-17T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 755713,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -576,30 +422,44 @@
       "cancelled": false
     },
     {
+      "nid": 744470,
+      "sport_name": "Yoga",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": 24,
+      "places_max": 35,
+      "places_taken": 11,
+      "from_date": "2026-07-17T16:15:00Z",
+      "to_date": "2026-07-17T17:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 736687,
       "sport_name": "Paddeln",
       "title": "Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 3,
+      "places_free": 4,
       "places_max": 20,
-      "places_taken": 17,
+      "places_taken": 16,
       "from_date": "2026-07-17T16:15:00Z",
       "to_date": "2026-07-17T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 744470,
-      "sport_name": "Yoga",
+      "nid": 850477,
+      "sport_name": "Taekwondo",
       "title": "Training",
-      "facility_name": "Sport Center Gloriarank",
-      "location": "Sport Center Gloriarank",
-      "places_free": 25,
-      "places_max": 35,
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 10,
+      "places_max": 20,
       "places_taken": 10,
       "from_date": "2026-07-17T16:15:00Z",
-      "to_date": "2026-07-17T17:25:00Z",
+      "to_date": "2026-07-17T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -609,9 +469,37 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 0,
+      "places_free": 1,
       "places_max": 2,
-      "places_taken": 2,
+      "places_taken": 1,
+      "from_date": "2026-07-17T16:30:00Z",
+      "to_date": "2026-07-17T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 739792,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 13,
+      "places_max": 30,
+      "places_taken": 17,
+      "from_date": "2026-07-17T16:30:00Z",
+      "to_date": "2026-07-17T18:00:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
+      "nid": 732177,
+      "sport_name": "CrossFit",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 27,
+      "places_max": 30,
+      "places_taken": 3,
       "from_date": "2026-07-17T16:30:00Z",
       "to_date": "2026-07-17T17:30:00Z",
       "niveau_name": "Alle",
@@ -629,34 +517,6 @@
       "from_date": "2026-07-17T16:30:00Z",
       "to_date": "2026-07-17T17:25:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 732177,
-      "sport_name": "CrossFit",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 29,
-      "places_max": 30,
-      "places_taken": 1,
-      "from_date": "2026-07-17T16:30:00Z",
-      "to_date": "2026-07-17T17:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 739792,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 14,
-      "places_max": 30,
-      "places_taken": 16,
-      "from_date": "2026-07-17T16:30:00Z",
-      "to_date": "2026-07-17T18:00:00Z",
-      "niveau_name": "Einsteiger 2",
       "cancelled": false
     },
     {
@@ -707,25 +567,11 @@
       "title": "Spiel Indoor",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 28,
+      "places_free": 27,
       "places_max": 48,
-      "places_taken": 20,
+      "places_taken": 21,
       "from_date": "2026-07-17T17:00:00Z",
       "to_date": "2026-07-17T18:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 906324,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 1,
-      "places_max": 2,
-      "places_taken": 1,
-      "from_date": "2026-07-17T17:30:00Z",
-      "to_date": "2026-07-17T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -744,14 +590,28 @@
       "cancelled": false
     },
     {
+      "nid": 906324,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 2,
+      "places_taken": 2,
+      "from_date": "2026-07-17T17:30:00Z",
+      "to_date": "2026-07-17T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 733101,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 17,
+      "places_free": 16,
       "places_max": 22,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-07-17T17:45:00Z",
       "to_date": "2026-07-17T19:45:00Z",
       "niveau_name": "Alle",
@@ -763,9 +623,9 @@
       "title": "Training",
       "facility_name": "Sport Center Gloriarank",
       "location": "Sport Center Gloriarank",
-      "places_free": 8,
+      "places_free": 9,
       "places_max": 19,
-      "places_taken": 11,
+      "places_taken": 10,
       "from_date": "2026-07-17T17:55:00Z",
       "to_date": "2026-07-17T19:00:00Z",
       "niveau_name": "Alle",
@@ -903,9 +763,9 @@
       "title": "Freies Spiel",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 14,
+      "places_free": 13,
       "places_max": 16,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-07-18T07:30:00Z",
       "to_date": "2026-07-18T09:25:00Z",
       "niveau_name": "Alle",
@@ -940,20 +800,6 @@
       "cancelled": false
     },
     {
-      "nid": 781422,
-      "sport_name": "Rennvelo",
-      "title": "Treff",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 7,
-      "places_max": 16,
-      "places_taken": 9,
-      "from_date": "2026-07-18T08:00:00Z",
-      "to_date": "2026-07-18T13:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 781421,
       "sport_name": "Rennvelo",
       "title": "Einsteiger-/Schnupperausfahrt",
@@ -973,12 +819,26 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 22,
+      "places_free": 21,
       "places_max": 30,
-      "places_taken": 8,
+      "places_taken": 9,
       "from_date": "2026-07-18T08:00:00Z",
       "to_date": "2026-07-18T08:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 781422,
+      "sport_name": "Rennvelo",
+      "title": "Treff",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 6,
+      "places_max": 16,
+      "places_taken": 10,
+      "from_date": "2026-07-18T08:00:00Z",
+      "to_date": "2026-07-18T13:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -987,9 +847,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 22,
+      "places_free": 16,
       "places_max": 55,
-      "places_taken": 33,
+      "places_taken": 39,
       "from_date": "2026-07-18T08:15:00Z",
       "to_date": "2026-07-18T09:10:00Z",
       "niveau_name": "Alle",
@@ -1001,9 +861,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 10,
+      "places_free": 6,
       "places_max": 25,
-      "places_taken": 15,
+      "places_taken": 19,
       "from_date": "2026-07-18T08:20:00Z",
       "to_date": "2026-07-18T09:10:00Z",
       "niveau_name": "Alle",
@@ -1029,9 +889,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 34,
+      "places_free": 33,
       "places_max": 35,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-07-18T08:30:00Z",
       "to_date": "2026-07-18T09:25:00Z",
       "niveau_name": "Alle",
@@ -1043,9 +903,9 @@
       "title": "Long Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 5,
+      "places_free": 2,
       "places_max": 20,
-      "places_taken": 15,
+      "places_taken": 18,
       "from_date": "2026-07-18T08:30:00Z",
       "to_date": "2026-07-18T10:30:00Z",
       "niveau_name": "Alle",
@@ -1080,6 +940,20 @@
       "cancelled": false
     },
     {
+      "nid": 743482,
+      "sport_name": "Pilates",
+      "title": "Training (mit Livestream)",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 23,
+      "places_max": 30,
+      "places_taken": 7,
+      "from_date": "2026-07-18T09:00:00Z",
+      "to_date": "2026-07-18T09:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 752570,
       "sport_name": "Body Combat",
       "title": "Training",
@@ -1088,20 +962,6 @@
       "places_free": 30,
       "places_max": 40,
       "places_taken": 10,
-      "from_date": "2026-07-18T09:00:00Z",
-      "to_date": "2026-07-18T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 743482,
-      "sport_name": "Pilates",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 24,
-      "places_max": 30,
-      "places_taken": 6,
       "from_date": "2026-07-18T09:00:00Z",
       "to_date": "2026-07-18T09:55:00Z",
       "niveau_name": "Alle",
@@ -1155,9 +1015,9 @@
       "title": "Freies Spiel",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 7,
+      "places_free": 0,
       "places_max": 16,
-      "places_taken": 9,
+      "places_taken": 16,
       "from_date": "2026-07-18T09:30:00Z",
       "to_date": "2026-07-18T11:25:00Z",
       "niveau_name": "Alle",
@@ -1211,9 +1071,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 28,
+      "places_free": 26,
       "places_max": 35,
-      "places_taken": 7,
+      "places_taken": 9,
       "from_date": "2026-07-18T10:35:00Z",
       "to_date": "2026-07-18T11:30:00Z",
       "niveau_name": "Alle",
@@ -1248,34 +1108,6 @@
       "cancelled": false
     },
     {
-      "nid": 736587,
-      "sport_name": "Standup Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-07-18T11:30:00Z",
-      "to_date": "2026-07-18T13:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755249,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-07-18T11:30:00Z",
-      "to_date": "2026-07-18T13:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 883341,
       "sport_name": "Segeln Yacht",
       "title": "Training",
@@ -1304,14 +1136,42 @@
       "cancelled": false
     },
     {
+      "nid": 736587,
+      "sport_name": "Standup Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
+      "from_date": "2026-07-18T11:30:00Z",
+      "to_date": "2026-07-18T13:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755249,
+      "sport_name": "Volleyball",
+      "title": "Freies Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 10,
+      "places_max": 16,
+      "places_taken": 6,
+      "from_date": "2026-07-18T11:30:00Z",
+      "to_date": "2026-07-18T13:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 848115,
       "sport_name": "Muscle Pump",
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": null,
+      "places_free": 0,
       "places_max": 55,
-      "places_taken": null,
+      "places_taken": 55,
       "from_date": "2026-07-18T12:00:00Z",
       "to_date": "2026-07-18T13:00:00Z",
       "niveau_name": "Alle",
@@ -7161,9 +7021,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 2,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-07-23T15:30:00Z",
       "to_date": "2026-07-23T16:30:00Z",
       "niveau_name": "Alle",
@@ -10460,20 +10320,6 @@
       "cancelled": false
     },
     {
-      "nid": 883320,
-      "sport_name": "Tennis",
-      "title": "M | Mo-So, 1300-1425",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-07-27T11:00:00Z",
-      "to_date": "2026-08-02T12:25:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 853988,
       "sport_name": "Basketball",
       "title": "Spiel",
@@ -10485,6 +10331,20 @@
       "from_date": "2026-07-27T11:00:00Z",
       "to_date": "2026-07-27T12:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 883320,
+      "sport_name": "Tennis",
+      "title": "M | Mo-So, 1300-1425",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 6,
+      "places_taken": 6,
+      "from_date": "2026-07-27T11:00:00Z",
+      "to_date": "2026-08-02T12:25:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -13694,20 +13554,6 @@
       "cancelled": false
     },
     {
-      "nid": 854077,
-      "sport_name": "Basketball",
-      "title": "Spiel",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": null,
-      "places_max": 60,
-      "places_taken": null,
-      "from_date": "2026-07-28T18:00:00Z",
-      "to_date": "2026-07-28T20:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 757624,
       "sport_name": "Badminton",
       "title": "Training",
@@ -13719,6 +13565,20 @@
       "from_date": "2026-07-28T18:00:00Z",
       "to_date": "2026-07-28T19:40:00Z",
       "niveau_name": "Wettkämpfer",
+      "cancelled": false
+    },
+    {
+      "nid": 854077,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-07-28T18:00:00Z",
+      "to_date": "2026-07-28T20:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -37564,20 +37424,6 @@
       "cancelled": false
     },
     {
-      "nid": 854669,
-      "sport_name": "Basketball",
-      "title": "Begleitetes Spiel",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 60,
-      "places_taken": null,
-      "from_date": "2026-08-15T12:00:00Z",
-      "to_date": "2026-08-15T14:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 848117,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -37603,6 +37449,20 @@
       "from_date": "2026-08-15T12:00:00Z",
       "to_date": "2026-08-16T15:00:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 854669,
+      "sport_name": "Basketball",
+      "title": "Begleitetes Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-08-15T12:00:00Z",
+      "to_date": "2026-08-15T14:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -38502,20 +38362,6 @@
       "cancelled": false
     },
     {
-      "nid": 850850,
-      "sport_name": "Tennis",
-      "title": "E | Mo, 1000-1155",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-08-17T08:00:00Z",
-      "to_date": "2026-09-28T09:55:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 850849,
       "sport_name": "Tennis",
       "title": "F | Mo, 1000-1155",
@@ -38527,6 +38373,20 @@
       "from_date": "2026-08-17T08:00:00Z",
       "to_date": "2026-09-28T09:55:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 850850,
+      "sport_name": "Tennis",
+      "title": "E | Mo, 1000-1155",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 6,
+      "places_taken": 6,
+      "from_date": "2026-08-17T08:00:00Z",
+      "to_date": "2026-09-28T09:55:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -41419,9 +41279,9 @@
       "title": "M | Di, 1200-1325",
       "facility_name": "Sportcenter Schumacher",
       "location": "Sportcenter Schumacher",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 4,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-08-18T10:00:00Z",
       "to_date": "2026-09-15T11:25:00Z",
       "niveau_name": "Mittlere",
@@ -43197,9 +43057,9 @@
       "title": "Einsteigerkurs Dienstag",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 5,
+      "places_free": 4,
       "places_max": 5,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-08-18T17:30:00Z",
       "to_date": "2026-09-08T18:55:00Z",
       "niveau_name": "Einsteiger",
@@ -45894,20 +45754,6 @@
       "cancelled": false
     },
     {
-      "nid": 850865,
-      "sport_name": "Tennis",
-      "title": "M | Do, 1000-1155",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 3,
-      "places_taken": 3,
-      "from_date": "2026-08-20T08:00:00Z",
-      "to_date": "2026-10-01T09:55:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 850866,
       "sport_name": "Tennis",
       "title": "F | Do, 1000-1155",
@@ -45919,6 +45765,20 @@
       "from_date": "2026-08-20T08:00:00Z",
       "to_date": "2026-10-01T09:55:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 850865,
+      "sport_name": "Tennis",
+      "title": "M | Do, 1000-1155",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 3,
+      "places_taken": 3,
+      "from_date": "2026-08-20T08:00:00Z",
+      "to_date": "2026-10-01T09:55:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -90806,20 +90666,6 @@
       "cancelled": false
     },
     {
-      "nid": 906382,
-      "sport_name": "Foilsurfen",
-      "title": "PumpFoil Workshop 45",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 4,
-      "places_max": 6,
-      "places_taken": 2,
-      "from_date": "2026-09-11T11:00:00Z",
-      "to_date": "2026-09-11T13:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 745246,
       "sport_name": "Yoga",
       "title": "Yoga & Meditation",
@@ -90886,6 +90732,20 @@
       "places_taken": null,
       "from_date": "2026-09-11T11:00:00Z",
       "to_date": "2026-09-11T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 906382,
+      "sport_name": "Foilsurfen",
+      "title": "PumpFoil Workshop 45",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 3,
+      "places_max": 6,
+      "places_taken": 3,
+      "from_date": "2026-09-11T11:00:00Z",
+      "to_date": "2026-09-11T13:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -93508,6 +93368,20 @@
       "cancelled": false
     },
     {
+      "nid": 917392,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-14T08:30:00Z",
+      "to_date": "2026-09-14T09:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914355,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -93575,6 +93449,20 @@
       "from_date": "2026-09-14T10:00:00Z",
       "to_date": "2026-09-14T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917393,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-14T10:00:00Z",
+      "to_date": "2026-09-14T11:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -93659,6 +93547,20 @@
       "from_date": "2026-09-14T14:30:00Z",
       "to_date": "2026-09-14T15:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917394,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-14T14:30:00Z",
+      "to_date": "2026-09-14T16:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -93802,6 +93704,20 @@
       "cancelled": false
     },
     {
+      "nid": 917395,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-14T16:45:00Z",
+      "to_date": "2026-09-14T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 915367,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -93869,6 +93785,20 @@
       "from_date": "2026-09-14T17:30:00Z",
       "to_date": "2026-09-14T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917487,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-14T17:50:00Z",
+      "to_date": "2026-09-14T19:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -94040,6 +93970,20 @@
       "cancelled": false
     },
     {
+      "nid": 917488,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-15T10:00:00Z",
+      "to_date": "2026-09-15T11:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914702,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -94121,6 +94065,20 @@
       "from_date": "2026-09-15T14:20:00Z",
       "to_date": "2026-09-15T15:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917489,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-15T14:25:00Z",
+      "to_date": "2026-09-15T15:45:00Z",
+      "niveau_name": "Einsteiger 2",
       "cancelled": false
     },
     {
@@ -94246,6 +94204,20 @@
       "places_taken": 0,
       "from_date": "2026-09-15T15:30:00Z",
       "to_date": "2026-09-15T17:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 917559,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-15T15:50:00Z",
+      "to_date": "2026-09-15T17:05:00Z",
       "niveau_name": "Mittlere",
       "cancelled": false
     },
@@ -94527,6 +94499,20 @@
       "from_date": "2026-09-15T19:00:00Z",
       "to_date": "2026-09-15T19:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917560,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-16T06:30:00Z",
+      "to_date": "2026-09-16T08:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -94843,9 +94829,9 @@
       "title": "Staff-Treff 2026",
       "facility_name": null,
       "location": "Kino Abaton, Foyer IMAX",
-      "places_free": 297,
+      "places_free": 296,
       "places_max": 400,
-      "places_taken": 103,
+      "places_taken": 104,
       "from_date": "2026-09-16T16:30:00Z",
       "to_date": "2026-09-16T20:00:00Z",
       "niveau_name": "Alle",
@@ -96602,6 +96588,20 @@
       "cancelled": false
     },
     {
+      "nid": 917396,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-21T08:30:00Z",
+      "to_date": "2026-09-21T09:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914362,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -96669,6 +96669,20 @@
       "from_date": "2026-09-21T10:00:00Z",
       "to_date": "2026-09-21T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917397,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-21T10:00:00Z",
+      "to_date": "2026-09-21T11:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -96767,6 +96781,20 @@
       "from_date": "2026-09-21T14:00:00Z",
       "to_date": "2026-09-21T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917398,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-21T14:30:00Z",
+      "to_date": "2026-09-21T16:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -96952,6 +96980,20 @@
       "cancelled": false
     },
     {
+      "nid": 917399,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-21T16:45:00Z",
+      "to_date": "2026-09-21T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 915374,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -97019,6 +97061,20 @@
       "from_date": "2026-09-21T17:30:00Z",
       "to_date": "2026-09-21T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917490,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-21T17:50:00Z",
+      "to_date": "2026-09-21T19:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -97204,6 +97260,20 @@
       "cancelled": false
     },
     {
+      "nid": 917491,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-22T10:00:00Z",
+      "to_date": "2026-09-22T11:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914709,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -97288,6 +97358,20 @@
       "cancelled": false
     },
     {
+      "nid": 917492,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-22T14:25:00Z",
+      "to_date": "2026-09-22T15:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 755887,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -97341,6 +97425,20 @@
       "from_date": "2026-09-22T15:30:00Z",
       "to_date": "2026-09-22T17:00:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 917561,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-22T15:50:00Z",
+      "to_date": "2026-09-22T17:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -97593,6 +97691,20 @@
       "from_date": "2026-09-22T19:00:00Z",
       "to_date": "2026-09-22T19:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917562,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-23T06:30:00Z",
+      "to_date": "2026-09-23T08:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -99444,6 +99556,20 @@
       "cancelled": false
     },
     {
+      "nid": 917400,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-28T08:30:00Z",
+      "to_date": "2026-09-28T09:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914369,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -99514,6 +99640,20 @@
       "cancelled": false
     },
     {
+      "nid": 917401,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-28T10:00:00Z",
+      "to_date": "2026-09-28T11:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914715,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -99581,6 +99721,20 @@
       "from_date": "2026-09-28T14:00:00Z",
       "to_date": "2026-09-28T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917402,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-28T14:30:00Z",
+      "to_date": "2026-09-28T16:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -99724,6 +99878,20 @@
       "cancelled": false
     },
     {
+      "nid": 917403,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-28T16:45:00Z",
+      "to_date": "2026-09-28T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911955,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -99791,6 +99959,20 @@
       "from_date": "2026-09-28T17:30:00Z",
       "to_date": "2026-09-28T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917493,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-28T17:50:00Z",
+      "to_date": "2026-09-28T19:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -99962,6 +100144,20 @@
       "cancelled": false
     },
     {
+      "nid": 917494,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-29T10:00:00Z",
+      "to_date": "2026-09-29T11:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914716,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -100046,6 +100242,20 @@
       "cancelled": false
     },
     {
+      "nid": 917495,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-29T14:25:00Z",
+      "to_date": "2026-09-29T15:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 755895,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -100098,6 +100308,20 @@
       "places_taken": 0,
       "from_date": "2026-09-29T15:30:00Z",
       "to_date": "2026-09-29T17:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 917563,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-29T15:50:00Z",
+      "to_date": "2026-09-29T17:05:00Z",
       "niveau_name": "Mittlere",
       "cancelled": false
     },
@@ -100295,6 +100519,20 @@
       "from_date": "2026-09-29T19:00:00Z",
       "to_date": "2026-09-29T19:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917564,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-30T06:30:00Z",
+      "to_date": "2026-09-30T08:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -101908,6 +102146,20 @@
       "cancelled": false
     },
     {
+      "nid": 917404,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-05T08:30:00Z",
+      "to_date": "2026-10-05T09:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914376,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -101947,6 +102199,20 @@
       "from_date": "2026-10-05T10:00:00Z",
       "to_date": "2026-10-05T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917405,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-05T10:00:00Z",
+      "to_date": "2026-10-05T11:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -102045,6 +102311,20 @@
       "from_date": "2026-10-05T14:00:00Z",
       "to_date": "2026-10-05T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917406,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-05T14:30:00Z",
+      "to_date": "2026-10-05T16:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -102188,6 +102468,20 @@
       "cancelled": false
     },
     {
+      "nid": 917407,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-05T16:45:00Z",
+      "to_date": "2026-10-05T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911959,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -102255,6 +102549,20 @@
       "from_date": "2026-10-05T17:30:00Z",
       "to_date": "2026-10-05T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917496,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-05T17:50:00Z",
+      "to_date": "2026-10-05T19:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -102398,6 +102706,20 @@
       "cancelled": false
     },
     {
+      "nid": 917497,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-06T10:00:00Z",
+      "to_date": "2026-10-06T11:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914723,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -102468,6 +102790,20 @@
       "cancelled": false
     },
     {
+      "nid": 917498,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-06T14:25:00Z",
+      "to_date": "2026-10-06T15:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 755900,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -102521,6 +102857,20 @@
       "from_date": "2026-10-06T15:30:00Z",
       "to_date": "2026-10-06T17:00:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 917565,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-06T15:50:00Z",
+      "to_date": "2026-10-06T17:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -102647,6 +102997,20 @@
       "from_date": "2026-10-06T19:00:00Z",
       "to_date": "2026-10-06T19:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917566,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-07T06:30:00Z",
+      "to_date": "2026-10-07T08:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -104148,6 +104512,20 @@
       "cancelled": false
     },
     {
+      "nid": 917408,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-12T08:30:00Z",
+      "to_date": "2026-10-12T09:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914383,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -104187,6 +104565,20 @@
       "from_date": "2026-10-12T10:00:00Z",
       "to_date": "2026-10-12T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917409,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-12T10:00:00Z",
+      "to_date": "2026-10-12T11:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -104271,6 +104663,20 @@
       "from_date": "2026-10-12T14:30:00Z",
       "to_date": "2026-10-12T15:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917410,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-12T14:30:00Z",
+      "to_date": "2026-10-12T16:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -104386,6 +104792,20 @@
       "cancelled": false
     },
     {
+      "nid": 917411,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-12T16:45:00Z",
+      "to_date": "2026-10-12T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 907732,
       "sport_name": "Specials",
       "title": "Curling Schnupperangebot",
@@ -104467,6 +104887,20 @@
       "from_date": "2026-10-12T17:30:00Z",
       "to_date": "2026-10-12T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917499,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-12T17:50:00Z",
+      "to_date": "2026-10-12T19:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -104624,6 +105058,20 @@
       "cancelled": false
     },
     {
+      "nid": 917500,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-13T10:00:00Z",
+      "to_date": "2026-10-13T11:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914730,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -104694,6 +105142,20 @@
       "cancelled": false
     },
     {
+      "nid": 917501,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-13T14:25:00Z",
+      "to_date": "2026-10-13T15:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 755905,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -104746,6 +105208,20 @@
       "places_taken": 0,
       "from_date": "2026-10-13T15:30:00Z",
       "to_date": "2026-10-13T17:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 917567,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-13T15:50:00Z",
+      "to_date": "2026-10-13T17:05:00Z",
       "niveau_name": "Mittlere",
       "cancelled": false
     },
@@ -104873,6 +105349,20 @@
       "from_date": "2026-10-13T19:00:00Z",
       "to_date": "2026-10-13T19:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917568,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-14T06:30:00Z",
+      "to_date": "2026-10-14T08:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -106332,6 +106822,20 @@
       "cancelled": false
     },
     {
+      "nid": 917412,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-19T08:30:00Z",
+      "to_date": "2026-10-19T09:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914390,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -106371,6 +106875,20 @@
       "from_date": "2026-10-19T10:00:00Z",
       "to_date": "2026-10-19T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917413,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-19T10:00:00Z",
+      "to_date": "2026-10-19T11:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -106427,6 +106945,20 @@
       "from_date": "2026-10-19T14:00:00Z",
       "to_date": "2026-10-19T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917414,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-19T14:30:00Z",
+      "to_date": "2026-10-19T16:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -106556,6 +107088,20 @@
       "cancelled": false
     },
     {
+      "nid": 917415,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-19T16:45:00Z",
+      "to_date": "2026-10-19T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911967,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -106623,6 +107169,20 @@
       "from_date": "2026-10-19T17:30:00Z",
       "to_date": "2026-10-19T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917502,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-19T17:50:00Z",
+      "to_date": "2026-10-19T19:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -106794,6 +107354,20 @@
       "cancelled": false
     },
     {
+      "nid": 917503,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-20T10:00:00Z",
+      "to_date": "2026-10-20T11:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914737,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -106864,6 +107438,20 @@
       "cancelled": false
     },
     {
+      "nid": 917504,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-20T14:25:00Z",
+      "to_date": "2026-10-20T15:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 755910,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -106917,6 +107505,20 @@
       "from_date": "2026-10-20T15:30:00Z",
       "to_date": "2026-10-20T17:00:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 917569,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-20T15:50:00Z",
+      "to_date": "2026-10-20T17:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -107057,6 +107659,20 @@
       "from_date": "2026-10-20T19:00:00Z",
       "to_date": "2026-10-20T19:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917570,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-21T06:30:00Z",
+      "to_date": "2026-10-21T08:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -108502,6 +109118,20 @@
       "cancelled": false
     },
     {
+      "nid": 917416,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-26T09:30:00Z",
+      "to_date": "2026-10-26T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914397,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -108544,6 +109174,20 @@
       "cancelled": false
     },
     {
+      "nid": 917417,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-26T11:00:00Z",
+      "to_date": "2026-10-26T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914743,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -108583,6 +109227,20 @@
       "from_date": "2026-10-26T15:30:00Z",
       "to_date": "2026-10-26T16:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917418,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-26T15:30:00Z",
+      "to_date": "2026-10-26T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -108684,6 +109342,20 @@
       "cancelled": false
     },
     {
+      "nid": 917419,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-26T17:45:00Z",
+      "to_date": "2026-10-26T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911971,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -108751,6 +109423,20 @@
       "from_date": "2026-10-26T18:30:00Z",
       "to_date": "2026-10-26T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917505,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-26T18:50:00Z",
+      "to_date": "2026-10-26T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -108908,6 +109594,20 @@
       "cancelled": false
     },
     {
+      "nid": 917506,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-27T11:00:00Z",
+      "to_date": "2026-10-27T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914744,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -108978,6 +109678,20 @@
       "cancelled": false
     },
     {
+      "nid": 917507,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-27T15:25:00Z",
+      "to_date": "2026-10-27T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 755915,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
@@ -109030,6 +109744,20 @@
       "places_taken": 0,
       "from_date": "2026-10-27T16:30:00Z",
       "to_date": "2026-10-27T18:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 917571,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-27T16:50:00Z",
+      "to_date": "2026-10-27T18:05:00Z",
       "niveau_name": "Mittlere",
       "cancelled": false
     },
@@ -109171,6 +109899,20 @@
       "from_date": "2026-10-27T20:00:00Z",
       "to_date": "2026-10-27T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917572,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-28T07:30:00Z",
+      "to_date": "2026-10-28T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -110462,6 +111204,20 @@
       "cancelled": false
     },
     {
+      "nid": 917420,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-02T09:30:00Z",
+      "to_date": "2026-11-02T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914404,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -110501,6 +111257,20 @@
       "from_date": "2026-11-02T11:00:00Z",
       "to_date": "2026-11-02T12:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917421,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-02T11:00:00Z",
+      "to_date": "2026-11-02T12:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -110557,6 +111327,20 @@
       "from_date": "2026-11-02T15:00:00Z",
       "to_date": "2026-11-02T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917422,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-02T15:30:00Z",
+      "to_date": "2026-11-02T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -110672,6 +111456,20 @@
       "cancelled": false
     },
     {
+      "nid": 917423,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-02T17:45:00Z",
+      "to_date": "2026-11-02T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911974,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -110739,6 +111537,20 @@
       "from_date": "2026-11-02T18:30:00Z",
       "to_date": "2026-11-02T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917508,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-02T18:50:00Z",
+      "to_date": "2026-11-02T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -110882,6 +111694,20 @@
       "cancelled": false
     },
     {
+      "nid": 917509,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-03T11:00:00Z",
+      "to_date": "2026-11-03T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914751,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -110952,6 +111778,20 @@
       "cancelled": false
     },
     {
+      "nid": 917510,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-03T15:25:00Z",
+      "to_date": "2026-11-03T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906662,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -110977,6 +111817,20 @@
       "from_date": "2026-11-03T16:00:00Z",
       "to_date": "2026-11-03T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917573,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-03T16:50:00Z",
+      "to_date": "2026-11-03T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -111117,6 +111971,20 @@
       "from_date": "2026-11-03T20:00:00Z",
       "to_date": "2026-11-03T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917574,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-04T07:30:00Z",
+      "to_date": "2026-11-04T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -112324,6 +113192,20 @@
       "cancelled": false
     },
     {
+      "nid": 917424,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-09T09:30:00Z",
+      "to_date": "2026-11-09T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914411,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -112366,6 +113248,20 @@
       "cancelled": false
     },
     {
+      "nid": 917425,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-09T11:00:00Z",
+      "to_date": "2026-11-09T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914757,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -112405,6 +113301,20 @@
       "from_date": "2026-11-09T15:30:00Z",
       "to_date": "2026-11-09T16:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917426,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-09T15:30:00Z",
+      "to_date": "2026-11-09T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -112506,6 +113416,20 @@
       "cancelled": false
     },
     {
+      "nid": 917427,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-09T17:45:00Z",
+      "to_date": "2026-11-09T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911978,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -112573,6 +113497,20 @@
       "from_date": "2026-11-09T18:30:00Z",
       "to_date": "2026-11-09T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917511,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-09T18:50:00Z",
+      "to_date": "2026-11-09T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -112730,6 +113668,20 @@
       "cancelled": false
     },
     {
+      "nid": 917512,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-10T11:00:00Z",
+      "to_date": "2026-11-10T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914758,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -112800,6 +113752,20 @@
       "cancelled": false
     },
     {
+      "nid": 917513,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-10T15:25:00Z",
+      "to_date": "2026-11-10T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906674,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -112825,6 +113791,20 @@
       "from_date": "2026-11-10T16:00:00Z",
       "to_date": "2026-11-10T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917575,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-10T16:50:00Z",
+      "to_date": "2026-11-10T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -112965,6 +113945,20 @@
       "from_date": "2026-11-10T20:00:00Z",
       "to_date": "2026-11-10T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917576,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-11T07:30:00Z",
+      "to_date": "2026-11-11T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -114158,6 +115152,20 @@
       "cancelled": false
     },
     {
+      "nid": 917428,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-16T09:30:00Z",
+      "to_date": "2026-11-16T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914418,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -114197,6 +115205,20 @@
       "from_date": "2026-11-16T11:00:00Z",
       "to_date": "2026-11-16T12:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917429,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-16T11:00:00Z",
+      "to_date": "2026-11-16T12:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -114253,6 +115275,20 @@
       "from_date": "2026-11-16T15:00:00Z",
       "to_date": "2026-11-16T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917430,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-16T15:30:00Z",
+      "to_date": "2026-11-16T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -114368,6 +115404,20 @@
       "cancelled": false
     },
     {
+      "nid": 917431,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-16T17:45:00Z",
+      "to_date": "2026-11-16T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911982,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -114435,6 +115485,20 @@
       "from_date": "2026-11-16T18:30:00Z",
       "to_date": "2026-11-16T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917514,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-16T18:50:00Z",
+      "to_date": "2026-11-16T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -114606,6 +115670,20 @@
       "cancelled": false
     },
     {
+      "nid": 917515,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-17T11:00:00Z",
+      "to_date": "2026-11-17T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914765,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -114676,6 +115754,20 @@
       "cancelled": false
     },
     {
+      "nid": 917516,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-17T15:25:00Z",
+      "to_date": "2026-11-17T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906686,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -114701,6 +115793,20 @@
       "from_date": "2026-11-17T16:00:00Z",
       "to_date": "2026-11-17T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917577,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-17T16:50:00Z",
+      "to_date": "2026-11-17T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -114827,6 +115933,20 @@
       "from_date": "2026-11-17T20:00:00Z",
       "to_date": "2026-11-17T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917578,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-18T07:30:00Z",
+      "to_date": "2026-11-18T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -116020,6 +117140,20 @@
       "cancelled": false
     },
     {
+      "nid": 917432,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-23T09:30:00Z",
+      "to_date": "2026-11-23T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914425,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -116062,6 +117196,20 @@
       "cancelled": false
     },
     {
+      "nid": 917433,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-23T11:00:00Z",
+      "to_date": "2026-11-23T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914771,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -116101,6 +117249,20 @@
       "from_date": "2026-11-23T15:30:00Z",
       "to_date": "2026-11-23T16:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917434,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-23T15:30:00Z",
+      "to_date": "2026-11-23T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -116202,6 +117364,20 @@
       "cancelled": false
     },
     {
+      "nid": 917435,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-23T17:45:00Z",
+      "to_date": "2026-11-23T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 915429,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -116255,6 +117431,20 @@
       "from_date": "2026-11-23T18:30:00Z",
       "to_date": "2026-11-23T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917517,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-23T18:50:00Z",
+      "to_date": "2026-11-23T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -116398,6 +117588,20 @@
       "cancelled": false
     },
     {
+      "nid": 917518,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-24T11:00:00Z",
+      "to_date": "2026-11-24T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914772,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -116468,6 +117672,20 @@
       "cancelled": false
     },
     {
+      "nid": 917519,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-24T15:25:00Z",
+      "to_date": "2026-11-24T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906700,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -116493,6 +117711,20 @@
       "from_date": "2026-11-24T16:00:00Z",
       "to_date": "2026-11-24T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917579,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-24T16:50:00Z",
+      "to_date": "2026-11-24T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -116619,6 +117851,20 @@
       "from_date": "2026-11-24T20:00:00Z",
       "to_date": "2026-11-24T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917580,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-25T07:30:00Z",
+      "to_date": "2026-11-25T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -117798,6 +119044,20 @@
       "cancelled": false
     },
     {
+      "nid": 917436,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-30T09:30:00Z",
+      "to_date": "2026-11-30T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914432,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -117840,6 +119100,20 @@
       "cancelled": false
     },
     {
+      "nid": 917437,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-30T11:00:00Z",
+      "to_date": "2026-11-30T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914778,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -117879,6 +119153,20 @@
       "from_date": "2026-11-30T15:00:00Z",
       "to_date": "2026-11-30T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917438,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-30T15:30:00Z",
+      "to_date": "2026-11-30T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -117994,6 +119282,20 @@
       "cancelled": false
     },
     {
+      "nid": 917439,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-30T17:45:00Z",
+      "to_date": "2026-11-30T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911989,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -118061,6 +119363,20 @@
       "from_date": "2026-11-30T18:30:00Z",
       "to_date": "2026-11-30T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917520,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-30T18:50:00Z",
+      "to_date": "2026-11-30T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -118232,6 +119548,20 @@
       "cancelled": false
     },
     {
+      "nid": 917521,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-01T11:00:00Z",
+      "to_date": "2026-12-01T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914779,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -118302,6 +119632,20 @@
       "cancelled": false
     },
     {
+      "nid": 917522,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-01T15:25:00Z",
+      "to_date": "2026-12-01T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906714,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -118327,6 +119671,20 @@
       "from_date": "2026-12-01T16:00:00Z",
       "to_date": "2026-12-01T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917581,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-01T16:50:00Z",
+      "to_date": "2026-12-01T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -118453,6 +119811,20 @@
       "from_date": "2026-12-01T20:00:00Z",
       "to_date": "2026-12-01T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917582,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-02T07:30:00Z",
+      "to_date": "2026-12-02T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -119562,6 +120934,20 @@
       "cancelled": false
     },
     {
+      "nid": 917440,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-07T09:30:00Z",
+      "to_date": "2026-12-07T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914439,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -119604,6 +120990,20 @@
       "cancelled": false
     },
     {
+      "nid": 917441,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-07T11:00:00Z",
+      "to_date": "2026-12-07T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914785,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -119643,6 +121043,20 @@
       "from_date": "2026-12-07T15:30:00Z",
       "to_date": "2026-12-07T16:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917442,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-07T15:30:00Z",
+      "to_date": "2026-12-07T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -119744,6 +121158,20 @@
       "cancelled": false
     },
     {
+      "nid": 917443,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-07T17:45:00Z",
+      "to_date": "2026-12-07T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911992,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -119811,6 +121239,20 @@
       "from_date": "2026-12-07T18:30:00Z",
       "to_date": "2026-12-07T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917523,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-07T18:50:00Z",
+      "to_date": "2026-12-07T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -119968,6 +121410,20 @@
       "cancelled": false
     },
     {
+      "nid": 917524,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-08T11:00:00Z",
+      "to_date": "2026-12-08T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914786,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -120038,6 +121494,20 @@
       "cancelled": false
     },
     {
+      "nid": 917525,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-08T15:25:00Z",
+      "to_date": "2026-12-08T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906725,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -120063,6 +121533,20 @@
       "from_date": "2026-12-08T16:00:00Z",
       "to_date": "2026-12-08T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917583,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-08T16:50:00Z",
+      "to_date": "2026-12-08T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -120189,6 +121673,20 @@
       "from_date": "2026-12-08T20:00:00Z",
       "to_date": "2026-12-08T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917584,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-09T07:30:00Z",
+      "to_date": "2026-12-09T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -121382,6 +122880,20 @@
       "cancelled": false
     },
     {
+      "nid": 917444,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-14T09:30:00Z",
+      "to_date": "2026-12-14T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914446,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -121421,6 +122933,20 @@
       "from_date": "2026-12-14T11:00:00Z",
       "to_date": "2026-12-14T12:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917445,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-14T11:00:00Z",
+      "to_date": "2026-12-14T12:40:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -121477,6 +123003,20 @@
       "from_date": "2026-12-14T15:00:00Z",
       "to_date": "2026-12-14T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917446,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-14T15:30:00Z",
+      "to_date": "2026-12-14T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -121592,6 +123132,20 @@
       "cancelled": false
     },
     {
+      "nid": 917447,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-14T17:45:00Z",
+      "to_date": "2026-12-14T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 911996,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -121659,6 +123213,20 @@
       "from_date": "2026-12-14T18:30:00Z",
       "to_date": "2026-12-14T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917526,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-14T18:50:00Z",
+      "to_date": "2026-12-14T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -121830,6 +123398,20 @@
       "cancelled": false
     },
     {
+      "nid": 917527,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-15T11:00:00Z",
+      "to_date": "2026-12-15T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914793,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -121900,6 +123482,20 @@
       "cancelled": false
     },
     {
+      "nid": 917528,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-15T15:25:00Z",
+      "to_date": "2026-12-15T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906738,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -121925,6 +123521,20 @@
       "from_date": "2026-12-15T16:00:00Z",
       "to_date": "2026-12-15T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917585,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-15T16:50:00Z",
+      "to_date": "2026-12-15T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -122051,6 +123661,20 @@
       "from_date": "2026-12-15T20:00:00Z",
       "to_date": "2026-12-15T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917586,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-16T07:30:00Z",
+      "to_date": "2026-12-16T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -123216,6 +124840,20 @@
       "cancelled": false
     },
     {
+      "nid": 917448,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-21T09:30:00Z",
+      "to_date": "2026-12-21T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914453,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -123258,6 +124896,20 @@
       "cancelled": false
     },
     {
+      "nid": 917449,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-21T11:00:00Z",
+      "to_date": "2026-12-21T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914799,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -123297,6 +124949,20 @@
       "from_date": "2026-12-21T15:30:00Z",
       "to_date": "2026-12-21T16:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917450,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-21T15:30:00Z",
+      "to_date": "2026-12-21T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -123384,6 +125050,20 @@
       "cancelled": false
     },
     {
+      "nid": 917451,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-21T17:45:00Z",
+      "to_date": "2026-12-21T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912000,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -123423,6 +125103,20 @@
       "from_date": "2026-12-21T18:30:00Z",
       "to_date": "2026-12-21T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917529,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-21T18:50:00Z",
+      "to_date": "2026-12-21T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -123549,6 +125243,20 @@
       "from_date": "2026-12-22T11:00:00Z",
       "to_date": "2026-12-22T12:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917530,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-22T11:00:00Z",
+      "to_date": "2026-12-22T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -123787,6 +125495,20 @@
       "from_date": "2026-12-22T20:00:00Z",
       "to_date": "2026-12-22T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917587,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-23T07:30:00Z",
+      "to_date": "2026-12-23T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -125064,6 +126786,20 @@
       "cancelled": false
     },
     {
+      "nid": 917452,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-04T09:30:00Z",
+      "to_date": "2027-01-04T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914465,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -125106,6 +126842,20 @@
       "cancelled": false
     },
     {
+      "nid": 917453,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-04T11:00:00Z",
+      "to_date": "2027-01-04T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914811,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -125131,6 +126881,20 @@
       "from_date": "2027-01-04T15:00:00Z",
       "to_date": "2027-01-04T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917454,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-04T15:30:00Z",
+      "to_date": "2027-01-04T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -125232,6 +126996,20 @@
       "cancelled": false
     },
     {
+      "nid": 917455,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-04T17:45:00Z",
+      "to_date": "2027-01-04T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912002,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -125299,6 +127077,20 @@
       "from_date": "2027-01-04T18:30:00Z",
       "to_date": "2027-01-04T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917531,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-04T18:50:00Z",
+      "to_date": "2027-01-04T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -125428,6 +127220,20 @@
       "cancelled": false
     },
     {
+      "nid": 917532,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-05T11:00:00Z",
+      "to_date": "2027-01-05T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914812,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -125484,6 +127290,20 @@
       "cancelled": false
     },
     {
+      "nid": 917533,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-05T15:25:00Z",
+      "to_date": "2027-01-05T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906757,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -125509,6 +127329,20 @@
       "from_date": "2027-01-05T16:00:00Z",
       "to_date": "2027-01-05T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917588,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-05T16:50:00Z",
+      "to_date": "2027-01-05T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -125691,6 +127525,20 @@
       "from_date": "2027-01-05T19:35:00Z",
       "to_date": "2027-01-05T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917589,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-06T07:30:00Z",
+      "to_date": "2027-01-06T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -126870,6 +128718,20 @@
       "cancelled": false
     },
     {
+      "nid": 917456,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-11T09:30:00Z",
+      "to_date": "2027-01-11T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914472,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -126912,6 +128774,20 @@
       "cancelled": false
     },
     {
+      "nid": 917457,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-11T11:00:00Z",
+      "to_date": "2027-01-11T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 907222,
       "sport_name": "Testangebot",
       "title": "Stabilisationstest",
@@ -126951,6 +128827,20 @@
       "from_date": "2027-01-11T15:00:00Z",
       "to_date": "2027-01-11T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917458,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-11T15:30:00Z",
+      "to_date": "2027-01-11T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -127052,6 +128942,20 @@
       "cancelled": false
     },
     {
+      "nid": 917459,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-11T17:45:00Z",
+      "to_date": "2027-01-11T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912007,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -127119,6 +129023,20 @@
       "from_date": "2027-01-11T18:30:00Z",
       "to_date": "2027-01-11T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917534,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-11T18:50:00Z",
+      "to_date": "2027-01-11T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -127248,6 +129166,20 @@
       "cancelled": false
     },
     {
+      "nid": 917535,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-12T11:00:00Z",
+      "to_date": "2027-01-12T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914819,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -127304,6 +129236,20 @@
       "cancelled": false
     },
     {
+      "nid": 917536,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-12T15:25:00Z",
+      "to_date": "2027-01-12T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906766,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -127329,6 +129275,20 @@
       "from_date": "2027-01-12T16:00:00Z",
       "to_date": "2027-01-12T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917590,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-12T16:50:00Z",
+      "to_date": "2027-01-12T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -127525,6 +129485,20 @@
       "from_date": "2027-01-12T19:35:00Z",
       "to_date": "2027-01-12T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917591,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-13T07:30:00Z",
+      "to_date": "2027-01-13T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -128690,6 +130664,20 @@
       "cancelled": false
     },
     {
+      "nid": 917460,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-18T09:30:00Z",
+      "to_date": "2027-01-18T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914479,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -128732,6 +130720,20 @@
       "cancelled": false
     },
     {
+      "nid": 917461,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-18T11:00:00Z",
+      "to_date": "2027-01-18T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914825,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -128757,6 +130759,20 @@
       "from_date": "2027-01-18T15:00:00Z",
       "to_date": "2027-01-18T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917462,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-18T15:30:00Z",
+      "to_date": "2027-01-18T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -128858,6 +130874,20 @@
       "cancelled": false
     },
     {
+      "nid": 917463,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-18T17:45:00Z",
+      "to_date": "2027-01-18T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912012,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -128925,6 +130955,20 @@
       "from_date": "2027-01-18T18:30:00Z",
       "to_date": "2027-01-18T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917537,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-18T18:50:00Z",
+      "to_date": "2027-01-18T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -129054,6 +131098,20 @@
       "cancelled": false
     },
     {
+      "nid": 917538,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-19T11:00:00Z",
+      "to_date": "2027-01-19T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914826,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -129110,6 +131168,20 @@
       "cancelled": false
     },
     {
+      "nid": 917539,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-19T15:25:00Z",
+      "to_date": "2027-01-19T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906778,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -129135,6 +131207,20 @@
       "from_date": "2027-01-19T16:00:00Z",
       "to_date": "2027-01-19T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917592,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-19T16:50:00Z",
+      "to_date": "2027-01-19T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -129317,6 +131403,20 @@
       "from_date": "2027-01-19T19:35:00Z",
       "to_date": "2027-01-19T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917593,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-20T07:30:00Z",
+      "to_date": "2027-01-20T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -130496,6 +132596,20 @@
       "cancelled": false
     },
     {
+      "nid": 917464,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-25T09:30:00Z",
+      "to_date": "2027-01-25T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914486,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -130538,6 +132652,20 @@
       "cancelled": false
     },
     {
+      "nid": 917465,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-25T11:00:00Z",
+      "to_date": "2027-01-25T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 907223,
       "sport_name": "Testangebot",
       "title": "Stabilisationstest",
@@ -130577,6 +132705,20 @@
       "from_date": "2027-01-25T15:00:00Z",
       "to_date": "2027-01-25T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917466,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-25T15:30:00Z",
+      "to_date": "2027-01-25T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -130678,6 +132820,20 @@
       "cancelled": false
     },
     {
+      "nid": 917467,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-25T17:45:00Z",
+      "to_date": "2027-01-25T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912017,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -130745,6 +132901,20 @@
       "from_date": "2027-01-25T18:30:00Z",
       "to_date": "2027-01-25T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917540,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-25T18:50:00Z",
+      "to_date": "2027-01-25T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -130874,6 +133044,20 @@
       "cancelled": false
     },
     {
+      "nid": 917541,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-26T11:00:00Z",
+      "to_date": "2027-01-26T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914833,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -130930,6 +133114,20 @@
       "cancelled": false
     },
     {
+      "nid": 917542,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-26T15:25:00Z",
+      "to_date": "2027-01-26T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906790,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -130955,6 +133153,20 @@
       "from_date": "2027-01-26T16:00:00Z",
       "to_date": "2027-01-26T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917594,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-26T16:50:00Z",
+      "to_date": "2027-01-26T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -131137,6 +133349,20 @@
       "from_date": "2027-01-26T19:35:00Z",
       "to_date": "2027-01-26T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917595,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-27T07:30:00Z",
+      "to_date": "2027-01-27T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -132302,6 +134528,20 @@
       "cancelled": false
     },
     {
+      "nid": 917468,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-01T09:30:00Z",
+      "to_date": "2027-02-01T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914493,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -132344,6 +134584,20 @@
       "cancelled": false
     },
     {
+      "nid": 917469,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-01T11:00:00Z",
+      "to_date": "2027-02-01T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914839,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -132369,6 +134623,20 @@
       "from_date": "2027-02-01T15:00:00Z",
       "to_date": "2027-02-01T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917470,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-01T15:30:00Z",
+      "to_date": "2027-02-01T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -132470,6 +134738,20 @@
       "cancelled": false
     },
     {
+      "nid": 917471,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-01T17:45:00Z",
+      "to_date": "2027-02-01T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912022,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -132537,6 +134819,20 @@
       "from_date": "2027-02-01T18:30:00Z",
       "to_date": "2027-02-01T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917543,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-01T18:50:00Z",
+      "to_date": "2027-02-01T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -132666,6 +134962,20 @@
       "cancelled": false
     },
     {
+      "nid": 917544,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-02T11:00:00Z",
+      "to_date": "2027-02-02T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914840,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -132722,6 +135032,20 @@
       "cancelled": false
     },
     {
+      "nid": 917545,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-02T15:25:00Z",
+      "to_date": "2027-02-02T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906803,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -132747,6 +135071,20 @@
       "from_date": "2027-02-02T16:00:00Z",
       "to_date": "2027-02-02T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917596,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-02T16:50:00Z",
+      "to_date": "2027-02-02T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -132929,6 +135267,20 @@
       "from_date": "2027-02-02T19:35:00Z",
       "to_date": "2027-02-02T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917597,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-03T07:30:00Z",
+      "to_date": "2027-02-03T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -134108,6 +136460,20 @@
       "cancelled": false
     },
     {
+      "nid": 917472,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-08T09:30:00Z",
+      "to_date": "2027-02-08T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914500,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -134150,6 +136516,20 @@
       "cancelled": false
     },
     {
+      "nid": 917473,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-08T11:00:00Z",
+      "to_date": "2027-02-08T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 907224,
       "sport_name": "Testangebot",
       "title": "Stabilisationstest",
@@ -134189,6 +136569,20 @@
       "from_date": "2027-02-08T15:00:00Z",
       "to_date": "2027-02-08T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917474,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-08T15:30:00Z",
+      "to_date": "2027-02-08T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -134290,6 +136684,20 @@
       "cancelled": false
     },
     {
+      "nid": 917475,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-08T17:45:00Z",
+      "to_date": "2027-02-08T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912027,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -134357,6 +136765,20 @@
       "from_date": "2027-02-08T18:30:00Z",
       "to_date": "2027-02-08T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917546,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-08T18:50:00Z",
+      "to_date": "2027-02-08T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -134486,6 +136908,20 @@
       "cancelled": false
     },
     {
+      "nid": 917547,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-09T11:00:00Z",
+      "to_date": "2027-02-09T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914847,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -134542,6 +136978,20 @@
       "cancelled": false
     },
     {
+      "nid": 917548,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-09T15:25:00Z",
+      "to_date": "2027-02-09T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906816,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -134567,6 +137017,20 @@
       "from_date": "2027-02-09T16:00:00Z",
       "to_date": "2027-02-09T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917598,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-09T16:50:00Z",
+      "to_date": "2027-02-09T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -134749,6 +137213,20 @@
       "from_date": "2027-02-09T19:35:00Z",
       "to_date": "2027-02-09T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917599,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-10T07:30:00Z",
+      "to_date": "2027-02-10T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -135914,6 +138392,20 @@
       "cancelled": false
     },
     {
+      "nid": 917476,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-15T09:30:00Z",
+      "to_date": "2027-02-15T10:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 914507,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -135956,6 +138448,20 @@
       "cancelled": false
     },
     {
+      "nid": 917477,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-15T11:00:00Z",
+      "to_date": "2027-02-15T12:40:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 914853,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -135981,6 +138487,20 @@
       "from_date": "2027-02-15T15:00:00Z",
       "to_date": "2027-02-15T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917478,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-15T15:30:00Z",
+      "to_date": "2027-02-15T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -136082,6 +138602,20 @@
       "cancelled": false
     },
     {
+      "nid": 917479,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-15T17:45:00Z",
+      "to_date": "2027-02-15T18:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 912032,
       "sport_name": "Badminton",
       "title": "Freies Spiel",
@@ -136149,6 +138683,20 @@
       "from_date": "2027-02-15T18:30:00Z",
       "to_date": "2027-02-15T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917549,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-15T18:50:00Z",
+      "to_date": "2027-02-15T20:20:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -136278,6 +138826,20 @@
       "cancelled": false
     },
     {
+      "nid": 917550,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-16T11:00:00Z",
+      "to_date": "2027-02-16T12:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 914854,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -136334,6 +138896,20 @@
       "cancelled": false
     },
     {
+      "nid": 917551,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-16T15:25:00Z",
+      "to_date": "2027-02-16T16:45:00Z",
+      "niveau_name": "Einsteiger 2",
+      "cancelled": false
+    },
+    {
       "nid": 906827,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -136359,6 +138935,20 @@
       "from_date": "2027-02-16T16:00:00Z",
       "to_date": "2027-02-16T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917600,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-16T16:50:00Z",
+      "to_date": "2027-02-16T18:05:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -136527,6 +139117,20 @@
       "from_date": "2027-02-16T19:35:00Z",
       "to_date": "2027-02-16T20:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 917601,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-17T07:30:00Z",
+      "to_date": "2027-02-17T09:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
