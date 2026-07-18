@@ -690,13 +690,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 18.1,
+        "avg_occupancy_pct": 18.2,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 39,
         "by_hour": {
           "7": 12.0,
-          "8": 24.6
+          "8": 24.7
         }
       },
       "PH Zürich": {
@@ -1075,13 +1075,13 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 31.2,
+        "avg_occupancy_pct": 31.0,
         "places_taken": 0,
         "places_max": 24,
-        "data_points": 95,
+        "data_points": 96,
         "by_hour": {
           "16": 64.7,
-          "17": 16.5,
+          "17": 16.6,
           "18": 0.0
         }
       }
@@ -1245,12 +1245,12 @@
     "facility_count": 2,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 11.4,
+        "avg_occupancy_pct": 11.6,
         "places_taken": 0,
         "places_max": 40,
         "data_points": 19,
         "by_hour": {
-          "10": 11.4
+          "10": 11.6
         }
       },
       "Sport Center Polyterrasse": {
@@ -2606,7 +2606,7 @@
     }
   },
   "Natural Approach": {
-    "avg_occupancy_pct": 21.4,
+    "avg_occupancy_pct": 21.7,
     "facility_count": 4,
     "facilities": {
       "Sport Center Fluntern": {
@@ -2639,13 +2639,13 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 19.0,
+        "avg_occupancy_pct": 19.6,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 29,
+        "data_points": 28,
         "by_hour": {
           "16": 21.1,
-          "17": 15.0
+          "17": 16.7
         }
       }
     }
@@ -2701,17 +2701,17 @@
     }
   },
   "Paddeln": {
-    "avg_occupancy_pct": 32.6,
+    "avg_occupancy_pct": 32.7,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 32.6,
+        "avg_occupancy_pct": 32.7,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 115,
         "by_hour": {
           "8": 29.3,
-          "11": 25.6,
+          "11": 25.9,
           "16": 34.5
         }
       }
@@ -3057,11 +3057,11 @@
     }
   },
   "Running": {
-    "avg_occupancy_pct": 32.4,
+    "avg_occupancy_pct": 32.5,
     "facility_count": 6,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 30.7,
+        "avg_occupancy_pct": 31.0,
         "places_taken": 0,
         "places_max": 999,
         "data_points": 87,
@@ -3069,7 +3069,7 @@
           "7": 43.3,
           "8": 27.8,
           "10": 7.4,
-          "16": 38.8,
+          "16": 39.1,
           "17": 0.0
         }
       },
@@ -3963,13 +3963,13 @@
         }
       },
       "Tennisanlage Fluntern": {
-        "avg_occupancy_pct": 64.3,
+        "avg_occupancy_pct": 64.4,
         "places_taken": 2,
         "places_max": 6,
         "data_points": 401,
         "by_hour": {
           "7": 100.0,
-          "8": 86.4,
+          "8": 87.0,
           "10": 47.3,
           "11": 51.5,
           "12": 49.7,
@@ -4308,7 +4308,7 @@
     }
   },
   "Wandern": {
-    "avg_occupancy_pct": 54.6,
+    "avg_occupancy_pct": 55.2,
     "facility_count": 2,
     "facilities": {
       "Sport Center Winterthur": {
@@ -4321,14 +4321,14 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 54.3,
+        "avg_occupancy_pct": 54.9,
         "places_taken": 4,
         "places_max": 12,
         "data_points": 41,
         "by_hour": {
           "5": 25.0,
-          "6": 30.6,
-          "7": 97.9,
+          "6": 36.8,
+          "7": 100.0,
           "8": 100.0,
           "9": 100.0,
           "15": 100.0,
@@ -4418,14 +4418,14 @@
     "facility_count": 11,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 25.3,
+        "avg_occupancy_pct": 25.4,
         "places_taken": 8,
         "places_max": 14,
         "data_points": 523,
         "by_hour": {
           "5": 13.1,
           "6": 28.7,
-          "7": 23.6,
+          "7": 23.7,
           "8": 24.3,
           "9": 21.2,
           "10": 23.8,
@@ -4492,7 +4492,7 @@
           "8": 17.9,
           "9": 6.2,
           "10": 17.4,
-          "11": 25.3,
+          "11": 25.4,
           "12": 14.0,
           "13": 12.8,
           "14": 16.2
