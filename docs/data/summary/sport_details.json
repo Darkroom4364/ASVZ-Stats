@@ -221,7 +221,7 @@
         "places_max": 15,
         "data_points": 258,
         "by_hour": {
-          "17": 52.8,
+          "17": 52.9,
           "18": 36.8,
           "19": 0.0
         }
@@ -1464,17 +1464,17 @@
     }
   },
   "Foilsurfen": {
-    "avg_occupancy_pct": 91.5,
+    "avg_occupancy_pct": 92.8,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 91.5,
+        "avg_occupancy_pct": 92.8,
         "places_taken": 1,
         "places_max": 6,
         "data_points": 51,
         "by_hour": {
           "8": 99.2,
-          "11": 86.1
+          "11": 88.3
         }
       }
     }
@@ -2163,12 +2163,12 @@
         }
       },
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 11.3,
+        "avg_occupancy_pct": 11.6,
         "places_taken": 0,
         "places_max": 60,
         "data_points": 38,
         "by_hour": {
-          "10": 9.7,
+          "10": 10.4,
           "16": 12.7
         }
       },
@@ -2718,11 +2718,11 @@
     }
   },
   "Padel": {
-    "avg_occupancy_pct": 49.8,
+    "avg_occupancy_pct": 49.9,
     "facility_count": 2,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 49.7,
+        "avg_occupancy_pct": 49.8,
         "places_taken": 0,
         "places_max": 2,
         "data_points": 1322,
@@ -2733,13 +2733,13 @@
           "9": 37.6,
           "10": 45.7,
           "11": 41.5,
-          "12": 45.3,
+          "12": 45.8,
           "13": 47.9,
           "14": 58.1,
-          "15": 68.2,
+          "15": 68.5,
           "16": 71.5,
-          "17": 73.7,
-          "18": 66.2,
+          "17": 74.0,
+          "18": 66.8,
           "19": 0.0
         }
       },
@@ -2834,7 +2834,7 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 41.1,
+        "avg_occupancy_pct": 41.2,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 219,
@@ -2842,7 +2842,7 @@
           "5": 39.1,
           "7": 32.9,
           "10": 21.8,
-          "11": 43.5,
+          "11": 43.7,
           "12": 21.6,
           "13": 31.1,
           "14": 39.4,
@@ -3057,11 +3057,11 @@
     }
   },
   "Running": {
-    "avg_occupancy_pct": 32.7,
+    "avg_occupancy_pct": 32.8,
     "facility_count": 6,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 31.2,
+        "avg_occupancy_pct": 31.4,
         "places_taken": 0,
         "places_max": 999,
         "data_points": 88,
@@ -3069,7 +3069,7 @@
           "7": 43.3,
           "8": 27.8,
           "10": 7.4,
-          "16": 39.3,
+          "16": 39.6,
           "17": 0.0
         }
       },
@@ -3291,17 +3291,17 @@
     }
   },
   "Segeln Jollen": {
-    "avg_occupancy_pct": 72.1,
+    "avg_occupancy_pct": 72.2,
     "facility_count": 1,
     "facilities": {
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 72.1,
+        "avg_occupancy_pct": 72.2,
         "places_taken": 0,
         "places_max": 6,
         "data_points": 89,
         "by_hour": {
           "9": 0.0,
-          "10": 74.3,
+          "10": 74.7,
           "11": 80.0,
           "14": 74.7,
           "15": 100.0
@@ -3629,17 +3629,17 @@
     }
   },
   "Stretch & Relax": {
-    "avg_occupancy_pct": 21.3,
+    "avg_occupancy_pct": 21.4,
     "facility_count": 2,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 19.1,
+        "avg_occupancy_pct": 19.2,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 78,
         "by_hour": {
           "6": 10.9,
-          "9": 25.8,
+          "9": 26.3,
           "14": 17.5,
           "17": 22.2
         }
@@ -3928,7 +3928,7 @@
     }
   },
   "Tennis": {
-    "avg_occupancy_pct": 66.9,
+    "avg_occupancy_pct": 67.0,
     "facility_count": 4,
     "facilities": {
       "Sport Center Irchel": {
@@ -3970,7 +3970,7 @@
         "by_hour": {
           "7": 100.0,
           "8": 87.0,
-          "10": 47.8,
+          "10": 48.0,
           "11": 51.5,
           "12": 49.7,
           "13": 90.0,
@@ -3981,8 +3981,8 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 48.4,
-        "places_taken": 4,
+        "avg_occupancy_pct": 48.7,
+        "places_taken": 5,
         "places_max": 24,
         "data_points": 16,
         "by_hour": {
@@ -3990,7 +3990,7 @@
           "7": 66.7,
           "11": 43.1,
           "12": 41.7,
-          "15": 16.7
+          "15": 20.8
         }
       }
     }
@@ -4418,13 +4418,13 @@
     "facility_count": 11,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 25.4,
+        "avg_occupancy_pct": 25.5,
         "places_taken": 8,
         "places_max": 14,
         "data_points": 523,
         "by_hour": {
-          "5": 13.3,
-          "6": 28.7,
+          "5": 13.4,
+          "6": 28.8,
           "7": 24.2,
           "8": 24.3,
           "9": 21.2,
@@ -4439,12 +4439,12 @@
         }
       },
       "Neumarkt Oerlikon": {
-        "avg_occupancy_pct": 28.8,
+        "avg_occupancy_pct": 29.7,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 21,
         "by_hour": {
-          "10": 28.8
+          "10": 29.7
         }
       },
       "PH Zürich": {
@@ -4492,7 +4492,7 @@
           "8": 17.9,
           "9": 6.2,
           "10": 17.4,
-          "11": 25.9,
+          "11": 26.0,
           "12": 14.0,
           "13": 12.8,
           "14": 16.2
