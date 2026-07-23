@@ -497,14 +497,14 @@
     "facility_count": 6,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 13.6,
+        "avg_occupancy_pct": 13.9,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 58,
         "by_hour": {
           "5": 11.2,
           "16": 21.6,
-          "17": 8.2
+          "17": 8.9
         }
       },
       "Sport Center Gloriarank": {
@@ -925,12 +925,12 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 7.7,
+        "avg_occupancy_pct": 7.8,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 43,
         "by_hour": {
-          "17": 11.8,
+          "17": 12.0,
           "18": 0.0
         }
       }
@@ -1648,12 +1648,12 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 8.5,
+        "avg_occupancy_pct": 8.8,
         "places_taken": 0,
         "places_max": 13,
         "data_points": 50,
         "by_hour": {
-          "17": 12.5,
+          "17": 12.9,
           "18": 0.0
         }
       },
@@ -1679,7 +1679,7 @@
     }
   },
   "Golf": {
-    "avg_occupancy_pct": 58.0,
+    "avg_occupancy_pct": 58.1,
     "facility_count": 3,
     "facilities": {
       "Golfpark Otelfingen": {
@@ -1710,7 +1710,7 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 44.3,
+        "avg_occupancy_pct": 44.7,
         "places_taken": 1,
         "places_max": 2,
         "data_points": 24,
@@ -1721,7 +1721,7 @@
           "12": 50.0,
           "13": 0.0,
           "15": 0.0,
-          "16": 43.1,
+          "16": 43.8,
           "17": 50.0
         }
       }
@@ -2793,7 +2793,7 @@
           "6": 25.4,
           "7": 41.5,
           "8": 43.4,
-          "9": 39.2,
+          "9": 39.6,
           "10": 48.5,
           "11": 41.5,
           "12": 46.3,
@@ -2847,7 +2847,7 @@
     "facility_count": 8,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 44.6,
+        "avg_occupancy_pct": 44.7,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 328,
@@ -2857,9 +2857,9 @@
           "7": 35.0,
           "8": 37.0,
           "9": 46.9,
-          "10": 42.9,
+          "10": 43.2,
           "11": 52.9,
-          "15": 45.9,
+          "15": 46.1,
           "16": 59.8,
           "17": 26.1,
           "18": 72.7
@@ -3120,7 +3120,7 @@
     }
   },
   "Running": {
-    "avg_occupancy_pct": 34.6,
+    "avg_occupancy_pct": 34.7,
     "facility_count": 6,
     "facilities": {
       "Sport Center Fluntern": {
@@ -3137,7 +3137,7 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 18.5,
+        "avg_occupancy_pct": 19.2,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 34,
@@ -3146,7 +3146,7 @@
           "9": 25.0,
           "10": 0.0,
           "14": 0.0,
-          "16": 18.0
+          "16": 19.0
         }
       },
       "Sport Center Irchel": {
@@ -3259,7 +3259,7 @@
         "places_max": 36,
         "data_points": 122,
         "by_hour": {
-          "14": 29.4,
+          "14": 29.8,
           "15": 0.0,
           "18": 57.7,
           "19": 20.6,
@@ -3917,7 +3917,7 @@
     }
   },
   "Tango": {
-    "avg_occupancy_pct": 9.7,
+    "avg_occupancy_pct": 9.8,
     "facility_count": 4,
     "facilities": {
       "Sport Center Gloriarank": {
@@ -3926,7 +3926,7 @@
         "places_max": 36,
         "data_points": 122,
         "by_hour": {
-          "18": 19.3,
+          "18": 19.4,
           "19": 0.0
         }
       },
@@ -4008,7 +4008,7 @@
     }
   },
   "Tennis": {
-    "avg_occupancy_pct": 68.1,
+    "avg_occupancy_pct": 68.2,
     "facility_count": 4,
     "facilities": {
       "Sport Center Irchel": {
@@ -4043,7 +4043,7 @@
         }
       },
       "Tennisanlage Fluntern": {
-        "avg_occupancy_pct": 65.9,
+        "avg_occupancy_pct": 66.0,
         "places_taken": 5,
         "places_max": 6,
         "data_points": 401,
@@ -4052,10 +4052,10 @@
           "8": 88.9,
           "10": 49.2,
           "11": 51.9,
-          "12": 53.0,
+          "12": 53.3,
           "13": 90.0,
           "14": 75.0,
-          "15": 97.2,
+          "15": 100.0,
           "16": 88.2,
           "17": 100.0
         }
@@ -4512,10 +4512,10 @@
           "9": 23.2,
           "10": 27.2,
           "11": 13.7,
-          "13": 19.6,
+          "13": 19.7,
           "14": 36.7,
           "15": 63.2,
-          "16": 42.3,
+          "16": 43.3,
           "17": 40.2,
           "18": 18.9
         }
@@ -4541,13 +4541,13 @@
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 29.7,
+        "avg_occupancy_pct": 29.8,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 77,
         "by_hour": {
           "16": 38.9,
-          "17": 20.7
+          "17": 20.9
         }
       },
       "Sport Center Hönggerberg": {
