@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-25T19:50:41.582923+00:00",
+  "ts": "2026-07-25T21:00:52.783728+00:00",
   "events": [
     {
       "nid": 759935,
@@ -315,9 +315,9 @@
       "title": "Refresher-Training (RTJ)",
       "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
       "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 4,
+      "places_free": 3,
       "places_max": 8,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-07-26T14:30:00Z",
       "to_date": "2026-07-26T18:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -1892,31 +1892,31 @@
       "cancelled": false
     },
     {
-      "nid": 757054,
-      "sport_name": "Running",
-      "title": "Lauftraining",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 4,
-      "places_max": 10,
-      "places_taken": 6,
-      "from_date": "2026-07-27T16:15:00Z",
-      "to_date": "2026-07-27T17:45:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 757053,
       "sport_name": "Running",
       "title": "Lauftraining",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 7,
+      "places_free": 6,
       "places_max": 10,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-07-27T16:15:00Z",
       "to_date": "2026-07-27T17:45:00Z",
       "niveau_name": "Fortgeschrittene 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 757054,
+      "sport_name": "Running",
+      "title": "Lauftraining",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 3,
+      "places_max": 10,
+      "places_taken": 7,
+      "from_date": "2026-07-27T16:15:00Z",
+      "to_date": "2026-07-27T17:45:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -2345,9 +2345,9 @@
       "title": "Futsal, Training Frauen",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 10,
+      "places_free": 9,
       "places_max": 12,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-07-27T18:00:00Z",
       "to_date": "2026-07-27T19:45:00Z",
       "niveau_name": "Alle",
@@ -3843,9 +3843,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 12,
+      "places_free": 11,
       "places_max": 20,
-      "places_taken": 8,
+      "places_taken": 9,
       "from_date": "2026-07-28T16:05:00Z",
       "to_date": "2026-07-28T17:35:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -24012,20 +24012,6 @@
       "cancelled": false
     },
     {
-      "nid": 759940,
-      "sport_name": "Running",
-      "title": "Coaching mit Schwerpunkt Lauftechnik & Trainingsplanung",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 4,
-      "places_max": 4,
-      "places_taken": 0,
-      "from_date": "2026-08-12T16:00:00Z",
-      "to_date": "2026-08-12T17:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 764090,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -24121,6 +24107,20 @@
       "from_date": "2026-08-12T16:00:00Z",
       "to_date": "2026-08-12T20:00:00Z",
       "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
+      "nid": 759940,
+      "sport_name": "Running",
+      "title": "Coaching mit Schwerpunkt Lauftechnik & Trainingsplanung",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 3,
+      "places_max": 4,
+      "places_taken": 1,
+      "from_date": "2026-08-12T16:00:00Z",
+      "to_date": "2026-08-12T17:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -30373,9 +30373,9 @@
       "title": "Programm-Einführung",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 2,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-08-17T15:30:00Z",
       "to_date": "2026-08-17T16:30:00Z",
       "niveau_name": "Einsteiger",
@@ -35310,20 +35310,6 @@
       "cancelled": false
     },
     {
-      "nid": 738294,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Gloriarank",
-      "location": "Sport Center Gloriarank",
-      "places_free": 2,
-      "places_max": 2,
-      "places_taken": 0,
-      "from_date": "2026-08-19T15:30:00Z",
-      "to_date": "2026-08-19T16:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 756789,
       "sport_name": "Beachvolleyball",
       "title": "Training Outdoor Frauen",
@@ -35349,6 +35335,20 @@
       "from_date": "2026-08-19T15:30:00Z",
       "to_date": "2026-08-19T17:00:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 738294,
+      "sport_name": "Fitnessberatung",
+      "title": "Programm-Einführung",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": 1,
+      "places_max": 2,
+      "places_taken": 1,
+      "from_date": "2026-08-19T15:30:00Z",
+      "to_date": "2026-08-19T16:30:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
