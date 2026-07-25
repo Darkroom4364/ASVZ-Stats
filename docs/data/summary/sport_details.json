@@ -696,13 +696,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 20.8,
+        "avg_occupancy_pct": 20.9,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 39,
         "by_hour": {
           "7": 12.0,
-          "8": 30.0
+          "8": 30.4
         }
       },
       "PH Zürich": {
@@ -907,7 +907,7 @@
         "by_hour": {
           "9": 33.8,
           "10": 0.0,
-          "11": 19.0,
+          "11": 19.2,
           "12": 18.2,
           "13": 18.2,
           "14": 0.0,
@@ -1262,16 +1262,16 @@
     }
   },
   "Dance Aerobic": {
-    "avg_occupancy_pct": 14.4,
+    "avg_occupancy_pct": 14.7,
     "facility_count": 2,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 12.1,
+        "avg_occupancy_pct": 12.8,
         "places_taken": 0,
         "places_max": 40,
         "data_points": 19,
         "by_hour": {
-          "10": 12.1
+          "10": 12.8
         }
       },
       "Sport Center Polyterrasse": {
@@ -1400,7 +1400,7 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 69.8,
+        "avg_occupancy_pct": 70.1,
         "places_taken": 0,
         "places_max": 2,
         "data_points": 197,
@@ -1410,7 +1410,7 @@
           "10": 70.8,
           "12": 47.1,
           "14": 63.9,
-          "15": 70.3,
+          "15": 71.6,
           "16": 81.1
         }
       },
@@ -2128,7 +2128,7 @@
         "places_max": 24,
         "data_points": 85,
         "by_hour": {
-          "8": 23.8,
+          "8": 24.0,
           "9": 0.0,
           "10": 41.3,
           "11": 0.0,
@@ -2775,24 +2775,24 @@
     }
   },
   "Paddeln": {
-    "avg_occupancy_pct": 37.7,
+    "avg_occupancy_pct": 38.4,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 37.7,
+        "avg_occupancy_pct": 38.4,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 115,
         "by_hour": {
           "8": 35.0,
-          "11": 25.9,
+          "11": 30.9,
           "16": 40.5
         }
       }
     }
   },
   "Padel": {
-    "avg_occupancy_pct": 53.0,
+    "avg_occupancy_pct": 53.1,
     "facility_count": 2,
     "facilities": {
       "Sport Center Fluntern": {
@@ -2808,7 +2808,7 @@
           "10": 49.4,
           "11": 43.3,
           "12": 47.7,
-          "13": 51.2,
+          "13": 51.7,
           "14": 62.7,
           "15": 71.1,
           "16": 75.6,
@@ -2854,11 +2854,11 @@
     }
   },
   "Pilates": {
-    "avg_occupancy_pct": 45.1,
+    "avg_occupancy_pct": 45.2,
     "facility_count": 8,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 46.1,
+        "avg_occupancy_pct": 46.4,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 328,
@@ -2869,7 +2869,7 @@
           "8": 37.0,
           "9": 52.4,
           "10": 45.7,
-          "11": 52.9,
+          "11": 54.6,
           "15": 48.7,
           "16": 59.8,
           "17": 29.5,
@@ -3690,16 +3690,16 @@
     }
   },
   "Standup Paddeln": {
-    "avg_occupancy_pct": 42.8,
+    "avg_occupancy_pct": 43.0,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 42.8,
+        "avg_occupancy_pct": 43.0,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 107,
         "by_hour": {
-          "8": 35.8,
+          "8": 37.5,
           "11": 45.7,
           "13": 80.0,
           "15": 78.1,
@@ -4546,7 +4546,7 @@
         "by_hour": {
           "5": 13.9,
           "6": 30.5,
-          "7": 26.3,
+          "7": 26.4,
           "8": 26.3,
           "9": 23.2,
           "10": 27.2,
