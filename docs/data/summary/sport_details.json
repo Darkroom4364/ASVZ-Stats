@@ -696,13 +696,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 20.9,
+        "avg_occupancy_pct": 21.3,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 39,
         "by_hour": {
           "7": 12.0,
-          "8": 30.4
+          "8": 31.1
         }
       },
       "PH Zürich": {
@@ -822,7 +822,7 @@
     }
   },
   "Boxen": {
-    "avg_occupancy_pct": 18.9,
+    "avg_occupancy_pct": 19.0,
     "facility_count": 5,
     "facilities": {
       "Rämibühl": {
@@ -850,14 +850,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 26.1,
+        "avg_occupancy_pct": 26.3,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 83,
         "by_hour": {
           "12": 31.7,
           "13": 0.0,
-          "14": 43.2,
+          "14": 43.5,
           "15": 0.0
         }
       },
@@ -883,18 +883,18 @@
     }
   },
   "Brazilian Jiu Jitsu": {
-    "avg_occupancy_pct": 17.0,
+    "avg_occupancy_pct": 17.1,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 19.3,
+        "avg_occupancy_pct": 19.4,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 68,
         "by_hour": {
           "13": 9.2,
           "14": 0.0,
-          "15": 42.2,
+          "15": 42.4,
           "16": 0.0,
           "17": 15.0
         }
@@ -2470,7 +2470,7 @@
     }
   },
   "Mixed Martial Arts": {
-    "avg_occupancy_pct": 21.6,
+    "avg_occupancy_pct": 21.7,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
@@ -2494,14 +2494,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 26.5,
+        "avg_occupancy_pct": 26.6,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 83,
         "by_hour": {
           "8": 26.2,
           "9": 0.0,
-          "10": 44.6,
+          "10": 44.7,
           "11": 0.0
         }
       },
@@ -2775,17 +2775,17 @@
     }
   },
   "Paddeln": {
-    "avg_occupancy_pct": 38.4,
+    "avg_occupancy_pct": 38.6,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 38.4,
+        "avg_occupancy_pct": 38.6,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 115,
         "by_hour": {
           "8": 35.0,
-          "11": 30.9,
+          "11": 32.2,
           "16": 40.5
         }
       }
@@ -2987,7 +2987,7 @@
     }
   },
   "Rennvelo": {
-    "avg_occupancy_pct": 48.5,
+    "avg_occupancy_pct": 48.6,
     "facility_count": 4,
     "facilities": {
       "Sport Center Irchel": {
@@ -3022,14 +3022,14 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 74.4,
+        "avg_occupancy_pct": 75.5,
         "places_taken": 13,
         "places_max": 16,
         "data_points": 8,
         "by_hour": {
           "6": 81.2,
           "8": 97.1,
-          "16": 55.7
+          "16": 57.8
         }
       }
     }
@@ -3650,7 +3650,7 @@
         "data_points": 2440,
         "by_hour": {
           "9": 5.8,
-          "10": 2.9,
+          "10": 3.0,
           "11": 3.6,
           "12": 0.0,
           "14": 6.4,
@@ -4508,16 +4508,16 @@
     }
   },
   "Wingsurfen": {
-    "avg_occupancy_pct": 45.6,
+    "avg_occupancy_pct": 48.5,
     "facility_count": 2,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 43.8,
+        "avg_occupancy_pct": 46.9,
         "places_taken": 0,
         "places_max": 6,
         "data_points": 32,
         "by_hour": {
-          "12": 0.0,
+          "12": 33.3,
           "13": 0.0,
           "14": 50.0,
           "15": 50.0
@@ -4539,7 +4539,7 @@
     "facility_count": 11,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 27.6,
+        "avg_occupancy_pct": 27.7,
         "places_taken": 8,
         "places_max": 14,
         "data_points": 523,
