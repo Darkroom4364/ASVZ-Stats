@@ -696,13 +696,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 21.3,
+        "avg_occupancy_pct": 21.5,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 39,
         "by_hour": {
           "7": 12.0,
-          "8": 31.1
+          "8": 31.4
         }
       },
       "PH Zürich": {
@@ -822,7 +822,7 @@
     }
   },
   "Boxen": {
-    "avg_occupancy_pct": 19.0,
+    "avg_occupancy_pct": 19.1,
     "facility_count": 5,
     "facilities": {
       "Rämibühl": {
@@ -850,14 +850,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 26.3,
+        "avg_occupancy_pct": 26.5,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 83,
         "by_hour": {
           "12": 31.7,
           "13": 0.0,
-          "14": 43.5,
+          "14": 43.9,
           "15": 0.0
         }
       },
@@ -1262,16 +1262,16 @@
     }
   },
   "Dance Aerobic": {
-    "avg_occupancy_pct": 14.7,
+    "avg_occupancy_pct": 14.8,
     "facility_count": 2,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 12.8,
+        "avg_occupancy_pct": 12.9,
         "places_taken": 0,
         "places_max": 40,
         "data_points": 19,
         "by_hour": {
-          "10": 12.8
+          "10": 12.9
         }
       },
       "Sport Center Polyterrasse": {
@@ -2499,7 +2499,7 @@
         "places_max": 24,
         "data_points": 83,
         "by_hour": {
-          "8": 26.2,
+          "8": 27.5,
           "9": 0.0,
           "10": 44.7,
           "11": 0.0
@@ -3656,7 +3656,7 @@
           "14": 6.4,
           "15": 7.6,
           "16": 11.1,
-          "17": 8.7,
+          "17": 8.8,
           "18": 7.6,
           "19": 0.0
         }
@@ -3699,7 +3699,7 @@
         "places_max": 16,
         "data_points": 107,
         "by_hour": {
-          "8": 37.5,
+          "8": 37.9,
           "11": 45.7,
           "13": 80.0,
           "15": 78.1,
@@ -3752,16 +3752,16 @@
     }
   },
   "Surfskaten": {
-    "avg_occupancy_pct": 27.5,
+    "avg_occupancy_pct": 27.7,
     "facility_count": 1,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 27.5,
+        "avg_occupancy_pct": 27.7,
         "places_taken": 0,
         "places_max": 8,
         "data_points": 69,
         "by_hour": {
-          "15": 22.3,
+          "15": 22.6,
           "16": 38.0
         }
       }
