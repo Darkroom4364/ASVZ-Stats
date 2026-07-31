@@ -44,13 +44,13 @@
       },
       "Unknown": {
         "avg_occupancy_pct": 33.6,
-        "places_taken": 140,
+        "places_taken": 141,
         "places_max": 400,
         "data_points": 5,
         "by_hour": {
           "6": 35.4,
           "12": 17.5,
-          "16": 39.7
+          "16": 39.8
         }
       }
     }
@@ -932,14 +932,14 @@
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 20.0,
+        "avg_occupancy_pct": 20.4,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 68,
         "by_hour": {
           "13": 9.2,
           "14": 0.0,
-          "15": 44.0,
+          "15": 45.0,
           "16": 0.0,
           "17": 15.0
         }
@@ -1227,17 +1227,17 @@
     }
   },
   "CrossFit": {
-    "avg_occupancy_pct": 22.6,
+    "avg_occupancy_pct": 22.7,
     "facility_count": 1,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 22.6,
+        "avg_occupancy_pct": 22.7,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 605,
         "by_hour": {
           "15": 36.0,
-          "16": 24.1,
+          "16": 24.3,
           "17": 21.2,
           "18": 1.3,
           "19": 0.0
@@ -1831,7 +1831,7 @@
     }
   },
   "Hip Hop": {
-    "avg_occupancy_pct": 14.9,
+    "avg_occupancy_pct": 15.0,
     "facility_count": 3,
     "facilities": {
       "Sport Center Irchel": {
@@ -1848,7 +1848,7 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 12.8,
+        "avg_occupancy_pct": 12.9,
         "places_taken": 0,
         "places_max": 40,
         "data_points": 267,
@@ -1858,7 +1858,7 @@
           "10": 10.1,
           "11": 0.0,
           "12": 0.0,
-          "16": 20.8,
+          "16": 21.6,
           "17": 24.9,
           "18": 3.1,
           "19": 0.0
@@ -2640,11 +2640,11 @@
     }
   },
   "Mountainbike": {
-    "avg_occupancy_pct": 33.2,
+    "avg_occupancy_pct": 33.5,
     "facility_count": 1,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 33.2,
+        "avg_occupancy_pct": 33.5,
         "places_taken": 1,
         "places_max": 12,
         "data_points": 39,
@@ -2652,7 +2652,7 @@
           "5": 12.5,
           "8": 16.7,
           "15": 8.3,
-          "16": 34.9
+          "16": 35.2
         }
       }
     }
@@ -2879,18 +2879,18 @@
     }
   },
   "Padel": {
-    "avg_occupancy_pct": 54.7,
+    "avg_occupancy_pct": 54.8,
     "facility_count": 2,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 54.6,
+        "avg_occupancy_pct": 54.7,
         "places_taken": 0,
         "places_max": 2,
         "data_points": 1338,
         "by_hour": {
           "6": 29.1,
-          "7": 44.1,
-          "8": 46.0,
+          "7": 45.0,
+          "8": 46.4,
           "9": 40.2,
           "10": 49.4,
           "11": 43.9,
@@ -2960,7 +2960,7 @@
           "12": 0.0,
           "15": 39.4,
           "16": 26.7,
-          "17": 24.1,
+          "17": 24.4,
           "18": 38.8,
           "19": 0.0
         }
@@ -3235,7 +3235,7 @@
     }
   },
   "Running": {
-    "avg_occupancy_pct": 36.8,
+    "avg_occupancy_pct": 36.9,
     "facility_count": 6,
     "facilities": {
       "Sport Center Fluntern": {
@@ -3265,7 +3265,7 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 48.9,
+        "avg_occupancy_pct": 49.2,
         "places_taken": 0,
         "places_max": 4,
         "data_points": 85,
@@ -3273,7 +3273,7 @@
           "7": 60.0,
           "8": 40.0,
           "10": 14.1,
-          "16": 59.4
+          "16": 59.8
         }
       },
       "Sport Center Polyterrasse": {
@@ -3527,7 +3527,7 @@
     }
   },
   "Segeln Yacht": {
-    "avg_occupancy_pct": 84.5,
+    "avg_occupancy_pct": 84.6,
     "facility_count": 2,
     "facilities": {
       "Unknown": {
@@ -3545,12 +3545,12 @@
         }
       },
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 98.9,
+        "avg_occupancy_pct": 99.2,
         "places_taken": 4,
         "places_max": 4,
         "data_points": 78,
         "by_hour": {
-          "6": 89.2,
+          "6": 92.5,
           "7": 100.0,
           "9": 97.1,
           "10": 100.0,
@@ -3775,7 +3775,7 @@
           "12": 0.0,
           "14": 7.3,
           "15": 7.8,
-          "16": 11.9,
+          "16": 12.0,
           "17": 9.2,
           "18": 8.2,
           "19": 0.0
@@ -3788,12 +3788,12 @@
     "facility_count": 2,
     "facilities": {
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 20.1,
+        "avg_occupancy_pct": 20.2,
         "places_taken": 0,
         "places_max": 36,
         "data_points": 40,
         "by_hour": {
-          "18": 32.2,
+          "18": 32.3,
           "19": 0.0
         }
       },
@@ -4176,7 +4176,7 @@
     }
   },
   "Tennis": {
-    "avg_occupancy_pct": 70.1,
+    "avg_occupancy_pct": 70.2,
     "facility_count": 4,
     "facilities": {
       "Sport Center Irchel": {
@@ -4192,7 +4192,7 @@
         }
       },
       "Sportcenter Schumacher": {
-        "avg_occupancy_pct": 75.0,
+        "avg_occupancy_pct": 75.2,
         "places_taken": 0,
         "places_max": 4,
         "data_points": 106,
@@ -4202,7 +4202,7 @@
           "8": 70.6,
           "10": 86.2,
           "11": 54.7,
-          "12": 62.9,
+          "12": 64.4,
           "14": 100.0,
           "15": 100.0,
           "16": 100.0,
@@ -4211,15 +4211,15 @@
         }
       },
       "Tennisanlage Fluntern": {
-        "avg_occupancy_pct": 68.8,
+        "avg_occupancy_pct": 68.9,
         "places_taken": 6,
         "places_max": 6,
         "data_points": 402,
         "by_hour": {
           "7": 100.0,
           "8": 89.5,
-          "10": 51.1,
-          "11": 58.8,
+          "10": 51.6,
+          "11": 59.0,
           "12": 57.7,
           "13": 90.0,
           "14": 75.0,
@@ -4474,14 +4474,14 @@
         }
       },
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 59.2,
+        "avg_occupancy_pct": 59.3,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 113,
         "by_hour": {
           "7": 40.3,
           "9": 70.6,
-          "11": 65.0,
+          "11": 65.6,
           "13": 34.1,
           "16": 75.4
         }
