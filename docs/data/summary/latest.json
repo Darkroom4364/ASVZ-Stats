@@ -1,5 +1,5 @@
 {
-  "ts": "2026-07-31T20:09:10.232976+00:00",
+  "ts": "2026-07-31T21:44:31.699733+00:00",
   "events": [
     {
       "nid": 906262,
@@ -114,20 +114,6 @@
       "cancelled": true
     },
     {
-      "nid": 755254,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 16,
-      "places_taken": 16,
-      "from_date": "2026-08-01T09:30:00Z",
-      "to_date": "2026-08-01T11:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 949886,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -138,6 +124,20 @@
       "places_taken": 2,
       "from_date": "2026-08-01T09:30:00Z",
       "to_date": "2026-08-01T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755254,
+      "sport_name": "Volleyball",
+      "title": "Freies Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
+      "from_date": "2026-08-01T09:30:00Z",
+      "to_date": "2026-08-01T11:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -805,9 +805,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 2,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-08-02T14:30:00Z",
       "to_date": "2026-08-02T15:30:00Z",
       "niveau_name": "Alle",
@@ -2256,20 +2256,6 @@
       "cancelled": false
     },
     {
-      "nid": 746915,
-      "sport_name": "Shotokan Karate",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 18,
-      "places_max": 20,
-      "places_taken": 2,
-      "from_date": "2026-08-03T17:00:00Z",
-      "to_date": "2026-08-03T18:25:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 838730,
       "sport_name": "Ju-Jitsu / Selbstverteidigung",
       "title": "Kampfsportspezifisches Dehntraining",
@@ -2281,6 +2267,20 @@
       "from_date": "2026-08-03T17:00:00Z",
       "to_date": "2026-08-03T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746915,
+      "sport_name": "Shotokan Karate",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 17,
+      "places_max": 20,
+      "places_taken": 3,
+      "from_date": "2026-08-03T17:00:00Z",
+      "to_date": "2026-08-03T18:25:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -44284,20 +44284,6 @@
       "cancelled": false
     },
     {
-      "nid": 733972,
-      "sport_name": "Segeln Yacht",
-      "title": "Vertiefungskurs VKY26",
-      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-08-28T14:30:00Z",
-      "to_date": "2026-09-01T18:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 755820,
       "sport_name": "Fussball",
       "title": "Training Frauen, Rasen",
@@ -44309,6 +44295,20 @@
       "from_date": "2026-08-28T14:30:00Z",
       "to_date": "2026-08-28T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 733972,
+      "sport_name": "Segeln Yacht",
+      "title": "Vertiefungskurs VKY26",
+      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-08-28T14:30:00Z",
+      "to_date": "2026-09-01T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
