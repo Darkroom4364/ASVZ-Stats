@@ -455,12 +455,12 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 92.5,
-        "places_taken": 37,
+        "avg_occupancy_pct": 97.5,
+        "places_taken": 39,
         "places_max": 40,
         "data_points": 1,
         "by_hour": {
-          "20": 92.5
+          "20": 97.5
         }
       },
       "Winterthur Sportpark Deutweg": {
@@ -640,7 +640,7 @@
           "10": 21.6,
           "11": 5.6,
           "12": 5.0,
-          "13": 14.3,
+          "13": 14.4,
           "14": 4.1,
           "16": 42.6,
           "17": 14.9,
@@ -728,13 +728,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 11.1,
+        "avg_occupancy_pct": 11.2,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 81,
         "by_hour": {
           "7": 10.3,
-          "8": 16.2,
+          "8": 16.3,
           "9": 0.0
         }
       },
@@ -1674,7 +1674,7 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 14.5,
+        "avg_occupancy_pct": 14.6,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 363,
@@ -1685,7 +1685,7 @@
           "14": 25.3,
           "15": 15.2,
           "16": 0.0,
-          "18": 36.2,
+          "18": 36.7,
           "19": 0.0
         }
       },
@@ -3021,13 +3021,13 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 12.2,
+        "avg_occupancy_pct": 12.3,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 72,
         "by_hour": {
           "7": 10.4,
-          "8": 18.0,
+          "8": 18.3,
           "9": 0.0
         }
       },
@@ -4176,7 +4176,7 @@
     }
   },
   "Tennis": {
-    "avg_occupancy_pct": 70.3,
+    "avg_occupancy_pct": 70.4,
     "facility_count": 4,
     "facilities": {
       "Sport Center Irchel": {
@@ -4192,7 +4192,7 @@
         }
       },
       "Sportcenter Schumacher": {
-        "avg_occupancy_pct": 75.2,
+        "avg_occupancy_pct": 75.4,
         "places_taken": 0,
         "places_max": 4,
         "data_points": 106,
@@ -4201,7 +4201,7 @@
           "7": 70.4,
           "8": 70.6,
           "10": 86.2,
-          "11": 54.7,
+          "11": 56.2,
           "12": 64.4,
           "14": 100.0,
           "15": 100.0,
