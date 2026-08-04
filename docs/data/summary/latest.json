@@ -1,104 +1,6 @@
 {
-  "ts": "2026-08-03T21:49:52.983761+00:00",
+  "ts": "2026-08-04T06:36:14.623018+00:00",
   "events": [
-    {
-      "nid": 757868,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 3,
-      "places_max": 35,
-      "places_taken": 32,
-      "from_date": "2026-08-04T04:45:00Z",
-      "to_date": "2026-08-04T05:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 756080,
-      "sport_name": "Rowing Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 1,
-      "places_max": 15,
-      "places_taken": 14,
-      "from_date": "2026-08-04T05:00:00Z",
-      "to_date": "2026-08-04T06:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 740766,
-      "sport_name": "Muscle Pump",
-      "title": "Body Pump",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 14,
-      "places_max": 60,
-      "places_taken": 46,
-      "from_date": "2026-08-04T05:00:00Z",
-      "to_date": "2026-08-04T05:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 742634,
-      "sport_name": "Pilates",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 26,
-      "places_max": 30,
-      "places_taken": 4,
-      "from_date": "2026-08-04T05:15:00Z",
-      "to_date": "2026-08-04T06:10:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 739397,
-      "sport_name": "Jazz Dance",
-      "title": "Workout",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 22,
-      "places_max": 40,
-      "places_taken": 18,
-      "from_date": "2026-08-04T06:00:00Z",
-      "to_date": "2026-08-04T07:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741175,
-      "sport_name": "Muscle Pump",
-      "title": "Body Pump",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 17,
-      "places_max": 60,
-      "places_taken": 43,
-      "from_date": "2026-08-04T06:00:00Z",
-      "to_date": "2026-08-04T06:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 742635,
-      "sport_name": "Yoga",
-      "title": "Yoga & Meditation (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 26,
-      "places_max": 30,
-      "places_taken": 4,
-      "from_date": "2026-08-04T06:20:00Z",
-      "to_date": "2026-08-04T07:35:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 731058,
       "sport_name": "Testangebot",
@@ -147,9 +49,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 25,
+      "places_free": 29,
       "places_max": 40,
-      "places_taken": 15,
+      "places_taken": 11,
       "from_date": "2026-08-04T07:30:00Z",
       "to_date": "2026-08-04T08:55:00Z",
       "niveau_name": "Einsteiger 1",
@@ -175,9 +77,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 7,
+      "places_free": 11,
       "places_max": 19,
-      "places_taken": 12,
+      "places_taken": 8,
       "from_date": "2026-08-04T08:00:00Z",
       "to_date": "2026-08-04T09:00:00Z",
       "niveau_name": "Alle",
@@ -189,9 +91,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 9,
+      "places_free": 18,
       "places_max": 60,
-      "places_taken": 51,
+      "places_taken": 42,
       "from_date": "2026-08-04T08:00:00Z",
       "to_date": "2026-08-04T08:55:00Z",
       "niveau_name": "Alle",
@@ -217,40 +119,12 @@
       "title": "Yoga & Pilates (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 16,
+      "places_free": 17,
       "places_max": 30,
-      "places_taken": 14,
+      "places_taken": 13,
       "from_date": "2026-08-04T08:50:00Z",
       "to_date": "2026-08-04T10:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 752211,
-      "sport_name": "Body Combat",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 28,
-      "places_max": 40,
-      "places_taken": 12,
-      "from_date": "2026-08-04T09:00:00Z",
-      "to_date": "2026-08-04T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 740076,
-      "sport_name": "Modern Contemporary",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 30,
-      "places_max": 40,
-      "places_taken": 10,
-      "from_date": "2026-08-04T09:00:00Z",
-      "to_date": "2026-08-04T09:55:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
       "cancelled": false
     },
     {
@@ -268,14 +142,28 @@
       "cancelled": false
     },
     {
-      "nid": 744709,
-      "sport_name": "Stretch & Relax",
-      "title": "mit BLACKROLL®",
+      "nid": 740076,
+      "sport_name": "Modern Contemporary",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 29,
+      "places_max": 40,
+      "places_taken": 11,
+      "from_date": "2026-08-04T09:00:00Z",
+      "to_date": "2026-08-04T09:55:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 752211,
+      "sport_name": "Body Combat",
+      "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 12,
-      "places_max": 20,
-      "places_taken": 8,
+      "places_free": 28,
+      "places_max": 40,
+      "places_taken": 12,
       "from_date": "2026-08-04T09:00:00Z",
       "to_date": "2026-08-04T09:55:00Z",
       "niveau_name": "Alle",
@@ -287,9 +175,23 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 5,
+      "places_free": 7,
       "places_max": 60,
-      "places_taken": 55,
+      "places_taken": 53,
+      "from_date": "2026-08-04T09:00:00Z",
+      "to_date": "2026-08-04T09:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 744709,
+      "sport_name": "Stretch & Relax",
+      "title": "mit BLACKROLL®",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 12,
+      "places_max": 20,
+      "places_taken": 8,
       "from_date": "2026-08-04T09:00:00Z",
       "to_date": "2026-08-04T09:55:00Z",
       "niveau_name": "Alle",
@@ -310,30 +212,30 @@
       "cancelled": false
     },
     {
-      "nid": 850439,
-      "sport_name": "Tuchakrobatik",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 3,
-      "places_max": 16,
-      "places_taken": 13,
-      "from_date": "2026-08-04T09:30:00Z",
-      "to_date": "2026-08-04T11:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 746918,
       "sport_name": "Brazilian Jiu Jitsu",
       "title": "Training Basics",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 8,
+      "places_free": 9,
       "places_max": 20,
-      "places_taken": 12,
+      "places_taken": 11,
       "from_date": "2026-08-04T09:30:00Z",
       "to_date": "2026-08-04T10:50:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 850439,
+      "sport_name": "Tuchakrobatik",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 5,
+      "places_max": 16,
+      "places_taken": 11,
+      "from_date": "2026-08-04T09:30:00Z",
+      "to_date": "2026-08-04T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -348,48 +250,6 @@
       "places_taken": 0,
       "from_date": "2026-08-04T10:00:00Z",
       "to_date": "2026-08-04T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 747576,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Turnhalle im Moos",
-      "location": "Turnhalle im Moos",
-      "places_free": 15,
-      "places_max": 18,
-      "places_taken": 3,
-      "from_date": "2026-08-04T10:00:00Z",
-      "to_date": "2026-08-04T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 751461,
-      "sport_name": "Entspannen",
-      "title": "Relax Uniturm",
-      "facility_name": "Relax Uniturm",
-      "location": "Relax Uniturm",
-      "places_free": 11,
-      "places_max": 12,
-      "places_taken": 1,
-      "from_date": "2026-08-04T10:00:00Z",
-      "to_date": "2026-08-04T10:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 752843,
-      "sport_name": "Body Balance",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 9,
-      "places_max": 20,
-      "places_taken": 11,
-      "from_date": "2026-08-04T10:00:00Z",
-      "to_date": "2026-08-04T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -422,14 +282,56 @@
       "cancelled": false
     },
     {
+      "nid": 747576,
+      "sport_name": "Yoga",
+      "title": "Training",
+      "facility_name": "Turnhalle im Moos",
+      "location": "Turnhalle im Moos",
+      "places_free": 14,
+      "places_max": 18,
+      "places_taken": 4,
+      "from_date": "2026-08-04T10:00:00Z",
+      "to_date": "2026-08-04T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 751461,
+      "sport_name": "Entspannen",
+      "title": "Relax Uniturm",
+      "facility_name": "Relax Uniturm",
+      "location": "Relax Uniturm",
+      "places_free": 12,
+      "places_max": 12,
+      "places_taken": 0,
+      "from_date": "2026-08-04T10:00:00Z",
+      "to_date": "2026-08-04T10:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 752212,
       "sport_name": "Body Combat",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 52,
+      "places_free": 51,
       "places_max": 80,
-      "places_taken": 28,
+      "places_taken": 29,
+      "from_date": "2026-08-04T10:00:00Z",
+      "to_date": "2026-08-04T10:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 752843,
+      "sport_name": "Body Balance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 8,
+      "places_max": 20,
+      "places_taken": 12,
       "from_date": "2026-08-04T10:00:00Z",
       "to_date": "2026-08-04T10:55:00Z",
       "niveau_name": "Alle",
@@ -469,39 +371,11 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 6,
+      "places_free": 1,
       "places_max": 30,
-      "places_taken": 24,
+      "places_taken": 29,
       "from_date": "2026-08-04T10:10:00Z",
       "to_date": "2026-08-04T11:10:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750609,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 10,
-      "places_max": 11,
-      "places_taken": 1,
-      "from_date": "2026-08-04T10:15:00Z",
-      "to_date": "2026-08-04T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 757869,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 35,
-      "places_taken": 35,
-      "from_date": "2026-08-04T10:15:00Z",
-      "to_date": "2026-08-04T11:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -525,11 +399,39 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 6,
+      "places_free": 5,
       "places_max": 15,
-      "places_taken": 9,
+      "places_taken": 10,
       "from_date": "2026-08-04T10:15:00Z",
       "to_date": "2026-08-04T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757869,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 0,
+      "places_max": 35,
+      "places_taken": 35,
+      "from_date": "2026-08-04T10:15:00Z",
+      "to_date": "2026-08-04T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 750609,
+      "sport_name": "Entspannen",
+      "title": "Relax CAB",
+      "facility_name": "Relax CAB",
+      "location": "Relax CAB",
+      "places_free": 7,
+      "places_max": 11,
+      "places_taken": 4,
+      "from_date": "2026-08-04T10:15:00Z",
+      "to_date": "2026-08-04T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -604,20 +506,6 @@
       "cancelled": false
     },
     {
-      "nid": 759479,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 16,
-      "places_max": 20,
-      "places_taken": 4,
-      "from_date": "2026-08-04T11:05:00Z",
-      "to_date": "2026-08-04T12:05:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 740984,
       "sport_name": "Muscle Pump",
       "title": "Body Pump",
@@ -628,6 +516,20 @@
       "places_taken": 35,
       "from_date": "2026-08-04T11:05:00Z",
       "to_date": "2026-08-04T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 759479,
+      "sport_name": "Yoga",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 17,
+      "places_max": 20,
+      "places_taken": 3,
+      "from_date": "2026-08-04T11:05:00Z",
+      "to_date": "2026-08-04T12:05:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -665,9 +567,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 30,
-      "places_taken": 29,
+      "places_taken": 30,
       "from_date": "2026-08-04T11:40:00Z",
       "to_date": "2026-08-04T13:20:00Z",
       "niveau_name": "Einsteiger 2",
@@ -707,9 +609,9 @@
       "title": "Freies Spiel",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 10,
+      "places_free": 11,
       "places_max": 24,
-      "places_taken": 14,
+      "places_taken": 13,
       "from_date": "2026-08-04T12:15:00Z",
       "to_date": "2026-08-04T14:15:00Z",
       "niveau_name": "Alle",
@@ -749,9 +651,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 5,
+      "places_free": 4,
       "places_max": 24,
-      "places_taken": 19,
+      "places_taken": 20,
       "from_date": "2026-08-04T14:10:00Z",
       "to_date": "2026-08-04T15:40:00Z",
       "niveau_name": "Alle",
@@ -786,14 +688,28 @@
       "cancelled": false
     },
     {
+      "nid": 740077,
+      "sport_name": "Modern Contemporary",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 57,
+      "places_max": 60,
+      "places_taken": 3,
+      "from_date": "2026-08-04T14:30:00Z",
+      "to_date": "2026-08-04T15:55:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 739552,
       "sport_name": "Jazz Dance",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 26,
+      "places_free": 23,
       "places_max": 40,
-      "places_taken": 14,
+      "places_taken": 17,
       "from_date": "2026-08-04T14:30:00Z",
       "to_date": "2026-08-04T15:55:00Z",
       "niveau_name": "Einsteiger 2",
@@ -805,26 +721,12 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 7,
+      "places_free": 6,
       "places_max": 25,
-      "places_taken": 18,
+      "places_taken": 19,
       "from_date": "2026-08-04T14:30:00Z",
       "to_date": "2026-08-04T15:25:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 740077,
-      "sport_name": "Modern Contemporary",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 56,
-      "places_max": 60,
-      "places_taken": 4,
-      "from_date": "2026-08-04T14:30:00Z",
-      "to_date": "2026-08-04T15:55:00Z",
-      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -833,9 +735,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 8,
+      "places_free": 4,
       "places_max": 32,
-      "places_taken": 24,
+      "places_taken": 28,
       "from_date": "2026-08-04T14:45:00Z",
       "to_date": "2026-08-04T15:40:00Z",
       "niveau_name": "Alle",
@@ -861,9 +763,9 @@
       "title": "Freies Spiel, Kunstrasen",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 4,
+      "places_free": 1,
       "places_max": 20,
-      "places_taken": 16,
+      "places_taken": 19,
       "from_date": "2026-08-04T15:00:00Z",
       "to_date": "2026-08-04T16:55:00Z",
       "niveau_name": "Alle",
@@ -875,9 +777,9 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 9,
+      "places_free": 3,
       "places_max": 30,
-      "places_taken": 21,
+      "places_taken": 27,
       "from_date": "2026-08-04T15:05:00Z",
       "to_date": "2026-08-04T16:05:00Z",
       "niveau_name": "Alle",
@@ -954,20 +856,6 @@
       "cancelled": false
     },
     {
-      "nid": 762709,
-      "sport_name": "Padel",
-      "title": "Begleitetes Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 7,
-      "places_taken": 7,
-      "from_date": "2026-08-04T15:30:00Z",
-      "to_date": "2026-08-04T17:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 754826,
       "sport_name": "Beachvolleyball",
       "title": "Training Outdoor",
@@ -979,6 +867,20 @@
       "from_date": "2026-08-04T15:30:00Z",
       "to_date": "2026-08-04T17:00:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 738505,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 22,
+      "places_max": 30,
+      "places_taken": 8,
+      "from_date": "2026-08-04T15:30:00Z",
+      "to_date": "2026-08-04T16:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -996,31 +898,17 @@
       "cancelled": false
     },
     {
-      "nid": 738505,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 23,
-      "places_max": 30,
+      "nid": 762709,
+      "sport_name": "Padel",
+      "title": "Begleitetes Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 7,
       "places_taken": 7,
       "from_date": "2026-08-04T15:30:00Z",
-      "to_date": "2026-08-04T16:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 768032,
-      "sport_name": "Wingsurfen",
-      "title": "WingSUP Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-08-04T15:45:00Z",
-      "to_date": "2026-08-04T18:15:00Z",
-      "niveau_name": "Alle",
+      "to_date": "2026-08-04T17:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -1034,6 +922,20 @@
       "places_taken": 11,
       "from_date": "2026-08-04T15:45:00Z",
       "to_date": "2026-08-04T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 768032,
+      "sport_name": "Wingsurfen",
+      "title": "WingSUP Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 6,
+      "places_taken": 6,
+      "from_date": "2026-08-04T15:45:00Z",
+      "to_date": "2026-08-04T18:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1094,20 +996,6 @@
       "cancelled": false
     },
     {
-      "nid": 736604,
-      "sport_name": "Standup Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 16,
-      "places_taken": 16,
-      "from_date": "2026-08-04T16:00:00Z",
-      "to_date": "2026-08-04T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 736268,
       "sport_name": "Funktionelles Outdoortraining",
       "title": "Training",
@@ -1122,30 +1010,16 @@
       "cancelled": false
     },
     {
-      "nid": 742249,
-      "sport_name": "Rückenfit",
+      "nid": 733172,
+      "sport_name": "BigAir",
       "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 19,
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 0,
       "places_max": 30,
-      "places_taken": 11,
+      "places_taken": 30,
       "from_date": "2026-08-04T16:00:00Z",
-      "to_date": "2026-08-04T16:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 756745,
-      "sport_name": "Beachvolleyball",
-      "title": "Training Outdoor",
-      "facility_name": "Winterthur Sportpark Deutweg",
-      "location": "Winterthur Sportpark Deutweg",
-      "places_free": 9,
-      "places_max": 16,
-      "places_taken": 7,
-      "from_date": "2026-08-04T16:00:00Z",
-      "to_date": "2026-08-04T18:00:00Z",
+      "to_date": "2026-08-04T17:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1164,30 +1038,44 @@
       "cancelled": false
     },
     {
-      "nid": 749540,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 100,
-      "places_max": 120,
-      "places_taken": 20,
+      "nid": 736604,
+      "sport_name": "Standup Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
       "from_date": "2026-08-04T16:00:00Z",
-      "to_date": "2026-08-04T16:55:00Z",
+      "to_date": "2026-08-04T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 733172,
-      "sport_name": "BigAir",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 1,
-      "places_max": 30,
-      "places_taken": 29,
+      "nid": 756745,
+      "sport_name": "Beachvolleyball",
+      "title": "Training Outdoor",
+      "facility_name": "Winterthur Sportpark Deutweg",
+      "location": "Winterthur Sportpark Deutweg",
+      "places_free": 9,
+      "places_max": 16,
+      "places_taken": 7,
       "from_date": "2026-08-04T16:00:00Z",
-      "to_date": "2026-08-04T17:55:00Z",
+      "to_date": "2026-08-04T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 742249,
+      "sport_name": "Rückenfit",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 16,
+      "places_max": 30,
+      "places_taken": 14,
+      "from_date": "2026-08-04T16:00:00Z",
+      "to_date": "2026-08-04T16:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1197,9 +1085,23 @@
       "title": "Training ",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 25,
+      "places_free": 17,
       "places_max": 80,
-      "places_taken": 55,
+      "places_taken": 63,
+      "from_date": "2026-08-04T16:00:00Z",
+      "to_date": "2026-08-04T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 749540,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 101,
+      "places_max": 120,
+      "places_taken": 19,
       "from_date": "2026-08-04T16:00:00Z",
       "to_date": "2026-08-04T16:55:00Z",
       "niveau_name": "Alle",
@@ -1211,9 +1113,9 @@
       "title": "Super Kondi Body Attack",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 308,
+      "places_free": 300,
       "places_max": 350,
-      "places_taken": 42,
+      "places_taken": 50,
       "from_date": "2026-08-04T16:00:00Z",
       "to_date": "2026-08-04T16:55:00Z",
       "niveau_name": "Alle",
@@ -1225,9 +1127,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 3,
+      "places_free": 2,
       "places_max": 20,
-      "places_taken": 17,
+      "places_taken": 18,
       "from_date": "2026-08-04T16:05:00Z",
       "to_date": "2026-08-04T17:35:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -1245,6 +1147,20 @@
       "from_date": "2026-08-04T16:10:00Z",
       "to_date": "2026-08-04T17:05:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757062,
+      "sport_name": "Running",
+      "title": "Intervalltraining",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 42,
+      "places_max": 50,
+      "places_taken": 8,
+      "from_date": "2026-08-04T16:15:00Z",
+      "to_date": "2026-08-04T17:45:00Z",
+      "niveau_name": "Fortgeschrittene 2",
       "cancelled": false
     },
     {
@@ -1276,20 +1192,6 @@
       "cancelled": false
     },
     {
-      "nid": 757062,
-      "sport_name": "Running",
-      "title": "Intervalltraining",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 42,
-      "places_max": 50,
-      "places_taken": 8,
-      "from_date": "2026-08-04T16:15:00Z",
-      "to_date": "2026-08-04T17:45:00Z",
-      "niveau_name": "Fortgeschrittene 2",
-      "cancelled": false
-    },
-    {
       "nid": 781432,
       "sport_name": "Rennvelo",
       "title": "Treff",
@@ -1318,34 +1220,6 @@
       "cancelled": false
     },
     {
-      "nid": 746922,
-      "sport_name": "Shotokan Karate",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 17,
-      "places_max": 20,
-      "places_taken": 3,
-      "from_date": "2026-08-04T17:00:00Z",
-      "to_date": "2026-08-04T19:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 762710,
-      "sport_name": "Padel",
-      "title": "Begleitetes Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-08-04T17:00:00Z",
-      "to_date": "2026-08-04T18:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 760179,
       "sport_name": "Beachvolleyball",
       "title": "Training Outdoor",
@@ -1356,20 +1230,6 @@
       "places_taken": 14,
       "from_date": "2026-08-04T17:00:00Z",
       "to_date": "2026-08-04T18:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 744713,
-      "sport_name": "Tone&Stretch",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 20,
-      "places_max": 28,
-      "places_taken": 8,
-      "from_date": "2026-08-04T17:00:00Z",
-      "to_date": "2026-08-04T17:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1416,31 +1276,31 @@
       "cancelled": false
     },
     {
+      "nid": 744713,
+      "sport_name": "Tone&Stretch",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 18,
+      "places_max": 28,
+      "places_taken": 10,
+      "from_date": "2026-08-04T17:00:00Z",
+      "to_date": "2026-08-04T17:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 753080,
       "sport_name": "Dance Aerobic",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 31,
+      "places_free": 30,
       "places_max": 40,
-      "places_taken": 9,
+      "places_taken": 10,
       "from_date": "2026-08-04T17:00:00Z",
       "to_date": "2026-08-04T18:25:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 748756,
-      "sport_name": "T-BOW",
-      "title": "Balance Pump",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 49,
-      "places_max": 55,
-      "places_taken": 6,
-      "from_date": "2026-08-04T17:00:00Z",
-      "to_date": "2026-08-04T18:00:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -1449,12 +1309,54 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 22,
+      "places_free": 18,
       "places_max": 80,
-      "places_taken": 58,
+      "places_taken": 62,
       "from_date": "2026-08-04T17:00:00Z",
       "to_date": "2026-08-04T18:30:00Z",
       "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 748756,
+      "sport_name": "T-BOW",
+      "title": "Balance Pump",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 47,
+      "places_max": 55,
+      "places_taken": 8,
+      "from_date": "2026-08-04T17:00:00Z",
+      "to_date": "2026-08-04T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746922,
+      "sport_name": "Shotokan Karate",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 16,
+      "places_max": 20,
+      "places_taken": 4,
+      "from_date": "2026-08-04T17:00:00Z",
+      "to_date": "2026-08-04T19:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 762710,
+      "sport_name": "Padel",
+      "title": "Begleitetes Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-08-04T17:00:00Z",
+      "to_date": "2026-08-04T18:30:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -1505,9 +1407,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 11,
+      "places_free": 9,
       "places_max": 35,
-      "places_taken": 24,
+      "places_taken": 26,
       "from_date": "2026-08-04T17:30:00Z",
       "to_date": "2026-08-04T19:00:00Z",
       "niveau_name": "Alle",
@@ -1561,9 +1463,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 18,
+      "places_free": 17,
       "places_max": 35,
-      "places_taken": 17,
+      "places_taken": 18,
       "from_date": "2026-08-04T18:05:00Z",
       "to_date": "2026-08-04T19:00:00Z",
       "niveau_name": "Alle",
@@ -1575,9 +1477,9 @@
       "title": "Pilates | Les Mills Shapes",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 6,
+      "places_free": 0,
       "places_max": 30,
-      "places_taken": 24,
+      "places_taken": 30,
       "from_date": "2026-08-04T18:10:00Z",
       "to_date": "2026-08-04T19:05:00Z",
       "niveau_name": "Alle",
@@ -1589,9 +1491,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 28,
+      "places_free": 27,
       "places_max": 30,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-08-04T18:30:00Z",
       "to_date": "2026-08-04T20:00:00Z",
       "niveau_name": "Alle",
@@ -1603,9 +1505,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 38,
+      "places_free": 37,
       "places_max": 40,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-08-04T18:40:00Z",
       "to_date": "2026-08-04T20:00:00Z",
       "niveau_name": "Mittlere",
@@ -1617,9 +1519,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 35,
+      "places_free": 15,
       "places_max": 35,
-      "places_taken": 0,
+      "places_taken": 20,
       "from_date": "2026-08-05T04:45:00Z",
       "to_date": "2026-08-05T05:45:00Z",
       "niveau_name": "Alle",
@@ -1631,9 +1533,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 60,
+      "places_free": 23,
       "places_max": 60,
-      "places_taken": 0,
+      "places_taken": 37,
       "from_date": "2026-08-05T05:00:00Z",
       "to_date": "2026-08-05T05:55:00Z",
       "niveau_name": "Alle",
@@ -1645,9 +1547,9 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 30,
+      "places_free": 28,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 2,
       "from_date": "2026-08-05T05:15:00Z",
       "to_date": "2026-08-05T06:00:00Z",
       "niveau_name": "Alle",
@@ -1659,9 +1561,9 @@
       "title": "Body Pump",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 35,
+      "places_free": 0,
       "places_max": 35,
-      "places_taken": 0,
+      "places_taken": 35,
       "from_date": "2026-08-05T05:45:00Z",
       "to_date": "2026-08-05T06:45:00Z",
       "niveau_name": "Alle",
@@ -1673,9 +1575,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 60,
+      "places_free": 48,
       "places_max": 60,
-      "places_taken": 0,
+      "places_taken": 12,
       "from_date": "2026-08-05T06:00:00Z",
       "to_date": "2026-08-05T06:55:00Z",
       "niveau_name": "Alle",
@@ -1687,9 +1589,9 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 30,
+      "places_free": 26,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 4,
       "from_date": "2026-08-05T06:05:00Z",
       "to_date": "2026-08-05T07:00:00Z",
       "niveau_name": "Alle",
@@ -2317,9 +2219,9 @@
       "title": "Training Basics",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 16,
+      "places_free": 15,
       "places_max": 20,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-08-05T12:00:00Z",
       "to_date": "2026-08-05T13:30:00Z",
       "niveau_name": "Alle",
@@ -2830,20 +2732,6 @@
       "cancelled": false
     },
     {
-      "nid": 757064,
-      "sport_name": "Running",
-      "title": "Lauftraining",
-      "facility_name": null,
-      "location": null,
-      "places_free": 6,
-      "places_max": 15,
-      "places_taken": 9,
-      "from_date": "2026-08-05T16:15:00Z",
-      "to_date": "2026-08-05T17:45:00Z",
-      "niveau_name": "Fortgeschrittene 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 759736,
       "sport_name": "Kanu",
       "title": "Geleitetes Training ",
@@ -2863,12 +2751,26 @@
       "title": "Basic und Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 6,
+      "places_free": 3,
       "places_max": 8,
-      "places_taken": 2,
+      "places_taken": 5,
       "from_date": "2026-08-05T16:15:00Z",
       "to_date": "2026-08-05T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 757064,
+      "sport_name": "Running",
+      "title": "Lauftraining",
+      "facility_name": null,
+      "location": null,
+      "places_free": 3,
+      "places_max": 15,
+      "places_taken": 12,
+      "from_date": "2026-08-05T16:15:00Z",
+      "to_date": "2026-08-05T17:45:00Z",
+      "niveau_name": "Fortgeschrittene 1 + 2",
       "cancelled": false
     },
     {
@@ -3437,9 +3339,9 @@
       "title": "Einstiegstraining",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 21,
+      "places_free": 20,
       "places_max": 24,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-08-06T09:45:00Z",
       "to_date": "2026-08-06T11:15:00Z",
       "niveau_name": "Einsteiger",
@@ -3899,9 +3801,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 20,
+      "places_free": 19,
       "places_max": 24,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-08-06T14:10:00Z",
       "to_date": "2026-08-06T15:40:00Z",
       "niveau_name": "Alle",
@@ -4291,9 +4193,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 3,
+      "places_free": 2,
       "places_max": 20,
-      "places_taken": 17,
+      "places_taken": 18,
       "from_date": "2026-08-06T16:05:00Z",
       "to_date": "2026-08-06T17:35:00Z",
       "niveau_name": "Einsteiger",
@@ -4389,9 +4291,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 15,
+      "places_free": 14,
       "places_max": 24,
-      "places_taken": 9,
+      "places_taken": 10,
       "from_date": "2026-08-06T16:30:00Z",
       "to_date": "2026-08-06T18:00:00Z",
       "niveau_name": "Einsteiger",
@@ -6246,20 +6148,6 @@
       "cancelled": true
     },
     {
-      "nid": 731295,
-      "sport_name": "Wakeboard-surf-foil/Wasserski",
-      "title": "Gruppe 5 Sa-So 11:00-14:00 Uhr",
-      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-08-08T09:00:00Z",
-      "to_date": "2026-08-09T12:00:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 751735,
       "sport_name": "Kondi",
       "title": "klassisch",
@@ -6271,6 +6159,20 @@
       "from_date": "2026-08-08T09:00:00Z",
       "to_date": "2026-08-08T09:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 731295,
+      "sport_name": "Wakeboard-surf-foil/Wasserski",
+      "title": "Gruppe 5 Sa-So 11:00-14:00 Uhr",
+      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-08-08T09:00:00Z",
+      "to_date": "2026-08-09T12:00:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -6372,20 +6274,6 @@
       "cancelled": false
     },
     {
-      "nid": 906245,
-      "sport_name": "Segeln Yacht",
-      "title": "Training",
-      "facility_name": null,
-      "location": null,
-      "places_free": 4,
-      "places_max": 4,
-      "places_taken": 0,
-      "from_date": "2026-08-08T11:30:00Z",
-      "to_date": "2026-08-08T14:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 736608,
       "sport_name": "Standup Paddeln",
       "title": "Training",
@@ -6397,6 +6285,20 @@
       "from_date": "2026-08-08T11:30:00Z",
       "to_date": "2026-08-08T13:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 906245,
+      "sport_name": "Segeln Yacht",
+      "title": "Training",
+      "facility_name": null,
+      "location": null,
+      "places_free": 3,
+      "places_max": 4,
+      "places_taken": 1,
+      "from_date": "2026-08-08T11:30:00Z",
+      "to_date": "2026-08-08T14:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -7744,20 +7646,6 @@
       "cancelled": false
     },
     {
-      "nid": 774404,
-      "sport_name": "Tennis",
-      "title": "M | Freies Spiel",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 1,
-      "places_max": 4,
-      "places_taken": 3,
-      "from_date": "2026-08-10T12:00:00Z",
-      "to_date": "2026-08-10T13:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 774403,
       "sport_name": "Tennis",
       "title": "F | Freies Spiel",
@@ -7769,6 +7657,20 @@
       "from_date": "2026-08-10T12:00:00Z",
       "to_date": "2026-08-10T13:00:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 774404,
+      "sport_name": "Tennis",
+      "title": "M | Freies Spiel",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-08-10T12:00:00Z",
+      "to_date": "2026-08-10T13:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -8094,20 +7996,6 @@
       "cancelled": false
     },
     {
-      "nid": 821295,
-      "sport_name": "Windsurfen",
-      "title": "Einsteigerkurs 08",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 8,
-      "places_taken": 8,
-      "from_date": "2026-08-10T15:30:00Z",
-      "to_date": "2026-08-13T18:00:00Z",
-      "niveau_name": "Einsteiger 1",
-      "cancelled": false
-    },
-    {
       "nid": 742195,
       "sport_name": "Tauchen",
       "title": "Geführter Tauchgang im Zürichsee 24",
@@ -8119,6 +8007,20 @@
       "from_date": "2026-08-10T15:30:00Z",
       "to_date": "2026-08-10T18:30:00Z",
       "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
+      "nid": 821295,
+      "sport_name": "Windsurfen",
+      "title": "Einsteigerkurs 08",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 8,
+      "places_taken": 8,
+      "from_date": "2026-08-10T15:30:00Z",
+      "to_date": "2026-08-13T18:00:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -10096,20 +9998,6 @@
       "cancelled": false
     },
     {
-      "nid": 758010,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 35,
-      "places_max": 35,
-      "places_taken": 0,
-      "from_date": "2026-08-11T16:00:00Z",
-      "to_date": "2026-08-11T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 758456,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -10162,6 +10050,20 @@
       "places_taken": 0,
       "from_date": "2026-08-11T16:00:00Z",
       "to_date": "2026-08-11T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 758010,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 35,
+      "places_max": 35,
+      "places_taken": 0,
+      "from_date": "2026-08-11T16:00:00Z",
+      "to_date": "2026-08-11T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -15267,9 +15169,9 @@
       "title": "Fahrtechnikkurs Abfahrt und Kurven fahren",
       "facility_name": null,
       "location": null,
-      "places_free": 0,
+      "places_free": 1,
       "places_max": 12,
-      "places_taken": 12,
+      "places_taken": 11,
       "from_date": "2026-08-14T16:00:00Z",
       "to_date": "2026-08-14T18:00:00Z",
       "niveau_name": "Alle",
@@ -23396,20 +23298,6 @@
       "cancelled": false
     },
     {
-      "nid": 738294,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Gloriarank",
-      "location": "Sport Center Gloriarank",
-      "places_free": 1,
-      "places_max": 2,
-      "places_taken": 1,
-      "from_date": "2026-08-19T15:30:00Z",
-      "to_date": "2026-08-19T16:30:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 949855,
       "sport_name": "Bogensport",
       "title": "Einsteigerkurs",
@@ -23420,6 +23308,20 @@
       "places_taken": 7,
       "from_date": "2026-08-19T15:30:00Z",
       "to_date": "2026-09-23T17:00:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 738294,
+      "sport_name": "Fitnessberatung",
+      "title": "Programm-Einführung",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": 0,
+      "places_max": 2,
+      "places_taken": 2,
+      "from_date": "2026-08-19T15:30:00Z",
+      "to_date": "2026-08-19T16:30:00Z",
       "niveau_name": "Einsteiger",
       "cancelled": false
     },
@@ -44802,20 +44704,6 @@
       "cancelled": false
     },
     {
-      "nid": 745505,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Toni-Areal",
-      "location": "Toni-Areal",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-08-31T10:15:00Z",
-      "to_date": "2026-08-31T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 747083,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -44981,6 +44869,20 @@
       "from_date": "2026-08-31T10:15:00Z",
       "to_date": "2026-08-31T11:15:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 745505,
+      "sport_name": "Yoga",
+      "title": "Training",
+      "facility_name": "Toni-Areal",
+      "location": "Toni-Areal",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-08-31T10:15:00Z",
+      "to_date": "2026-08-31T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -46174,20 +46076,6 @@
       "cancelled": false
     },
     {
-      "nid": 739415,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-08-31T16:45:00Z",
-      "to_date": "2026-08-31T17:45:00Z",
-      "niveau_name": "Einsteiger 2",
-      "cancelled": false
-    },
-    {
       "nid": 737489,
       "sport_name": "Fitnessberatung",
       "title": "Einzelberatung",
@@ -46199,6 +46087,20 @@
       "from_date": "2026-08-31T16:45:00Z",
       "to_date": "2026-08-31T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 739415,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 30,
+      "places_max": 30,
+      "places_taken": 0,
+      "from_date": "2026-08-31T16:45:00Z",
+      "to_date": "2026-08-31T17:45:00Z",
+      "niveau_name": "Einsteiger 2",
       "cancelled": false
     },
     {
@@ -49828,20 +49730,6 @@
       "cancelled": false
     },
     {
-      "nid": 739655,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 40,
-      "places_max": 40,
-      "places_taken": 0,
-      "from_date": "2026-09-02T09:30:00Z",
-      "to_date": "2026-09-02T10:55:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 750655,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -49853,6 +49741,20 @@
       "from_date": "2026-09-02T09:30:00Z",
       "to_date": "2026-09-02T10:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 739655,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 40,
+      "places_max": 40,
+      "places_taken": 0,
+      "from_date": "2026-09-02T09:30:00Z",
+      "to_date": "2026-09-02T10:55:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -69097,9 +68999,9 @@
       "title": "Trailrunning Camp Oberengadin",
       "facility_name": null,
       "location": "Sils Maria",
-      "places_free": 5,
+      "places_free": 3,
       "places_max": 14,
-      "places_taken": 9,
+      "places_taken": 11,
       "from_date": "2026-09-11T08:50:00Z",
       "to_date": "2026-09-13T16:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -72956,6 +72858,20 @@
       "cancelled": false
     },
     {
+      "nid": 961396,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-14T10:05:00Z",
+      "to_date": "2026-09-14T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944632,
       "sport_name": "Meditation",
       "title": "Training",
@@ -73138,20 +73054,6 @@
       "cancelled": false
     },
     {
-      "nid": 924960,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-09-14T11:45:00Z",
-      "to_date": "2026-09-14T13:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959257,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -73163,6 +73065,20 @@
       "from_date": "2026-09-14T11:45:00Z",
       "to_date": "2026-09-14T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961331,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-14T11:45:00Z",
+      "to_date": "2026-09-14T12:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -73219,6 +73135,20 @@
       "from_date": "2026-09-14T12:00:00Z",
       "to_date": "2026-09-14T12:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961332,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-14T12:30:00Z",
+      "to_date": "2026-09-14T13:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -78085,9 +78015,9 @@
       "title": "Staff-Treff 2026",
       "facility_name": null,
       "location": "Kino Abaton, Foyer IMAX",
-      "places_free": 253,
+      "places_free": 251,
       "places_max": 400,
-      "places_taken": 147,
+      "places_taken": 149,
       "from_date": "2026-09-16T16:30:00Z",
       "to_date": "2026-09-16T20:00:00Z",
       "niveau_name": "Alle",
@@ -84212,6 +84142,20 @@
       "cancelled": false
     },
     {
+      "nid": 961397,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-21T10:05:00Z",
+      "to_date": "2026-09-21T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944637,
       "sport_name": "Meditation",
       "title": "Training",
@@ -84408,20 +84352,6 @@
       "cancelled": false
     },
     {
-      "nid": 924962,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-09-21T11:45:00Z",
-      "to_date": "2026-09-21T13:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959262,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -84433,6 +84363,20 @@
       "from_date": "2026-09-21T11:45:00Z",
       "to_date": "2026-09-21T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961333,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-21T11:45:00Z",
+      "to_date": "2026-09-21T12:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -84503,6 +84447,20 @@
       "from_date": "2026-09-21T12:00:00Z",
       "to_date": "2026-09-21T13:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961334,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-21T12:30:00Z",
+      "to_date": "2026-09-21T13:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -95272,6 +95230,20 @@
       "cancelled": false
     },
     {
+      "nid": 961398,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-09-28T10:05:00Z",
+      "to_date": "2026-09-28T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944642,
       "sport_name": "Meditation",
       "title": "Training",
@@ -95454,20 +95426,6 @@
       "cancelled": false
     },
     {
-      "nid": 924964,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-09-28T11:45:00Z",
-      "to_date": "2026-09-28T13:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959267,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -95479,6 +95437,20 @@
       "from_date": "2026-09-28T11:45:00Z",
       "to_date": "2026-09-28T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961335,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-28T11:45:00Z",
+      "to_date": "2026-09-28T12:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -95535,6 +95507,20 @@
       "from_date": "2026-09-28T12:00:00Z",
       "to_date": "2026-09-28T12:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961336,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-09-28T12:30:00Z",
+      "to_date": "2026-09-28T13:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -102748,20 +102734,6 @@
       "cancelled": false
     },
     {
-      "nid": 951462,
-      "sport_name": "Entspannen",
-      "title": "Relax Uniturm",
-      "facility_name": "Relax Uniturm",
-      "location": "Relax Uniturm",
-      "places_free": null,
-      "places_max": 36,
-      "places_taken": null,
-      "from_date": "2026-10-02T07:00:00Z",
-      "to_date": "2026-10-02T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 940904,
       "sport_name": "Pilates",
       "title": "Training",
@@ -102772,6 +102744,20 @@
       "places_taken": null,
       "from_date": "2026-10-02T07:00:00Z",
       "to_date": "2026-10-02T07:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 951462,
+      "sport_name": "Entspannen",
+      "title": "Relax Uniturm",
+      "facility_name": "Relax Uniturm",
+      "location": "Relax Uniturm",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-10-02T07:00:00Z",
+      "to_date": "2026-10-02T10:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -102986,20 +102972,6 @@
       "cancelled": false
     },
     {
-      "nid": 950788,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": null,
-      "places_max": 11,
-      "places_taken": null,
-      "from_date": "2026-10-02T09:30:00Z",
-      "to_date": "2026-10-02T10:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 917852,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -103014,6 +102986,20 @@
       "cancelled": false
     },
     {
+      "nid": 950788,
+      "sport_name": "Entspannen",
+      "title": "Relax CAB",
+      "facility_name": "Relax CAB",
+      "location": "Relax CAB",
+      "places_free": null,
+      "places_max": 11,
+      "places_taken": null,
+      "from_date": "2026-10-02T09:30:00Z",
+      "to_date": "2026-10-02T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914539,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -103025,6 +103011,34 @@
       "from_date": "2026-10-02T10:00:00Z",
       "to_date": "2026-10-02T11:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774318,
+      "sport_name": "Tennis",
+      "title": "W1+2 | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": null,
+      "places_max": 4,
+      "places_taken": null,
+      "from_date": "2026-10-02T10:00:00Z",
+      "to_date": "2026-10-02T11:00:00Z",
+      "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 774317,
+      "sport_name": "Tennis",
+      "title": "M+F | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": null,
+      "places_max": 4,
+      "places_taken": null,
+      "from_date": "2026-10-02T10:00:00Z",
+      "to_date": "2026-10-02T11:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -103070,31 +103084,17 @@
       "cancelled": false
     },
     {
-      "nid": 774318,
-      "sport_name": "Tennis",
-      "title": "W1+2 | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
+      "nid": 940144,
+      "sport_name": "T-BOW",
+      "title": "Balance Pump",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
       "places_free": null,
-      "places_max": 4,
+      "places_max": 55,
       "places_taken": null,
       "from_date": "2026-10-02T10:00:00Z",
       "to_date": "2026-10-02T11:00:00Z",
-      "niveau_name": "Wettkämpfer 1 + 2",
-      "cancelled": false
-    },
-    {
-      "nid": 774317,
-      "sport_name": "Tennis",
-      "title": "M+F | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": null,
-      "places_max": 4,
-      "places_taken": null,
-      "from_date": "2026-10-02T10:00:00Z",
-      "to_date": "2026-10-02T11:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -103136,20 +103136,6 @@
       "places_taken": null,
       "from_date": "2026-10-02T10:00:00Z",
       "to_date": "2026-10-02T11:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 940144,
-      "sport_name": "T-BOW",
-      "title": "Balance Pump",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 55,
-      "places_taken": null,
-      "from_date": "2026-10-02T10:00:00Z",
-      "to_date": "2026-10-02T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -103238,20 +103224,6 @@
       "cancelled": false
     },
     {
-      "nid": 940768,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": null,
-      "places_max": 50,
-      "places_taken": null,
-      "from_date": "2026-10-02T10:05:00Z",
-      "to_date": "2026-10-02T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 939207,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -103262,6 +103234,20 @@
       "places_taken": null,
       "from_date": "2026-10-02T10:05:00Z",
       "to_date": "2026-10-02T11:05:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 940768,
+      "sport_name": "Yoga",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 50,
+      "places_taken": null,
+      "from_date": "2026-10-02T10:05:00Z",
+      "to_date": "2026-10-02T11:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -103644,20 +103630,6 @@
       "cancelled": false
     },
     {
-      "nid": 755899,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Kunstrasen",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-10-02T15:00:00Z",
-      "to_date": "2026-10-02T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 915051,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -103686,16 +103658,16 @@
       "cancelled": false
     },
     {
-      "nid": 924352,
-      "sport_name": "Brazilian Jiu Jitsu",
-      "title": "Training Basics",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
+      "nid": 755899,
+      "sport_name": "Fussball",
+      "title": "Freies Spiel, Kunstrasen",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 20,
       "places_max": 20,
-      "places_taken": null,
+      "places_taken": 0,
       "from_date": "2026-10-02T15:00:00Z",
-      "to_date": "2026-10-02T16:30:00Z",
+      "to_date": "2026-10-02T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -103711,6 +103683,34 @@
       "from_date": "2026-10-02T15:00:00Z",
       "to_date": "2026-10-02T17:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 924352,
+      "sport_name": "Brazilian Jiu Jitsu",
+      "title": "Training Basics",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-02T15:00:00Z",
+      "to_date": "2026-10-02T16:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 939957,
+      "sport_name": "T-BOW",
+      "title": "Balance Pump",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 55,
+      "places_taken": null,
+      "from_date": "2026-10-02T15:00:00Z",
+      "to_date": "2026-10-02T16:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -103742,34 +103742,6 @@
       "cancelled": false
     },
     {
-      "nid": 948369,
-      "sport_name": "TRX Suspension Training",
-      "title": "Hiit & Flow",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": null,
-      "places_max": 24,
-      "places_taken": null,
-      "from_date": "2026-10-02T15:00:00Z",
-      "to_date": "2026-10-02T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 939957,
-      "sport_name": "T-BOW",
-      "title": "Balance Pump",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": null,
-      "places_max": 55,
-      "places_taken": null,
-      "from_date": "2026-10-02T15:00:00Z",
-      "to_date": "2026-10-02T16:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 946570,
       "sport_name": "Body Combat",
       "title": "Training",
@@ -103794,6 +103766,20 @@
       "places_taken": null,
       "from_date": "2026-10-02T15:00:00Z",
       "to_date": "2026-10-02T15:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 948369,
+      "sport_name": "TRX Suspension Training",
+      "title": "Hiit & Flow",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-02T15:00:00Z",
+      "to_date": "2026-10-02T15:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -103854,6 +103840,20 @@
       "cancelled": false
     },
     {
+      "nid": 906858,
+      "sport_name": "Calisthenics",
+      "title": "Full Body Strength",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-02T16:00:00Z",
+      "to_date": "2026-10-02T17:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 939208,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -103878,20 +103878,6 @@
       "places_taken": null,
       "from_date": "2026-10-02T16:00:00Z",
       "to_date": "2026-10-02T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 906858,
-      "sport_name": "Calisthenics",
-      "title": "Full Body Strength",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": null,
-      "places_max": 24,
-      "places_taken": null,
-      "from_date": "2026-10-02T16:00:00Z",
-      "to_date": "2026-10-02T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -103994,6 +103980,20 @@
       "cancelled": false
     },
     {
+      "nid": 906604,
+      "sport_name": "CrossFit",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-02T16:30:00Z",
+      "to_date": "2026-10-02T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917937,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -104019,20 +104019,6 @@
       "from_date": "2026-10-02T16:30:00Z",
       "to_date": "2026-10-02T18:00:00Z",
       "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 906604,
-      "sport_name": "CrossFit",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 30,
-      "places_taken": null,
-      "from_date": "2026-10-02T16:30:00Z",
-      "to_date": "2026-10-02T17:30:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -104064,20 +104050,6 @@
       "cancelled": false
     },
     {
-      "nid": 939209,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 60,
-      "places_taken": null,
-      "from_date": "2026-10-02T17:00:00Z",
-      "to_date": "2026-10-02T18:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 925795,
       "sport_name": "Ju-Jitsu / Selbstverteidigung",
       "title": "für Prüfungskandidaten",
@@ -104089,6 +104061,20 @@
       "from_date": "2026-10-02T17:00:00Z",
       "to_date": "2026-10-02T19:00:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 939209,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-02T17:00:00Z",
+      "to_date": "2026-10-02T18:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -104120,20 +104106,6 @@
       "cancelled": false
     },
     {
-      "nid": 924353,
-      "sport_name": "Brazilian Jiu Jitsu",
-      "title": "Training Basics",
-      "facility_name": null,
-      "location": "Oberdorfstrasse 27, 8820 Wädenswil ",
-      "places_free": null,
-      "places_max": 20,
-      "places_taken": null,
-      "from_date": "2026-10-02T17:30:00Z",
-      "to_date": "2026-10-02T18:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 906520,
       "sport_name": "CrossFit",
       "title": "Intro",
@@ -104148,6 +104120,20 @@
       "cancelled": false
     },
     {
+      "nid": 924353,
+      "sport_name": "Brazilian Jiu Jitsu",
+      "title": "Training Basics",
+      "facility_name": null,
+      "location": "Oberdorfstrasse 27, 8820 Wädenswil ",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-02T17:30:00Z",
+      "to_date": "2026-10-02T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907374,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -104158,6 +104144,20 @@
       "places_taken": null,
       "from_date": "2026-10-02T17:45:00Z",
       "to_date": "2026-10-02T19:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 915538,
+      "sport_name": "Squash",
+      "title": "Freies Spiel",
+      "facility_name": "Winterthur Squashanlage Gertrud",
+      "location": "Winterthur Squashanlage Gertrud",
+      "places_free": null,
+      "places_max": 3,
+      "places_taken": null,
+      "from_date": "2026-10-02T18:00:00Z",
+      "to_date": "2026-10-02T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -104186,20 +104186,6 @@
       "places_taken": null,
       "from_date": "2026-10-02T18:00:00Z",
       "to_date": "2026-10-02T20:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 915538,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": null,
-      "places_max": 3,
-      "places_taken": null,
-      "from_date": "2026-10-02T18:00:00Z",
-      "to_date": "2026-10-02T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -105870,6 +105856,20 @@
       "cancelled": false
     },
     {
+      "nid": 961399,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-05T10:05:00Z",
+      "to_date": "2026-10-05T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944647,
       "sport_name": "Meditation",
       "title": "Training",
@@ -106052,20 +106052,6 @@
       "cancelled": false
     },
     {
-      "nid": 924966,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-10-05T11:45:00Z",
-      "to_date": "2026-10-05T13:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959272,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -106077,6 +106063,20 @@
       "from_date": "2026-10-05T11:45:00Z",
       "to_date": "2026-10-05T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961337,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-05T11:45:00Z",
+      "to_date": "2026-10-05T12:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -106133,6 +106133,20 @@
       "from_date": "2026-10-05T12:00:00Z",
       "to_date": "2026-10-05T12:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961338,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-05T12:30:00Z",
+      "to_date": "2026-10-05T13:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -106570,20 +106584,6 @@
       "cancelled": false
     },
     {
-      "nid": 943447,
-      "sport_name": "Klettern",
-      "title": "Sturz- und Sicherungstraining 002",
-      "facility_name": "Winterthur Kletterhalle 6a plus",
-      "location": "Winterthur Kletterhalle 6a plus",
-      "places_free": null,
-      "places_max": 8,
-      "places_taken": null,
-      "from_date": "2026-10-05T16:00:00Z",
-      "to_date": "2026-10-06T18:45:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 946848,
       "sport_name": "Body Balance",
       "title": "Training (mit Livestream)",
@@ -106623,6 +106623,20 @@
       "from_date": "2026-10-05T16:00:00Z",
       "to_date": "2026-10-05T16:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 943447,
+      "sport_name": "Klettern",
+      "title": "Sturz- und Sicherungstraining 002",
+      "facility_name": "Winterthur Kletterhalle 6a plus",
+      "location": "Winterthur Kletterhalle 6a plus",
+      "places_free": 7,
+      "places_max": 8,
+      "places_taken": 1,
+      "from_date": "2026-10-05T16:00:00Z",
+      "to_date": "2026-10-06T18:45:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -116174,6 +116188,20 @@
       "cancelled": false
     },
     {
+      "nid": 961400,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-12T10:05:00Z",
+      "to_date": "2026-10-12T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944652,
       "sport_name": "Meditation",
       "title": "Training",
@@ -116356,20 +116384,6 @@
       "cancelled": false
     },
     {
-      "nid": 924968,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-10-12T11:45:00Z",
-      "to_date": "2026-10-12T13:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959277,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -116381,6 +116395,20 @@
       "from_date": "2026-10-12T11:45:00Z",
       "to_date": "2026-10-12T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961339,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-12T11:45:00Z",
+      "to_date": "2026-10-12T12:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -116437,6 +116465,20 @@
       "from_date": "2026-10-12T12:00:00Z",
       "to_date": "2026-10-12T12:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961340,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-12T12:30:00Z",
+      "to_date": "2026-10-12T13:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -126422,6 +126464,20 @@
       "cancelled": false
     },
     {
+      "nid": 961401,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-19T10:05:00Z",
+      "to_date": "2026-10-19T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944657,
       "sport_name": "Meditation",
       "title": "Training",
@@ -126618,20 +126674,6 @@
       "cancelled": false
     },
     {
-      "nid": 924970,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-10-19T11:45:00Z",
-      "to_date": "2026-10-19T13:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959282,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -126643,6 +126685,20 @@
       "from_date": "2026-10-19T11:45:00Z",
       "to_date": "2026-10-19T15:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961341,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-19T11:45:00Z",
+      "to_date": "2026-10-19T12:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -126671,6 +126727,20 @@
       "from_date": "2026-10-19T12:00:00Z",
       "to_date": "2026-10-19T12:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961342,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-19T12:30:00Z",
+      "to_date": "2026-10-19T13:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -136684,6 +136754,20 @@
       "cancelled": false
     },
     {
+      "nid": 961402,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-10-26T11:05:00Z",
+      "to_date": "2026-10-26T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944662,
       "sport_name": "Meditation",
       "title": "Training",
@@ -136866,20 +136950,6 @@
       "cancelled": false
     },
     {
-      "nid": 924972,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-10-26T12:45:00Z",
-      "to_date": "2026-10-26T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959287,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -136894,6 +136964,20 @@
       "cancelled": false
     },
     {
+      "nid": 961343,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-26T12:45:00Z",
+      "to_date": "2026-10-26T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940456,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -136905,6 +136989,20 @@
       "from_date": "2026-10-26T13:00:00Z",
       "to_date": "2026-10-26T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961344,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-26T13:30:00Z",
+      "to_date": "2026-10-26T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -146764,6 +146862,20 @@
       "cancelled": false
     },
     {
+      "nid": 961403,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-02T11:05:00Z",
+      "to_date": "2026-11-02T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944667,
       "sport_name": "Meditation",
       "title": "Training",
@@ -146960,20 +147072,6 @@
       "cancelled": false
     },
     {
-      "nid": 924974,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-11-02T12:45:00Z",
-      "to_date": "2026-11-02T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959292,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -146988,6 +147086,20 @@
       "cancelled": false
     },
     {
+      "nid": 961345,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-02T12:45:00Z",
+      "to_date": "2026-11-02T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940462,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -146999,6 +147111,20 @@
       "from_date": "2026-11-02T13:00:00Z",
       "to_date": "2026-11-02T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961346,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-02T13:30:00Z",
+      "to_date": "2026-11-02T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -156578,6 +156704,20 @@
       "cancelled": false
     },
     {
+      "nid": 961404,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-09T11:05:00Z",
+      "to_date": "2026-11-09T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944672,
       "sport_name": "Meditation",
       "title": "Training",
@@ -156760,20 +156900,6 @@
       "cancelled": false
     },
     {
-      "nid": 924976,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-11-09T12:45:00Z",
-      "to_date": "2026-11-09T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959297,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -156788,6 +156914,20 @@
       "cancelled": false
     },
     {
+      "nid": 961347,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-09T12:45:00Z",
+      "to_date": "2026-11-09T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940468,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -156799,6 +156939,20 @@
       "from_date": "2026-11-09T13:00:00Z",
       "to_date": "2026-11-09T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961348,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-09T13:30:00Z",
+      "to_date": "2026-11-09T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -166490,6 +166644,20 @@
       "cancelled": false
     },
     {
+      "nid": 961405,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-16T11:05:00Z",
+      "to_date": "2026-11-16T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944677,
       "sport_name": "Meditation",
       "title": "Training",
@@ -166686,20 +166854,6 @@
       "cancelled": false
     },
     {
-      "nid": 924978,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-11-16T12:45:00Z",
-      "to_date": "2026-11-16T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959302,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -166714,6 +166868,20 @@
       "cancelled": false
     },
     {
+      "nid": 961349,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-16T12:45:00Z",
+      "to_date": "2026-11-16T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940474,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -166725,6 +166893,20 @@
       "from_date": "2026-11-16T13:00:00Z",
       "to_date": "2026-11-16T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961350,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-16T13:30:00Z",
+      "to_date": "2026-11-16T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -176402,6 +176584,20 @@
       "cancelled": false
     },
     {
+      "nid": 961406,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-23T11:05:00Z",
+      "to_date": "2026-11-23T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944682,
       "sport_name": "Meditation",
       "title": "Training",
@@ -176584,20 +176780,6 @@
       "cancelled": false
     },
     {
-      "nid": 924980,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-11-23T12:45:00Z",
-      "to_date": "2026-11-23T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959307,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -176612,6 +176794,20 @@
       "cancelled": false
     },
     {
+      "nid": 961351,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-23T12:45:00Z",
+      "to_date": "2026-11-23T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940480,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -176623,6 +176819,20 @@
       "from_date": "2026-11-23T13:00:00Z",
       "to_date": "2026-11-23T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961352,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-23T13:30:00Z",
+      "to_date": "2026-11-23T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -185334,6 +185544,20 @@
       "cancelled": false
     },
     {
+      "nid": 961407,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-11-30T11:05:00Z",
+      "to_date": "2026-11-30T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944687,
       "sport_name": "Meditation",
       "title": "Training",
@@ -185516,20 +185740,6 @@
       "cancelled": false
     },
     {
-      "nid": 924982,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-11-30T12:45:00Z",
-      "to_date": "2026-11-30T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959312,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -185544,6 +185754,20 @@
       "cancelled": false
     },
     {
+      "nid": 961353,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-30T12:45:00Z",
+      "to_date": "2026-11-30T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940486,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -185555,6 +185779,20 @@
       "from_date": "2026-11-30T13:00:00Z",
       "to_date": "2026-11-30T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961354,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-11-30T13:30:00Z",
+      "to_date": "2026-11-30T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -186039,9 +186277,9 @@
       "title": "Next Level Klettern – Technik & Mentaltraining 002",
       "facility_name": "Winterthur Kletterhalle 6a plus",
       "location": "Winterthur Kletterhalle 6a plus",
-      "places_free": 7,
+      "places_free": 6,
       "places_max": 8,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-11-30T17:00:00Z",
       "to_date": "2026-12-03T19:45:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -194980,6 +195218,20 @@
       "cancelled": false
     },
     {
+      "nid": 961408,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-07T11:05:00Z",
+      "to_date": "2026-12-07T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944692,
       "sport_name": "Meditation",
       "title": "Training",
@@ -195162,20 +195414,6 @@
       "cancelled": false
     },
     {
-      "nid": 924984,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-12-07T12:45:00Z",
-      "to_date": "2026-12-07T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959317,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -195190,6 +195428,20 @@
       "cancelled": false
     },
     {
+      "nid": 961355,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-07T12:45:00Z",
+      "to_date": "2026-12-07T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940492,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -195201,6 +195453,20 @@
       "from_date": "2026-12-07T13:00:00Z",
       "to_date": "2026-12-07T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961356,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-07T13:30:00Z",
+      "to_date": "2026-12-07T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -204920,6 +205186,20 @@
       "cancelled": false
     },
     {
+      "nid": 961409,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-14T11:05:00Z",
+      "to_date": "2026-12-14T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944697,
       "sport_name": "Meditation",
       "title": "Training",
@@ -205116,20 +205396,6 @@
       "cancelled": false
     },
     {
-      "nid": 924986,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-12-14T12:45:00Z",
-      "to_date": "2026-12-14T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959322,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -205144,6 +205410,20 @@
       "cancelled": false
     },
     {
+      "nid": 961357,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-14T12:45:00Z",
+      "to_date": "2026-12-14T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940498,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -205155,6 +205435,20 @@
       "from_date": "2026-12-14T13:00:00Z",
       "to_date": "2026-12-14T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961358,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-14T13:30:00Z",
+      "to_date": "2026-12-14T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -214678,6 +214972,20 @@
       "cancelled": false
     },
     {
+      "nid": 961410,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2026-12-21T11:05:00Z",
+      "to_date": "2026-12-21T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944702,
       "sport_name": "Meditation",
       "title": "Training",
@@ -214832,20 +215140,6 @@
       "cancelled": false
     },
     {
-      "nid": 924988,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-12-21T12:45:00Z",
-      "to_date": "2026-12-21T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959327,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -214860,6 +215154,20 @@
       "cancelled": false
     },
     {
+      "nid": 961359,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-21T12:45:00Z",
+      "to_date": "2026-12-21T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940502,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -214871,6 +215179,20 @@
       "from_date": "2026-12-21T13:00:00Z",
       "to_date": "2026-12-21T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961360,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-12-21T13:30:00Z",
+      "to_date": "2026-12-21T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -220180,6 +220502,20 @@
       "cancelled": false
     },
     {
+      "nid": 961411,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-04T11:05:00Z",
+      "to_date": "2027-01-04T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944705,
       "sport_name": "Meditation",
       "title": "Training",
@@ -220362,20 +220698,6 @@
       "cancelled": false
     },
     {
-      "nid": 924990,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2027-01-04T12:45:00Z",
-      "to_date": "2027-01-04T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959330,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -220390,6 +220712,20 @@
       "cancelled": false
     },
     {
+      "nid": 961361,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-04T12:45:00Z",
+      "to_date": "2027-01-04T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940507,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -220401,6 +220737,20 @@
       "from_date": "2027-01-04T13:00:00Z",
       "to_date": "2027-01-04T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961362,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-04T13:30:00Z",
+      "to_date": "2027-01-04T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -229910,6 +230260,20 @@
       "cancelled": false
     },
     {
+      "nid": 961412,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-11T11:05:00Z",
+      "to_date": "2027-01-11T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944710,
       "sport_name": "Meditation",
       "title": "Training",
@@ -230106,20 +230470,6 @@
       "cancelled": false
     },
     {
-      "nid": 924992,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2027-01-11T12:45:00Z",
-      "to_date": "2027-01-11T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959335,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -230131,6 +230481,20 @@
       "from_date": "2027-01-11T12:45:00Z",
       "to_date": "2027-01-11T16:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961363,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-11T12:45:00Z",
+      "to_date": "2027-01-11T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -230159,6 +230523,20 @@
       "from_date": "2027-01-11T13:00:00Z",
       "to_date": "2027-01-11T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961364,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-11T13:30:00Z",
+      "to_date": "2027-01-11T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -239654,6 +240032,20 @@
       "cancelled": false
     },
     {
+      "nid": 961413,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-18T11:05:00Z",
+      "to_date": "2027-01-18T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944715,
       "sport_name": "Meditation",
       "title": "Training",
@@ -239836,20 +240228,6 @@
       "cancelled": false
     },
     {
-      "nid": 924994,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2027-01-18T12:45:00Z",
-      "to_date": "2027-01-18T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959340,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -239864,6 +240242,20 @@
       "cancelled": false
     },
     {
+      "nid": 961365,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-18T12:45:00Z",
+      "to_date": "2027-01-18T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940519,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -239875,6 +240267,20 @@
       "from_date": "2027-01-18T13:00:00Z",
       "to_date": "2027-01-18T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961366,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-18T13:30:00Z",
+      "to_date": "2027-01-18T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -249342,6 +249748,20 @@
       "cancelled": false
     },
     {
+      "nid": 961414,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-01-25T11:05:00Z",
+      "to_date": "2027-01-25T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944720,
       "sport_name": "Meditation",
       "title": "Training",
@@ -249538,20 +249958,6 @@
       "cancelled": false
     },
     {
-      "nid": 924996,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2027-01-25T12:45:00Z",
-      "to_date": "2027-01-25T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959345,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -249566,6 +249972,20 @@
       "cancelled": false
     },
     {
+      "nid": 961367,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-25T12:45:00Z",
+      "to_date": "2027-01-25T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940524,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -249577,6 +249997,20 @@
       "from_date": "2027-01-25T13:00:00Z",
       "to_date": "2027-01-25T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961368,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-01-25T13:30:00Z",
+      "to_date": "2027-01-25T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -258974,6 +259408,20 @@
       "cancelled": false
     },
     {
+      "nid": 961415,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-01T11:05:00Z",
+      "to_date": "2027-02-01T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944725,
       "sport_name": "Meditation",
       "title": "Training",
@@ -259156,20 +259604,6 @@
       "cancelled": false
     },
     {
-      "nid": 924998,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2027-02-01T12:45:00Z",
-      "to_date": "2027-02-01T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959350,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -259184,6 +259618,20 @@
       "cancelled": false
     },
     {
+      "nid": 961369,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-01T12:45:00Z",
+      "to_date": "2027-02-01T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940530,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -259195,6 +259643,20 @@
       "from_date": "2027-02-01T13:00:00Z",
       "to_date": "2027-02-01T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961370,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-01T13:30:00Z",
+      "to_date": "2027-02-01T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -268662,6 +269124,20 @@
       "cancelled": false
     },
     {
+      "nid": 961416,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-08T11:05:00Z",
+      "to_date": "2027-02-08T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944730,
       "sport_name": "Meditation",
       "title": "Training",
@@ -268858,20 +269334,6 @@
       "cancelled": false
     },
     {
-      "nid": 925000,
-      "sport_name": "Flamenco",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2027-02-08T12:45:00Z",
-      "to_date": "2027-02-08T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
       "nid": 959355,
       "sport_name": "Entspannen",
       "title": "Relax CAB",
@@ -268886,6 +269348,20 @@
       "cancelled": false
     },
     {
+      "nid": 961371,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-08T12:45:00Z",
+      "to_date": "2027-02-08T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
       "nid": 940536,
       "sport_name": "Bodyforming",
       "title": "Stabilisation Serientraining",
@@ -268897,6 +269373,20 @@
       "from_date": "2027-02-08T13:00:00Z",
       "to_date": "2027-02-08T13:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 961372,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-08T13:30:00Z",
+      "to_date": "2027-02-08T14:15:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -278112,6 +278602,20 @@
       "cancelled": false
     },
     {
+      "nid": 961417,
+      "sport_name": "Muscle Pump",
+      "title": "Body Pump",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 30,
+      "places_taken": null,
+      "from_date": "2027-02-15T11:05:00Z",
+      "to_date": "2027-02-15T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924282,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -278154,7 +278658,7 @@
       "cancelled": false
     },
     {
-      "nid": 925002,
+      "nid": 961373,
       "sport_name": "Flamenco",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
@@ -278163,8 +278667,22 @@
       "places_max": 40,
       "places_taken": null,
       "from_date": "2027-02-15T12:45:00Z",
+      "to_date": "2027-02-15T13:30:00Z",
+      "niveau_name": "Einsteiger 1",
+      "cancelled": false
+    },
+    {
+      "nid": 961374,
+      "sport_name": "Flamenco",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2027-02-15T13:30:00Z",
       "to_date": "2027-02-15T14:15:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
