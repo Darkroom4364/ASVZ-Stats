@@ -1,90 +1,6 @@
 {
-  "ts": "2026-08-05T21:53:46.509795+00:00",
+  "ts": "2026-08-06T06:41:05.609663+00:00",
   "events": [
-    {
-      "nid": 846137,
-      "sport_name": "Rudern",
-      "title": "Fortsetzungskurs PRC 03",
-      "facility_name": "Ruderclubs Zürichsee",
-      "location": "Mythenquai 67, 8002 Zürich",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-08-06T04:15:00Z",
-      "to_date": "2026-09-24T05:45:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 758089,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 15,
-      "places_max": 35,
-      "places_taken": 20,
-      "from_date": "2026-08-06T04:45:00Z",
-      "to_date": "2026-08-06T05:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 749809,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 120,
-      "places_max": 120,
-      "places_taken": 0,
-      "from_date": "2026-08-06T05:00:00Z",
-      "to_date": "2026-08-06T05:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": true
-    },
-    {
-      "nid": 743171,
-      "sport_name": "Tai Chi & Qi Gong",
-      "title": "Einsteiger (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 15,
-      "places_max": 20,
-      "places_taken": 5,
-      "from_date": "2026-08-06T05:15:00Z",
-      "to_date": "2026-08-06T06:25:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 741474,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 15,
-      "places_max": 35,
-      "places_taken": 20,
-      "from_date": "2026-08-06T05:45:00Z",
-      "to_date": "2026-08-06T06:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748760,
-      "sport_name": "Bodyforming",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 38,
-      "places_max": 60,
-      "places_taken": 22,
-      "from_date": "2026-08-06T06:00:00Z",
-      "to_date": "2026-08-06T06:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 731061,
       "sport_name": "Testangebot",
@@ -105,9 +21,9 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 18,
+      "places_free": 22,
       "places_max": 30,
-      "places_taken": 12,
+      "places_taken": 8,
       "from_date": "2026-08-06T06:30:00Z",
       "to_date": "2026-08-06T07:25:00Z",
       "niveau_name": "Einsteiger",
@@ -133,9 +49,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 12,
+      "places_free": 22,
       "places_max": 60,
-      "places_taken": 48,
+      "places_taken": 38,
       "from_date": "2026-08-06T07:00:00Z",
       "to_date": "2026-08-06T08:15:00Z",
       "niveau_name": "Alle",
@@ -161,25 +77,11 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 20,
+      "places_free": 24,
       "places_max": 30,
-      "places_taken": 10,
+      "places_taken": 6,
       "from_date": "2026-08-06T07:30:00Z",
       "to_date": "2026-08-06T08:40:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741604,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 60,
-      "places_taken": 60,
-      "from_date": "2026-08-06T08:45:00Z",
-      "to_date": "2026-08-06T09:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -194,6 +96,20 @@
       "places_taken": 13,
       "from_date": "2026-08-06T08:45:00Z",
       "to_date": "2026-08-06T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 741604,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 0,
+      "places_max": 60,
+      "places_taken": 60,
+      "from_date": "2026-08-06T08:45:00Z",
+      "to_date": "2026-08-06T09:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -217,9 +133,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 16,
+      "places_free": 15,
       "places_max": 32,
-      "places_taken": 16,
+      "places_taken": 17,
       "from_date": "2026-08-06T09:00:00Z",
       "to_date": "2026-08-06T09:55:00Z",
       "niveau_name": "Alle",
@@ -245,13 +161,13 @@
       "title": "Einstiegstraining",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 17,
+      "places_free": 24,
       "places_max": 24,
-      "places_taken": 7,
+      "places_taken": 0,
       "from_date": "2026-08-06T09:45:00Z",
       "to_date": "2026-08-06T11:15:00Z",
       "niveau_name": "Einsteiger",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 854082,
@@ -310,62 +226,6 @@
       "cancelled": false
     },
     {
-      "nid": 739256,
-      "sport_name": "Hip Hop",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 54,
-      "places_max": 60,
-      "places_taken": 6,
-      "from_date": "2026-08-06T10:00:00Z",
-      "to_date": "2026-08-06T11:25:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": true
-    },
-    {
-      "nid": 755751,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Kunstrasen",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 18,
-      "places_max": 20,
-      "places_taken": 2,
-      "from_date": "2026-08-06T10:00:00Z",
-      "to_date": "2026-08-06T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 739802,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 31,
-      "places_max": 40,
-      "places_taken": 9,
-      "from_date": "2026-08-06T10:00:00Z",
-      "to_date": "2026-08-06T11:30:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 756469,
-      "sport_name": "Rowing Class",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 3,
-      "places_max": 20,
-      "places_taken": 17,
-      "from_date": "2026-08-06T10:00:00Z",
-      "to_date": "2026-08-06T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 749810,
       "sport_name": "Kondi",
       "title": "Super Kondi Core | Body Attack Les Mills Core ",
@@ -378,6 +238,34 @@
       "to_date": "2026-08-06T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 755751,
+      "sport_name": "Fussball",
+      "title": "Freies Spiel, Kunstrasen",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 19,
+      "places_max": 20,
+      "places_taken": 1,
+      "from_date": "2026-08-06T10:00:00Z",
+      "to_date": "2026-08-06T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 739256,
+      "sport_name": "Hip Hop",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 54,
+      "places_max": 60,
+      "places_taken": 6,
+      "from_date": "2026-08-06T10:00:00Z",
+      "to_date": "2026-08-06T11:25:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": true
     },
     {
       "nid": 746930,
@@ -394,30 +282,44 @@
       "cancelled": false
     },
     {
-      "nid": 755053,
-      "sport_name": "Zumba",
+      "nid": 739802,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 30,
+      "places_max": 40,
+      "places_taken": 10,
+      "from_date": "2026-08-06T10:00:00Z",
+      "to_date": "2026-08-06T11:30:00Z",
+      "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 756469,
+      "sport_name": "Rowing Class",
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 23,
-      "places_max": 35,
-      "places_taken": 12,
-      "from_date": "2026-08-06T10:05:00Z",
+      "places_free": 4,
+      "places_max": 20,
+      "places_taken": 16,
+      "from_date": "2026-08-06T10:00:00Z",
       "to_date": "2026-08-06T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 743760,
-      "sport_name": "Meditation",
+      "nid": 755053,
+      "sport_name": "Zumba",
       "title": "Training",
-      "facility_name": "Relax CAB",
-      "location": "Meditationsbox im Relax CAB",
-      "places_free": 10,
-      "places_max": 10,
-      "places_taken": 0,
-      "from_date": "2026-08-06T10:10:00Z",
-      "to_date": "2026-08-06T10:55:00Z",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 21,
+      "places_max": 35,
+      "places_taken": 14,
+      "from_date": "2026-08-06T10:05:00Z",
+      "to_date": "2026-08-06T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -427,11 +329,25 @@
       "title": "Training (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 19,
+      "places_free": 15,
       "places_max": 30,
-      "places_taken": 11,
+      "places_taken": 15,
       "from_date": "2026-08-06T10:10:00Z",
       "to_date": "2026-08-06T11:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 743760,
+      "sport_name": "Meditation",
+      "title": "Training",
+      "facility_name": "Relax CAB",
+      "location": "Meditationsbox im Relax CAB",
+      "places_free": 9,
+      "places_max": 10,
+      "places_taken": 1,
+      "from_date": "2026-08-06T10:10:00Z",
+      "to_date": "2026-08-06T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -464,6 +380,20 @@
       "cancelled": false
     },
     {
+      "nid": 749907,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 101,
+      "places_max": 120,
+      "places_taken": 19,
+      "from_date": "2026-08-06T10:15:00Z",
+      "to_date": "2026-08-06T11:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 758188,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -474,20 +404,6 @@
       "places_taken": 35,
       "from_date": "2026-08-06T10:15:00Z",
       "to_date": "2026-08-06T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 749907,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 105,
-      "places_max": 120,
-      "places_taken": 15,
-      "from_date": "2026-08-06T10:15:00Z",
-      "to_date": "2026-08-06T11:10:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -516,20 +432,6 @@
       "places_taken": 0,
       "from_date": "2026-08-06T11:00:00Z",
       "to_date": "2026-08-06T15:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750618,
-      "sport_name": "Entspannen",
-      "title": "Relax CAB",
-      "facility_name": "Relax CAB",
-      "location": "Relax CAB",
-      "places_free": 11,
-      "places_max": 11,
-      "places_taken": 0,
-      "from_date": "2026-08-06T11:00:00Z",
-      "to_date": "2026-08-06T11:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -590,6 +492,20 @@
       "cancelled": false
     },
     {
+      "nid": 750618,
+      "sport_name": "Entspannen",
+      "title": "Relax CAB",
+      "facility_name": "Relax CAB",
+      "location": "Relax CAB",
+      "places_free": 10,
+      "places_max": 11,
+      "places_taken": 1,
+      "from_date": "2026-08-06T11:00:00Z",
+      "to_date": "2026-08-06T11:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 739803,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -623,9 +539,9 @@
       "title": "Relax Uniturm",
       "facility_name": "Relax Uniturm",
       "location": "Relax Uniturm",
-      "places_free": 36,
+      "places_free": 35,
       "places_max": 36,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-08-06T11:30:00Z",
       "to_date": "2026-08-06T15:00:00Z",
       "niveau_name": "Alle",
@@ -693,9 +609,9 @@
       "title": "Power Yoga",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 23,
+      "places_free": 22,
       "places_max": 30,
-      "places_taken": 7,
+      "places_taken": 8,
       "from_date": "2026-08-06T13:45:00Z",
       "to_date": "2026-08-06T14:55:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -763,9 +679,9 @@
       "title": "Futsal, Begleitetes Spiel",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 10,
+      "places_free": 8,
       "places_max": 41,
-      "places_taken": 31,
+      "places_taken": 33,
       "from_date": "2026-08-06T14:30:00Z",
       "to_date": "2026-08-06T16:00:00Z",
       "niveau_name": "Alle",
@@ -828,16 +744,16 @@
       "cancelled": false
     },
     {
-      "nid": 745026,
-      "sport_name": "Yoga",
+      "nid": 744065,
+      "sport_name": "Pilates",
       "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 16,
-      "places_max": 20,
-      "places_taken": 4,
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 0,
+      "places_max": 30,
+      "places_taken": 30,
       "from_date": "2026-08-06T15:00:00Z",
-      "to_date": "2026-08-06T16:10:00Z",
+      "to_date": "2026-08-06T15:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -856,16 +772,16 @@
       "cancelled": false
     },
     {
-      "nid": 744065,
-      "sport_name": "Pilates",
+      "nid": 745026,
+      "sport_name": "Yoga",
       "title": "Training",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 0,
-      "places_max": 30,
-      "places_taken": 30,
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 15,
+      "places_max": 20,
+      "places_taken": 5,
       "from_date": "2026-08-06T15:00:00Z",
-      "to_date": "2026-08-06T15:55:00Z",
+      "to_date": "2026-08-06T16:10:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -898,20 +814,6 @@
       "cancelled": false
     },
     {
-      "nid": 793739,
-      "sport_name": "Surfskaten",
-      "title": "Basic und Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 3,
-      "places_max": 8,
-      "places_taken": 5,
-      "from_date": "2026-08-06T15:30:00Z",
-      "to_date": "2026-08-06T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 760202,
       "sport_name": "Beachvolleyball",
       "title": "Training Outdoor",
@@ -931,12 +833,26 @@
       "title": "Treff",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 5,
+      "places_free": 7,
       "places_max": 32,
-      "places_taken": 27,
+      "places_taken": 25,
       "from_date": "2026-08-06T15:30:00Z",
       "to_date": "2026-08-06T18:30:00Z",
       "niveau_name": "Einsteiger + Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 793739,
+      "sport_name": "Surfskaten",
+      "title": "Basic und Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 4,
+      "places_max": 8,
+      "places_taken": 4,
+      "from_date": "2026-08-06T15:30:00Z",
+      "to_date": "2026-08-06T17:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -950,20 +866,6 @@
       "places_taken": 25,
       "from_date": "2026-08-06T15:50:00Z",
       "to_date": "2026-08-06T17:10:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 735437,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 3,
-      "places_max": 3,
-      "places_taken": 0,
-      "from_date": "2026-08-06T16:00:00Z",
-      "to_date": "2026-08-06T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1010,20 +912,6 @@
       "cancelled": false
     },
     {
-      "nid": 758189,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 35,
-      "places_taken": 35,
-      "from_date": "2026-08-06T16:00:00Z",
-      "to_date": "2026-08-06T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 757181,
       "sport_name": "Shotokan Karate",
       "title": "Training",
@@ -1038,20 +926,6 @@
       "cancelled": false
     },
     {
-      "nid": 750024,
-      "sport_name": "Kondi",
-      "title": "klassisch + Stretching",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 166,
-      "places_max": 180,
-      "places_taken": 14,
-      "from_date": "2026-08-06T16:00:00Z",
-      "to_date": "2026-08-06T16:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 736270,
       "sport_name": "Funktionelles Outdoortraining",
       "title": "Training",
@@ -1060,6 +934,20 @@
       "places_free": 13,
       "places_max": 20,
       "places_taken": 7,
+      "from_date": "2026-08-06T16:00:00Z",
+      "to_date": "2026-08-06T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 735437,
+      "sport_name": "Squash",
+      "title": "Freies Spiel",
+      "facility_name": "Winterthur Squashanlage Gertrud",
+      "location": "Winterthur Squashanlage Gertrud",
+      "places_free": 2,
+      "places_max": 3,
+      "places_taken": 1,
       "from_date": "2026-08-06T16:00:00Z",
       "to_date": "2026-08-06T17:00:00Z",
       "niveau_name": "Alle",
@@ -1080,30 +968,44 @@
       "cancelled": false
     },
     {
+      "nid": 758189,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 0,
+      "places_max": 35,
+      "places_taken": 35,
+      "from_date": "2026-08-06T16:00:00Z",
+      "to_date": "2026-08-06T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 854149,
       "sport_name": "Ultimate Frisbee",
       "title": "Training & Spiel",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 13,
+      "places_free": 9,
       "places_max": 24,
-      "places_taken": 11,
+      "places_taken": 15,
       "from_date": "2026-08-06T16:00:00Z",
       "to_date": "2026-08-06T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 741753,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 0,
-      "places_max": 35,
-      "places_taken": 35,
-      "from_date": "2026-08-06T16:05:00Z",
-      "to_date": "2026-08-06T17:00:00Z",
+      "nid": 750024,
+      "sport_name": "Kondi",
+      "title": "klassisch + Stretching",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 164,
+      "places_max": 180,
+      "places_taken": 16,
+      "from_date": "2026-08-06T16:00:00Z",
+      "to_date": "2026-08-06T16:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1122,6 +1024,20 @@
       "cancelled": false
     },
     {
+      "nid": 741753,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 0,
+      "places_max": 35,
+      "places_taken": 35,
+      "from_date": "2026-08-06T16:05:00Z",
+      "to_date": "2026-08-06T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 757065,
       "sport_name": "Running",
       "title": "Bahntraining",
@@ -1133,20 +1049,6 @@
       "from_date": "2026-08-06T16:15:00Z",
       "to_date": "2026-08-06T17:45:00Z",
       "niveau_name": "Fortgeschrittene 1 + 2",
-      "cancelled": false
-    },
-    {
-      "nid": 736707,
-      "sport_name": "Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 20,
-      "places_taken": 20,
-      "from_date": "2026-08-06T16:15:00Z",
-      "to_date": "2026-08-06T18:00:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -1164,14 +1066,28 @@
       "cancelled": false
     },
     {
+      "nid": 736707,
+      "sport_name": "Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 20,
+      "places_taken": 20,
+      "from_date": "2026-08-06T16:15:00Z",
+      "to_date": "2026-08-06T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 756351,
       "sport_name": "Rowing Class",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 15,
-      "places_taken": 14,
+      "places_taken": 15,
       "from_date": "2026-08-06T16:15:00Z",
       "to_date": "2026-08-06T17:15:00Z",
       "niveau_name": "Alle",
@@ -1192,6 +1108,20 @@
       "cancelled": false
     },
     {
+      "nid": 746935,
+      "sport_name": "Boxen",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 6,
+      "places_max": 24,
+      "places_taken": 18,
+      "from_date": "2026-08-06T16:30:00Z",
+      "to_date": "2026-08-06T18:00:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
       "nid": 762711,
       "sport_name": "Padel",
       "title": "Begleitetes Spiel",
@@ -1200,20 +1130,6 @@
       "places_free": 0,
       "places_max": 7,
       "places_taken": 7,
-      "from_date": "2026-08-06T16:30:00Z",
-      "to_date": "2026-08-06T18:00:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 746935,
-      "sport_name": "Boxen",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 7,
-      "places_max": 24,
-      "places_taken": 17,
       "from_date": "2026-08-06T16:30:00Z",
       "to_date": "2026-08-06T18:00:00Z",
       "niveau_name": "Einsteiger",
@@ -1262,34 +1178,6 @@
       "cancelled": false
     },
     {
-      "nid": 755753,
-      "sport_name": "Fussball",
-      "title": "Begleitetes Spiel, Rasen",
-      "facility_name": null,
-      "location": "Winterthur Schulhaus Tössfeld",
-      "places_free": 11,
-      "places_max": 16,
-      "places_taken": 5,
-      "from_date": "2026-08-06T17:00:00Z",
-      "to_date": "2026-08-06T18:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750025,
-      "sport_name": "Kondi",
-      "title": "Hot Fusion | Super Kondi Body Attack / Body Combat",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 174,
-      "places_max": 180,
-      "places_taken": 6,
-      "from_date": "2026-08-06T17:00:00Z",
-      "to_date": "2026-08-06T17:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 758910,
       "sport_name": "Cycling Class",
       "title": "Training",
@@ -1304,14 +1192,42 @@
       "cancelled": false
     },
     {
+      "nid": 750025,
+      "sport_name": "Kondi",
+      "title": "Hot Fusion | Super Kondi Body Attack / Body Combat",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 173,
+      "places_max": 180,
+      "places_taken": 7,
+      "from_date": "2026-08-06T17:00:00Z",
+      "to_date": "2026-08-06T17:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755753,
+      "sport_name": "Fussball",
+      "title": "Begleitetes Spiel, Rasen",
+      "facility_name": null,
+      "location": "Winterthur Schulhaus Tössfeld",
+      "places_free": 10,
+      "places_max": 16,
+      "places_taken": 6,
+      "from_date": "2026-08-06T17:00:00Z",
+      "to_date": "2026-08-06T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 752445,
       "sport_name": "Body Combat",
       "title": "Hot Fusion | Super Kondi Body Attack / Body Combat",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 136,
+      "places_free": 134,
       "places_max": 150,
-      "places_taken": 14,
+      "places_taken": 16,
       "from_date": "2026-08-06T17:00:00Z",
       "to_date": "2026-08-06T17:55:00Z",
       "niveau_name": "Alle",
@@ -1323,40 +1239,12 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 4,
+      "places_free": 2,
       "places_max": 30,
-      "places_taken": 26,
+      "places_taken": 28,
       "from_date": "2026-08-06T17:10:00Z",
       "to_date": "2026-08-06T18:40:00Z",
       "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 738843,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 12,
-      "places_max": 24,
-      "places_taken": 12,
-      "from_date": "2026-08-06T17:15:00Z",
-      "to_date": "2026-08-06T19:15:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 739257,
-      "sport_name": "Hip Hop",
-      "title": "Locking",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 47,
-      "places_max": 60,
-      "places_taken": 13,
-      "from_date": "2026-08-06T17:15:00Z",
-      "to_date": "2026-08-06T18:30:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
       "cancelled": false
     },
     {
@@ -1371,6 +1259,34 @@
       "from_date": "2026-08-06T17:15:00Z",
       "to_date": "2026-08-06T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 738843,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 11,
+      "places_max": 24,
+      "places_taken": 13,
+      "from_date": "2026-08-06T17:15:00Z",
+      "to_date": "2026-08-06T19:15:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 739257,
+      "sport_name": "Hip Hop",
+      "title": "Locking",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 45,
+      "places_max": 60,
+      "places_taken": 15,
+      "from_date": "2026-08-06T17:15:00Z",
+      "to_date": "2026-08-06T18:30:00Z",
+      "niveau_name": "Einsteiger 1 + 2",
       "cancelled": false
     },
     {
@@ -1393,9 +1309,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 29,
+      "places_free": 26,
       "places_max": 35,
-      "places_taken": 6,
+      "places_taken": 9,
       "from_date": "2026-08-06T17:30:00Z",
       "to_date": "2026-08-06T19:00:00Z",
       "niveau_name": "Alle",
@@ -1472,20 +1388,6 @@
       "cancelled": false
     },
     {
-      "nid": 735951,
-      "sport_name": "Handball",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 22,
-      "places_max": 30,
-      "places_taken": 8,
-      "from_date": "2026-08-06T18:00:00Z",
-      "to_date": "2026-08-06T19:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 753904,
       "sport_name": "Volleyball",
       "title": "Spiel ",
@@ -1496,6 +1398,20 @@
       "places_taken": 16,
       "from_date": "2026-08-06T18:00:00Z",
       "to_date": "2026-08-06T19:20:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 735951,
+      "sport_name": "Handball",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 20,
+      "places_max": 30,
+      "places_taken": 10,
+      "from_date": "2026-08-06T18:00:00Z",
+      "to_date": "2026-08-06T19:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1519,9 +1435,9 @@
       "title": "Bachata",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 13,
+      "places_free": 12,
       "places_max": 30,
-      "places_taken": 17,
+      "places_taken": 18,
       "from_date": "2026-08-06T18:45:00Z",
       "to_date": "2026-08-06T20:00:00Z",
       "niveau_name": "Einsteiger 1 + 2",
@@ -1547,9 +1463,9 @@
       "title": "Spiel ",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 5,
+      "places_free": 0,
       "places_max": 16,
-      "places_taken": 11,
+      "places_taken": 16,
       "from_date": "2026-08-06T19:20:00Z",
       "to_date": "2026-08-06T20:45:00Z",
       "niveau_name": "Alle",
@@ -1567,21 +1483,7 @@
       "from_date": "2026-08-07T05:30:00Z",
       "to_date": "2026-08-07T06:20:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753018,
-      "sport_name": "Body Balance",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 25,
-      "places_max": 25,
-      "places_taken": 0,
-      "from_date": "2026-08-07T06:00:00Z",
-      "to_date": "2026-08-07T07:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 759921,
@@ -1595,6 +1497,20 @@
       "from_date": "2026-08-07T06:00:00Z",
       "to_date": "2026-08-09T16:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 753018,
+      "sport_name": "Body Balance",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 24,
+      "places_max": 25,
+      "places_taken": 1,
+      "from_date": "2026-08-07T06:00:00Z",
+      "to_date": "2026-08-07T07:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -3689,9 +3605,9 @@
       "title": "Musical Dance Workshop | Jekyll & Hyde",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 30,
+      "places_free": 29,
       "places_max": 40,
-      "places_taken": 10,
+      "places_taken": 11,
       "from_date": "2026-08-09T11:00:00Z",
       "to_date": "2026-08-09T13:00:00Z",
       "niveau_name": "Einsteiger 2 bis Fortgeschrittene",
@@ -5901,9 +5817,9 @@
       "title": "Körperzusammensetzung BIA",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 1,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-08-11T07:30:00Z",
       "to_date": "2026-08-11T08:30:00Z",
       "niveau_name": "Alle",
@@ -8682,20 +8598,6 @@
       "cancelled": false
     },
     {
-      "nid": 759444,
-      "sport_name": "Golf",
-      "title": "Training Golfclub UZH & ETHZ",
-      "facility_name": null,
-      "location": "Golfpark Otelfingen",
-      "places_free": 12,
-      "places_max": 12,
-      "places_taken": 0,
-      "from_date": "2026-08-12T16:00:00Z",
-      "to_date": "2026-08-12T18:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
       "nid": 834381,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
@@ -8749,6 +8651,20 @@
       "from_date": "2026-08-12T16:00:00Z",
       "to_date": "2026-08-12T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 759444,
+      "sport_name": "Golf",
+      "title": "Training Golfclub UZH & ETHZ",
+      "facility_name": null,
+      "location": "Golfpark Otelfingen",
+      "places_free": 11,
+      "places_max": 12,
+      "places_taken": 1,
+      "from_date": "2026-08-12T16:00:00Z",
+      "to_date": "2026-08-12T18:00:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -13419,9 +13335,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 1,
       "places_max": 2,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-08-16T09:30:00Z",
       "to_date": "2026-08-16T10:30:00Z",
       "niveau_name": "Alle",
@@ -13596,20 +13512,6 @@
       "cancelled": false
     },
     {
-      "nid": 756664,
-      "sport_name": "Zumba",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-08-16T12:00:00Z",
-      "to_date": "2026-08-16T12:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 853958,
       "sport_name": "Basketball",
       "title": "Begleitetes Spiel",
@@ -13621,6 +13523,20 @@
       "from_date": "2026-08-16T12:00:00Z",
       "to_date": "2026-08-16T14:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 756664,
+      "sport_name": "Zumba",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-08-16T12:00:00Z",
+      "to_date": "2026-08-16T12:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -15430,20 +15346,6 @@
       "cancelled": true
     },
     {
-      "nid": 769354,
-      "sport_name": "Running",
-      "title": "Coaching mit Schwerpunkt auf die Integration in den Alltag/Verletzungsprävention",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 4,
-      "places_max": 4,
-      "places_taken": 0,
-      "from_date": "2026-08-17T16:00:00Z",
-      "to_date": "2026-08-17T17:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 854177,
       "sport_name": "Flag Football",
       "title": "Training & Spiel",
@@ -15468,6 +15370,20 @@
       "places_taken": 26,
       "from_date": "2026-08-17T16:00:00Z",
       "to_date": "2026-08-21T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 769354,
+      "sport_name": "Running",
+      "title": "Coaching mit Schwerpunkt auf die Integration in den Alltag/Verletzungsprävention",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 4,
+      "places_max": 4,
+      "places_taken": 0,
+      "from_date": "2026-08-17T16:00:00Z",
+      "to_date": "2026-08-17T17:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -22948,20 +22864,6 @@
       "cancelled": false
     },
     {
-      "nid": 738299,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": 2,
-      "places_max": 2,
-      "places_taken": 0,
-      "from_date": "2026-08-20T16:15:00Z",
-      "to_date": "2026-08-20T17:15:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 736721,
       "sport_name": "Paddeln",
       "title": "Training",
@@ -23085,6 +22987,20 @@
       "from_date": "2026-08-20T16:15:00Z",
       "to_date": "2026-08-20T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 738299,
+      "sport_name": "Fitnessberatung",
+      "title": "Programm-Einführung",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": 2,
+      "places_max": 2,
+      "places_taken": 0,
+      "from_date": "2026-08-20T16:15:00Z",
+      "to_date": "2026-08-20T17:15:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -40784,20 +40700,6 @@
       "cancelled": false
     },
     {
-      "nid": 756666,
-      "sport_name": "Zumba",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-08-30T12:00:00Z",
-      "to_date": "2026-08-30T12:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 853960,
       "sport_name": "Basketball",
       "title": "Begleitetes Spiel",
@@ -40809,6 +40711,20 @@
       "from_date": "2026-08-30T12:00:00Z",
       "to_date": "2026-08-30T14:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 756666,
+      "sport_name": "Zumba",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-08-30T12:00:00Z",
+      "to_date": "2026-08-30T12:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -47411,9 +47327,9 @@
       "title": "Einzelberatung",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 1,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-09-02T14:00:00Z",
       "to_date": "2026-09-02T15:00:00Z",
       "niveau_name": "Alle",
@@ -54882,20 +54798,6 @@
       "cancelled": false
     },
     {
-      "nid": 756667,
-      "sport_name": "Zumba",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-09-06T12:00:00Z",
-      "to_date": "2026-09-06T12:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 853961,
       "sport_name": "Basketball",
       "title": "Begleitetes Spiel",
@@ -54907,6 +54809,20 @@
       "from_date": "2026-09-06T12:00:00Z",
       "to_date": "2026-09-06T14:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 756667,
+      "sport_name": "Zumba",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-09-06T12:00:00Z",
+      "to_date": "2026-09-06T12:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -55083,9 +54999,9 @@
       "title": "Wingfoilcamp Fortgeschrittene Hyères Südfrankreich",
       "facility_name": null,
       "location": "Giens / Hyères / Südfrankreich",
-      "places_free": 0,
+      "places_free": 1,
       "places_max": 8,
-      "places_taken": 8,
+      "places_taken": 7,
       "from_date": "2026-09-06T17:00:00Z",
       "to_date": "2026-09-12T08:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -68980,20 +68896,6 @@
       "cancelled": false
     },
     {
-      "nid": 756668,
-      "sport_name": "Zumba",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-09-13T12:00:00Z",
-      "to_date": "2026-09-13T12:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 853962,
       "sport_name": "Basketball",
       "title": "Begleitetes Spiel",
@@ -69005,6 +68907,20 @@
       "from_date": "2026-09-13T12:00:00Z",
       "to_date": "2026-09-13T14:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 756668,
+      "sport_name": "Zumba",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 60,
+      "places_max": 60,
+      "places_taken": 0,
+      "from_date": "2026-09-13T12:00:00Z",
+      "to_date": "2026-09-13T12:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -74328,6 +74244,20 @@
       "cancelled": false
     },
     {
+      "nid": 966545,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-16T10:15:00Z",
+      "to_date": "2026-09-16T11:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 923707,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -76505,6 +76435,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-09-17T10:15:00Z",
+      "to_date": "2026-09-17T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966615,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-09-17T10:15:00Z",
       "to_date": "2026-09-17T11:15:00Z",
@@ -79463,6 +79407,20 @@
       "from_date": "2026-09-18T16:00:00Z",
       "to_date": "2026-09-18T17:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966546,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-18T16:00:00Z",
+      "to_date": "2026-09-18T17:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -86326,6 +86284,20 @@
       "cancelled": false
     },
     {
+      "nid": 966547,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-23T10:15:00Z",
+      "to_date": "2026-09-23T11:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 923736,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -88405,6 +88377,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-09-24T10:15:00Z",
+      "to_date": "2026-09-24T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966616,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-09-24T10:15:00Z",
       "to_date": "2026-09-24T11:15:00Z",
@@ -91072,20 +91058,6 @@
       "cancelled": false
     },
     {
-      "nid": 911699,
-      "sport_name": "Specials",
-      "title": "ASVZ Sports Week | Völkerballturnier",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 19,
-      "places_max": 21,
-      "places_taken": 2,
-      "from_date": "2026-09-25T15:00:00Z",
-      "to_date": "2026-09-25T21:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 946565,
       "sport_name": "Body Combat",
       "title": "Training",
@@ -91110,6 +91082,20 @@
       "places_taken": null,
       "from_date": "2026-09-25T15:00:00Z",
       "to_date": "2026-09-25T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 911699,
+      "sport_name": "Specials",
+      "title": "ASVZ Sports Week | Völkerballturnier",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 18,
+      "places_max": 21,
+      "places_taken": 3,
+      "from_date": "2026-09-25T15:00:00Z",
+      "to_date": "2026-09-25T21:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -91195,6 +91181,20 @@
       "from_date": "2026-09-25T16:00:00Z",
       "to_date": "2026-09-25T17:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966548,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-25T16:00:00Z",
+      "to_date": "2026-09-25T17:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -97876,6 +97876,20 @@
       "cancelled": false
     },
     {
+      "nid": 966549,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-30T10:15:00Z",
+      "to_date": "2026-09-30T11:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 926254,
       "sport_name": "Testangebot",
       "title": "Sportcardio Check",
@@ -99885,6 +99899,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-10-01T10:15:00Z",
+      "to_date": "2026-10-01T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966617,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-10-01T10:15:00Z",
       "to_date": "2026-10-01T11:15:00Z",
@@ -102664,6 +102692,20 @@
       "cancelled": false
     },
     {
+      "nid": 966550,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-02T16:00:00Z",
+      "to_date": "2026-10-02T17:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 928365,
       "sport_name": "Fechten",
       "title": "freies Training",
@@ -103896,20 +103938,6 @@
       "cancelled": false
     },
     {
-      "nid": 947113,
-      "sport_name": "Dance Aerobic",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": null,
-      "places_max": 40,
-      "places_taken": null,
-      "from_date": "2026-10-04T10:00:00Z",
-      "to_date": "2026-10-04T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 940046,
       "sport_name": "T-BOW",
       "title": "Balance Pump",
@@ -103920,6 +103948,20 @@
       "places_taken": null,
       "from_date": "2026-10-04T10:00:00Z",
       "to_date": "2026-10-04T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 947113,
+      "sport_name": "Dance Aerobic",
+      "title": "Training (mit Livestream)",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": null,
+      "places_max": 40,
+      "places_taken": null,
+      "from_date": "2026-10-04T10:00:00Z",
+      "to_date": "2026-10-04T10:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -109048,6 +109090,20 @@
       "cancelled": false
     },
     {
+      "nid": 966551,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-07T10:15:00Z",
+      "to_date": "2026-10-07T11:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 923794,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -111029,6 +111085,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-10-08T10:15:00Z",
+      "to_date": "2026-10-08T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966618,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-10-08T10:15:00Z",
       "to_date": "2026-10-08T11:15:00Z",
@@ -113637,6 +113707,20 @@
       "from_date": "2026-10-09T16:00:00Z",
       "to_date": "2026-10-09T17:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966552,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-09T16:00:00Z",
+      "to_date": "2026-10-09T17:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -119072,6 +119156,20 @@
       "cancelled": false
     },
     {
+      "nid": 966415,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-10-13T17:15:00Z",
+      "to_date": "2026-10-13T18:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906869,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -119979,6 +120077,20 @@
       "from_date": "2026-10-14T10:15:00Z",
       "to_date": "2026-10-14T11:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966553,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-14T10:15:00Z",
+      "to_date": "2026-10-14T11:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -121956,6 +122068,20 @@
       "cancelled": false
     },
     {
+      "nid": 966619,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-15T10:15:00Z",
+      "to_date": "2026-10-15T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951500,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -121998,34 +122124,6 @@
       "cancelled": false
     },
     {
-      "nid": 774459,
-      "sport_name": "Tennis",
-      "title": "M | Freies Spiel",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": null,
-      "places_max": 4,
-      "places_taken": null,
-      "from_date": "2026-10-15T11:00:00Z",
-      "to_date": "2026-10-15T12:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 774460,
-      "sport_name": "Tennis",
-      "title": "F | Freies Spiel",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": null,
-      "places_max": 4,
-      "places_taken": null,
-      "from_date": "2026-10-15T11:00:00Z",
-      "to_date": "2026-10-15T12:00:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 950666,
       "sport_name": "Meditation",
       "title": "Freies Meditieren",
@@ -122065,6 +122163,34 @@
       "from_date": "2026-10-15T11:00:00Z",
       "to_date": "2026-10-15T12:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774459,
+      "sport_name": "Tennis",
+      "title": "M | Freies Spiel",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": null,
+      "places_max": 4,
+      "places_taken": null,
+      "from_date": "2026-10-15T11:00:00Z",
+      "to_date": "2026-10-15T12:00:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 774460,
+      "sport_name": "Tennis",
+      "title": "F | Freies Spiel",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": null,
+      "places_max": 4,
+      "places_taken": null,
+      "from_date": "2026-10-15T11:00:00Z",
+      "to_date": "2026-10-15T12:00:00Z",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -124571,6 +124697,20 @@
       "from_date": "2026-10-16T16:00:00Z",
       "to_date": "2026-10-16T17:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966554,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-16T16:00:00Z",
+      "to_date": "2026-10-16T17:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -130048,6 +130188,20 @@
       "cancelled": false
     },
     {
+      "nid": 966416,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-10-20T17:15:00Z",
+      "to_date": "2026-10-20T18:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906877,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -130955,6 +131109,20 @@
       "from_date": "2026-10-21T10:15:00Z",
       "to_date": "2026-10-21T11:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966555,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-21T10:15:00Z",
+      "to_date": "2026-10-21T11:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -132869,6 +133037,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-10-22T10:15:00Z",
+      "to_date": "2026-10-22T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966620,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-10-22T10:15:00Z",
       "to_date": "2026-10-22T11:15:00Z",
@@ -135505,6 +135687,20 @@
       "from_date": "2026-10-23T16:00:00Z",
       "to_date": "2026-10-23T17:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966556,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-23T16:00:00Z",
+      "to_date": "2026-10-23T17:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -140884,6 +141080,20 @@
       "cancelled": false
     },
     {
+      "nid": 966417,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-10-27T18:15:00Z",
+      "to_date": "2026-10-27T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906885,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -141819,6 +142029,20 @@
       "from_date": "2026-10-28T11:15:00Z",
       "to_date": "2026-10-28T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966557,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-28T11:15:00Z",
+      "to_date": "2026-10-28T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -143747,6 +143971,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-10-29T11:15:00Z",
+      "to_date": "2026-10-29T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966621,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-10-29T11:15:00Z",
       "to_date": "2026-10-29T12:15:00Z",
@@ -146341,6 +146579,20 @@
       "from_date": "2026-10-30T17:00:00Z",
       "to_date": "2026-10-30T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966558,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-30T17:00:00Z",
+      "to_date": "2026-10-30T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -151636,6 +151888,20 @@
       "cancelled": false
     },
     {
+      "nid": 966418,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-11-03T18:15:00Z",
+      "to_date": "2026-11-03T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906893,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -152529,6 +152795,20 @@
       "from_date": "2026-11-04T11:15:00Z",
       "to_date": "2026-11-04T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966559,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-04T11:15:00Z",
+      "to_date": "2026-11-04T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -154415,6 +154695,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-11-05T11:15:00Z",
+      "to_date": "2026-11-05T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966622,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-11-05T11:15:00Z",
       "to_date": "2026-11-05T12:15:00Z",
@@ -156939,6 +157233,20 @@
       "from_date": "2026-11-06T17:00:00Z",
       "to_date": "2026-11-06T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966560,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-06T17:00:00Z",
+      "to_date": "2026-11-06T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -162024,6 +162332,20 @@
       "cancelled": false
     },
     {
+      "nid": 966419,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-11-10T18:15:00Z",
+      "to_date": "2026-11-10T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 928384,
       "sport_name": "Fechten",
       "title": "Kurs F - Kursserie 3",
@@ -162987,6 +163309,20 @@
       "from_date": "2026-11-11T11:15:00Z",
       "to_date": "2026-11-11T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966561,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-11T11:15:00Z",
+      "to_date": "2026-11-11T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -164887,6 +165223,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-11-12T11:15:00Z",
+      "to_date": "2026-11-12T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966623,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-11-12T11:15:00Z",
       "to_date": "2026-11-12T12:15:00Z",
@@ -167425,6 +167775,20 @@
       "from_date": "2026-11-13T17:00:00Z",
       "to_date": "2026-11-13T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966562,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-13T17:00:00Z",
+      "to_date": "2026-11-13T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -172678,6 +173042,20 @@
       "cancelled": false
     },
     {
+      "nid": 966420,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-11-17T18:15:00Z",
+      "to_date": "2026-11-17T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906909,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -173585,6 +173963,20 @@
       "from_date": "2026-11-18T11:15:00Z",
       "to_date": "2026-11-18T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966563,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-18T11:15:00Z",
+      "to_date": "2026-11-18T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -175485,6 +175877,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-11-19T11:15:00Z",
+      "to_date": "2026-11-19T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966624,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-11-19T11:15:00Z",
       "to_date": "2026-11-19T12:15:00Z",
@@ -178009,6 +178415,20 @@
       "from_date": "2026-11-20T17:00:00Z",
       "to_date": "2026-11-20T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966564,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-20T17:00:00Z",
+      "to_date": "2026-11-20T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -183206,6 +183626,20 @@
       "cancelled": false
     },
     {
+      "nid": 966421,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-11-24T18:15:00Z",
+      "to_date": "2026-11-24T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906917,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -184141,6 +184575,20 @@
       "from_date": "2026-11-25T11:15:00Z",
       "to_date": "2026-11-25T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966565,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-25T11:15:00Z",
+      "to_date": "2026-11-25T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -185666,6 +186114,20 @@
       "places_taken": null,
       "from_date": "2026-11-26T11:15:00Z",
       "to_date": "2026-11-26T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966625,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-26T11:15:00Z",
+      "to_date": "2026-11-26T12:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -187753,6 +188215,20 @@
       "from_date": "2026-11-27T17:00:00Z",
       "to_date": "2026-11-27T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966566,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-27T17:00:00Z",
+      "to_date": "2026-11-27T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -192642,6 +193118,20 @@
       "cancelled": false
     },
     {
+      "nid": 966422,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-12-01T18:15:00Z",
+      "to_date": "2026-12-01T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906925,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -193549,6 +194039,20 @@
       "from_date": "2026-12-02T11:15:00Z",
       "to_date": "2026-12-02T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966567,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-02T11:15:00Z",
+      "to_date": "2026-12-02T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -195435,6 +195939,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-12-03T11:15:00Z",
+      "to_date": "2026-12-03T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966626,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-12-03T11:15:00Z",
       "to_date": "2026-12-03T12:15:00Z",
@@ -202932,6 +203450,20 @@
       "cancelled": false
     },
     {
+      "nid": 966423,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-12-08T18:15:00Z",
+      "to_date": "2026-12-08T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906933,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -203867,6 +204399,20 @@
       "from_date": "2026-12-09T11:15:00Z",
       "to_date": "2026-12-09T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966568,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-09T11:15:00Z",
+      "to_date": "2026-12-09T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -205795,6 +206341,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2026-12-10T11:15:00Z",
+      "to_date": "2026-12-10T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966627,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2026-12-10T11:15:00Z",
       "to_date": "2026-12-10T12:15:00Z",
@@ -208319,6 +208879,20 @@
       "from_date": "2026-12-11T17:00:00Z",
       "to_date": "2026-12-11T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966569,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-11T17:00:00Z",
+      "to_date": "2026-12-11T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -213558,6 +214132,20 @@
       "cancelled": false
     },
     {
+      "nid": 966424,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-12-15T18:15:00Z",
+      "to_date": "2026-12-15T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906941,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -214465,6 +215053,20 @@
       "from_date": "2026-12-16T11:15:00Z",
       "to_date": "2026-12-16T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966570,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-16T11:15:00Z",
+      "to_date": "2026-12-16T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -218819,6 +219421,20 @@
       "from_date": "2026-12-18T17:00:00Z",
       "to_date": "2026-12-18T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966571,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-18T17:00:00Z",
+      "to_date": "2026-12-18T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -223218,6 +223834,20 @@
       "cancelled": false
     },
     {
+      "nid": 966425,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2026-12-22T18:15:00Z",
+      "to_date": "2026-12-22T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906947,
       "sport_name": "Calisthenics",
       "title": "Upper Body Strength",
@@ -223999,6 +224629,20 @@
       "from_date": "2026-12-23T11:15:00Z",
       "to_date": "2026-12-23T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966572,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-23T11:15:00Z",
+      "to_date": "2026-12-23T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -229826,6 +230470,20 @@
       "cancelled": false
     },
     {
+      "nid": 966426,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-01-05T18:15:00Z",
+      "to_date": "2027-01-05T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907333,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -230761,6 +231419,20 @@
       "from_date": "2027-01-06T11:15:00Z",
       "to_date": "2027-01-06T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966573,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-06T11:15:00Z",
+      "to_date": "2027-01-06T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -232619,6 +233291,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2027-01-07T11:15:00Z",
+      "to_date": "2027-01-07T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966628,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2027-01-07T11:15:00Z",
       "to_date": "2027-01-07T12:15:00Z",
@@ -235171,6 +235857,20 @@
       "from_date": "2027-01-08T17:00:00Z",
       "to_date": "2027-01-08T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966574,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-08T17:00:00Z",
+      "to_date": "2027-01-08T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -240256,6 +240956,20 @@
       "cancelled": false
     },
     {
+      "nid": 966427,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-01-12T18:15:00Z",
+      "to_date": "2027-01-12T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907335,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -241205,6 +241919,20 @@
       "from_date": "2027-01-13T11:15:00Z",
       "to_date": "2027-01-13T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966575,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-13T11:15:00Z",
+      "to_date": "2027-01-13T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -243040,6 +243768,20 @@
       "to_date": "2027-01-14T12:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 966629,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-14T11:15:00Z",
+      "to_date": "2027-01-14T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 951732,
@@ -245601,6 +246343,20 @@
       "from_date": "2027-01-15T17:00:00Z",
       "to_date": "2027-01-15T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966576,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-15T17:00:00Z",
+      "to_date": "2027-01-15T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -250644,6 +251400,20 @@
       "cancelled": false
     },
     {
+      "nid": 966428,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-01-19T18:15:00Z",
+      "to_date": "2027-01-19T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907337,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -251565,6 +252335,20 @@
       "from_date": "2027-01-20T11:15:00Z",
       "to_date": "2027-01-20T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966577,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-20T11:15:00Z",
+      "to_date": "2027-01-20T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -253400,6 +254184,20 @@
       "to_date": "2027-01-21T12:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 966630,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-21T11:15:00Z",
+      "to_date": "2027-01-21T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 951752,
@@ -255947,6 +256745,20 @@
       "from_date": "2027-01-22T17:00:00Z",
       "to_date": "2027-01-22T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966578,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-22T17:00:00Z",
+      "to_date": "2027-01-22T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -261004,6 +261816,20 @@
       "cancelled": false
     },
     {
+      "nid": 966429,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-01-26T18:15:00Z",
+      "to_date": "2027-01-26T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907339,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -261911,6 +262737,20 @@
       "from_date": "2027-01-27T11:15:00Z",
       "to_date": "2027-01-27T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966579,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-27T11:15:00Z",
+      "to_date": "2027-01-27T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -263713,6 +264553,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2027-01-28T11:15:00Z",
+      "to_date": "2027-01-28T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966631,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2027-01-28T11:15:00Z",
       "to_date": "2027-01-28T12:15:00Z",
@@ -266265,6 +267119,20 @@
       "from_date": "2027-01-29T17:00:00Z",
       "to_date": "2027-01-29T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966580,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-29T17:00:00Z",
+      "to_date": "2027-01-29T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -271308,6 +272176,20 @@
       "cancelled": false
     },
     {
+      "nid": 966430,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-02-02T18:15:00Z",
+      "to_date": "2027-02-02T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907341,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -272243,6 +273125,20 @@
       "from_date": "2027-02-03T11:15:00Z",
       "to_date": "2027-02-03T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966581,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-03T11:15:00Z",
+      "to_date": "2027-02-03T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -274073,6 +274969,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2027-02-04T11:15:00Z",
+      "to_date": "2027-02-04T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966632,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2027-02-04T11:15:00Z",
       "to_date": "2027-02-04T12:15:00Z",
@@ -276611,6 +277521,20 @@
       "from_date": "2027-02-05T17:00:00Z",
       "to_date": "2027-02-05T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966582,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-05T17:00:00Z",
+      "to_date": "2027-02-05T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -281682,6 +282606,20 @@
       "cancelled": false
     },
     {
+      "nid": 966431,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-02-09T18:15:00Z",
+      "to_date": "2027-02-09T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907343,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -282617,6 +283555,20 @@
       "from_date": "2027-02-10T11:15:00Z",
       "to_date": "2027-02-10T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966583,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-10T11:15:00Z",
+      "to_date": "2027-02-10T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -284447,6 +285399,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2027-02-11T11:15:00Z",
+      "to_date": "2027-02-11T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966633,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2027-02-11T11:15:00Z",
       "to_date": "2027-02-11T12:15:00Z",
@@ -286985,6 +287951,20 @@
       "from_date": "2027-02-12T17:00:00Z",
       "to_date": "2027-02-12T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966584,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-12T17:00:00Z",
+      "to_date": "2027-02-12T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -290642,6 +291622,20 @@
       "cancelled": false
     },
     {
+      "nid": 966432,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 19,
+      "places_taken": null,
+      "from_date": "2027-02-16T18:15:00Z",
+      "to_date": "2027-02-16T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907345,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -291255,6 +292249,20 @@
       "from_date": "2027-02-17T11:15:00Z",
       "to_date": "2027-02-17T12:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966585,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-17T11:15:00Z",
+      "to_date": "2027-02-17T12:15:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -292385,6 +293393,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 15,
+      "places_taken": null,
+      "from_date": "2027-02-18T11:15:00Z",
+      "to_date": "2027-02-18T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966634,
+      "sport_name": "Circuit",
+      "title": "Training",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
       "places_taken": null,
       "from_date": "2027-02-18T11:15:00Z",
       "to_date": "2027-02-18T12:15:00Z",
@@ -294069,6 +295091,20 @@
       "from_date": "2027-02-19T17:00:00Z",
       "to_date": "2027-02-19T18:15:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 966586,
+      "sport_name": "Bouldern",
+      "title": "Training ",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-19T17:00:00Z",
+      "to_date": "2027-02-19T18:30:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
