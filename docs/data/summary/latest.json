@@ -1,31 +1,17 @@
 {
-  "ts": "2026-08-07T12:16:20.188451+00:00",
+  "ts": "2026-08-07T13:56:52.549363+00:00",
   "events": [
     {
-      "nid": 850441,
-      "sport_name": "Tuchakrobatik",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 16,
-      "places_taken": 16,
-      "from_date": "2026-08-07T13:00:00Z",
-      "to_date": "2026-08-07T15:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 738845,
-      "sport_name": "Ballett",
+      "nid": 739805,
+      "sport_name": "Jazz Dance",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
       "places_free": 9,
-      "places_max": 45,
-      "places_taken": 36,
-      "from_date": "2026-08-07T13:15:00Z",
-      "to_date": "2026-08-07T14:25:00Z",
+      "places_max": 35,
+      "places_taken": 26,
+      "from_date": "2026-08-07T13:30:00Z",
+      "to_date": "2026-08-07T15:00:00Z",
       "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
@@ -41,20 +27,6 @@
       "from_date": "2026-08-07T13:30:00Z",
       "to_date": "2026-08-07T16:00:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 739805,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 11,
-      "places_max": 35,
-      "places_taken": 24,
-      "from_date": "2026-08-07T13:30:00Z",
-      "to_date": "2026-08-07T15:00:00Z",
-      "niveau_name": "Einsteiger 1",
       "cancelled": false
     },
     {
@@ -77,9 +49,9 @@
       "title": "Power Yoga (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 25,
+      "places_free": 22,
       "places_max": 30,
-      "places_taken": 5,
+      "places_taken": 8,
       "from_date": "2026-08-07T13:45:00Z",
       "to_date": "2026-08-07T14:55:00Z",
       "niveau_name": "Fortgeschrittene",
@@ -119,9 +91,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 39,
+      "places_free": 37,
       "places_max": 60,
-      "places_taken": 21,
+      "places_taken": 23,
       "from_date": "2026-08-07T14:30:00Z",
       "to_date": "2026-08-07T15:55:00Z",
       "niveau_name": "Einsteiger 2 + Mittlere",
@@ -170,58 +142,16 @@
       "cancelled": false
     },
     {
-      "nid": 746938,
-      "sport_name": "Boxen",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 19,
-      "places_max": 24,
-      "places_taken": 5,
-      "from_date": "2026-08-07T15:00:00Z",
-      "to_date": "2026-08-07T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753188,
-      "sport_name": "Les Mills Core",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 38,
-      "places_max": 60,
-      "places_taken": 22,
-      "from_date": "2026-08-07T15:00:00Z",
-      "to_date": "2026-08-07T15:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 755755,
       "sport_name": "Fussball",
       "title": "Freies Spiel, Kunstrasen",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 0,
-      "places_max": 20,
-      "places_taken": 20,
-      "from_date": "2026-08-07T15:00:00Z",
-      "to_date": "2026-08-07T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 746937,
-      "sport_name": "Brazilian Jiu Jitsu",
-      "title": "Training Basics",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
       "places_free": 1,
       "places_max": 20,
       "places_taken": 19,
       "from_date": "2026-08-07T15:00:00Z",
-      "to_date": "2026-08-07T16:30:00Z",
+      "to_date": "2026-08-07T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -236,6 +166,48 @@
       "places_taken": 11,
       "from_date": "2026-08-07T15:00:00Z",
       "to_date": "2026-08-07T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746937,
+      "sport_name": "Brazilian Jiu Jitsu",
+      "title": "Training Basics",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 0,
+      "places_max": 20,
+      "places_taken": 20,
+      "from_date": "2026-08-07T15:00:00Z",
+      "to_date": "2026-08-07T16:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746938,
+      "sport_name": "Boxen",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 20,
+      "places_max": 24,
+      "places_taken": 4,
+      "from_date": "2026-08-07T15:00:00Z",
+      "to_date": "2026-08-07T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753188,
+      "sport_name": "Les Mills Core",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 37,
+      "places_max": 60,
+      "places_taken": 23,
+      "from_date": "2026-08-07T15:00:00Z",
+      "to_date": "2026-08-07T15:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -310,6 +282,34 @@
       "cancelled": false
     },
     {
+      "nid": 750923,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 325,
+      "places_max": 350,
+      "places_taken": 25,
+      "from_date": "2026-08-07T16:00:00Z",
+      "to_date": "2026-08-07T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 743371,
+      "sport_name": "Chi Ball",
+      "title": "Training (mit Livestream)",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 5,
+      "places_max": 25,
+      "places_taken": 20,
+      "from_date": "2026-08-07T16:00:00Z",
+      "to_date": "2026-08-07T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 748762,
       "sport_name": "Tone&Stretch",
       "title": "Training",
@@ -324,44 +324,30 @@
       "cancelled": false
     },
     {
-      "nid": 750923,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 323,
-      "places_max": 350,
-      "places_taken": 27,
-      "from_date": "2026-08-07T16:00:00Z",
-      "to_date": "2026-08-07T16:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 763453,
       "sport_name": "Cycling Class",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 0,
+      "places_free": 2,
       "places_max": 35,
-      "places_taken": 35,
+      "places_taken": 33,
       "from_date": "2026-08-07T16:00:00Z",
       "to_date": "2026-08-07T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 743371,
-      "sport_name": "Chi Ball",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 4,
-      "places_max": 25,
-      "places_taken": 21,
-      "from_date": "2026-08-07T16:00:00Z",
-      "to_date": "2026-08-07T16:55:00Z",
+      "nid": 736708,
+      "sport_name": "Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 3,
+      "places_max": 20,
+      "places_taken": 17,
+      "from_date": "2026-08-07T16:15:00Z",
+      "to_date": "2026-08-07T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -376,20 +362,6 @@
       "places_taken": 15,
       "from_date": "2026-08-07T16:15:00Z",
       "to_date": "2026-08-07T17:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 736708,
-      "sport_name": "Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 1,
-      "places_max": 20,
-      "places_taken": 19,
-      "from_date": "2026-08-07T16:15:00Z",
-      "to_date": "2026-08-07T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -436,34 +408,6 @@
       "cancelled": false
     },
     {
-      "nid": 742032,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 60,
-      "places_taken": 60,
-      "from_date": "2026-08-07T17:00:00Z",
-      "to_date": "2026-08-07T18:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 746939,
-      "sport_name": "Ju-Jitsu / Selbstverteidigung",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 17,
-      "places_max": 30,
-      "places_taken": 13,
-      "from_date": "2026-08-07T17:00:00Z",
-      "to_date": "2026-08-07T19:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 754780,
       "sport_name": "Beachvolleyball",
       "title": "Spiel Indoor",
@@ -474,6 +418,34 @@
       "places_taken": 21,
       "from_date": "2026-08-07T17:00:00Z",
       "to_date": "2026-08-07T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746939,
+      "sport_name": "Ju-Jitsu / Selbstverteidigung",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 15,
+      "places_max": 30,
+      "places_taken": 15,
+      "from_date": "2026-08-07T17:00:00Z",
+      "to_date": "2026-08-07T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 742032,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 0,
+      "places_max": 60,
+      "places_taken": 60,
+      "from_date": "2026-08-07T17:00:00Z",
+      "to_date": "2026-08-07T18:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -492,34 +464,6 @@
       "cancelled": false
     },
     {
-      "nid": 754180,
-      "sport_name": "Volleyball",
-      "title": "Training ",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 16,
-      "places_taken": 16,
-      "from_date": "2026-08-07T17:15:00Z",
-      "to_date": "2026-08-07T20:00:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 754399,
-      "sport_name": "Volleyball",
-      "title": "Training M System",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 2,
-      "places_max": 18,
-      "places_taken": 16,
-      "from_date": "2026-08-07T17:15:00Z",
-      "to_date": "2026-08-07T19:15:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 754474,
       "sport_name": "Volleyball",
       "title": "Training",
@@ -531,6 +475,34 @@
       "from_date": "2026-08-07T17:15:00Z",
       "to_date": "2026-08-07T19:15:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 754399,
+      "sport_name": "Volleyball",
+      "title": "Training M System",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 3,
+      "places_max": 18,
+      "places_taken": 15,
+      "from_date": "2026-08-07T17:15:00Z",
+      "to_date": "2026-08-07T19:15:00Z",
+      "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 754180,
+      "sport_name": "Volleyball",
+      "title": "Training ",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 1,
+      "places_max": 16,
+      "places_taken": 15,
+      "from_date": "2026-08-07T17:15:00Z",
+      "to_date": "2026-08-07T20:00:00Z",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -567,9 +539,9 @@
       "title": "Yoga & Meditation (mit Livestream)",
       "facility_name": "CAB Move",
       "location": "CAB Move",
-      "places_free": 22,
+      "places_free": 21,
       "places_max": 30,
-      "places_taken": 8,
+      "places_taken": 9,
       "from_date": "2026-08-07T18:00:00Z",
       "to_date": "2026-08-07T19:15:00Z",
       "niveau_name": "Alle",
@@ -581,9 +553,9 @@
       "title": "Afro Fusion",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 34,
+      "places_free": 35,
       "places_max": 40,
-      "places_taken": 6,
+      "places_taken": 5,
       "from_date": "2026-08-07T18:05:00Z",
       "to_date": "2026-08-07T19:20:00Z",
       "niveau_name": "Einsteiger 2 + Mittlere",
@@ -595,9 +567,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 10,
+      "places_free": 5,
       "places_max": 60,
-      "places_taken": 50,
+      "places_taken": 55,
       "from_date": "2026-08-07T18:20:00Z",
       "to_date": "2026-08-07T19:35:00Z",
       "niveau_name": "Alle",
@@ -637,9 +609,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 57,
+      "places_free": 56,
       "places_max": 60,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-08-08T07:15:00Z",
       "to_date": "2026-08-08T08:15:00Z",
       "niveau_name": "Einsteiger 2",
@@ -702,20 +674,6 @@
       "cancelled": false
     },
     {
-      "nid": 846139,
-      "sport_name": "Rudern",
-      "title": "Fortsetzungskurs PRC 05",
-      "facility_name": "Ruderclubs Zürichsee",
-      "location": "Mythenquai 67, 8002 Zürich",
-      "places_free": 2,
-      "places_max": 7,
-      "places_taken": 5,
-      "from_date": "2026-08-08T08:00:00Z",
-      "to_date": "2026-09-26T09:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 755054,
       "sport_name": "Zumba",
       "title": "Training (mit Livestream)",
@@ -730,14 +688,28 @@
       "cancelled": false
     },
     {
+      "nid": 846139,
+      "sport_name": "Rudern",
+      "title": "Fortsetzungskurs PRC 05",
+      "facility_name": "Ruderclubs Zürichsee",
+      "location": "Mythenquai 67, 8002 Zürich",
+      "places_free": 2,
+      "places_max": 7,
+      "places_taken": 5,
+      "from_date": "2026-08-08T08:00:00Z",
+      "to_date": "2026-09-26T09:30:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
       "nid": 739915,
       "sport_name": "Jazz Dance",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 55,
+      "places_free": 54,
       "places_max": 60,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-08-08T08:15:00Z",
       "to_date": "2026-08-08T09:40:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -749,9 +721,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 14,
+      "places_free": 13,
       "places_max": 30,
-      "places_taken": 16,
+      "places_taken": 17,
       "from_date": "2026-08-08T08:20:00Z",
       "to_date": "2026-08-08T09:30:00Z",
       "niveau_name": "Alle",
@@ -777,9 +749,9 @@
       "title": "Long Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 9,
+      "places_free": 10,
       "places_max": 20,
-      "places_taken": 11,
+      "places_taken": 10,
       "from_date": "2026-08-08T08:30:00Z",
       "to_date": "2026-08-08T10:30:00Z",
       "niveau_name": "Alle",
@@ -842,28 +814,28 @@
       "cancelled": true
     },
     {
-      "nid": 743493,
-      "sport_name": "Pilates",
-      "title": "Training (mit Livestream)",
-      "facility_name": "CAB Move",
-      "location": "CAB Move",
-      "places_free": 20,
-      "places_max": 30,
-      "places_taken": 10,
+      "nid": 752572,
+      "sport_name": "Body Combat",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 19,
+      "places_max": 40,
+      "places_taken": 21,
       "from_date": "2026-08-08T09:00:00Z",
       "to_date": "2026-08-08T09:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 752572,
-      "sport_name": "Body Combat",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 23,
-      "places_max": 40,
-      "places_taken": 17,
+      "nid": 743493,
+      "sport_name": "Pilates",
+      "title": "Training (mit Livestream)",
+      "facility_name": "CAB Move",
+      "location": "CAB Move",
+      "places_free": 18,
+      "places_max": 30,
+      "places_taken": 12,
       "from_date": "2026-08-08T09:00:00Z",
       "to_date": "2026-08-08T09:55:00Z",
       "niveau_name": "Alle",
@@ -875,9 +847,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 25,
+      "places_free": 24,
       "places_max": 30,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-08-08T09:40:00Z",
       "to_date": "2026-08-08T10:50:00Z",
       "niveau_name": "Alle",
@@ -889,9 +861,9 @@
       "title": "klassisch + Stretching",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 114,
+      "places_free": 113,
       "places_max": 120,
-      "places_taken": 6,
+      "places_taken": 7,
       "from_date": "2026-08-08T09:50:00Z",
       "to_date": "2026-08-08T10:45:00Z",
       "niveau_name": "Alle",
@@ -903,9 +875,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 14,
+      "places_free": 7,
       "places_max": 60,
-      "places_taken": 46,
+      "places_taken": 53,
       "from_date": "2026-08-08T09:50:00Z",
       "to_date": "2026-08-08T10:50:00Z",
       "niveau_name": "Alle",
@@ -945,9 +917,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 43,
+      "places_free": 39,
       "places_max": 60,
-      "places_taken": 17,
+      "places_taken": 21,
       "from_date": "2026-08-08T10:55:00Z",
       "to_date": "2026-08-08T11:55:00Z",
       "niveau_name": "Alle",
@@ -1015,9 +987,9 @@
       "title": "Training mit Technik",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 76,
+      "places_free": 72,
       "places_max": 80,
-      "places_taken": 4,
+      "places_taken": 8,
       "from_date": "2026-08-08T12:00:00Z",
       "to_date": "2026-08-08T13:10:00Z",
       "niveau_name": "Alle",
@@ -1094,20 +1066,6 @@
       "cancelled": false
     },
     {
-      "nid": 758975,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 35,
-      "places_max": 35,
-      "places_taken": 0,
-      "from_date": "2026-08-08T14:30:00Z",
-      "to_date": "2026-08-08T15:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 751476,
       "sport_name": "Kondi",
       "title": "Super Kondi Body Attack",
@@ -1120,6 +1078,20 @@
       "to_date": "2026-08-08T15:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
+    },
+    {
+      "nid": 758975,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 35,
+      "places_max": 35,
+      "places_taken": 0,
+      "from_date": "2026-08-08T14:30:00Z",
+      "to_date": "2026-08-08T15:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": true
     },
     {
       "nid": 735244,
@@ -1245,7 +1217,7 @@
       "from_date": "2026-08-09T08:15:00Z",
       "to_date": "2026-08-09T09:15:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 765688,
@@ -1444,20 +1416,6 @@
       "cancelled": false
     },
     {
-      "nid": 841094,
-      "sport_name": "Jazz Dance",
-      "title": "Musical Dance Workshop | Jekyll & Hyde",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 29,
-      "places_max": 40,
-      "places_taken": 11,
-      "from_date": "2026-08-09T11:00:00Z",
-      "to_date": "2026-08-09T13:00:00Z",
-      "niveau_name": "Einsteiger 2 bis Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 821570,
       "sport_name": "Padel",
       "title": "Begleitetes Spiel",
@@ -1469,6 +1427,20 @@
       "from_date": "2026-08-09T11:00:00Z",
       "to_date": "2026-08-09T12:30:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 841094,
+      "sport_name": "Jazz Dance",
+      "title": "Musical Dance Workshop | Jekyll & Hyde",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 30,
+      "places_max": 40,
+      "places_taken": 10,
+      "from_date": "2026-08-09T11:00:00Z",
+      "to_date": "2026-08-09T13:00:00Z",
+      "niveau_name": "Einsteiger 2 bis Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -2261,9 +2233,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 29,
+      "places_free": 28,
       "places_max": 30,
-      "places_taken": 1,
+      "places_taken": 2,
       "from_date": "2026-08-10T10:15:00Z",
       "to_date": "2026-08-10T11:45:00Z",
       "niveau_name": "Alle",
@@ -11263,9 +11235,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 1,
       "places_max": 2,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-08-16T10:30:00Z",
       "to_date": "2026-08-16T11:30:00Z",
       "niveau_name": "Alle",
@@ -13624,20 +13596,6 @@
       "cancelled": false
     },
     {
-      "nid": 967342,
-      "sport_name": "Padel",
-      "title": "Platzreservation Outdoor",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": null,
-      "places_max": 1,
-      "places_taken": null,
-      "from_date": "2026-08-17T16:30:00Z",
-      "to_date": "2026-08-17T17:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 759932,
       "sport_name": "Kanu",
       "title": "Grundkurs Zahmwasser 3",
@@ -13649,6 +13607,20 @@
       "from_date": "2026-08-17T16:30:00Z",
       "to_date": "2026-08-21T19:30:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 967342,
+      "sport_name": "Padel",
+      "title": "Platzreservation Outdoor",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 1,
+      "places_taken": 1,
+      "from_date": "2026-08-17T16:30:00Z",
+      "to_date": "2026-08-17T17:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -16970,20 +16942,6 @@
       "cancelled": false
     },
     {
-      "nid": 732269,
-      "sport_name": "CrossFit",
-      "title": "Weightlifting-Kurs Nr. 88",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 10,
-      "places_max": 12,
-      "places_taken": 2,
-      "from_date": "2026-08-18T18:00:00Z",
-      "to_date": "2026-09-10T19:00:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 735953,
       "sport_name": "Handball",
       "title": "Training",
@@ -17051,6 +17009,20 @@
       "from_date": "2026-08-18T18:00:00Z",
       "to_date": "2026-08-18T19:45:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 732269,
+      "sport_name": "CrossFit",
+      "title": "Weightlifting-Kurs Nr. 88",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 10,
+      "places_max": 12,
+      "places_taken": 2,
+      "from_date": "2026-08-18T18:00:00Z",
+      "to_date": "2026-09-10T19:00:00Z",
+      "niveau_name": "Mittlere + Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -17185,9 +17157,9 @@
       "title": "Ruderausfahrten 11 | Belvoir",
       "facility_name": "Ruderclubs Zürichsee",
       "location": "Ruderclubs Zürichsee",
-      "places_free": 5,
+      "places_free": 6,
       "places_max": 10,
-      "places_taken": 5,
+      "places_taken": 4,
       "from_date": "2026-08-19T03:45:00Z",
       "to_date": "2026-09-02T05:15:00Z",
       "niveau_name": "Gemäss Ausschreibung",
@@ -18011,9 +17983,9 @@
       "title": "E | Mi, 1300-1455",
       "facility_name": "Tennisanlage Fluntern",
       "location": "Tennisanlage Fluntern",
-      "places_free": 0,
+      "places_free": 1,
       "places_max": 3,
-      "places_taken": 3,
+      "places_taken": 2,
       "from_date": "2026-08-19T11:00:00Z",
       "to_date": "2026-09-30T12:55:00Z",
       "niveau_name": "Einsteiger",
@@ -22402,20 +22374,6 @@
       "cancelled": false
     },
     {
-      "nid": 906376,
-      "sport_name": "Foilsurfen",
-      "title": "PumpFoil Workshop 39",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-08-21T08:00:00Z",
-      "to_date": "2026-08-21T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 969502,
       "sport_name": "Tennis",
       "title": "E | Fr, 1000-1155",
@@ -22427,6 +22385,20 @@
       "from_date": "2026-08-21T08:00:00Z",
       "to_date": "2026-10-02T09:55:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 906376,
+      "sport_name": "Foilsurfen",
+      "title": "PumpFoil Workshop 39",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 6,
+      "places_taken": 6,
+      "from_date": "2026-08-21T08:00:00Z",
+      "to_date": "2026-08-21T10:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -35100,34 +35072,6 @@
       "cancelled": false
     },
     {
-      "nid": 854101,
-      "sport_name": "Basketball",
-      "title": "Freies Spiel",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": null,
-      "places_max": 14,
-      "places_taken": null,
-      "from_date": "2026-08-27T16:00:00Z",
-      "to_date": "2026-08-27T17:30:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
-      "nid": 854102,
-      "sport_name": "Basketball",
-      "title": "Training Basics",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": null,
-      "places_max": 20,
-      "places_taken": null,
-      "from_date": "2026-08-27T16:00:00Z",
-      "to_date": "2026-08-27T17:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 854155,
       "sport_name": "Ultimate Frisbee",
       "title": "Training & Spiel",
@@ -35265,6 +35209,34 @@
       "from_date": "2026-08-27T16:00:00Z",
       "to_date": "2026-08-27T17:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 854102,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-08-27T16:00:00Z",
+      "to_date": "2026-08-27T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 854101,
+      "sport_name": "Basketball",
+      "title": "Freies Spiel",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 14,
+      "places_taken": null,
+      "from_date": "2026-08-27T16:00:00Z",
+      "to_date": "2026-08-27T17:30:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -36808,6 +36780,20 @@
       "cancelled": false
     },
     {
+      "nid": 774296,
+      "sport_name": "Tennis",
+      "title": "W1+2 | Training",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 3,
+      "places_max": 4,
+      "places_taken": 1,
+      "from_date": "2026-08-28T10:00:00Z",
+      "to_date": "2026-08-28T11:00:00Z",
+      "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
       "nid": 774295,
       "sport_name": "Tennis",
       "title": "M+F | Training",
@@ -36819,20 +36805,6 @@
       "from_date": "2026-08-28T10:00:00Z",
       "to_date": "2026-08-28T11:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 774296,
-      "sport_name": "Tennis",
-      "title": "W1+2 | Training",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 2,
-      "places_max": 4,
-      "places_taken": 2,
-      "from_date": "2026-08-28T10:00:00Z",
-      "to_date": "2026-08-28T11:00:00Z",
-      "niveau_name": "Wettkämpfer 1 + 2",
       "cancelled": false
     },
     {
@@ -62064,20 +62036,6 @@
       "cancelled": false
     },
     {
-      "nid": 734003,
-      "sport_name": "Segeln Yacht",
-      "title": "D-Scheinkurs DKY22",
-      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-09-10T09:45:00Z",
-      "to_date": "2026-10-16T11:00:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 747161,
       "sport_name": "Boxen",
       "title": "Einstiegstraining",
@@ -62089,6 +62047,20 @@
       "from_date": "2026-09-10T09:45:00Z",
       "to_date": "2026-09-10T11:15:00Z",
       "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 734003,
+      "sport_name": "Segeln Yacht",
+      "title": "D-Scheinkurs DKY22",
+      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-09-10T09:45:00Z",
+      "to_date": "2026-10-16T11:00:00Z",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -70968,6 +70940,20 @@
       "cancelled": false
     },
     {
+      "nid": 969910,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-15T10:15:00Z",
+      "to_date": "2026-09-15T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951412,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -71850,6 +71836,20 @@
       "cancelled": false
     },
     {
+      "nid": 969939,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-15T16:00:00Z",
+      "to_date": "2026-09-15T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925754,
       "sport_name": "Judo",
       "title": "Training",
@@ -72368,6 +72368,20 @@
       "cancelled": false
     },
     {
+      "nid": 969968,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-15T17:30:00Z",
+      "to_date": "2026-09-15T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925756,
       "sport_name": "Judo",
       "title": "Training",
@@ -72858,6 +72872,20 @@
       "cancelled": false
     },
     {
+      "nid": 969969,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-16T08:15:00Z",
+      "to_date": "2026-09-16T09:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914357,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -73317,6 +73345,20 @@
       "from_date": "2026-09-16T10:15:00Z",
       "to_date": "2026-09-16T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969970,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-16T10:15:00Z",
+      "to_date": "2026-09-16T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -83554,6 +83596,20 @@
       "cancelled": false
     },
     {
+      "nid": 969911,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-22T10:15:00Z",
+      "to_date": "2026-09-22T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951432,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -84352,6 +84408,20 @@
       "cancelled": false
     },
     {
+      "nid": 969940,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-22T16:00:00Z",
+      "to_date": "2026-09-22T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925770,
       "sport_name": "Judo",
       "title": "Training",
@@ -84842,6 +84912,20 @@
       "cancelled": false
     },
     {
+      "nid": 969971,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-22T17:30:00Z",
+      "to_date": "2026-09-22T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925772,
       "sport_name": "Judo",
       "title": "Training",
@@ -85318,6 +85402,20 @@
       "cancelled": false
     },
     {
+      "nid": 969972,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-23T08:15:00Z",
+      "to_date": "2026-09-23T09:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914364,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -85749,6 +85847,20 @@
       "from_date": "2026-09-23T10:15:00Z",
       "to_date": "2026-09-23T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969973,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-23T10:15:00Z",
+      "to_date": "2026-09-23T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -95538,6 +95650,20 @@
       "cancelled": false
     },
     {
+      "nid": 969912,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-29T10:15:00Z",
+      "to_date": "2026-09-29T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951452,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -96336,6 +96462,20 @@
       "cancelled": false
     },
     {
+      "nid": 969941,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-29T16:00:00Z",
+      "to_date": "2026-09-29T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925786,
       "sport_name": "Judo",
       "title": "Training",
@@ -96766,6 +96906,20 @@
       "places_taken": null,
       "from_date": "2026-09-29T17:30:00Z",
       "to_date": "2026-09-29T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969974,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-29T17:30:00Z",
+      "to_date": "2026-09-29T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -97246,6 +97400,20 @@
       "cancelled": false
     },
     {
+      "nid": 969975,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-30T08:15:00Z",
+      "to_date": "2026-09-30T09:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924575,
       "sport_name": "Mixed Martial Arts",
       "title": "Einstiegskurs",
@@ -97719,6 +97887,20 @@
       "from_date": "2026-09-30T10:15:00Z",
       "to_date": "2026-09-30T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969976,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-09-30T10:15:00Z",
+      "to_date": "2026-09-30T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -107214,6 +107396,20 @@
       "cancelled": false
     },
     {
+      "nid": 969913,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-06T10:15:00Z",
+      "to_date": "2026-10-06T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951472,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -107956,6 +108152,20 @@
       "cancelled": false
     },
     {
+      "nid": 969942,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-06T16:00:00Z",
+      "to_date": "2026-10-06T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925801,
       "sport_name": "Judo",
       "title": "Training",
@@ -108386,6 +108596,20 @@
       "places_taken": null,
       "from_date": "2026-10-06T17:30:00Z",
       "to_date": "2026-10-06T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969977,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-06T17:30:00Z",
+      "to_date": "2026-10-06T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -108834,6 +109058,20 @@
       "places_taken": null,
       "from_date": "2026-10-07T08:05:00Z",
       "to_date": "2026-10-07T09:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969978,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-07T08:15:00Z",
+      "to_date": "2026-10-07T09:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -109297,6 +109535,20 @@
       "from_date": "2026-10-07T10:15:00Z",
       "to_date": "2026-10-07T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969979,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-07T10:15:00Z",
+      "to_date": "2026-10-07T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -118596,6 +118848,20 @@
       "cancelled": false
     },
     {
+      "nid": 969914,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-13T10:15:00Z",
+      "to_date": "2026-10-13T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951492,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -119338,6 +119604,20 @@
       "cancelled": false
     },
     {
+      "nid": 969943,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-13T16:00:00Z",
+      "to_date": "2026-10-13T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925817,
       "sport_name": "Judo",
       "title": "Training",
@@ -119782,6 +120062,20 @@
       "places_taken": null,
       "from_date": "2026-10-13T17:30:00Z",
       "to_date": "2026-10-13T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969980,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-13T17:30:00Z",
+      "to_date": "2026-10-13T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -120234,6 +120528,20 @@
       "cancelled": false
     },
     {
+      "nid": 969981,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-14T08:15:00Z",
+      "to_date": "2026-10-14T09:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914385,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -120665,6 +120973,20 @@
       "from_date": "2026-10-14T10:15:00Z",
       "to_date": "2026-10-14T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969982,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-14T10:15:00Z",
+      "to_date": "2026-10-14T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -129992,6 +130314,20 @@
       "cancelled": false
     },
     {
+      "nid": 969915,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-20T10:15:00Z",
+      "to_date": "2026-10-20T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951512,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -130734,6 +131070,20 @@
       "cancelled": false
     },
     {
+      "nid": 969944,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-20T16:00:00Z",
+      "to_date": "2026-10-20T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925833,
       "sport_name": "Judo",
       "title": "Training",
@@ -131178,6 +131528,20 @@
       "places_taken": null,
       "from_date": "2026-10-20T17:30:00Z",
       "to_date": "2026-10-20T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969983,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-20T17:30:00Z",
+      "to_date": "2026-10-20T18:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -131630,6 +131994,20 @@
       "cancelled": false
     },
     {
+      "nid": 969984,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-21T08:15:00Z",
+      "to_date": "2026-10-21T09:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914392,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -132061,6 +132439,20 @@
       "from_date": "2026-10-21T10:15:00Z",
       "to_date": "2026-10-21T11:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969985,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-21T10:15:00Z",
+      "to_date": "2026-10-21T11:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -141248,6 +141640,20 @@
       "cancelled": false
     },
     {
+      "nid": 969916,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-27T11:15:00Z",
+      "to_date": "2026-10-27T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951532,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -141990,6 +142396,20 @@
       "cancelled": false
     },
     {
+      "nid": 969945,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-27T17:00:00Z",
+      "to_date": "2026-10-27T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925849,
       "sport_name": "Judo",
       "title": "Training",
@@ -142466,6 +142886,20 @@
       "cancelled": false
     },
     {
+      "nid": 969986,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-27T18:30:00Z",
+      "to_date": "2026-10-27T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925851,
       "sport_name": "Judo",
       "title": "Training",
@@ -142910,6 +143344,20 @@
       "places_taken": null,
       "from_date": "2026-10-28T09:05:00Z",
       "to_date": "2026-10-28T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969987,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-28T09:15:00Z",
+      "to_date": "2026-10-28T10:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -143373,6 +143821,20 @@
       "from_date": "2026-10-28T11:15:00Z",
       "to_date": "2026-10-28T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969988,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-28T11:15:00Z",
+      "to_date": "2026-10-28T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -152490,6 +152952,20 @@
       "cancelled": false
     },
     {
+      "nid": 969917,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-03T11:15:00Z",
+      "to_date": "2026-11-03T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951552,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -153218,6 +153694,20 @@
       "cancelled": false
     },
     {
+      "nid": 969946,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-03T17:00:00Z",
+      "to_date": "2026-11-03T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925865,
       "sport_name": "Judo",
       "title": "Training",
@@ -153648,6 +154138,20 @@
       "places_taken": null,
       "from_date": "2026-11-03T18:30:00Z",
       "to_date": "2026-11-03T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969989,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-03T18:30:00Z",
+      "to_date": "2026-11-03T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -154086,6 +154590,20 @@
       "cancelled": false
     },
     {
+      "nid": 969990,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-04T09:15:00Z",
+      "to_date": "2026-11-04T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914406,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -154517,6 +155035,20 @@
       "from_date": "2026-11-04T11:15:00Z",
       "to_date": "2026-11-04T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969991,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-04T11:15:00Z",
+      "to_date": "2026-11-04T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -163326,6 +163858,20 @@
       "cancelled": false
     },
     {
+      "nid": 969918,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-10T11:15:00Z",
+      "to_date": "2026-11-10T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951572,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -164026,6 +164572,20 @@
       "cancelled": false
     },
     {
+      "nid": 969947,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-10T17:00:00Z",
+      "to_date": "2026-11-10T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925881,
       "sport_name": "Judo",
       "title": "Training",
@@ -164470,6 +165030,20 @@
       "places_taken": null,
       "from_date": "2026-11-10T18:30:00Z",
       "to_date": "2026-11-10T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969992,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-10T18:30:00Z",
+      "to_date": "2026-11-10T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -164936,6 +165510,20 @@
       "cancelled": false
     },
     {
+      "nid": 969993,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-11T09:15:00Z",
+      "to_date": "2026-11-11T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914413,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -165395,6 +165983,20 @@
       "from_date": "2026-11-11T11:15:00Z",
       "to_date": "2026-11-11T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969994,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-11T11:15:00Z",
+      "to_date": "2026-11-11T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -174400,6 +175002,20 @@
       "cancelled": false
     },
     {
+      "nid": 969919,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-17T11:15:00Z",
+      "to_date": "2026-11-17T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951592,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -175100,6 +175716,20 @@
       "cancelled": false
     },
     {
+      "nid": 969948,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-17T17:00:00Z",
+      "to_date": "2026-11-17T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925897,
       "sport_name": "Judo",
       "title": "Training",
@@ -175530,6 +176160,20 @@
       "places_taken": null,
       "from_date": "2026-11-17T18:30:00Z",
       "to_date": "2026-11-17T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969995,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-17T18:30:00Z",
+      "to_date": "2026-11-17T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -175982,6 +176626,20 @@
       "cancelled": false
     },
     {
+      "nid": 969996,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-18T09:15:00Z",
+      "to_date": "2026-11-18T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914420,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -176413,6 +177071,20 @@
       "from_date": "2026-11-18T11:15:00Z",
       "to_date": "2026-11-18T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 969997,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-18T11:15:00Z",
+      "to_date": "2026-11-18T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -185362,6 +186034,20 @@
       "cancelled": false
     },
     {
+      "nid": 969920,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-24T11:15:00Z",
+      "to_date": "2026-11-24T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951612,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -186062,6 +186748,20 @@
       "cancelled": false
     },
     {
+      "nid": 969949,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-24T17:00:00Z",
+      "to_date": "2026-11-24T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925913,
       "sport_name": "Judo",
       "title": "Training",
@@ -186510,6 +187210,20 @@
       "cancelled": false
     },
     {
+      "nid": 969998,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-24T18:30:00Z",
+      "to_date": "2026-11-24T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925915,
       "sport_name": "Judo",
       "title": "Training",
@@ -186954,6 +187668,20 @@
       "places_taken": null,
       "from_date": "2026-11-25T09:05:00Z",
       "to_date": "2026-11-25T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 969999,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-25T09:15:00Z",
+      "to_date": "2026-11-25T10:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -187417,6 +188145,20 @@
       "from_date": "2026-11-25T11:15:00Z",
       "to_date": "2026-11-25T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970000,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-11-25T11:15:00Z",
+      "to_date": "2026-11-25T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -195092,6 +195834,20 @@
       "cancelled": false
     },
     {
+      "nid": 969921,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-01T11:15:00Z",
+      "to_date": "2026-12-01T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951632,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -195792,6 +196548,20 @@
       "cancelled": false
     },
     {
+      "nid": 969950,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-01T17:00:00Z",
+      "to_date": "2026-12-01T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925925,
       "sport_name": "Judo",
       "title": "Training",
@@ -196236,6 +197006,20 @@
       "places_taken": null,
       "from_date": "2026-12-01T18:30:00Z",
       "to_date": "2026-12-01T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970001,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-01T18:30:00Z",
+      "to_date": "2026-12-01T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -196688,6 +197472,20 @@
       "cancelled": false
     },
     {
+      "nid": 970002,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-02T09:15:00Z",
+      "to_date": "2026-12-02T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914434,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -197119,6 +197917,20 @@
       "from_date": "2026-12-02T11:15:00Z",
       "to_date": "2026-12-02T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970003,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-02T11:15:00Z",
+      "to_date": "2026-12-02T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -205802,6 +206614,20 @@
       "cancelled": false
     },
     {
+      "nid": 969922,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-08T11:15:00Z",
+      "to_date": "2026-12-08T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951652,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -206502,6 +207328,20 @@
       "cancelled": false
     },
     {
+      "nid": 969951,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-08T17:00:00Z",
+      "to_date": "2026-12-08T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925941,
       "sport_name": "Judo",
       "title": "Training",
@@ -206932,6 +207772,20 @@
       "places_taken": null,
       "from_date": "2026-12-08T18:30:00Z",
       "to_date": "2026-12-08T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970004,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-08T18:30:00Z",
+      "to_date": "2026-12-08T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -207380,6 +208234,20 @@
       "places_taken": null,
       "from_date": "2026-12-09T09:05:00Z",
       "to_date": "2026-12-09T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970005,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-09T09:15:00Z",
+      "to_date": "2026-12-09T10:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -207843,6 +208711,20 @@
       "from_date": "2026-12-09T11:15:00Z",
       "to_date": "2026-12-09T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970006,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-09T11:15:00Z",
+      "to_date": "2026-12-09T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -216862,6 +217744,20 @@
       "cancelled": false
     },
     {
+      "nid": 969923,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-15T11:15:00Z",
+      "to_date": "2026-12-15T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951672,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -217562,6 +218458,20 @@
       "cancelled": false
     },
     {
+      "nid": 969952,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-15T17:00:00Z",
+      "to_date": "2026-12-15T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925957,
       "sport_name": "Judo",
       "title": "Training",
@@ -217992,6 +218902,20 @@
       "places_taken": null,
       "from_date": "2026-12-15T18:30:00Z",
       "to_date": "2026-12-15T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970007,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-15T18:30:00Z",
+      "to_date": "2026-12-15T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -218444,6 +219368,20 @@
       "cancelled": false
     },
     {
+      "nid": 970008,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-16T09:15:00Z",
+      "to_date": "2026-12-16T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914448,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -218875,6 +219813,20 @@
       "from_date": "2026-12-16T11:15:00Z",
       "to_date": "2026-12-16T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970009,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-16T11:15:00Z",
+      "to_date": "2026-12-16T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -227138,6 +228090,20 @@
       "cancelled": false
     },
     {
+      "nid": 969924,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-22T11:15:00Z",
+      "to_date": "2026-12-22T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951692,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -227754,6 +228720,20 @@
       "cancelled": false
     },
     {
+      "nid": 969953,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-22T17:00:00Z",
+      "to_date": "2026-12-22T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925968,
       "sport_name": "Judo",
       "title": "Training",
@@ -228072,6 +229052,20 @@
       "places_taken": null,
       "from_date": "2026-12-22T18:30:00Z",
       "to_date": "2026-12-22T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970010,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-22T18:30:00Z",
+      "to_date": "2026-12-22T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -228468,6 +229462,20 @@
       "cancelled": false
     },
     {
+      "nid": 970011,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-23T09:15:00Z",
+      "to_date": "2026-12-23T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914455,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -228829,6 +229837,20 @@
       "from_date": "2026-12-23T11:15:00Z",
       "to_date": "2026-12-23T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970012,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-12-23T11:15:00Z",
+      "to_date": "2026-12-23T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -233788,6 +234810,20 @@
       "cancelled": false
     },
     {
+      "nid": 969925,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-05T11:15:00Z",
+      "to_date": "2027-01-05T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951704,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -234460,6 +235496,20 @@
       "cancelled": false
     },
     {
+      "nid": 969954,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-05T17:00:00Z",
+      "to_date": "2027-01-05T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925974,
       "sport_name": "Judo",
       "title": "Training",
@@ -234918,6 +235968,20 @@
       "places_taken": null,
       "from_date": "2027-01-05T18:30:00Z",
       "to_date": "2027-01-05T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970013,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-05T18:30:00Z",
+      "to_date": "2027-01-05T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -235384,6 +236448,20 @@
       "cancelled": false
     },
     {
+      "nid": 970014,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-06T09:15:00Z",
+      "to_date": "2027-01-06T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914467,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -235815,6 +236893,20 @@
       "from_date": "2027-01-06T11:15:00Z",
       "to_date": "2027-01-06T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970015,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-06T11:15:00Z",
+      "to_date": "2027-01-06T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -244610,6 +245702,20 @@
       "cancelled": false
     },
     {
+      "nid": 969926,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-12T11:15:00Z",
+      "to_date": "2027-01-12T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951724,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -245282,6 +246388,20 @@
       "cancelled": false
     },
     {
+      "nid": 969955,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-12T17:00:00Z",
+      "to_date": "2027-01-12T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925984,
       "sport_name": "Judo",
       "title": "Training",
@@ -245740,6 +246860,20 @@
       "places_taken": null,
       "from_date": "2027-01-12T18:30:00Z",
       "to_date": "2027-01-12T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970016,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-12T18:30:00Z",
+      "to_date": "2027-01-12T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -246220,6 +247354,20 @@
       "cancelled": false
     },
     {
+      "nid": 970017,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-13T09:15:00Z",
+      "to_date": "2027-01-13T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924586,
       "sport_name": "Mixed Martial Arts",
       "title": "Einstiegskurs",
@@ -246651,6 +247799,20 @@
       "from_date": "2027-01-13T11:15:00Z",
       "to_date": "2027-01-13T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970018,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-13T11:15:00Z",
+      "to_date": "2027-01-13T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -255390,6 +256552,20 @@
       "cancelled": false
     },
     {
+      "nid": 969927,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-19T11:15:00Z",
+      "to_date": "2027-01-19T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951744,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -256062,6 +257238,20 @@
       "cancelled": false
     },
     {
+      "nid": 969956,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-19T17:00:00Z",
+      "to_date": "2027-01-19T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925994,
       "sport_name": "Judo",
       "title": "Training",
@@ -256520,6 +257710,20 @@
       "places_taken": null,
       "from_date": "2027-01-19T18:30:00Z",
       "to_date": "2027-01-19T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970019,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-19T18:30:00Z",
+      "to_date": "2027-01-19T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -256986,6 +258190,20 @@
       "cancelled": false
     },
     {
+      "nid": 970020,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-20T09:15:00Z",
+      "to_date": "2027-01-20T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914481,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -257403,6 +258621,20 @@
       "from_date": "2027-01-20T11:15:00Z",
       "to_date": "2027-01-20T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970021,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-20T11:15:00Z",
+      "to_date": "2027-01-20T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -266170,6 +267402,20 @@
       "cancelled": false
     },
     {
+      "nid": 969928,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-26T11:15:00Z",
+      "to_date": "2027-01-26T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951764,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -266842,6 +268088,20 @@
       "cancelled": false
     },
     {
+      "nid": 969957,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-26T17:00:00Z",
+      "to_date": "2027-01-26T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926004,
       "sport_name": "Judo",
       "title": "Training",
@@ -267300,6 +268560,20 @@
       "places_taken": null,
       "from_date": "2027-01-26T18:30:00Z",
       "to_date": "2027-01-26T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970022,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-26T18:30:00Z",
+      "to_date": "2027-01-26T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -267766,6 +269040,20 @@
       "cancelled": false
     },
     {
+      "nid": 970023,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-27T09:15:00Z",
+      "to_date": "2027-01-27T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914488,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -268169,6 +269457,20 @@
       "from_date": "2027-01-27T11:15:00Z",
       "to_date": "2027-01-27T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970024,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-01-27T11:15:00Z",
+      "to_date": "2027-01-27T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -276866,6 +278168,20 @@
       "cancelled": false
     },
     {
+      "nid": 969929,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-02T11:15:00Z",
+      "to_date": "2027-02-02T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951784,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -277538,6 +278854,20 @@
       "cancelled": false
     },
     {
+      "nid": 969958,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-02T17:00:00Z",
+      "to_date": "2027-02-02T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926014,
       "sport_name": "Judo",
       "title": "Training",
@@ -277996,6 +279326,20 @@
       "places_taken": null,
       "from_date": "2027-02-02T18:30:00Z",
       "to_date": "2027-02-02T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970025,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-02T18:30:00Z",
+      "to_date": "2027-02-02T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -278462,6 +279806,20 @@
       "cancelled": false
     },
     {
+      "nid": 970026,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-03T09:15:00Z",
+      "to_date": "2027-02-03T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914495,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -278893,6 +280251,20 @@
       "from_date": "2027-02-03T11:15:00Z",
       "to_date": "2027-02-03T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970027,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-03T11:15:00Z",
+      "to_date": "2027-02-03T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -287632,6 +289004,20 @@
       "cancelled": false
     },
     {
+      "nid": 969930,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-09T11:15:00Z",
+      "to_date": "2027-02-09T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 951804,
       "sport_name": "Entspannen",
       "title": "Relax Uniturm",
@@ -288304,6 +289690,20 @@
       "cancelled": false
     },
     {
+      "nid": 969959,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-09T17:00:00Z",
+      "to_date": "2027-02-09T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926024,
       "sport_name": "Judo",
       "title": "Training",
@@ -288762,6 +290162,20 @@
       "places_taken": null,
       "from_date": "2027-02-09T18:30:00Z",
       "to_date": "2027-02-09T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970028,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-09T18:30:00Z",
+      "to_date": "2027-02-09T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -289228,6 +290642,20 @@
       "cancelled": false
     },
     {
+      "nid": 970029,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-10T09:15:00Z",
+      "to_date": "2027-02-10T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914502,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -289659,6 +291087,20 @@
       "from_date": "2027-02-10T11:15:00Z",
       "to_date": "2027-02-10T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970030,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-10T11:15:00Z",
+      "to_date": "2027-02-10T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -297390,6 +298832,20 @@
       "cancelled": false
     },
     {
+      "nid": 969931,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-16T11:15:00Z",
+      "to_date": "2027-02-16T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914854,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -297810,6 +299266,20 @@
       "cancelled": false
     },
     {
+      "nid": 969960,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-16T17:00:00Z",
+      "to_date": "2027-02-16T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926033,
       "sport_name": "Judo",
       "title": "Training",
@@ -298128,6 +299598,20 @@
       "places_taken": null,
       "from_date": "2027-02-16T18:30:00Z",
       "to_date": "2027-02-16T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 970031,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-16T18:30:00Z",
+      "to_date": "2027-02-16T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -298496,6 +299980,20 @@
       "cancelled": false
     },
     {
+      "nid": 970032,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-17T09:15:00Z",
+      "to_date": "2027-02-17T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914509,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -298703,6 +300201,20 @@
       "from_date": "2027-02-17T11:15:00Z",
       "to_date": "2027-02-17T12:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 970033,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2027-02-17T11:15:00Z",
+      "to_date": "2027-02-17T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
