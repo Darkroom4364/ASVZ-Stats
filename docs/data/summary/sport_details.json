@@ -639,7 +639,7 @@
         "by_hour": {
           "10": 23.2,
           "11": 6.4,
-          "12": 5.4,
+          "12": 5.5,
           "13": 14.7,
           "14": 4.4,
           "16": 45.8,
@@ -728,13 +728,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 11.4,
+        "avg_occupancy_pct": 11.6,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 81,
         "by_hour": {
           "7": 10.8,
-          "8": 16.5,
+          "8": 16.8,
           "9": 0.0
         }
       },
@@ -1419,7 +1419,7 @@
     }
   },
   "Fitnessberatung": {
-    "avg_occupancy_pct": 64.6,
+    "avg_occupancy_pct": 64.8,
     "facility_count": 7,
     "facilities": {
       "Sport Center Fluntern": {
@@ -1478,13 +1478,13 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 59.1,
+        "avg_occupancy_pct": 59.3,
         "places_taken": 0,
         "places_max": 1,
         "data_points": 215,
         "by_hour": {
           "6": 0.0,
-          "7": 40.8,
+          "7": 41.7,
           "8": 53.1,
           "10": 84.2,
           "11": 94.1,
@@ -1494,14 +1494,14 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 61.3,
+        "avg_occupancy_pct": 62.4,
         "places_taken": 0,
         "places_max": 1,
         "data_points": 97,
         "by_hour": {
           "9": 44.4,
           "10": 40.0,
-          "12": 72.7,
+          "12": 81.8,
           "15": 67.4,
           "16": 66.7
         }
@@ -3036,13 +3036,13 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 12.4,
+        "avg_occupancy_pct": 12.6,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 72,
         "by_hour": {
-          "7": 10.6,
-          "8": 18.4,
+          "7": 10.8,
+          "8": 18.6,
           "9": 0.0
         }
       },
@@ -3521,18 +3521,18 @@
     }
   },
   "Segeln Jollen": {
-    "avg_occupancy_pct": 77.5,
+    "avg_occupancy_pct": 78.3,
     "facility_count": 1,
     "facilities": {
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 77.5,
+        "avg_occupancy_pct": 78.3,
         "places_taken": 0,
         "places_max": 6,
         "data_points": 89,
         "by_hour": {
           "9": 0.0,
-          "10": 83.9,
-          "11": 80.0,
+          "10": 84.4,
+          "11": 90.0,
           "14": 77.8,
           "15": 100.0
         }
@@ -3641,16 +3641,16 @@
     }
   },
   "Ski / Snowboard": {
-    "avg_occupancy_pct": 0.8,
+    "avg_occupancy_pct": 0.9,
     "facility_count": 1,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 0.8,
+        "avg_occupancy_pct": 0.9,
         "places_taken": 0,
         "places_max": 14,
         "data_points": 33,
         "by_hour": {
-          "5": 27.1,
+          "5": 29.2,
           "7": 0.0,
           "8": 0.0,
           "18": 0.0
@@ -3851,16 +3851,16 @@
     }
   },
   "Standup Paddeln": {
-    "avg_occupancy_pct": 55.7,
+    "avg_occupancy_pct": 56.2,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 55.7,
+        "avg_occupancy_pct": 56.2,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 107,
         "by_hour": {
-          "8": 42.5,
+          "8": 46.2,
           "11": 61.1,
           "13": 92.5,
           "15": 84.4,
@@ -4737,7 +4737,7 @@
         "by_hour": {
           "5": 11.7,
           "6": 19.2,
-          "7": 14.7,
+          "7": 14.8,
           "8": 14.4,
           "9": 7.1,
           "10": 15.3,
@@ -4825,7 +4825,7 @@
         "places_max": 30,
         "data_points": 176,
         "by_hour": {
-          "8": 35.8,
+          "8": 36.0,
           "9": 19.0,
           "10": 0.0
         }
