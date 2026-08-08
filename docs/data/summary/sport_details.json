@@ -728,13 +728,13 @@
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 11.6,
+        "avg_occupancy_pct": 11.8,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 81,
         "by_hour": {
           "7": 10.8,
-          "8": 17.0,
+          "8": 17.3,
           "9": 0.0
         }
       },
@@ -946,12 +946,12 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 21.8,
+        "avg_occupancy_pct": 21.9,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 199,
         "by_hour": {
-          "9": 38.4,
+          "9": 38.6,
           "10": 0.0,
           "11": 23.2,
           "12": 20.5,
@@ -2323,13 +2323,13 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 10.9,
+        "avg_occupancy_pct": 11.0,
         "places_taken": 0,
         "places_max": 250,
         "data_points": 427,
         "by_hour": {
           "5": 1.4,
-          "9": 10.1,
+          "9": 10.2,
           "10": 11.7,
           "14": 6.4,
           "15": 14.3,
@@ -3298,7 +3298,7 @@
         "by_hour": {
           "7": 30.0,
           "8": 17.8,
-          "10": 10.6,
+          "10": 10.8,
           "11": 0.0,
           "16": 50.6,
           "17": 0.0,
@@ -3559,11 +3559,11 @@
     }
   },
   "Segeln Yacht": {
-    "avg_occupancy_pct": 86.8,
+    "avg_occupancy_pct": 87.1,
     "facility_count": 2,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 77.0,
+        "avg_occupancy_pct": 77.5,
         "places_taken": 0,
         "places_max": 4,
         "data_points": 102,
@@ -3573,7 +3573,7 @@
           "10": 90.0,
           "11": 58.3,
           "12": 59.4,
-          "15": 80.6
+          "15": 81.9
         }
       },
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
@@ -3650,7 +3650,7 @@
         "places_max": 14,
         "data_points": 33,
         "by_hour": {
-          "5": 29.2,
+          "5": 31.2,
           "7": 0.0,
           "8": 0.0,
           "18": 0.0
@@ -4825,8 +4825,8 @@
         "places_max": 30,
         "data_points": 176,
         "by_hour": {
-          "8": 36.2,
-          "9": 19.3,
+          "8": 36.3,
+          "9": 19.5,
           "10": 0.0
         }
       },
