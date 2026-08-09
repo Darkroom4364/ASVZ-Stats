@@ -532,7 +532,7 @@
         "places_max": 20,
         "data_points": 123,
         "by_hour": {
-          "5": 9.6,
+          "5": 9.8,
           "6": 0.0,
           "9": 18.2,
           "10": 24.0,
@@ -896,14 +896,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 30.0,
+        "avg_occupancy_pct": 30.1,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 83,
         "by_hour": {
           "12": 31.7,
           "13": 0.0,
-          "14": 49.9,
+          "14": 50.0,
           "15": 0.0
         }
       },
@@ -1141,13 +1141,13 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 37.1,
+        "avg_occupancy_pct": 37.2,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 105,
         "by_hour": {
           "16": 70.0,
-          "17": 22.0,
+          "17": 22.2,
           "18": 0.0
         }
       }
@@ -1285,7 +1285,7 @@
         "places_max": 35,
         "data_points": 991,
         "by_hour": {
-          "4": 46.7,
+          "4": 46.9,
           "5": 0.0,
           "6": 36.3,
           "7": 0.0,
@@ -2329,7 +2329,7 @@
         "data_points": 427,
         "by_hour": {
           "5": 1.4,
-          "9": 10.2,
+          "9": 10.3,
           "10": 11.7,
           "14": 6.4,
           "15": 14.3,
@@ -2732,8 +2732,8 @@
         "places_max": 25,
         "data_points": 1012,
         "by_hour": {
-          "5": 40.2,
-          "6": 22.1,
+          "5": 40.3,
+          "6": 22.2,
           "7": 18.2,
           "8": 29.2,
           "9": 29.4,
@@ -3042,7 +3042,7 @@
         "data_points": 72,
         "by_hour": {
           "7": 11.4,
-          "8": 18.9,
+          "8": 19.0,
           "9": 0.0
         }
       },
@@ -3521,17 +3521,17 @@
     }
   },
   "Segeln Jollen": {
-    "avg_occupancy_pct": 78.9,
+    "avg_occupancy_pct": 79.0,
     "facility_count": 1,
     "facilities": {
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 78.9,
+        "avg_occupancy_pct": 79.0,
         "places_taken": 0,
         "places_max": 6,
         "data_points": 89,
         "by_hour": {
           "9": 0.0,
-          "10": 84.4,
+          "10": 84.7,
           "11": 100.0,
           "14": 77.8,
           "15": 100.0
@@ -4730,7 +4730,7 @@
     "facility_count": 11,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 15.0,
+        "avg_occupancy_pct": 15.1,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 1079,
