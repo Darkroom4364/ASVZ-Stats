@@ -1,85 +1,15 @@
 {
-  "ts": "2026-08-14T10:40:52.723173+00:00",
+  "ts": "2026-08-14T11:54:40.576854+00:00",
   "events": [
-    {
-      "nid": 734814,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 3,
-      "places_max": 3,
-      "places_taken": 0,
-      "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T12:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 906375,
-      "sport_name": "Foilsurfen",
-      "title": "PumpFoil Workshop 38",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T13:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 854090,
-      "sport_name": "Basketball",
-      "title": "Spiel",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 22,
-      "places_max": 36,
-      "places_taken": 14,
-      "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T12:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 745214,
-      "sport_name": "Yoga",
-      "title": "Yoga & Meditation",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 7,
-      "places_max": 20,
-      "places_taken": 13,
-      "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T12:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748770,
-      "sport_name": "Rückenfit",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 18,
-      "places_max": 30,
-      "places_taken": 12,
-      "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T11:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 752511,
       "sport_name": "Body Combat",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 60,
+      "places_free": 53,
       "places_max": 80,
-      "places_taken": 20,
+      "places_taken": 27,
       "from_date": "2026-08-14T11:45:00Z",
       "to_date": "2026-08-14T12:40:00Z",
       "niveau_name": "Alle",
@@ -91,9 +21,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 24,
+      "places_free": 25,
       "places_max": 30,
-      "places_taken": 6,
+      "places_taken": 5,
       "from_date": "2026-08-14T12:20:00Z",
       "to_date": "2026-08-14T13:50:00Z",
       "niveau_name": "Alle",
@@ -105,9 +35,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 3,
+      "places_free": 5,
       "places_max": 16,
-      "places_taken": 13,
+      "places_taken": 11,
       "from_date": "2026-08-14T13:00:00Z",
       "to_date": "2026-08-14T15:00:00Z",
       "niveau_name": "Alle",
@@ -119,9 +49,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 3,
+      "places_free": 1,
       "places_max": 45,
-      "places_taken": 42,
+      "places_taken": 44,
       "from_date": "2026-08-14T13:15:00Z",
       "to_date": "2026-08-14T14:25:00Z",
       "niveau_name": "Einsteiger 1",
@@ -133,9 +63,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 5,
+      "places_free": 7,
       "places_max": 35,
-      "places_taken": 30,
+      "places_taken": 28,
       "from_date": "2026-08-14T13:30:00Z",
       "to_date": "2026-08-14T15:00:00Z",
       "niveau_name": "Einsteiger 1",
@@ -161,26 +91,12 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 26,
+      "places_free": 28,
       "places_max": 35,
-      "places_taken": 9,
+      "places_taken": 7,
       "from_date": "2026-08-14T14:00:00Z",
       "to_date": "2026-08-14T14:55:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 738850,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 42,
-      "places_max": 60,
-      "places_taken": 18,
-      "from_date": "2026-08-14T14:30:00Z",
-      "to_date": "2026-08-14T15:55:00Z",
-      "niveau_name": "Einsteiger 2 + Mittlere",
       "cancelled": false
     },
     {
@@ -198,6 +114,20 @@
       "cancelled": false
     },
     {
+      "nid": 738850,
+      "sport_name": "Ballett",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 41,
+      "places_max": 60,
+      "places_taken": 19,
+      "from_date": "2026-08-14T14:30:00Z",
+      "to_date": "2026-08-14T15:55:00Z",
+      "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
       "nid": 735250,
       "sport_name": "Squash",
       "title": "Freies Spiel",
@@ -212,20 +142,6 @@
       "cancelled": false
     },
     {
-      "nid": 864906,
-      "sport_name": "Calisthenics",
-      "title": "Full Body Strength",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 0,
-      "places_max": 12,
-      "places_taken": 12,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T16:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 750624,
       "sport_name": "Kondi",
       "title": "Super Kondi Body Attack",
@@ -236,62 +152,6 @@
       "places_taken": 4,
       "from_date": "2026-08-14T15:00:00Z",
       "to_date": "2026-08-14T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748498,
-      "sport_name": "T-BOW",
-      "title": "Balance Pump",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 41,
-      "places_max": 55,
-      "places_taken": 14,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T16:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753191,
-      "sport_name": "Les Mills Core",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 38,
-      "places_max": 60,
-      "places_taken": 22,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T15:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 748499,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 16,
-      "places_max": 35,
-      "places_taken": 19,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755773,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Kunstrasen",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 10,
-      "places_max": 20,
-      "places_taken": 10,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -318,6 +178,76 @@
       "places_free": 21,
       "places_max": 24,
       "places_taken": 3,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 753191,
+      "sport_name": "Les Mills Core",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 38,
+      "places_max": 60,
+      "places_taken": 22,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T15:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 748498,
+      "sport_name": "T-BOW",
+      "title": "Balance Pump",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 40,
+      "places_max": 55,
+      "places_taken": 15,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 748499,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 16,
+      "places_max": 35,
+      "places_taken": 19,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 864906,
+      "sport_name": "Calisthenics",
+      "title": "Full Body Strength",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 0,
+      "places_max": 12,
+      "places_taken": 12,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T16:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755773,
+      "sport_name": "Fussball",
+      "title": "Freies Spiel, Kunstrasen",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 12,
+      "places_max": 20,
+      "places_taken": 8,
       "from_date": "2026-08-14T15:00:00Z",
       "to_date": "2026-08-14T17:00:00Z",
       "niveau_name": "Alle",
@@ -357,9 +287,9 @@
       "title": "Freies Spiel",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 47,
-      "places_taken": 46,
+      "places_taken": 47,
       "from_date": "2026-08-14T15:40:00Z",
       "to_date": "2026-08-14T17:00:00Z",
       "niveau_name": "Alle",
@@ -380,20 +310,6 @@
       "cancelled": false
     },
     {
-      "nid": 735445,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 3,
-      "places_max": 3,
-      "places_taken": 0,
-      "from_date": "2026-08-14T16:00:00Z",
-      "to_date": "2026-08-14T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 740469,
       "sport_name": "Tango",
       "title": "Training",
@@ -405,20 +321,6 @@
       "from_date": "2026-08-14T16:00:00Z",
       "to_date": "2026-08-14T17:30:00Z",
       "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
-      "nid": 748771,
-      "sport_name": "Tone&Stretch",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 51,
-      "places_max": 60,
-      "places_taken": 9,
-      "from_date": "2026-08-14T16:00:00Z",
-      "to_date": "2026-08-14T16:55:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -436,16 +338,16 @@
       "cancelled": false
     },
     {
-      "nid": 796108,
-      "sport_name": "Rennvelo",
-      "title": "Fahrtechnikkurs Abfahrt und Kurven fahren",
-      "facility_name": null,
-      "location": null,
-      "places_free": 1,
-      "places_max": 12,
-      "places_taken": 11,
+      "nid": 735445,
+      "sport_name": "Squash",
+      "title": "Freies Spiel",
+      "facility_name": "Winterthur Squashanlage Gertrud",
+      "location": "Winterthur Squashanlage Gertrud",
+      "places_free": 2,
+      "places_max": 3,
+      "places_taken": 1,
       "from_date": "2026-08-14T16:00:00Z",
-      "to_date": "2026-08-14T18:00:00Z",
+      "to_date": "2026-08-14T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -455,9 +357,37 @@
       "title": "Super Kondi Body Attack",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 339,
+      "places_free": 338,
       "places_max": 350,
+      "places_taken": 12,
+      "from_date": "2026-08-14T16:00:00Z",
+      "to_date": "2026-08-14T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 796108,
+      "sport_name": "Rennvelo",
+      "title": "Fahrtechnikkurs Abfahrt und Kurven fahren",
+      "facility_name": null,
+      "location": null,
+      "places_free": 3,
+      "places_max": 14,
       "places_taken": 11,
+      "from_date": "2026-08-14T16:00:00Z",
+      "to_date": "2026-08-14T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 748771,
+      "sport_name": "Tone&Stretch",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 52,
+      "places_max": 60,
+      "places_taken": 8,
       "from_date": "2026-08-14T16:00:00Z",
       "to_date": "2026-08-14T16:55:00Z",
       "niveau_name": "Alle",
@@ -520,20 +450,6 @@
       "cancelled": false
     },
     {
-      "nid": 739813,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 22,
-      "places_max": 30,
-      "places_taken": 8,
-      "from_date": "2026-08-14T16:30:00Z",
-      "to_date": "2026-08-14T18:00:00Z",
-      "niveau_name": "Einsteiger 2",
-      "cancelled": false
-    },
-    {
       "nid": 739266,
       "sport_name": "Hip Hop",
       "title": "Training",
@@ -553,12 +469,26 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 15,
+      "places_free": 16,
       "places_max": 40,
-      "places_taken": 25,
+      "places_taken": 24,
       "from_date": "2026-08-14T16:30:00Z",
       "to_date": "2026-08-14T17:25:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 739813,
+      "sport_name": "Jazz Dance",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 21,
+      "places_max": 30,
+      "places_taken": 9,
+      "from_date": "2026-08-14T16:30:00Z",
+      "to_date": "2026-08-14T18:00:00Z",
+      "niveau_name": "Einsteiger 2",
       "cancelled": false
     },
     {
@@ -576,30 +506,30 @@
       "cancelled": false
     },
     {
-      "nid": 754782,
-      "sport_name": "Beachvolleyball",
-      "title": "Spiel Indoor",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 21,
-      "places_max": 48,
-      "places_taken": 27,
-      "from_date": "2026-08-14T17:00:00Z",
-      "to_date": "2026-08-14T18:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 742036,
       "sport_name": "Muscle Pump",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 5,
+      "places_free": 3,
       "places_max": 60,
-      "places_taken": 55,
+      "places_taken": 57,
       "from_date": "2026-08-14T17:00:00Z",
       "to_date": "2026-08-14T18:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 754782,
+      "sport_name": "Beachvolleyball",
+      "title": "Spiel Indoor",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 22,
+      "places_max": 48,
+      "places_taken": 26,
+      "from_date": "2026-08-14T17:00:00Z",
+      "to_date": "2026-08-14T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -609,9 +539,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 15,
+      "places_free": 14,
       "places_max": 30,
-      "places_taken": 15,
+      "places_taken": 16,
       "from_date": "2026-08-14T17:00:00Z",
       "to_date": "2026-08-14T19:00:00Z",
       "niveau_name": "Alle",
@@ -651,9 +581,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 13,
+      "places_free": 12,
       "places_max": 18,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-08-14T17:15:00Z",
       "to_date": "2026-08-14T19:15:00Z",
       "niveau_name": "Mittlere",
@@ -721,9 +651,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 55,
+      "places_free": 54,
       "places_max": 60,
-      "places_taken": 5,
+      "places_taken": 6,
       "from_date": "2026-08-14T18:20:00Z",
       "to_date": "2026-08-14T19:35:00Z",
       "niveau_name": "Alle",
@@ -735,9 +665,9 @@
       "title": "Treff",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 1,
+      "places_free": 0,
       "places_max": 16,
-      "places_taken": 15,
+      "places_taken": 16,
       "from_date": "2026-08-15T07:00:00Z",
       "to_date": "2026-08-15T12:00:00Z",
       "niveau_name": "Mittlere",
@@ -749,9 +679,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 10,
+      "places_free": 4,
       "places_max": 55,
-      "places_taken": 45,
+      "places_taken": 51,
       "from_date": "2026-08-15T07:10:00Z",
       "to_date": "2026-08-15T08:05:00Z",
       "niveau_name": "Alle",
@@ -861,9 +791,9 @@
       "title": "Body Pump",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 5,
+      "places_free": 4,
       "places_max": 35,
-      "places_taken": 30,
+      "places_taken": 31,
       "from_date": "2026-08-15T07:45:00Z",
       "to_date": "2026-08-15T08:45:00Z",
       "niveau_name": "Alle",
@@ -903,9 +833,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 29,
+      "places_free": 24,
       "places_max": 55,
-      "places_taken": 26,
+      "places_taken": 31,
       "from_date": "2026-08-15T08:15:00Z",
       "to_date": "2026-08-15T09:10:00Z",
       "niveau_name": "Alle",
@@ -917,9 +847,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 11,
+      "places_free": 10,
       "places_max": 25,
-      "places_taken": 14,
+      "places_taken": 15,
       "from_date": "2026-08-15T08:20:00Z",
       "to_date": "2026-08-15T09:10:00Z",
       "niveau_name": "Alle",
@@ -931,9 +861,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 17,
+      "places_free": 12,
       "places_max": 30,
-      "places_taken": 13,
+      "places_taken": 18,
       "from_date": "2026-08-15T08:20:00Z",
       "to_date": "2026-08-15T09:30:00Z",
       "niveau_name": "Alle",
@@ -973,9 +903,9 @@
       "title": "Long Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 3,
+      "places_free": 2,
       "places_max": 20,
-      "places_taken": 17,
+      "places_taken": 18,
       "from_date": "2026-08-15T08:30:00Z",
       "to_date": "2026-08-15T10:30:00Z",
       "niveau_name": "Alle",
@@ -987,25 +917,11 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 34,
+      "places_free": 32,
       "places_max": 35,
-      "places_taken": 1,
+      "places_taken": 3,
       "from_date": "2026-08-15T08:30:00Z",
       "to_date": "2026-08-15T09:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 734439,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 3,
-      "places_max": 3,
-      "places_taken": 0,
-      "from_date": "2026-08-15T09:00:00Z",
-      "to_date": "2026-08-15T10:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1038,16 +954,16 @@
       "cancelled": true
     },
     {
-      "nid": 752573,
-      "sport_name": "Body Combat",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 33,
-      "places_max": 40,
-      "places_taken": 7,
+      "nid": 734439,
+      "sport_name": "Squash",
+      "title": "Freies Spiel",
+      "facility_name": "Winterthur Squashanlage Gertrud",
+      "location": "Winterthur Squashanlage Gertrud",
+      "places_free": 2,
+      "places_max": 3,
+      "places_taken": 1,
       "from_date": "2026-08-15T09:00:00Z",
-      "to_date": "2026-08-15T09:55:00Z",
+      "to_date": "2026-08-15T10:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1057,25 +973,25 @@
       "title": "klassisch",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 116,
+      "places_free": 114,
       "places_max": 120,
-      "places_taken": 4,
+      "places_taken": 6,
       "from_date": "2026-08-15T09:00:00Z",
       "to_date": "2026-08-15T09:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 847382,
-      "sport_name": "Yoga",
-      "title": "Dance Yoga",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": null,
-      "places_max": 50,
-      "places_taken": null,
-      "from_date": "2026-08-15T09:15:00Z",
-      "to_date": "2026-08-15T10:10:00Z",
+      "nid": 752573,
+      "sport_name": "Body Combat",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 31,
+      "places_max": 40,
+      "places_taken": 9,
+      "from_date": "2026-08-15T09:00:00Z",
+      "to_date": "2026-08-15T09:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1090,6 +1006,20 @@
       "places_taken": 7,
       "from_date": "2026-08-15T09:15:00Z",
       "to_date": "2026-08-15T10:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 847382,
+      "sport_name": "Yoga",
+      "title": "Dance Yoga",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 49,
+      "places_max": 50,
+      "places_taken": 1,
+      "from_date": "2026-08-15T09:15:00Z",
+      "to_date": "2026-08-15T10:10:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1127,9 +1057,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 15,
+      "places_free": 10,
       "places_max": 30,
-      "places_taken": 15,
+      "places_taken": 20,
       "from_date": "2026-08-15T09:40:00Z",
       "to_date": "2026-08-15T10:50:00Z",
       "niveau_name": "Alle",
@@ -1155,9 +1085,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 40,
+      "places_free": 33,
       "places_max": 60,
-      "places_taken": 20,
+      "places_taken": 27,
       "from_date": "2026-08-15T09:50:00Z",
       "to_date": "2026-08-15T10:50:00Z",
       "niveau_name": "Alle",
@@ -1211,9 +1141,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 34,
+      "places_free": 24,
       "places_max": 35,
-      "places_taken": 1,
+      "places_taken": 11,
       "from_date": "2026-08-15T10:35:00Z",
       "to_date": "2026-08-15T11:30:00Z",
       "niveau_name": "Alle",
@@ -1239,9 +1169,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 60,
+      "places_free": 46,
       "places_max": 60,
-      "places_taken": 0,
+      "places_taken": 14,
       "from_date": "2026-08-15T10:55:00Z",
       "to_date": "2026-08-15T11:55:00Z",
       "niveau_name": "Alle",
@@ -1258,34 +1188,6 @@
       "places_taken": 0,
       "from_date": "2026-08-15T11:00:00Z",
       "to_date": "2026-08-15T12:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 736614,
-      "sport_name": "Standup Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-08-15T11:30:00Z",
-      "to_date": "2026-08-15T13:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755258,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-08-15T11:30:00Z",
-      "to_date": "2026-08-15T13:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1314,6 +1216,34 @@
       "places_taken": 0,
       "from_date": "2026-08-15T11:30:00Z",
       "to_date": "2026-08-15T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736614,
+      "sport_name": "Standup Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
+      "from_date": "2026-08-15T11:30:00Z",
+      "to_date": "2026-08-15T13:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755258,
+      "sport_name": "Volleyball",
+      "title": "Freies Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 12,
+      "places_max": 16,
+      "places_taken": 4,
+      "from_date": "2026-08-15T11:30:00Z",
+      "to_date": "2026-08-15T13:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -2466,20 +2396,6 @@
       "cancelled": false
     },
     {
-      "nid": 850850,
-      "sport_name": "Tennis",
-      "title": "E | Mo, 1000-1155",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 6,
-      "places_taken": 6,
-      "from_date": "2026-08-17T08:00:00Z",
-      "to_date": "2026-09-28T09:55:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
       "nid": 850849,
       "sport_name": "Tennis",
       "title": "F | Mo, 1000-1155",
@@ -2519,6 +2435,20 @@
       "from_date": "2026-08-17T08:00:00Z",
       "to_date": "2026-08-26T09:30:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 850850,
+      "sport_name": "Tennis",
+      "title": "E | Mo, 1000-1155",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 0,
+      "places_max": 6,
+      "places_taken": 6,
+      "from_date": "2026-08-17T08:00:00Z",
+      "to_date": "2026-09-28T09:55:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -2835,9 +2765,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 21,
+      "places_free": 20,
       "places_max": 24,
-      "places_taken": 3,
+      "places_taken": 4,
       "from_date": "2026-08-17T10:00:00Z",
       "to_date": "2026-08-17T11:30:00Z",
       "niveau_name": "Alle",
@@ -2911,20 +2841,6 @@
       "from_date": "2026-08-17T10:15:00Z",
       "to_date": "2026-08-17T12:00:00Z",
       "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
-      "nid": 746979,
-      "sport_name": "Kickboxen",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 30,
-      "places_max": 30,
-      "places_taken": 0,
-      "from_date": "2026-08-17T10:15:00Z",
-      "to_date": "2026-08-17T11:45:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -3064,6 +2980,20 @@
       "places_taken": 0,
       "from_date": "2026-08-17T10:15:00Z",
       "to_date": "2026-08-17T11:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746979,
+      "sport_name": "Kickboxen",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 29,
+      "places_max": 30,
+      "places_taken": 1,
+      "from_date": "2026-08-17T10:15:00Z",
+      "to_date": "2026-08-17T11:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -12747,9 +12677,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 0,
       "places_max": 1,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-08-21T06:30:00Z",
       "to_date": "2026-08-21T07:30:00Z",
       "niveau_name": "Alle",
@@ -12817,9 +12747,9 @@
       "title": "Platzreservation Outdoor",
       "facility_name": "Sport Center Fluntern",
       "location": "Sport Center Fluntern",
-      "places_free": null,
+      "places_free": 0,
       "places_max": 1,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-08-21T07:30:00Z",
       "to_date": "2026-08-21T08:30:00Z",
       "niveau_name": "Alle",
@@ -60468,6 +60398,20 @@
       "cancelled": false
     },
     {
+      "nid": 985915,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-14T10:00:00Z",
+      "to_date": "2026-09-14T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946142,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -61612,6 +61556,34 @@
       "places_taken": null,
       "from_date": "2026-09-14T16:15:00Z",
       "to_date": "2026-09-14T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985916,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-14T16:15:00Z",
+      "to_date": "2026-09-14T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985917,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-14T16:15:00Z",
+      "to_date": "2026-09-14T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -62956,6 +62928,20 @@
       "places_taken": null,
       "from_date": "2026-09-15T10:00:00Z",
       "to_date": "2026-09-15T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985918,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-15T10:00:00Z",
+      "to_date": "2026-09-15T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -64780,6 +64766,20 @@
       "cancelled": false
     },
     {
+      "nid": 986009,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-15T18:00:00Z",
+      "to_date": "2026-09-15T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947485,
       "sport_name": "Zumba",
       "title": "Training",
@@ -65690,6 +65690,20 @@
       "cancelled": false
     },
     {
+      "nid": 986010,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-16T10:15:00Z",
+      "to_date": "2026-09-16T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923707,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -66232,6 +66246,20 @@
       "places_taken": null,
       "from_date": "2026-09-16T15:00:00Z",
       "to_date": "2026-09-16T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986011,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-16T15:00:00Z",
+      "to_date": "2026-09-16T16:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -67328,6 +67356,20 @@
       "cancelled": false
     },
     {
+      "nid": 986012,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-16T18:00:00Z",
+      "to_date": "2026-09-16T20:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907626,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -67856,6 +67898,20 @@
       "places_taken": null,
       "from_date": "2026-09-17T09:30:00Z",
       "to_date": "2026-09-17T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986013,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-17T09:45:00Z",
+      "to_date": "2026-09-17T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -69260,6 +69316,20 @@
       "cancelled": false
     },
     {
+      "nid": 986123,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-17T16:00:00Z",
+      "to_date": "2026-09-17T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925760,
       "sport_name": "Judo",
       "title": "Training",
@@ -69425,6 +69495,20 @@
       "from_date": "2026-09-17T16:15:00Z",
       "to_date": "2026-09-17T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986124,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-17T16:15:00Z",
+      "to_date": "2026-09-17T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -71122,6 +71206,20 @@
       "cancelled": false
     },
     {
+      "nid": 986125,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-09-18T11:00:00Z",
+      "to_date": "2026-09-18T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944466,
       "sport_name": "Yoga",
       "title": "Training",
@@ -72001,6 +72099,20 @@
       "from_date": "2026-09-18T17:15:00Z",
       "to_date": "2026-09-18T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986126,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-18T17:20:00Z",
+      "to_date": "2026-09-18T18:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -74160,6 +74272,20 @@
       "cancelled": false
     },
     {
+      "nid": 985919,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-21T10:00:00Z",
+      "to_date": "2026-09-21T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946144,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -75472,6 +75598,34 @@
       "places_taken": null,
       "from_date": "2026-09-21T16:15:00Z",
       "to_date": "2026-09-21T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985920,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-21T16:15:00Z",
+      "to_date": "2026-09-21T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985921,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-21T16:15:00Z",
+      "to_date": "2026-09-21T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -76900,6 +77054,20 @@
       "places_taken": null,
       "from_date": "2026-09-22T10:00:00Z",
       "to_date": "2026-09-22T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985922,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-22T10:00:00Z",
+      "to_date": "2026-09-22T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -78612,6 +78780,20 @@
       "cancelled": false
     },
     {
+      "nid": 986014,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-22T18:00:00Z",
+      "to_date": "2026-09-22T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947490,
       "sport_name": "Zumba",
       "title": "Training",
@@ -79494,6 +79676,20 @@
       "cancelled": false
     },
     {
+      "nid": 986015,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-23T10:15:00Z",
+      "to_date": "2026-09-23T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923736,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -80036,6 +80232,20 @@
       "places_taken": 5,
       "from_date": "2026-09-23T15:00:00Z",
       "to_date": "2026-09-23T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986016,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-23T15:00:00Z",
+      "to_date": "2026-09-23T16:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -81090,6 +81300,20 @@
       "cancelled": false
     },
     {
+      "nid": 986017,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-23T18:00:00Z",
+      "to_date": "2026-09-23T20:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907629,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -81576,6 +81800,20 @@
       "places_taken": null,
       "from_date": "2026-09-24T09:30:00Z",
       "to_date": "2026-09-24T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986018,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-24T09:45:00Z",
+      "to_date": "2026-09-24T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -82896,6 +83134,20 @@
       "cancelled": false
     },
     {
+      "nid": 986127,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-24T16:00:00Z",
+      "to_date": "2026-09-24T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925776,
       "sport_name": "Judo",
       "title": "Training",
@@ -83061,6 +83313,20 @@
       "from_date": "2026-09-24T16:15:00Z",
       "to_date": "2026-09-24T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986128,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-24T16:15:00Z",
+      "to_date": "2026-09-24T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -84660,6 +84926,20 @@
       "cancelled": false
     },
     {
+      "nid": 986129,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-09-25T11:00:00Z",
+      "to_date": "2026-09-25T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944474,
       "sport_name": "Yoga",
       "title": "Training",
@@ -85594,6 +85874,20 @@
       "places_taken": null,
       "from_date": "2026-09-25T17:15:00Z",
       "to_date": "2026-09-25T18:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986130,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-25T17:20:00Z",
+      "to_date": "2026-09-25T18:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -87768,6 +88062,20 @@
       "cancelled": false
     },
     {
+      "nid": 985923,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-28T10:00:00Z",
+      "to_date": "2026-09-28T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 943010,
       "sport_name": "Yoga",
       "title": "Training",
@@ -88926,6 +89234,34 @@
       "places_taken": null,
       "from_date": "2026-09-28T16:15:00Z",
       "to_date": "2026-09-28T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985924,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-28T16:15:00Z",
+      "to_date": "2026-09-28T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985925,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-28T16:15:00Z",
+      "to_date": "2026-09-28T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -90298,6 +90634,20 @@
       "places_taken": null,
       "from_date": "2026-09-29T10:00:00Z",
       "to_date": "2026-09-29T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985926,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-29T10:00:00Z",
+      "to_date": "2026-09-29T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -91954,6 +92304,20 @@
       "cancelled": false
     },
     {
+      "nid": 986019,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-29T18:00:00Z",
+      "to_date": "2026-09-29T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947495,
       "sport_name": "Zumba",
       "title": "Training",
@@ -92878,6 +93242,20 @@
       "cancelled": false
     },
     {
+      "nid": 986020,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-09-30T10:15:00Z",
+      "to_date": "2026-09-30T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926254,
       "sport_name": "Testangebot",
       "title": "Sportcardio Check",
@@ -93396,6 +93774,20 @@
       "cancelled": false
     },
     {
+      "nid": 986021,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-09-30T15:00:00Z",
+      "to_date": "2026-09-30T16:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 931256,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -93746,20 +94138,6 @@
       "cancelled": false
     },
     {
-      "nid": 736757,
-      "sport_name": "Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-09-30T16:15:00Z",
-      "to_date": "2026-09-30T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 793762,
       "sport_name": "Surfskaten",
       "title": "Basic und Training",
@@ -93882,6 +94260,20 @@
       "places_taken": null,
       "from_date": "2026-09-30T16:15:00Z",
       "to_date": "2026-09-30T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736757,
+      "sport_name": "Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 20,
+      "places_max": 20,
+      "places_taken": 0,
+      "from_date": "2026-09-30T16:15:00Z",
+      "to_date": "2026-09-30T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -94418,6 +94810,20 @@
       "cancelled": false
     },
     {
+      "nid": 986022,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-09-30T18:00:00Z",
+      "to_date": "2026-09-30T20:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907632,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -94904,6 +95310,20 @@
       "places_taken": null,
       "from_date": "2026-10-01T09:30:00Z",
       "to_date": "2026-10-01T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986023,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-01T09:45:00Z",
+      "to_date": "2026-10-01T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -96196,6 +96616,20 @@
       "cancelled": false
     },
     {
+      "nid": 986131,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-01T16:00:00Z",
+      "to_date": "2026-10-01T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925792,
       "sport_name": "Judo",
       "title": "Training",
@@ -96361,6 +96795,20 @@
       "from_date": "2026-10-01T16:15:00Z",
       "to_date": "2026-10-01T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986132,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-01T16:15:00Z",
+      "to_date": "2026-10-01T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -97974,6 +98422,20 @@
       "cancelled": false
     },
     {
+      "nid": 986133,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-10-02T11:00:00Z",
+      "to_date": "2026-10-02T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944482,
       "sport_name": "Yoga",
       "title": "Training",
@@ -98811,6 +99273,20 @@
       "from_date": "2026-10-02T17:15:00Z",
       "to_date": "2026-10-02T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986134,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-02T17:20:00Z",
+      "to_date": "2026-10-02T18:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -100760,6 +101236,20 @@
       "cancelled": false
     },
     {
+      "nid": 985927,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-05T10:00:00Z",
+      "to_date": "2026-10-05T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 943016,
       "sport_name": "Yoga",
       "title": "Training",
@@ -101946,6 +102436,34 @@
       "places_taken": null,
       "from_date": "2026-10-05T16:15:00Z",
       "to_date": "2026-10-05T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985928,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-05T16:15:00Z",
+      "to_date": "2026-10-05T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985929,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-05T16:15:00Z",
+      "to_date": "2026-10-05T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -103304,6 +103822,20 @@
       "places_taken": null,
       "from_date": "2026-10-06T10:00:00Z",
       "to_date": "2026-10-06T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985930,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-06T10:00:00Z",
+      "to_date": "2026-10-06T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -104862,6 +105394,20 @@
       "cancelled": false
     },
     {
+      "nid": 986024,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-06T18:00:00Z",
+      "to_date": "2026-10-06T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947500,
       "sport_name": "Zumba",
       "title": "Training",
@@ -105758,6 +106304,20 @@
       "cancelled": false
     },
     {
+      "nid": 986025,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-07T10:15:00Z",
+      "to_date": "2026-10-07T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926258,
       "sport_name": "Testangebot",
       "title": "Sportcardio Check",
@@ -106286,6 +106846,20 @@
       "places_taken": null,
       "from_date": "2026-10-07T15:00:00Z",
       "to_date": "2026-10-07T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986026,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-07T15:00:00Z",
+      "to_date": "2026-10-07T16:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -107270,6 +107844,20 @@
       "cancelled": false
     },
     {
+      "nid": 986027,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-07T18:00:00Z",
+      "to_date": "2026-10-07T20:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918176,
       "sport_name": "Ballett",
       "title": "Training",
@@ -107742,6 +108330,20 @@
       "places_taken": null,
       "from_date": "2026-10-08T09:30:00Z",
       "to_date": "2026-10-08T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986028,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-08T09:45:00Z",
+      "to_date": "2026-10-08T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -109006,6 +109608,20 @@
       "cancelled": false
     },
     {
+      "nid": 986135,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-08T16:00:00Z",
+      "to_date": "2026-10-08T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925807,
       "sport_name": "Judo",
       "title": "Training",
@@ -109157,6 +109773,20 @@
       "from_date": "2026-10-08T16:15:00Z",
       "to_date": "2026-10-08T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986136,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-08T16:15:00Z",
+      "to_date": "2026-10-08T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -110672,6 +111302,20 @@
       "cancelled": false
     },
     {
+      "nid": 986137,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-10-09T11:00:00Z",
+      "to_date": "2026-10-09T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944490,
       "sport_name": "Yoga",
       "title": "Training",
@@ -111495,6 +112139,20 @@
       "from_date": "2026-10-09T17:15:00Z",
       "to_date": "2026-10-09T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986138,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-09T17:20:00Z",
+      "to_date": "2026-10-09T18:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -113444,6 +114102,20 @@
       "cancelled": false
     },
     {
+      "nid": 985931,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-12T10:00:00Z",
+      "to_date": "2026-10-12T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 943022,
       "sport_name": "Yoga",
       "title": "Training",
@@ -114602,6 +115274,34 @@
       "places_taken": null,
       "from_date": "2026-10-12T16:15:00Z",
       "to_date": "2026-10-12T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985932,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-12T16:15:00Z",
+      "to_date": "2026-10-12T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985933,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-12T16:15:00Z",
+      "to_date": "2026-10-12T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -115974,6 +116674,20 @@
       "places_taken": null,
       "from_date": "2026-10-13T10:00:00Z",
       "to_date": "2026-10-13T10:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985934,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-13T10:00:00Z",
+      "to_date": "2026-10-13T11:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -117546,6 +118260,20 @@
       "cancelled": false
     },
     {
+      "nid": 986029,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-13T18:00:00Z",
+      "to_date": "2026-10-13T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947505,
       "sport_name": "Zumba",
       "title": "Training",
@@ -118414,6 +119142,20 @@
       "cancelled": false
     },
     {
+      "nid": 986030,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-14T10:15:00Z",
+      "to_date": "2026-10-14T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923822,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -118901,6 +119643,20 @@
       "from_date": "2026-10-14T15:00:00Z",
       "to_date": "2026-10-14T17:15:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986031,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-14T15:00:00Z",
+      "to_date": "2026-10-14T16:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -119898,6 +120654,20 @@
       "cancelled": false
     },
     {
+      "nid": 986032,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-14T18:00:00Z",
+      "to_date": "2026-10-14T20:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918179,
       "sport_name": "Ballett",
       "title": "Training",
@@ -120384,6 +121154,20 @@
       "places_taken": null,
       "from_date": "2026-10-15T09:30:00Z",
       "to_date": "2026-10-15T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986033,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-15T09:45:00Z",
+      "to_date": "2026-10-15T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -121634,6 +122418,20 @@
       "cancelled": false
     },
     {
+      "nid": 986139,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-15T16:00:00Z",
+      "to_date": "2026-10-15T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925823,
       "sport_name": "Judo",
       "title": "Training",
@@ -121799,6 +122597,20 @@
       "from_date": "2026-10-15T16:15:00Z",
       "to_date": "2026-10-15T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986140,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-15T16:15:00Z",
+      "to_date": "2026-10-15T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -123328,6 +124140,20 @@
       "cancelled": false
     },
     {
+      "nid": 986141,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-10-16T11:00:00Z",
+      "to_date": "2026-10-16T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944498,
       "sport_name": "Yoga",
       "title": "Training",
@@ -124151,6 +124977,20 @@
       "from_date": "2026-10-16T17:15:00Z",
       "to_date": "2026-10-16T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986142,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-16T17:20:00Z",
+      "to_date": "2026-10-16T18:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -126170,6 +127010,20 @@
       "cancelled": false
     },
     {
+      "nid": 985935,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-19T10:00:00Z",
+      "to_date": "2026-10-19T11:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946152,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -127412,6 +128266,34 @@
       "places_taken": null,
       "from_date": "2026-10-19T16:15:00Z",
       "to_date": "2026-10-19T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985936,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-19T16:15:00Z",
+      "to_date": "2026-10-19T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985937,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-19T16:15:00Z",
+      "to_date": "2026-10-19T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -128897,6 +129779,20 @@
       "from_date": "2026-10-20T10:00:00Z",
       "to_date": "2026-10-20T11:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985938,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-20T10:00:00Z",
+      "to_date": "2026-10-20T11:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -130552,6 +131448,20 @@
       "cancelled": false
     },
     {
+      "nid": 986034,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-20T18:00:00Z",
+      "to_date": "2026-10-20T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947510,
       "sport_name": "Zumba",
       "title": "Training",
@@ -131490,6 +132400,20 @@
       "cancelled": false
     },
     {
+      "nid": 986035,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-21T10:15:00Z",
+      "to_date": "2026-10-21T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923851,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -131962,6 +132886,20 @@
       "places_taken": null,
       "from_date": "2026-10-21T15:00:00Z",
       "to_date": "2026-10-21T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986036,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-21T15:00:00Z",
+      "to_date": "2026-10-21T16:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -132904,6 +133842,20 @@
       "cancelled": false
     },
     {
+      "nid": 986037,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-21T18:00:00Z",
+      "to_date": "2026-10-21T20:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907635,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -133474,6 +134426,20 @@
       "places_taken": null,
       "from_date": "2026-10-22T09:30:00Z",
       "to_date": "2026-10-22T10:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986038,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-22T09:45:00Z",
+      "to_date": "2026-10-22T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -134766,6 +135732,20 @@
       "cancelled": false
     },
     {
+      "nid": 986143,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-22T16:00:00Z",
+      "to_date": "2026-10-22T17:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925839,
       "sport_name": "Judo",
       "title": "Training",
@@ -134931,6 +135911,20 @@
       "from_date": "2026-10-22T16:15:00Z",
       "to_date": "2026-10-22T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986144,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-22T16:15:00Z",
+      "to_date": "2026-10-22T18:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -136600,6 +137594,20 @@
       "cancelled": false
     },
     {
+      "nid": 986145,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-10-23T11:00:00Z",
+      "to_date": "2026-10-23T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944506,
       "sport_name": "Yoga",
       "title": "Training",
@@ -137451,6 +138459,20 @@
       "from_date": "2026-10-23T17:15:00Z",
       "to_date": "2026-10-23T18:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986146,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-23T17:20:00Z",
+      "to_date": "2026-10-23T18:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -139428,6 +140450,20 @@
       "cancelled": false
     },
     {
+      "nid": 985939,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-26T11:00:00Z",
+      "to_date": "2026-10-26T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946154,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -140502,6 +141538,34 @@
       "places_taken": null,
       "from_date": "2026-10-26T17:15:00Z",
       "to_date": "2026-10-26T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985940,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-26T17:15:00Z",
+      "to_date": "2026-10-26T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985941,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-26T17:15:00Z",
+      "to_date": "2026-10-26T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -141903,6 +142967,20 @@
       "from_date": "2026-10-27T11:00:00Z",
       "to_date": "2026-10-27T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985942,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-27T11:00:00Z",
+      "to_date": "2026-10-27T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -143544,6 +144622,20 @@
       "cancelled": false
     },
     {
+      "nid": 986039,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-27T19:00:00Z",
+      "to_date": "2026-10-27T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947515,
       "sport_name": "Zumba",
       "title": "Training",
@@ -144440,6 +145532,20 @@
       "cancelled": false
     },
     {
+      "nid": 986040,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-28T11:15:00Z",
+      "to_date": "2026-10-28T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923880,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -144940,6 +146046,20 @@
       "places_taken": null,
       "from_date": "2026-10-28T16:00:00Z",
       "to_date": "2026-10-28T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986041,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-28T16:00:00Z",
+      "to_date": "2026-10-28T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -145882,6 +147002,20 @@
       "cancelled": false
     },
     {
+      "nid": 986042,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-10-28T19:00:00Z",
+      "to_date": "2026-10-28T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907638,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -146368,6 +147502,20 @@
       "places_taken": null,
       "from_date": "2026-10-29T10:30:00Z",
       "to_date": "2026-10-29T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986043,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-10-29T10:45:00Z",
+      "to_date": "2026-10-29T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -147604,6 +148752,20 @@
       "cancelled": false
     },
     {
+      "nid": 986147,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-29T17:00:00Z",
+      "to_date": "2026-10-29T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925855,
       "sport_name": "Judo",
       "title": "Training",
@@ -147769,6 +148931,20 @@
       "from_date": "2026-10-29T17:15:00Z",
       "to_date": "2026-10-29T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986148,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-29T17:15:00Z",
+      "to_date": "2026-10-29T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -149312,6 +150488,20 @@
       "cancelled": false
     },
     {
+      "nid": 986149,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-10-30T12:00:00Z",
+      "to_date": "2026-10-30T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944514,
       "sport_name": "Yoga",
       "title": "Training",
@@ -150107,6 +151297,20 @@
       "from_date": "2026-10-30T18:15:00Z",
       "to_date": "2026-10-30T19:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986150,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-10-30T18:20:00Z",
+      "to_date": "2026-10-30T19:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -152014,6 +153218,20 @@
       "cancelled": false
     },
     {
+      "nid": 985943,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-02T11:00:00Z",
+      "to_date": "2026-11-02T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946156,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -153144,6 +154362,34 @@
       "places_taken": null,
       "from_date": "2026-11-02T17:15:00Z",
       "to_date": "2026-11-02T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985944,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-02T17:15:00Z",
+      "to_date": "2026-11-02T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985945,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-02T17:15:00Z",
+      "to_date": "2026-11-02T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -154545,6 +155791,20 @@
       "from_date": "2026-11-03T11:00:00Z",
       "to_date": "2026-11-03T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985946,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-03T11:00:00Z",
+      "to_date": "2026-11-03T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -156060,6 +157320,20 @@
       "cancelled": false
     },
     {
+      "nid": 986044,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-03T19:00:00Z",
+      "to_date": "2026-11-03T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947520,
       "sport_name": "Zumba",
       "title": "Training",
@@ -156928,6 +158202,20 @@
       "cancelled": false
     },
     {
+      "nid": 986045,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-04T11:15:00Z",
+      "to_date": "2026-11-04T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923909,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -157400,6 +158688,20 @@
       "places_taken": null,
       "from_date": "2026-11-04T16:00:00Z",
       "to_date": "2026-11-04T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986046,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-04T16:00:00Z",
+      "to_date": "2026-11-04T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -158342,6 +159644,20 @@
       "cancelled": false
     },
     {
+      "nid": 986047,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-04T19:00:00Z",
+      "to_date": "2026-11-04T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907641,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -158828,6 +160144,20 @@
       "places_taken": null,
       "from_date": "2026-11-05T10:30:00Z",
       "to_date": "2026-11-05T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986048,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-05T10:45:00Z",
+      "to_date": "2026-11-05T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -160036,6 +161366,20 @@
       "cancelled": false
     },
     {
+      "nid": 986151,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-05T17:00:00Z",
+      "to_date": "2026-11-05T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925871,
       "sport_name": "Judo",
       "title": "Training",
@@ -160201,6 +161545,20 @@
       "from_date": "2026-11-05T17:15:00Z",
       "to_date": "2026-11-05T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986152,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-05T17:15:00Z",
+      "to_date": "2026-11-05T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -161688,6 +163046,20 @@
       "cancelled": false
     },
     {
+      "nid": 986153,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-11-06T12:00:00Z",
+      "to_date": "2026-11-06T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944522,
       "sport_name": "Yoga",
       "title": "Training",
@@ -162497,6 +163869,20 @@
       "from_date": "2026-11-06T18:15:00Z",
       "to_date": "2026-11-06T19:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986154,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-06T18:20:00Z",
+      "to_date": "2026-11-06T19:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -164250,6 +165636,20 @@
       "cancelled": false
     },
     {
+      "nid": 985947,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-09T11:00:00Z",
+      "to_date": "2026-11-09T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946158,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -165324,6 +166724,34 @@
       "places_taken": null,
       "from_date": "2026-11-09T17:15:00Z",
       "to_date": "2026-11-09T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985948,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-09T17:15:00Z",
+      "to_date": "2026-11-09T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985949,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-09T17:15:00Z",
+      "to_date": "2026-11-09T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -166725,6 +168153,20 @@
       "from_date": "2026-11-10T11:00:00Z",
       "to_date": "2026-11-10T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985950,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-10T11:00:00Z",
+      "to_date": "2026-11-10T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -168282,6 +169724,20 @@
       "cancelled": false
     },
     {
+      "nid": 986049,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-10T19:00:00Z",
+      "to_date": "2026-11-10T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947525,
       "sport_name": "Zumba",
       "title": "Training",
@@ -169178,6 +170634,20 @@
       "cancelled": false
     },
     {
+      "nid": 986050,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-11T11:15:00Z",
+      "to_date": "2026-11-11T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923938,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -169678,6 +171148,20 @@
       "places_taken": null,
       "from_date": "2026-11-11T16:00:00Z",
       "to_date": "2026-11-11T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986051,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-11T16:00:00Z",
+      "to_date": "2026-11-11T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -170634,6 +172118,20 @@
       "cancelled": false
     },
     {
+      "nid": 986052,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-11T19:00:00Z",
+      "to_date": "2026-11-11T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907644,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -171120,6 +172618,20 @@
       "places_taken": null,
       "from_date": "2026-11-12T10:30:00Z",
       "to_date": "2026-11-12T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986053,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-12T10:45:00Z",
+      "to_date": "2026-11-12T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -172328,6 +173840,20 @@
       "cancelled": false
     },
     {
+      "nid": 986155,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-12T17:00:00Z",
+      "to_date": "2026-11-12T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925887,
       "sport_name": "Judo",
       "title": "Training",
@@ -172493,6 +174019,20 @@
       "from_date": "2026-11-12T17:15:00Z",
       "to_date": "2026-11-12T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986156,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-12T17:15:00Z",
+      "to_date": "2026-11-12T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -173980,6 +175520,20 @@
       "cancelled": false
     },
     {
+      "nid": 986157,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-11-13T12:00:00Z",
+      "to_date": "2026-11-13T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944530,
       "sport_name": "Yoga",
       "title": "Training",
@@ -174789,6 +176343,20 @@
       "from_date": "2026-11-13T18:15:00Z",
       "to_date": "2026-11-13T19:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986158,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-13T18:20:00Z",
+      "to_date": "2026-11-13T19:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -176640,6 +178208,20 @@
       "cancelled": false
     },
     {
+      "nid": 985951,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-16T11:00:00Z",
+      "to_date": "2026-11-16T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946160,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -177770,6 +179352,34 @@
       "places_taken": null,
       "from_date": "2026-11-16T17:15:00Z",
       "to_date": "2026-11-16T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985952,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-16T17:15:00Z",
+      "to_date": "2026-11-16T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985953,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-16T17:15:00Z",
+      "to_date": "2026-11-16T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -179185,6 +180795,20 @@
       "from_date": "2026-11-17T11:00:00Z",
       "to_date": "2026-11-17T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985954,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-17T11:00:00Z",
+      "to_date": "2026-11-17T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -180728,6 +182352,20 @@
       "cancelled": false
     },
     {
+      "nid": 986054,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-17T19:00:00Z",
+      "to_date": "2026-11-17T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947530,
       "sport_name": "Zumba",
       "title": "Training",
@@ -181596,6 +183234,20 @@
       "cancelled": false
     },
     {
+      "nid": 986055,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-18T11:15:00Z",
+      "to_date": "2026-11-18T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923967,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -182068,6 +183720,20 @@
       "places_taken": null,
       "from_date": "2026-11-18T16:00:00Z",
       "to_date": "2026-11-18T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986056,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-18T16:00:00Z",
+      "to_date": "2026-11-18T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -183024,6 +184690,20 @@
       "cancelled": false
     },
     {
+      "nid": 986057,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-18T19:00:00Z",
+      "to_date": "2026-11-18T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907647,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -183510,6 +185190,20 @@
       "places_taken": null,
       "from_date": "2026-11-19T10:30:00Z",
       "to_date": "2026-11-19T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986058,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-19T10:45:00Z",
+      "to_date": "2026-11-19T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -184718,6 +186412,20 @@
       "cancelled": false
     },
     {
+      "nid": 986159,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-19T17:00:00Z",
+      "to_date": "2026-11-19T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925903,
       "sport_name": "Judo",
       "title": "Training",
@@ -184883,6 +186591,20 @@
       "from_date": "2026-11-19T17:15:00Z",
       "to_date": "2026-11-19T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986160,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-19T17:15:00Z",
+      "to_date": "2026-11-19T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -186370,6 +188092,20 @@
       "cancelled": false
     },
     {
+      "nid": 986161,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-11-20T12:00:00Z",
+      "to_date": "2026-11-20T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944538,
       "sport_name": "Yoga",
       "title": "Training",
@@ -187165,6 +188901,20 @@
       "from_date": "2026-11-20T18:15:00Z",
       "to_date": "2026-11-20T19:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986162,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-20T18:20:00Z",
+      "to_date": "2026-11-20T19:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -189044,6 +190794,20 @@
       "cancelled": false
     },
     {
+      "nid": 985955,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-23T11:00:00Z",
+      "to_date": "2026-11-23T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946162,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -190104,6 +191868,34 @@
       "places_taken": null,
       "from_date": "2026-11-23T17:15:00Z",
       "to_date": "2026-11-23T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985956,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-23T17:15:00Z",
+      "to_date": "2026-11-23T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985957,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-23T17:15:00Z",
+      "to_date": "2026-11-23T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -191533,6 +193325,20 @@
       "from_date": "2026-11-24T11:00:00Z",
       "to_date": "2026-11-24T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985958,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-24T11:00:00Z",
+      "to_date": "2026-11-24T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -193076,6 +194882,20 @@
       "cancelled": false
     },
     {
+      "nid": 986059,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-11-24T19:00:00Z",
+      "to_date": "2026-11-24T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947535,
       "sport_name": "Zumba",
       "title": "Training",
@@ -193972,6 +195792,20 @@
       "cancelled": false
     },
     {
+      "nid": 986060,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-25T11:15:00Z",
+      "to_date": "2026-11-25T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923996,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -194318,6 +196152,20 @@
       "places_taken": null,
       "from_date": "2026-11-25T16:00:00Z",
       "to_date": "2026-11-25T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986061,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-25T16:00:00Z",
+      "to_date": "2026-11-25T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -195540,6 +197388,20 @@
       "cancelled": false
     },
     {
+      "nid": 986062,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-11-26T10:45:00Z",
+      "to_date": "2026-11-26T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946980,
       "sport_name": "Body Balance",
       "title": "Training",
@@ -196548,6 +198410,20 @@
       "cancelled": false
     },
     {
+      "nid": 986163,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-26T17:00:00Z",
+      "to_date": "2026-11-26T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 938972,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -196685,6 +198561,20 @@
       "from_date": "2026-11-26T17:15:00Z",
       "to_date": "2026-11-26T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986164,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-26T17:15:00Z",
+      "to_date": "2026-11-26T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -198508,6 +200398,20 @@
       "cancelled": false
     },
     {
+      "nid": 986165,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-27T18:20:00Z",
+      "to_date": "2026-11-27T19:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924452,
       "sport_name": "Brazilian Jiu Jitsu",
       "title": "Training Basics",
@@ -200034,6 +201938,20 @@
       "cancelled": false
     },
     {
+      "nid": 985959,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-30T11:00:00Z",
+      "to_date": "2026-11-30T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946164,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -201150,6 +203068,34 @@
       "places_taken": null,
       "from_date": "2026-11-30T17:15:00Z",
       "to_date": "2026-11-30T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985960,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-30T17:15:00Z",
+      "to_date": "2026-11-30T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985961,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-11-30T17:15:00Z",
+      "to_date": "2026-11-30T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -202565,6 +204511,20 @@
       "from_date": "2026-12-01T11:00:00Z",
       "to_date": "2026-12-01T12:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 985962,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-01T11:00:00Z",
+      "to_date": "2026-12-01T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -204108,6 +206068,20 @@
       "cancelled": false
     },
     {
+      "nid": 986063,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-01T19:00:00Z",
+      "to_date": "2026-12-01T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947539,
       "sport_name": "Zumba",
       "title": "Training",
@@ -204976,6 +206950,20 @@
       "cancelled": false
     },
     {
+      "nid": 986064,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-02T11:15:00Z",
+      "to_date": "2026-12-02T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924021,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -205448,6 +207436,20 @@
       "places_taken": null,
       "from_date": "2026-12-02T16:00:00Z",
       "to_date": "2026-12-02T16:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986065,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-02T16:00:00Z",
+      "to_date": "2026-12-02T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -206390,6 +208392,20 @@
       "cancelled": false
     },
     {
+      "nid": 986066,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-02T19:00:00Z",
+      "to_date": "2026-12-02T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907653,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -206876,6 +208892,20 @@
       "places_taken": null,
       "from_date": "2026-12-03T10:30:00Z",
       "to_date": "2026-12-03T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986067,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-03T10:45:00Z",
+      "to_date": "2026-12-03T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -208084,6 +210114,20 @@
       "cancelled": false
     },
     {
+      "nid": 986166,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-03T17:00:00Z",
+      "to_date": "2026-12-03T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925931,
       "sport_name": "Judo",
       "title": "Training",
@@ -208249,6 +210293,20 @@
       "from_date": "2026-12-03T17:15:00Z",
       "to_date": "2026-12-03T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986167,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-03T17:15:00Z",
+      "to_date": "2026-12-03T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -210310,6 +212368,20 @@
       "cancelled": false
     },
     {
+      "nid": 986168,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-04T18:20:00Z",
+      "to_date": "2026-12-04T19:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924465,
       "sport_name": "Brazilian Jiu Jitsu",
       "title": "Training Basics",
@@ -212158,6 +214230,20 @@
       "cancelled": false
     },
     {
+      "nid": 985963,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-07T11:00:00Z",
+      "to_date": "2026-12-07T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946166,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -213274,6 +215360,34 @@
       "places_taken": null,
       "from_date": "2026-12-07T17:15:00Z",
       "to_date": "2026-12-07T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985964,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-07T17:15:00Z",
+      "to_date": "2026-12-07T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985965,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-07T17:15:00Z",
+      "to_date": "2026-12-07T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -214773,6 +216887,20 @@
       "from_date": "2026-12-08T11:00:00Z",
       "to_date": "2026-12-08T12:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 985966,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-08T11:00:00Z",
+      "to_date": "2026-12-08T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -216358,6 +218486,20 @@
       "cancelled": false
     },
     {
+      "nid": 986068,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-08T19:00:00Z",
+      "to_date": "2026-12-08T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947544,
       "sport_name": "Zumba",
       "title": "Training",
@@ -217338,6 +219480,20 @@
       "cancelled": false
     },
     {
+      "nid": 986069,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-09T11:15:00Z",
+      "to_date": "2026-12-09T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924049,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -217838,6 +219994,20 @@
       "places_taken": null,
       "from_date": "2026-12-09T16:00:00Z",
       "to_date": "2026-12-09T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986070,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-09T16:00:00Z",
+      "to_date": "2026-12-09T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -218794,6 +220964,20 @@
       "cancelled": false
     },
     {
+      "nid": 986071,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-09T19:00:00Z",
+      "to_date": "2026-12-09T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907656,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -219350,6 +221534,20 @@
       "places_taken": null,
       "from_date": "2026-12-10T10:30:00Z",
       "to_date": "2026-12-10T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986072,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-10T10:45:00Z",
+      "to_date": "2026-12-10T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -220558,6 +222756,20 @@
       "cancelled": false
     },
     {
+      "nid": 986169,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-10T17:00:00Z",
+      "to_date": "2026-12-10T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925947,
       "sport_name": "Judo",
       "title": "Training",
@@ -220723,6 +222935,20 @@
       "from_date": "2026-12-10T17:15:00Z",
       "to_date": "2026-12-10T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986170,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-10T17:15:00Z",
+      "to_date": "2026-12-10T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -222336,6 +224562,20 @@
       "cancelled": false
     },
     {
+      "nid": 986171,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-12-11T12:00:00Z",
+      "to_date": "2026-12-11T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944562,
       "sport_name": "Yoga",
       "title": "Training",
@@ -223159,6 +225399,20 @@
       "from_date": "2026-12-11T18:15:00Z",
       "to_date": "2026-12-11T19:30:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 986172,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-11T18:20:00Z",
+      "to_date": "2026-12-11T19:40:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -225052,6 +227306,20 @@
       "cancelled": false
     },
     {
+      "nid": 985967,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-14T11:00:00Z",
+      "to_date": "2026-12-14T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946168,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -226168,6 +228436,34 @@
       "places_taken": null,
       "from_date": "2026-12-14T17:15:00Z",
       "to_date": "2026-12-14T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985968,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-14T17:15:00Z",
+      "to_date": "2026-12-14T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985969,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-14T17:15:00Z",
+      "to_date": "2026-12-14T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -227583,6 +229879,20 @@
       "from_date": "2026-12-15T11:00:00Z",
       "to_date": "2026-12-15T12:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 985970,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-15T11:00:00Z",
+      "to_date": "2026-12-15T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -229112,6 +231422,20 @@
       "cancelled": false
     },
     {
+      "nid": 986073,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-15T19:00:00Z",
+      "to_date": "2026-12-15T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947549,
       "sport_name": "Zumba",
       "title": "Training",
@@ -229980,6 +232304,20 @@
       "cancelled": false
     },
     {
+      "nid": 986074,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-16T11:15:00Z",
+      "to_date": "2026-12-16T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924078,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -230452,6 +232790,20 @@
       "places_taken": null,
       "from_date": "2026-12-16T16:00:00Z",
       "to_date": "2026-12-16T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986075,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2026-12-16T16:00:00Z",
+      "to_date": "2026-12-16T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -231394,6 +233746,20 @@
       "cancelled": false
     },
     {
+      "nid": 986076,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-16T19:00:00Z",
+      "to_date": "2026-12-16T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907659,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -231880,6 +234246,20 @@
       "places_taken": null,
       "from_date": "2026-12-17T10:30:00Z",
       "to_date": "2026-12-17T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986077,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-17T10:45:00Z",
+      "to_date": "2026-12-17T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -233046,6 +235426,20 @@
       "cancelled": false
     },
     {
+      "nid": 986173,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-17T17:00:00Z",
+      "to_date": "2026-12-17T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925963,
       "sport_name": "Judo",
       "title": "Training",
@@ -233211,6 +235605,20 @@
       "from_date": "2026-12-17T17:15:00Z",
       "to_date": "2026-12-17T18:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986174,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-17T17:15:00Z",
+      "to_date": "2026-12-17T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -234666,6 +237074,20 @@
       "places_taken": null,
       "from_date": "2026-12-18T12:00:00Z",
       "to_date": "2026-12-18T12:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986175,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2026-12-18T12:00:00Z",
+      "to_date": "2026-12-18T13:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -237218,6 +239640,20 @@
       "cancelled": false
     },
     {
+      "nid": 985971,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-21T11:00:00Z",
+      "to_date": "2026-12-21T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946170,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -238041,6 +240477,20 @@
       "from_date": "2026-12-21T17:15:00Z",
       "to_date": "2026-12-21T18:45:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 985972,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-21T17:15:00Z",
+      "to_date": "2026-12-21T19:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -239104,6 +241554,20 @@
       "places_taken": null,
       "from_date": "2026-12-22T11:00:00Z",
       "to_date": "2026-12-22T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985973,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-22T11:00:00Z",
+      "to_date": "2026-12-22T12:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -240312,6 +242776,20 @@
       "cancelled": false
     },
     {
+      "nid": 986078,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-22T19:00:00Z",
+      "to_date": "2026-12-22T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947553,
       "sport_name": "Zumba",
       "title": "Training",
@@ -241065,6 +243543,20 @@
       "from_date": "2026-12-23T11:15:00Z",
       "to_date": "2026-12-23T12:15:00Z",
       "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
+      "nid": 986079,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2026-12-23T11:15:00Z",
+      "to_date": "2026-12-23T12:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -242157,6 +244649,20 @@
       "from_date": "2026-12-23T19:00:00Z",
       "to_date": "2026-12-23T20:00:00Z",
       "niveau_name": "Einsteiger + Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 986080,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2026-12-23T19:00:00Z",
+      "to_date": "2026-12-23T21:15:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -243994,6 +246500,20 @@
       "cancelled": false
     },
     {
+      "nid": 985974,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-04T11:00:00Z",
+      "to_date": "2027-01-04T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946172,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -244998,6 +247518,34 @@
       "places_taken": null,
       "from_date": "2027-01-04T17:15:00Z",
       "to_date": "2027-01-04T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985975,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-04T17:15:00Z",
+      "to_date": "2027-01-04T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985976,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-04T17:15:00Z",
+      "to_date": "2027-01-04T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -246272,6 +248820,20 @@
       "places_taken": null,
       "from_date": "2027-01-05T11:00:00Z",
       "to_date": "2027-01-05T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985977,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-05T11:00:00Z",
+      "to_date": "2027-01-05T12:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -247760,6 +250322,20 @@
       "cancelled": false
     },
     {
+      "nid": 986081,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-05T19:00:00Z",
+      "to_date": "2027-01-05T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947557,
       "sport_name": "Zumba",
       "title": "Training",
@@ -248628,6 +251204,20 @@
       "cancelled": false
     },
     {
+      "nid": 986082,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-06T11:15:00Z",
+      "to_date": "2027-01-06T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924118,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -249086,6 +251676,20 @@
       "places_taken": null,
       "from_date": "2027-01-06T16:00:00Z",
       "to_date": "2027-01-06T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986083,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-06T16:00:00Z",
+      "to_date": "2027-01-06T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -249986,6 +252590,20 @@
       "cancelled": false
     },
     {
+      "nid": 986084,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-06T19:00:00Z",
+      "to_date": "2027-01-06T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907662,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -250472,6 +253090,20 @@
       "places_taken": null,
       "from_date": "2027-01-07T10:30:00Z",
       "to_date": "2027-01-07T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986085,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-07T10:45:00Z",
+      "to_date": "2027-01-07T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -251610,6 +254242,20 @@
       "cancelled": false
     },
     {
+      "nid": 986176,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-07T17:00:00Z",
+      "to_date": "2027-01-07T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925979,
       "sport_name": "Judo",
       "title": "Training",
@@ -251761,6 +254407,20 @@
       "from_date": "2027-01-07T17:15:00Z",
       "to_date": "2027-01-07T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986177,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-07T17:15:00Z",
+      "to_date": "2027-01-07T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -253276,6 +255936,20 @@
       "cancelled": false
     },
     {
+      "nid": 986178,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-01-08T12:00:00Z",
+      "to_date": "2027-01-08T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944582,
       "sport_name": "Yoga",
       "title": "Training",
@@ -254014,6 +256688,20 @@
       "places_taken": null,
       "from_date": "2027-01-08T18:10:00Z",
       "to_date": "2027-01-08T19:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986179,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-08T18:20:00Z",
+      "to_date": "2027-01-08T19:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -255894,6 +258582,20 @@
       "cancelled": false
     },
     {
+      "nid": 985978,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-11T11:00:00Z",
+      "to_date": "2027-01-11T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946174,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -256926,6 +259628,34 @@
       "places_taken": null,
       "from_date": "2027-01-11T17:15:00Z",
       "to_date": "2027-01-11T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985979,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-11T17:15:00Z",
+      "to_date": "2027-01-11T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985980,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-11T17:15:00Z",
+      "to_date": "2027-01-11T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -258229,6 +260959,20 @@
       "from_date": "2027-01-12T11:00:00Z",
       "to_date": "2027-01-12T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985981,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-12T11:00:00Z",
+      "to_date": "2027-01-12T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -259730,6 +262474,20 @@
       "cancelled": false
     },
     {
+      "nid": 986086,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-12T19:00:00Z",
+      "to_date": "2027-01-12T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947562,
       "sport_name": "Zumba",
       "title": "Training",
@@ -260598,6 +263356,20 @@
       "cancelled": false
     },
     {
+      "nid": 986087,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-13T11:15:00Z",
+      "to_date": "2027-01-13T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924147,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -261056,6 +263828,20 @@
       "places_taken": null,
       "from_date": "2027-01-13T16:00:00Z",
       "to_date": "2027-01-13T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986088,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-13T16:00:00Z",
+      "to_date": "2027-01-13T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -261956,6 +264742,20 @@
       "cancelled": false
     },
     {
+      "nid": 986089,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-13T19:00:00Z",
+      "to_date": "2027-01-13T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907665,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -262414,6 +265214,20 @@
       "places_taken": null,
       "from_date": "2027-01-14T10:30:00Z",
       "to_date": "2027-01-14T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986090,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-14T10:45:00Z",
+      "to_date": "2027-01-14T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -263594,6 +266408,20 @@
       "cancelled": false
     },
     {
+      "nid": 986180,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-14T17:00:00Z",
+      "to_date": "2027-01-14T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925989,
       "sport_name": "Judo",
       "title": "Training",
@@ -263745,6 +266573,20 @@
       "from_date": "2027-01-14T17:15:00Z",
       "to_date": "2027-01-14T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986181,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-14T17:15:00Z",
+      "to_date": "2027-01-14T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -265260,6 +268102,20 @@
       "cancelled": false
     },
     {
+      "nid": 986182,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-01-15T12:00:00Z",
+      "to_date": "2027-01-15T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944590,
       "sport_name": "Yoga",
       "title": "Training",
@@ -265998,6 +268854,20 @@
       "places_taken": null,
       "from_date": "2027-01-15T18:10:00Z",
       "to_date": "2027-01-15T19:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986183,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-15T18:20:00Z",
+      "to_date": "2027-01-15T19:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -267864,6 +270734,20 @@
       "cancelled": false
     },
     {
+      "nid": 985982,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-18T11:00:00Z",
+      "to_date": "2027-01-18T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946176,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -268868,6 +271752,34 @@
       "places_taken": null,
       "from_date": "2027-01-18T17:15:00Z",
       "to_date": "2027-01-18T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985983,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-18T17:15:00Z",
+      "to_date": "2027-01-18T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985984,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-18T17:15:00Z",
+      "to_date": "2027-01-18T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -270171,6 +273083,20 @@
       "from_date": "2027-01-19T11:00:00Z",
       "to_date": "2027-01-19T12:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 985985,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-19T11:00:00Z",
+      "to_date": "2027-01-19T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -271658,6 +274584,20 @@
       "cancelled": false
     },
     {
+      "nid": 986091,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-19T19:00:00Z",
+      "to_date": "2027-01-19T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947567,
       "sport_name": "Zumba",
       "title": "Training",
@@ -272512,6 +275452,20 @@
       "cancelled": false
     },
     {
+      "nid": 986092,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-20T11:15:00Z",
+      "to_date": "2027-01-20T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924176,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -272970,6 +275924,20 @@
       "places_taken": null,
       "from_date": "2027-01-20T16:00:00Z",
       "to_date": "2027-01-20T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986093,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-20T16:00:00Z",
+      "to_date": "2027-01-20T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -273870,6 +276838,20 @@
       "cancelled": false
     },
     {
+      "nid": 986094,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-20T19:00:00Z",
+      "to_date": "2027-01-20T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907668,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -274328,6 +277310,20 @@
       "places_taken": null,
       "from_date": "2027-01-21T10:30:00Z",
       "to_date": "2027-01-21T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986095,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-21T10:45:00Z",
+      "to_date": "2027-01-21T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -275494,6 +278490,20 @@
       "cancelled": false
     },
     {
+      "nid": 986184,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-21T17:00:00Z",
+      "to_date": "2027-01-21T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 925999,
       "sport_name": "Judo",
       "title": "Training",
@@ -275645,6 +278655,20 @@
       "from_date": "2027-01-21T17:15:00Z",
       "to_date": "2027-01-21T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986185,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-21T17:15:00Z",
+      "to_date": "2027-01-21T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -277160,6 +280184,20 @@
       "cancelled": false
     },
     {
+      "nid": 986186,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-01-22T12:00:00Z",
+      "to_date": "2027-01-22T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944598,
       "sport_name": "Yoga",
       "title": "Training",
@@ -277916,6 +280954,20 @@
       "cancelled": false
     },
     {
+      "nid": 986187,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-22T18:20:00Z",
+      "to_date": "2027-01-22T19:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924523,
       "sport_name": "Brazilian Jiu Jitsu",
       "title": "Training Basics",
@@ -278459,7 +281511,7 @@
       "from_date": "2027-01-23T10:30:00Z",
       "to_date": "2027-01-23T12:30:00Z",
       "niveau_name": "Fortgeschrittene",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 941336,
@@ -279806,6 +282858,20 @@
       "cancelled": false
     },
     {
+      "nid": 985986,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-25T11:00:00Z",
+      "to_date": "2027-01-25T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946178,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -280824,6 +283890,34 @@
       "places_taken": null,
       "from_date": "2027-01-25T17:15:00Z",
       "to_date": "2027-01-25T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985987,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-25T17:15:00Z",
+      "to_date": "2027-01-25T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985988,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-25T17:15:00Z",
+      "to_date": "2027-01-25T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -282127,6 +285221,20 @@
       "from_date": "2027-01-26T11:00:00Z",
       "to_date": "2027-01-26T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985989,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-26T11:00:00Z",
+      "to_date": "2027-01-26T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -283600,6 +286708,20 @@
       "cancelled": false
     },
     {
+      "nid": 986096,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-26T19:00:00Z",
+      "to_date": "2027-01-26T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947572,
       "sport_name": "Zumba",
       "title": "Training",
@@ -284440,6 +287562,20 @@
       "cancelled": false
     },
     {
+      "nid": 986097,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-27T11:15:00Z",
+      "to_date": "2027-01-27T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924205,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -284884,6 +288020,20 @@
       "places_taken": null,
       "from_date": "2027-01-27T16:00:00Z",
       "to_date": "2027-01-27T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986098,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-27T16:00:00Z",
+      "to_date": "2027-01-27T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -285770,6 +288920,20 @@
       "cancelled": false
     },
     {
+      "nid": 986099,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-01-27T19:00:00Z",
+      "to_date": "2027-01-27T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907671,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -286228,6 +289392,20 @@
       "places_taken": null,
       "from_date": "2027-01-28T10:30:00Z",
       "to_date": "2027-01-28T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986100,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-01-28T10:45:00Z",
+      "to_date": "2027-01-28T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -287394,6 +290572,20 @@
       "cancelled": false
     },
     {
+      "nid": 986188,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-01-28T17:00:00Z",
+      "to_date": "2027-01-28T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926009,
       "sport_name": "Judo",
       "title": "Training",
@@ -287545,6 +290737,20 @@
       "from_date": "2027-01-28T17:15:00Z",
       "to_date": "2027-01-28T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986189,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-01-28T17:15:00Z",
+      "to_date": "2027-01-28T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -289060,6 +292266,20 @@
       "cancelled": false
     },
     {
+      "nid": 986190,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-01-29T12:00:00Z",
+      "to_date": "2027-01-29T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944606,
       "sport_name": "Yoga",
       "title": "Training",
@@ -289798,6 +293018,20 @@
       "places_taken": null,
       "from_date": "2027-01-29T18:10:00Z",
       "to_date": "2027-01-29T19:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986191,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-01-29T18:20:00Z",
+      "to_date": "2027-01-29T19:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -291664,6 +294898,20 @@
       "cancelled": false
     },
     {
+      "nid": 985990,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-02-01T11:00:00Z",
+      "to_date": "2027-02-01T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946180,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -292668,6 +295916,34 @@
       "places_taken": null,
       "from_date": "2027-02-01T17:15:00Z",
       "to_date": "2027-02-01T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985991,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-02-01T17:15:00Z",
+      "to_date": "2027-02-01T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985992,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-01T17:15:00Z",
+      "to_date": "2027-02-01T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -293971,6 +297247,20 @@
       "from_date": "2027-02-02T11:00:00Z",
       "to_date": "2027-02-02T12:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 985993,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-02T11:00:00Z",
+      "to_date": "2027-02-02T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -295458,6 +298748,20 @@
       "cancelled": false
     },
     {
+      "nid": 986101,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-02-02T19:00:00Z",
+      "to_date": "2027-02-02T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947577,
       "sport_name": "Zumba",
       "title": "Training",
@@ -296326,6 +299630,20 @@
       "cancelled": false
     },
     {
+      "nid": 986102,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-03T11:15:00Z",
+      "to_date": "2027-02-03T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924234,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -296784,6 +300102,20 @@
       "places_taken": null,
       "from_date": "2027-02-03T16:00:00Z",
       "to_date": "2027-02-03T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986103,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-03T16:00:00Z",
+      "to_date": "2027-02-03T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -297684,6 +301016,20 @@
       "cancelled": false
     },
     {
+      "nid": 986104,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-02-03T19:00:00Z",
+      "to_date": "2027-02-03T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907674,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -298142,6 +301488,20 @@
       "places_taken": null,
       "from_date": "2027-02-04T10:30:00Z",
       "to_date": "2027-02-04T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986105,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-04T10:45:00Z",
+      "to_date": "2027-02-04T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -299308,6 +302668,20 @@
       "cancelled": false
     },
     {
+      "nid": 986192,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-02-04T17:00:00Z",
+      "to_date": "2027-02-04T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926019,
       "sport_name": "Judo",
       "title": "Training",
@@ -299459,6 +302833,20 @@
       "from_date": "2027-02-04T17:15:00Z",
       "to_date": "2027-02-04T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986193,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-02-04T17:15:00Z",
+      "to_date": "2027-02-04T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -300960,6 +304348,20 @@
       "cancelled": false
     },
     {
+      "nid": 986194,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-02-05T12:00:00Z",
+      "to_date": "2027-02-05T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944614,
       "sport_name": "Yoga",
       "title": "Training",
@@ -301698,6 +305100,20 @@
       "places_taken": null,
       "from_date": "2027-02-05T18:10:00Z",
       "to_date": "2027-02-05T19:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986195,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-05T18:20:00Z",
+      "to_date": "2027-02-05T19:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -303578,6 +306994,20 @@
       "cancelled": false
     },
     {
+      "nid": 985994,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-02-08T11:00:00Z",
+      "to_date": "2027-02-08T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946182,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -304596,6 +308026,34 @@
       "places_taken": null,
       "from_date": "2027-02-08T17:15:00Z",
       "to_date": "2027-02-08T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985995,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-08T17:15:00Z",
+      "to_date": "2027-02-08T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985996,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-02-08T17:15:00Z",
+      "to_date": "2027-02-08T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -305899,6 +309357,20 @@
       "from_date": "2027-02-09T11:00:00Z",
       "to_date": "2027-02-09T12:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985997,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-09T11:00:00Z",
+      "to_date": "2027-02-09T12:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -307386,6 +310858,20 @@
       "cancelled": false
     },
     {
+      "nid": 986106,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-02-09T19:00:00Z",
+      "to_date": "2027-02-09T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947582,
       "sport_name": "Zumba",
       "title": "Training",
@@ -308254,6 +311740,20 @@
       "cancelled": false
     },
     {
+      "nid": 986107,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-10T11:15:00Z",
+      "to_date": "2027-02-10T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924263,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -308712,6 +312212,20 @@
       "places_taken": null,
       "from_date": "2027-02-10T16:00:00Z",
       "to_date": "2027-02-10T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986108,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-10T16:00:00Z",
+      "to_date": "2027-02-10T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -309612,6 +313126,20 @@
       "cancelled": false
     },
     {
+      "nid": 986109,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-02-10T19:00:00Z",
+      "to_date": "2027-02-10T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907677,
       "sport_name": "Aqua Fitness",
       "title": "Power",
@@ -310070,6 +313598,20 @@
       "places_taken": null,
       "from_date": "2027-02-11T10:30:00Z",
       "to_date": "2027-02-11T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986110,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-11T10:45:00Z",
+      "to_date": "2027-02-11T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -311236,6 +314778,20 @@
       "cancelled": false
     },
     {
+      "nid": 986196,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-02-11T17:00:00Z",
+      "to_date": "2027-02-11T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926029,
       "sport_name": "Judo",
       "title": "Training",
@@ -311387,6 +314943,20 @@
       "from_date": "2027-02-11T17:15:00Z",
       "to_date": "2027-02-11T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986197,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-02-11T17:15:00Z",
+      "to_date": "2027-02-11T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -312888,6 +316458,20 @@
       "cancelled": false
     },
     {
+      "nid": 986198,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-02-12T12:00:00Z",
+      "to_date": "2027-02-12T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944622,
       "sport_name": "Yoga",
       "title": "Training",
@@ -313630,6 +317214,20 @@
       "cancelled": false
     },
     {
+      "nid": 986199,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-12T18:20:00Z",
+      "to_date": "2027-02-12T19:40:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924550,
       "sport_name": "Brazilian Jiu Jitsu",
       "title": "Training Basics",
@@ -314159,7 +317757,7 @@
       "from_date": "2027-02-13T10:30:00Z",
       "to_date": "2027-02-13T12:30:00Z",
       "niveau_name": "Fortgeschrittene",
-      "cancelled": false
+      "cancelled": true
     },
     {
       "nid": 941357,
@@ -315254,6 +318852,20 @@
       "cancelled": false
     },
     {
+      "nid": 985998,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-02-15T11:00:00Z",
+      "to_date": "2027-02-15T12:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946184,
       "sport_name": "Body Combat",
       "title": "Training mit Technik",
@@ -315936,6 +319548,34 @@
       "places_taken": null,
       "from_date": "2027-02-15T17:15:00Z",
       "to_date": "2027-02-15T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985999,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-02-15T17:15:00Z",
+      "to_date": "2027-02-15T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986000,
+      "sport_name": "Basketball",
+      "title": "Training Ladies",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-15T17:15:00Z",
+      "to_date": "2027-02-15T19:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -316888,6 +320528,20 @@
       "places_taken": null,
       "from_date": "2027-02-16T11:00:00Z",
       "to_date": "2027-02-16T12:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986001,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-16T11:00:00Z",
+      "to_date": "2027-02-16T12:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -317914,6 +321568,20 @@
       "cancelled": false
     },
     {
+      "nid": 986111,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-02-16T19:00:00Z",
+      "to_date": "2027-02-16T21:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947587,
       "sport_name": "Zumba",
       "title": "Training",
@@ -318460,6 +322128,20 @@
       "cancelled": false
     },
     {
+      "nid": 986112,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-17T11:15:00Z",
+      "to_date": "2027-02-17T12:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924292,
       "sport_name": "Kickboxen",
       "title": "Training",
@@ -318694,6 +322376,20 @@
       "places_taken": null,
       "from_date": "2027-02-17T16:00:00Z",
       "to_date": "2027-02-17T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986113,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Wädenswil Turnhalle Eidmatt",
+      "location": "Wädenswil Turnhalle Eidmatt",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-17T16:00:00Z",
+      "to_date": "2027-02-17T17:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -319440,6 +323136,20 @@
       "cancelled": false
     },
     {
+      "nid": 986114,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 60,
+      "places_taken": null,
+      "from_date": "2027-02-17T19:00:00Z",
+      "to_date": "2027-02-17T21:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918225,
       "sport_name": "Ballett",
       "title": "Training",
@@ -319716,6 +323426,20 @@
       "places_taken": null,
       "from_date": "2027-02-18T10:00:00Z",
       "to_date": "2027-02-18T11:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986115,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": null,
+      "places_max": 24,
+      "places_taken": null,
+      "from_date": "2027-02-18T10:45:00Z",
+      "to_date": "2027-02-18T12:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -320448,6 +324172,20 @@
       "cancelled": false
     },
     {
+      "nid": 986200,
+      "sport_name": "Basketball",
+      "title": "Training Basics",
+      "facility_name": "PH Zürich",
+      "location": "PH Zürich",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2027-02-18T17:00:00Z",
+      "to_date": "2027-02-18T18:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 926038,
       "sport_name": "Judo",
       "title": "Training",
@@ -320571,6 +324309,20 @@
       "from_date": "2027-02-18T17:15:00Z",
       "to_date": "2027-02-18T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986201,
+      "sport_name": "Basketball",
+      "title": "Training Tactics",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2027-02-18T17:15:00Z",
+      "to_date": "2027-02-18T19:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -321652,6 +325404,20 @@
       "cancelled": false
     },
     {
+      "nid": 986202,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 36,
+      "places_taken": null,
+      "from_date": "2027-02-19T12:00:00Z",
+      "to_date": "2027-02-19T13:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 946552,
       "sport_name": "Body Combat",
       "title": "Training",
@@ -322180,6 +325946,20 @@
       "places_taken": null,
       "from_date": "2027-02-19T18:00:00Z",
       "to_date": "2027-02-19T19:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 986203,
+      "sport_name": "Basketball",
+      "title": "Spiel",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 18,
+      "places_taken": null,
+      "from_date": "2027-02-19T18:20:00Z",
+      "to_date": "2027-02-19T19:40:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
