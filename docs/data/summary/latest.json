@@ -1,384 +1,6 @@
 {
-  "ts": "2026-08-14T09:17:58.753342+00:00",
+  "ts": "2026-08-14T10:40:52.723173+00:00",
   "events": [
-    {
-      "nid": 737730,
-      "sport_name": "Fitnessberatung",
-      "title": "Med. Trainingsberatung",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 0,
-      "places_max": 1,
-      "places_taken": 1,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T10:00:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
-      "cancelled": false
-    },
-    {
-      "nid": 734438,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 2,
-      "places_max": 3,
-      "places_taken": 1,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 745212,
-      "sport_name": "Rückenfit",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 19,
-      "places_max": 25,
-      "places_taken": 6,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741885,
-      "sport_name": "Muscle Pump",
-      "title": "Body Pump",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 55,
-      "places_taken": 43,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741883,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 12,
-      "places_max": 60,
-      "places_taken": 48,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 741884,
-      "sport_name": "Muscle Pump",
-      "title": "Body Pump",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 0,
-      "places_max": 35,
-      "places_taken": 35,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 767519,
-      "sport_name": "TRX Suspension Training",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 18,
-      "places_max": 25,
-      "places_taken": 7,
-      "from_date": "2026-08-14T09:00:00Z",
-      "to_date": "2026-08-14T09:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 739811,
-      "sport_name": "Jazz Dance",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 29,
-      "places_max": 40,
-      "places_taken": 11,
-      "from_date": "2026-08-14T09:30:00Z",
-      "to_date": "2026-08-14T10:55:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 734813,
-      "sport_name": "Squash",
-      "title": "Freies Spiel",
-      "facility_name": "Winterthur Squashanlage Gertrud",
-      "location": "Winterthur Squashanlage Gertrud",
-      "places_free": 3,
-      "places_max": 3,
-      "places_taken": 0,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 759273,
-      "sport_name": "T-BOW",
-      "title": "Balance Pump",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 55,
-      "places_max": 55,
-      "places_taken": 0,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": true
-    },
-    {
-      "nid": 740359,
-      "sport_name": "Standard/Latin Tänze",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 17,
-      "places_max": 30,
-      "places_taken": 13,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:30:00Z",
-      "niveau_name": "Einsteiger 1 + 2",
-      "cancelled": false
-    },
-    {
-      "nid": 733799,
-      "sport_name": "Schwimmen",
-      "title": "Allround",
-      "facility_name": "Bad Bungertwies",
-      "location": "Bad Bungertwies",
-      "places_free": 0,
-      "places_max": 16,
-      "places_taken": 16,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 751800,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 41,
-      "places_max": 60,
-      "places_taken": 19,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 850378,
-      "sport_name": "Running",
-      "title": "Einstieg ins Laufen",
-      "facility_name": null,
-      "location": null,
-      "places_free": 13,
-      "places_max": 15,
-      "places_taken": 2,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:00:00Z",
-      "niveau_name": "Einsteiger 1",
-      "cancelled": false
-    },
-    {
-      "nid": 745213,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 0,
-      "places_max": 20,
-      "places_taken": 20,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 738848,
-      "sport_name": "Ballett",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 56,
-      "places_max": 60,
-      "places_taken": 4,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:30:00Z",
-      "niveau_name": "Mittlere + Fortgeschrittene",
-      "cancelled": false
-    },
-    {
-      "nid": 748495,
-      "sport_name": "Aerial Yoga & Fitness",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 9,
-      "places_max": 19,
-      "places_taken": 10,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 752449,
-      "sport_name": "Body Combat",
-      "title": "Training",
-      "facility_name": "PH Zürich",
-      "location": "PH Zürich",
-      "places_free": 47,
-      "places_max": 60,
-      "places_taken": 13,
-      "from_date": "2026-08-14T10:00:00Z",
-      "to_date": "2026-08-14T10:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 752680,
-      "sport_name": "Body Combat",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 40,
-      "places_max": 40,
-      "places_taken": 0,
-      "from_date": "2026-08-14T10:05:00Z",
-      "to_date": "2026-08-14T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": true
-    },
-    {
-      "nid": 748496,
-      "sport_name": "Yoga",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 46,
-      "places_max": 50,
-      "places_taken": 4,
-      "from_date": "2026-08-14T10:05:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 737731,
-      "sport_name": "Fitnessberatung",
-      "title": "Programm-Einführung",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 0,
-      "places_max": 2,
-      "places_taken": 2,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 758778,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 8,
-      "places_max": 25,
-      "places_taken": 17,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 758239,
-      "sport_name": "Cycling Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 0,
-      "places_max": 35,
-      "places_taken": 35,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 756358,
-      "sport_name": "Rowing Class",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 3,
-      "places_max": 15,
-      "places_taken": 12,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 750115,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 51,
-      "places_max": 60,
-      "places_taken": 9,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:10:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755771,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Kunstrasen",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 20,
-      "places_max": 20,
-      "places_taken": 0,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:15:00Z",
-      "niveau_name": "Alle",
-      "cancelled": true
-    },
-    {
-      "nid": 750090,
-      "sport_name": "Kondi",
-      "title": "klassisch",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 100,
-      "places_max": 120,
-      "places_taken": 20,
-      "from_date": "2026-08-14T10:15:00Z",
-      "to_date": "2026-08-14T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
     {
       "nid": 734814,
       "sport_name": "Squash",
@@ -408,16 +30,16 @@
       "cancelled": false
     },
     {
-      "nid": 748770,
-      "sport_name": "Rückenfit",
-      "title": "Training",
+      "nid": 854090,
+      "sport_name": "Basketball",
+      "title": "Spiel",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 19,
-      "places_max": 30,
-      "places_taken": 11,
+      "places_free": 22,
+      "places_max": 36,
+      "places_taken": 14,
       "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T11:55:00Z",
+      "to_date": "2026-08-14T12:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -427,25 +49,25 @@
       "title": "Yoga & Meditation",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 4,
+      "places_free": 7,
       "places_max": 20,
-      "places_taken": 16,
+      "places_taken": 13,
       "from_date": "2026-08-14T11:00:00Z",
       "to_date": "2026-08-14T12:15:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
     {
-      "nid": 854090,
-      "sport_name": "Basketball",
-      "title": "Spiel",
+      "nid": 748770,
+      "sport_name": "Rückenfit",
+      "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 24,
-      "places_max": 36,
+      "places_free": 18,
+      "places_max": 30,
       "places_taken": 12,
       "from_date": "2026-08-14T11:00:00Z",
-      "to_date": "2026-08-14T12:30:00Z",
+      "to_date": "2026-08-14T11:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -455,9 +77,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 63,
+      "places_free": 60,
       "places_max": 80,
-      "places_taken": 17,
+      "places_taken": 20,
       "from_date": "2026-08-14T11:45:00Z",
       "to_date": "2026-08-14T12:40:00Z",
       "niveau_name": "Alle",
@@ -469,9 +91,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 21,
+      "places_free": 24,
       "places_max": 30,
-      "places_taken": 9,
+      "places_taken": 6,
       "from_date": "2026-08-14T12:20:00Z",
       "to_date": "2026-08-14T13:50:00Z",
       "niveau_name": "Alle",
@@ -483,9 +105,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 2,
+      "places_free": 3,
       "places_max": 16,
-      "places_taken": 14,
+      "places_taken": 13,
       "from_date": "2026-08-14T13:00:00Z",
       "to_date": "2026-08-14T15:00:00Z",
       "niveau_name": "Alle",
@@ -497,9 +119,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 1,
+      "places_free": 3,
       "places_max": 45,
-      "places_taken": 44,
+      "places_taken": 42,
       "from_date": "2026-08-14T13:15:00Z",
       "to_date": "2026-08-14T14:25:00Z",
       "niveau_name": "Einsteiger 1",
@@ -511,9 +133,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 4,
+      "places_free": 5,
       "places_max": 35,
-      "places_taken": 31,
+      "places_taken": 30,
       "from_date": "2026-08-14T13:30:00Z",
       "to_date": "2026-08-14T15:00:00Z",
       "niveau_name": "Einsteiger 1",
@@ -539,25 +161,11 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 25,
+      "places_free": 26,
       "places_max": 35,
-      "places_taken": 10,
+      "places_taken": 9,
       "from_date": "2026-08-14T14:00:00Z",
       "to_date": "2026-08-14T14:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755772,
-      "sport_name": "Fussball",
-      "title": "Training Frauen, Rasen",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 6,
-      "places_max": 15,
-      "places_taken": 9,
-      "from_date": "2026-08-14T14:30:00Z",
-      "to_date": "2026-08-14T16:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -573,6 +181,20 @@
       "from_date": "2026-08-14T14:30:00Z",
       "to_date": "2026-08-14T15:55:00Z",
       "niveau_name": "Einsteiger 2 + Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 755772,
+      "sport_name": "Fussball",
+      "title": "Training Frauen, Rasen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 5,
+      "places_max": 15,
+      "places_taken": 10,
+      "from_date": "2026-08-14T14:30:00Z",
+      "to_date": "2026-08-14T16:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -604,34 +226,6 @@
       "cancelled": false
     },
     {
-      "nid": 755773,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Kunstrasen",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 11,
-      "places_max": 20,
-      "places_taken": 9,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T17:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 753191,
-      "sport_name": "Les Mills Core",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 36,
-      "places_max": 60,
-      "places_taken": 24,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T15:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 750624,
       "sport_name": "Kondi",
       "title": "Super Kondi Body Attack",
@@ -642,20 +236,6 @@
       "places_taken": 4,
       "from_date": "2026-08-14T15:00:00Z",
       "to_date": "2026-08-14T15:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 746974,
-      "sport_name": "Boxen",
-      "title": "Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 21,
-      "places_max": 24,
-      "places_taken": 3,
-      "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -674,16 +254,16 @@
       "cancelled": false
     },
     {
-      "nid": 746973,
-      "sport_name": "Brazilian Jiu Jitsu",
-      "title": "Training Basics",
+      "nid": 753191,
+      "sport_name": "Les Mills Core",
+      "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 1,
-      "places_max": 20,
-      "places_taken": 19,
+      "places_free": 38,
+      "places_max": 60,
+      "places_taken": 22,
       "from_date": "2026-08-14T15:00:00Z",
-      "to_date": "2026-08-14T16:30:00Z",
+      "to_date": "2026-08-14T15:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -693,11 +273,53 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 17,
+      "places_free": 16,
       "places_max": 35,
-      "places_taken": 18,
+      "places_taken": 19,
       "from_date": "2026-08-14T15:00:00Z",
       "to_date": "2026-08-14T15:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755773,
+      "sport_name": "Fussball",
+      "title": "Freies Spiel, Kunstrasen",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 10,
+      "places_max": 20,
+      "places_taken": 10,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746973,
+      "sport_name": "Brazilian Jiu Jitsu",
+      "title": "Training Basics",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 0,
+      "places_max": 20,
+      "places_taken": 20,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T16:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 746974,
+      "sport_name": "Boxen",
+      "title": "Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 21,
+      "places_max": 24,
+      "places_taken": 3,
+      "from_date": "2026-08-14T15:00:00Z",
+      "to_date": "2026-08-14T17:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -814,20 +436,6 @@
       "cancelled": false
     },
     {
-      "nid": 750924,
-      "sport_name": "Kondi",
-      "title": "Super Kondi Body Attack",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 339,
-      "places_max": 350,
-      "places_taken": 11,
-      "from_date": "2026-08-14T16:00:00Z",
-      "to_date": "2026-08-14T16:55:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 796108,
       "sport_name": "Rennvelo",
       "title": "Fahrtechnikkurs Abfahrt und Kurven fahren",
@@ -838,6 +446,20 @@
       "places_taken": 11,
       "from_date": "2026-08-14T16:00:00Z",
       "to_date": "2026-08-14T18:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 750924,
+      "sport_name": "Kondi",
+      "title": "Super Kondi Body Attack",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 339,
+      "places_max": 350,
+      "places_taken": 11,
+      "from_date": "2026-08-14T16:00:00Z",
+      "to_date": "2026-08-14T16:55:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -854,20 +476,6 @@
       "to_date": "2026-08-14T17:10:00Z",
       "niveau_name": "Alle",
       "cancelled": true
-    },
-    {
-      "nid": 736715,
-      "sport_name": "Paddeln",
-      "title": "Training",
-      "facility_name": "Badi Wollishofen",
-      "location": "Badi Wollishofen",
-      "places_free": 0,
-      "places_max": 20,
-      "places_taken": 20,
-      "from_date": "2026-08-14T16:15:00Z",
-      "to_date": "2026-08-14T18:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
     },
     {
       "nid": 850478,
@@ -894,6 +502,20 @@
       "places_taken": 15,
       "from_date": "2026-08-14T16:15:00Z",
       "to_date": "2026-08-14T17:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736715,
+      "sport_name": "Paddeln",
+      "title": "Training",
+      "facility_name": "Badi Wollishofen",
+      "location": "Badi Wollishofen",
+      "places_free": 0,
+      "places_max": 20,
+      "places_taken": 20,
+      "from_date": "2026-08-14T16:15:00Z",
+      "to_date": "2026-08-14T18:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -931,9 +553,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 18,
+      "places_free": 15,
       "places_max": 40,
-      "places_taken": 22,
+      "places_taken": 25,
       "from_date": "2026-08-14T16:30:00Z",
       "to_date": "2026-08-14T17:25:00Z",
       "niveau_name": "Alle",
@@ -954,14 +576,28 @@
       "cancelled": false
     },
     {
+      "nid": 754782,
+      "sport_name": "Beachvolleyball",
+      "title": "Spiel Indoor",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 21,
+      "places_max": 48,
+      "places_taken": 27,
+      "from_date": "2026-08-14T17:00:00Z",
+      "to_date": "2026-08-14T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 742036,
       "sport_name": "Muscle Pump",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 3,
+      "places_free": 5,
       "places_max": 60,
-      "places_taken": 57,
+      "places_taken": 55,
       "from_date": "2026-08-14T17:00:00Z",
       "to_date": "2026-08-14T18:15:00Z",
       "niveau_name": "Alle",
@@ -973,25 +609,11 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 17,
+      "places_free": 15,
       "places_max": 30,
-      "places_taken": 13,
+      "places_taken": 15,
       "from_date": "2026-08-14T17:00:00Z",
       "to_date": "2026-08-14T19:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 754782,
-      "sport_name": "Beachvolleyball",
-      "title": "Spiel Indoor",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 21,
-      "places_max": 48,
-      "places_taken": 27,
-      "from_date": "2026-08-14T17:00:00Z",
-      "to_date": "2026-08-14T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1029,9 +651,9 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 14,
+      "places_free": 13,
       "places_max": 18,
-      "places_taken": 4,
+      "places_taken": 5,
       "from_date": "2026-08-14T17:15:00Z",
       "to_date": "2026-08-14T19:15:00Z",
       "niveau_name": "Mittlere",
@@ -1113,9 +735,9 @@
       "title": "Treff",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 16,
-      "places_taken": 14,
+      "places_taken": 15,
       "from_date": "2026-08-15T07:00:00Z",
       "to_date": "2026-08-15T12:00:00Z",
       "niveau_name": "Mittlere",
@@ -1127,26 +749,12 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 19,
+      "places_free": 10,
       "places_max": 55,
-      "places_taken": 36,
+      "places_taken": 45,
       "from_date": "2026-08-15T07:10:00Z",
       "to_date": "2026-08-15T08:05:00Z",
       "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 757074,
-      "sport_name": "Running",
-      "title": "Schnupper Longjog",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 11,
-      "places_max": 15,
-      "places_taken": 4,
-      "from_date": "2026-08-15T07:15:00Z",
-      "to_date": "2026-08-15T09:15:00Z",
-      "niveau_name": "Gemäss Ausschreibung",
       "cancelled": false
     },
     {
@@ -1172,6 +780,20 @@
       "places_free": 25,
       "places_max": 30,
       "places_taken": 5,
+      "from_date": "2026-08-15T07:15:00Z",
+      "to_date": "2026-08-15T09:15:00Z",
+      "niveau_name": "Gemäss Ausschreibung",
+      "cancelled": false
+    },
+    {
+      "nid": 757074,
+      "sport_name": "Running",
+      "title": "Schnupper Longjog",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 12,
+      "places_max": 15,
+      "places_taken": 3,
       "from_date": "2026-08-15T07:15:00Z",
       "to_date": "2026-08-15T09:15:00Z",
       "niveau_name": "Gemäss Ausschreibung",
@@ -1206,20 +828,6 @@
       "cancelled": true
     },
     {
-      "nid": 755256,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 10,
-      "places_max": 16,
-      "places_taken": 6,
-      "from_date": "2026-08-15T07:30:00Z",
-      "to_date": "2026-08-15T09:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 982547,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -1234,14 +842,28 @@
       "cancelled": false
     },
     {
+      "nid": 755256,
+      "sport_name": "Volleyball",
+      "title": "Freies Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 9,
+      "places_max": 16,
+      "places_taken": 7,
+      "from_date": "2026-08-15T07:30:00Z",
+      "to_date": "2026-08-15T09:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 742038,
       "sport_name": "Muscle Pump",
       "title": "Body Pump",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 8,
+      "places_free": 5,
       "places_max": 35,
-      "places_taken": 27,
+      "places_taken": 30,
       "from_date": "2026-08-15T07:45:00Z",
       "to_date": "2026-08-15T08:45:00Z",
       "niveau_name": "Alle",
@@ -1281,10 +903,24 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 38,
+      "places_free": 29,
       "places_max": 55,
-      "places_taken": 17,
+      "places_taken": 26,
       "from_date": "2026-08-15T08:15:00Z",
+      "to_date": "2026-08-15T09:10:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 848106,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 11,
+      "places_max": 25,
+      "places_taken": 14,
+      "from_date": "2026-08-15T08:20:00Z",
       "to_date": "2026-08-15T09:10:00Z",
       "niveau_name": "Alle",
       "cancelled": false
@@ -1295,25 +931,11 @@
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 21,
+      "places_free": 17,
       "places_max": 30,
-      "places_taken": 9,
-      "from_date": "2026-08-15T08:20:00Z",
-      "to_date": "2026-08-15T09:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 848106,
-      "sport_name": "TRX Suspension Training",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 12,
-      "places_max": 25,
       "places_taken": 13,
       "from_date": "2026-08-15T08:20:00Z",
-      "to_date": "2026-08-15T09:10:00Z",
+      "to_date": "2026-08-15T09:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1328,20 +950,6 @@
       "places_taken": 1,
       "from_date": "2026-08-15T08:30:00Z",
       "to_date": "2026-08-15T09:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 848116,
-      "sport_name": "Body Balance",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": null,
-      "places_max": 35,
-      "places_taken": null,
-      "from_date": "2026-08-15T08:30:00Z",
-      "to_date": "2026-08-15T09:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1365,11 +973,25 @@
       "title": "Long Training",
       "facility_name": "Badi Wollishofen",
       "location": "Badi Wollishofen",
-      "places_free": 7,
+      "places_free": 3,
       "places_max": 20,
-      "places_taken": 13,
+      "places_taken": 17,
       "from_date": "2026-08-15T08:30:00Z",
       "to_date": "2026-08-15T10:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 848116,
+      "sport_name": "Body Balance",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 34,
+      "places_max": 35,
+      "places_taken": 1,
+      "from_date": "2026-08-15T08:30:00Z",
+      "to_date": "2026-08-15T09:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1421,9 +1043,9 @@
       "title": "Training",
       "facility_name": "Sport Center Hönggerberg",
       "location": "Sport Center Hönggerberg",
-      "places_free": 38,
+      "places_free": 33,
       "places_max": 40,
-      "places_taken": 2,
+      "places_taken": 7,
       "from_date": "2026-08-15T09:00:00Z",
       "to_date": "2026-08-15T09:55:00Z",
       "niveau_name": "Alle",
@@ -1435,9 +1057,9 @@
       "title": "klassisch",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 118,
+      "places_free": 116,
       "places_max": 120,
-      "places_taken": 2,
+      "places_taken": 4,
       "from_date": "2026-08-15T09:00:00Z",
       "to_date": "2026-08-15T09:45:00Z",
       "niveau_name": "Alle",
@@ -1463,25 +1085,11 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": 16,
+      "places_free": 12,
       "places_max": 19,
-      "places_taken": 3,
+      "places_taken": 7,
       "from_date": "2026-08-15T09:15:00Z",
       "to_date": "2026-08-15T10:25:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 755257,
-      "sport_name": "Volleyball",
-      "title": "Freies Spiel",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 16,
-      "places_max": 16,
-      "places_taken": 0,
-      "from_date": "2026-08-15T09:30:00Z",
-      "to_date": "2026-08-15T11:25:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1500,29 +1108,29 @@
       "cancelled": false
     },
     {
+      "nid": 755257,
+      "sport_name": "Volleyball",
+      "title": "Freies Spiel",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
+      "from_date": "2026-08-15T09:30:00Z",
+      "to_date": "2026-08-15T11:25:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 762565,
       "sport_name": "Yoga",
       "title": "Training",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 30,
+      "places_free": 15,
       "places_max": 30,
-      "places_taken": 0,
+      "places_taken": 15,
       "from_date": "2026-08-15T09:40:00Z",
-      "to_date": "2026-08-15T10:50:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 742039,
-      "sport_name": "Muscle Pump",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 60,
-      "places_max": 60,
-      "places_taken": 0,
-      "from_date": "2026-08-15T09:50:00Z",
       "to_date": "2026-08-15T10:50:00Z",
       "niveau_name": "Alle",
       "cancelled": false
@@ -1533,11 +1141,25 @@
       "title": "klassisch + Stretching",
       "facility_name": "Sport Center Polyterrasse",
       "location": "Sport Center Polyterrasse",
-      "places_free": 120,
+      "places_free": 119,
       "places_max": 120,
-      "places_taken": 0,
+      "places_taken": 1,
       "from_date": "2026-08-15T09:50:00Z",
       "to_date": "2026-08-15T10:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 742039,
+      "sport_name": "Muscle Pump",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 40,
+      "places_max": 60,
+      "places_taken": 20,
+      "from_date": "2026-08-15T09:50:00Z",
+      "to_date": "2026-08-15T10:50:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -1589,9 +1211,9 @@
       "title": "Training",
       "facility_name": "Sport Center Irchel",
       "location": "Sport Center Irchel",
-      "places_free": null,
+      "places_free": 34,
       "places_max": 35,
-      "places_taken": null,
+      "places_taken": 1,
       "from_date": "2026-08-15T10:35:00Z",
       "to_date": "2026-08-15T11:30:00Z",
       "niveau_name": "Alle",
@@ -2928,6 +2550,20 @@
       "cancelled": false
     },
     {
+      "nid": 746977,
+      "sport_name": "Kickboxen",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 22,
+      "places_max": 24,
+      "places_taken": 2,
+      "from_date": "2026-08-17T08:30:00Z",
+      "to_date": "2026-08-17T09:50:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 950021,
       "sport_name": "Tennis",
       "title": "E | Mo, 1030-1155",
@@ -2939,20 +2575,6 @@
       "from_date": "2026-08-17T08:30:00Z",
       "to_date": "2026-09-14T09:55:00Z",
       "niveau_name": "Einsteiger",
-      "cancelled": false
-    },
-    {
-      "nid": 746977,
-      "sport_name": "Kickboxen",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 23,
-      "places_max": 24,
-      "places_taken": 1,
-      "from_date": "2026-08-17T08:30:00Z",
-      "to_date": "2026-08-17T09:50:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -3096,20 +2718,6 @@
       "cancelled": false
     },
     {
-      "nid": 746978,
-      "sport_name": "Mixed Martial Arts",
-      "title": "Training",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 24,
-      "places_max": 24,
-      "places_taken": 0,
-      "from_date": "2026-08-17T10:00:00Z",
-      "to_date": "2026-08-17T11:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 747582,
       "sport_name": "Pilates",
       "title": "Training",
@@ -3219,6 +2827,20 @@
       "from_date": "2026-08-17T10:00:00Z",
       "to_date": "2026-09-28T11:55:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 746978,
+      "sport_name": "Mixed Martial Arts",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 21,
+      "places_max": 24,
+      "places_taken": 3,
+      "from_date": "2026-08-17T10:00:00Z",
+      "to_date": "2026-08-17T11:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -3558,20 +3180,6 @@
       "cancelled": false
     },
     {
-      "nid": 774408,
-      "sport_name": "Tennis",
-      "title": "M | Freies Spiel",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-08-17T12:00:00Z",
-      "to_date": "2026-08-17T13:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 774409,
       "sport_name": "Tennis",
       "title": "F | Freies Spiel",
@@ -3611,6 +3219,20 @@
       "from_date": "2026-08-17T12:00:00Z",
       "to_date": "2026-08-17T13:00:00Z",
       "niveau_name": "Wettkämpfer 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 774408,
+      "sport_name": "Tennis",
+      "title": "M | Freies Spiel",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 1,
+      "places_max": 4,
+      "places_taken": 3,
+      "from_date": "2026-08-17T12:00:00Z",
+      "to_date": "2026-08-17T13:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -6204,20 +5826,6 @@
       "cancelled": false
     },
     {
-      "nid": 850908,
-      "sport_name": "Tennis",
-      "title": "M | Di, 1300-1425",
-      "facility_name": "Sportcenter Schumacher",
-      "location": "Sportcenter Schumacher",
-      "places_free": null,
-      "places_max": 4,
-      "places_taken": null,
-      "from_date": "2026-08-18T11:00:00Z",
-      "to_date": "2026-09-15T12:25:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 759481,
       "sport_name": "Yoga",
       "title": "Training",
@@ -8038,20 +7646,6 @@
       "cancelled": false
     },
     {
-      "nid": 850912,
-      "sport_name": "Tennis",
-      "title": "W1 | Di, 2030-2155",
-      "facility_name": "Sportcenter Schumacher",
-      "location": "Sportcenter Schumacher",
-      "places_free": 0,
-      "places_max": 4,
-      "places_taken": 4,
-      "from_date": "2026-08-18T18:30:00Z",
-      "to_date": "2026-09-15T19:55:00Z",
-      "niveau_name": "Wettkämpfer 1",
-      "cancelled": false
-    },
-    {
       "nid": 967355,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -8063,6 +7657,20 @@
       "from_date": "2026-08-18T18:30:00Z",
       "to_date": "2026-08-18T19:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 850912,
+      "sport_name": "Tennis",
+      "title": "W1 | Di, 2030-2155",
+      "facility_name": "Sportcenter Schumacher",
+      "location": "Sportcenter Schumacher",
+      "places_free": 0,
+      "places_max": 4,
+      "places_taken": 4,
+      "from_date": "2026-08-18T18:30:00Z",
+      "to_date": "2026-09-15T19:55:00Z",
+      "niveau_name": "Wettkämpfer 1",
       "cancelled": false
     },
     {
@@ -10619,9 +10227,9 @@
       "title": "M | Do, 0900-1025",
       "facility_name": "Sportcenter Schumacher",
       "location": "Sportcenter Schumacher",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 4,
-      "places_taken": 2,
+      "places_taken": 3,
       "from_date": "2026-08-20T07:00:00Z",
       "to_date": "2026-09-17T08:25:00Z",
       "niveau_name": "Mittlere",
@@ -11272,20 +10880,6 @@
       "cancelled": false
     },
     {
-      "nid": 774413,
-      "sport_name": "Tennis",
-      "title": "M | Freies Spiel",
-      "facility_name": "Tennisanlage Fluntern",
-      "location": "Tennisanlage Fluntern",
-      "places_free": 1,
-      "places_max": 4,
-      "places_taken": 3,
-      "from_date": "2026-08-20T11:00:00Z",
-      "to_date": "2026-08-20T12:00:00Z",
-      "niveau_name": "Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 741614,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -11297,6 +10891,20 @@
       "from_date": "2026-08-20T11:00:00Z",
       "to_date": "2026-08-20T12:00:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 774413,
+      "sport_name": "Tennis",
+      "title": "M | Freies Spiel",
+      "facility_name": "Tennisanlage Fluntern",
+      "location": "Tennisanlage Fluntern",
+      "places_free": 1,
+      "places_max": 4,
+      "places_taken": 3,
+      "from_date": "2026-08-20T11:00:00Z",
+      "to_date": "2026-08-20T12:00:00Z",
+      "niveau_name": "Mittlere",
       "cancelled": false
     },
     {
@@ -11566,20 +11174,6 @@
       "cancelled": false
     },
     {
-      "nid": 736033,
-      "sport_name": "Segeln Jollen",
-      "title": "Geleitetes Training",
-      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
-      "places_free": 0,
-      "places_max": 8,
-      "places_taken": 8,
-      "from_date": "2026-08-20T14:45:00Z",
-      "to_date": "2026-08-20T17:45:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 741615,
       "sport_name": "Muscle Pump",
       "title": "Training",
@@ -11591,6 +11185,20 @@
       "from_date": "2026-08-20T14:45:00Z",
       "to_date": "2026-08-20T15:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 736033,
+      "sport_name": "Segeln Jollen",
+      "title": "Geleitetes Training",
+      "facility_name": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "location": "Wassersportzentrum Tiefenbrunnen (WZT)",
+      "places_free": 0,
+      "places_max": 8,
+      "places_taken": 8,
+      "from_date": "2026-08-20T14:45:00Z",
+      "to_date": "2026-08-20T17:45:00Z",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -13965,9 +13573,9 @@
       "title": "M+F | Spiel & Spass",
       "facility_name": "Tennisanlage Fluntern",
       "location": "Tennisanlage Fluntern",
-      "places_free": 2,
+      "places_free": 1,
       "places_max": 8,
-      "places_taken": 6,
+      "places_taken": 7,
       "from_date": "2026-08-21T11:00:00Z",
       "to_date": "2026-08-21T13:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
@@ -19238,20 +18846,6 @@
       "cancelled": false
     },
     {
-      "nid": 891266,
-      "sport_name": "Schwimmen",
-      "title": "Crawl Crashkurs E/M",
-      "facility_name": "Bad Bungertwies",
-      "location": "Bad Bungertwies",
-      "places_free": 0,
-      "places_max": 16,
-      "places_taken": 16,
-      "from_date": "2026-08-24T17:30:00Z",
-      "to_date": "2026-09-14T19:00:00Z",
-      "niveau_name": "Einsteiger + Mittlere",
-      "cancelled": false
-    },
-    {
       "nid": 982987,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -19263,6 +18857,20 @@
       "from_date": "2026-08-24T17:30:00Z",
       "to_date": "2026-08-24T18:30:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 891266,
+      "sport_name": "Schwimmen",
+      "title": "Crawl Crashkurs E/M",
+      "facility_name": "Bad Bungertwies",
+      "location": "Bad Bungertwies",
+      "places_free": 0,
+      "places_max": 16,
+      "places_taken": 16,
+      "from_date": "2026-08-24T17:30:00Z",
+      "to_date": "2026-09-14T19:00:00Z",
+      "niveau_name": "Einsteiger + Mittlere",
       "cancelled": false
     },
     {
@@ -19812,20 +19420,6 @@
       "cancelled": false
     },
     {
-      "nid": 731075,
-      "sport_name": "Testangebot",
-      "title": "Körperzusammensetzung BIA",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": 1,
-      "places_max": 1,
-      "places_taken": 0,
-      "from_date": "2026-08-25T08:30:00Z",
-      "to_date": "2026-08-25T09:30:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 982991,
       "sport_name": "Padel",
       "title": "Platzreservation Outdoor",
@@ -19834,6 +19428,20 @@
       "places_free": null,
       "places_max": 1,
       "places_taken": null,
+      "from_date": "2026-08-25T08:30:00Z",
+      "to_date": "2026-08-25T09:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 731075,
+      "sport_name": "Testangebot",
+      "title": "Körperzusammensetzung BIA",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": 1,
+      "places_max": 1,
+      "places_taken": 0,
       "from_date": "2026-08-25T08:30:00Z",
       "to_date": "2026-08-25T09:30:00Z",
       "niveau_name": "Alle",
@@ -19910,20 +19518,6 @@
       "cancelled": false
     },
     {
-      "nid": 751612,
-      "sport_name": "Seniorenuni Sport",
-      "title": "Tanzen 60plus",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": 50,
-      "places_max": 50,
-      "places_taken": 0,
-      "from_date": "2026-08-25T09:00:00Z",
-      "to_date": "2026-08-25T09:50:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 740097,
       "sport_name": "Modern Contemporary",
       "title": "Training",
@@ -19935,6 +19529,20 @@
       "from_date": "2026-08-25T09:00:00Z",
       "to_date": "2026-08-25T09:55:00Z",
       "niveau_name": "Einsteiger 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 751612,
+      "sport_name": "Seniorenuni Sport",
+      "title": "Tanzen 60plus",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": 50,
+      "places_max": 50,
+      "places_taken": 0,
+      "from_date": "2026-08-25T09:00:00Z",
+      "to_date": "2026-08-25T09:50:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -35730,20 +35338,6 @@
       "cancelled": false
     },
     {
-      "nid": 732239,
-      "sport_name": "CrossFit",
-      "title": "Training",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 10,
-      "places_max": 10,
-      "places_taken": 0,
-      "from_date": "2026-09-01T15:00:00Z",
-      "to_date": "2026-09-01T16:00:00Z",
-      "niveau_name": "Fortgeschrittene",
-      "cancelled": false
-    },
-    {
       "nid": 747314,
       "sport_name": "Pilates",
       "title": "Training",
@@ -35783,6 +35377,20 @@
       "from_date": "2026-09-01T15:00:00Z",
       "to_date": "2026-09-01T16:55:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 732239,
+      "sport_name": "CrossFit",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 10,
+      "places_max": 10,
+      "places_taken": 0,
+      "from_date": "2026-09-01T15:00:00Z",
+      "to_date": "2026-09-01T16:00:00Z",
+      "niveau_name": "Fortgeschrittene",
       "cancelled": false
     },
     {
@@ -42800,20 +42408,6 @@
       "cancelled": false
     },
     {
-      "nid": 747122,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": 25,
-      "places_max": 25,
-      "places_taken": 0,
-      "from_date": "2026-09-04T09:00:00Z",
-      "to_date": "2026-09-04T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 767522,
       "sport_name": "TRX Suspension Training",
       "title": "Training",
@@ -42824,6 +42418,20 @@
       "places_taken": 0,
       "from_date": "2026-09-04T09:00:00Z",
       "to_date": "2026-09-04T09:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 747122,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": 25,
+      "places_max": 25,
+      "places_taken": 0,
+      "from_date": "2026-09-04T09:00:00Z",
+      "to_date": "2026-09-04T10:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -44060,20 +43668,6 @@
       "cancelled": false
     },
     {
-      "nid": 755848,
-      "sport_name": "Fussball",
-      "title": "Freies Spiel, Kunstrasen",
-      "facility_name": "Sport Center Fluntern",
-      "location": "Sport Center Fluntern",
-      "places_free": 42,
-      "places_max": 42,
-      "places_taken": 0,
-      "from_date": "2026-09-04T16:15:00Z",
-      "to_date": "2026-09-04T17:45:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 756478,
       "sport_name": "Rowing Class",
       "title": "Training",
@@ -44096,6 +43690,20 @@
       "places_free": null,
       "places_max": 20,
       "places_taken": null,
+      "from_date": "2026-09-04T16:15:00Z",
+      "to_date": "2026-09-04T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 755848,
+      "sport_name": "Fussball",
+      "title": "Freies Spiel, Kunstrasen",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern",
+      "places_free": 42,
+      "places_max": 42,
+      "places_taken": 0,
       "from_date": "2026-09-04T16:15:00Z",
       "to_date": "2026-09-04T17:45:00Z",
       "niveau_name": "Alle",
@@ -51760,11 +51368,11 @@
       "cancelled": false
     },
     {
-      "nid": 744943,
-      "sport_name": "Bodyforming",
-      "title": "Core Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
+      "nid": 754105,
+      "sport_name": "TRX Suspension Training",
+      "title": "Training",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
       "places_free": 25,
       "places_max": 25,
       "places_taken": 0,
@@ -51774,11 +51382,11 @@
       "cancelled": false
     },
     {
-      "nid": 754105,
-      "sport_name": "TRX Suspension Training",
-      "title": "Training",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
+      "nid": 744943,
+      "sport_name": "Bodyforming",
+      "title": "Core Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
       "places_free": 25,
       "places_max": 25,
       "places_taken": 0,
@@ -52012,20 +51620,6 @@
       "cancelled": false
     },
     {
-      "nid": 744945,
-      "sport_name": "Bodyforming",
-      "title": "Core Training",
-      "facility_name": "Sport Center Hönggerberg",
-      "location": "Sport Center Hönggerberg",
-      "places_free": 25,
-      "places_max": 25,
-      "places_taken": 0,
-      "from_date": "2026-09-09T10:05:00Z",
-      "to_date": "2026-09-09T11:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 745523,
       "sport_name": "Yoga",
       "title": "Training",
@@ -52036,6 +51630,20 @@
       "places_taken": 0,
       "from_date": "2026-09-09T10:05:00Z",
       "to_date": "2026-09-09T11:15:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 744945,
+      "sport_name": "Bodyforming",
+      "title": "Core Training",
+      "facility_name": "Sport Center Hönggerberg",
+      "location": "Sport Center Hönggerberg",
+      "places_free": 25,
+      "places_max": 25,
+      "places_taken": 0,
+      "from_date": "2026-09-09T10:05:00Z",
+      "to_date": "2026-09-09T11:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -61994,6 +61602,20 @@
       "cancelled": false
     },
     {
+      "nid": 985594,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-14T16:15:00Z",
+      "to_date": "2026-09-14T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906567,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -63982,6 +63604,20 @@
       "cancelled": false
     },
     {
+      "nid": 985615,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-15T15:00:00Z",
+      "to_date": "2026-09-15T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944055,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -64612,6 +64248,20 @@
       "cancelled": false
     },
     {
+      "nid": 985616,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-15T16:15:00Z",
+      "to_date": "2026-09-15T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923704,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -65113,6 +64763,20 @@
       "from_date": "2026-09-15T18:00:00Z",
       "to_date": "2026-10-13T19:00:00Z",
       "niveau_name": "Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 985617,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-15T18:00:00Z",
+      "to_date": "2026-09-15T19:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -67101,6 +66765,20 @@
       "from_date": "2026-09-16T16:15:00Z",
       "to_date": "2026-09-16T17:45:00Z",
       "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985618,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-16T16:15:00Z",
+      "to_date": "2026-09-16T17:45:00Z",
+      "niveau_name": "Einsteiger",
       "cancelled": false
     },
     {
@@ -69176,6 +68854,20 @@
       "cancelled": false
     },
     {
+      "nid": 985619,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-17T15:00:00Z",
+      "to_date": "2026-09-17T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942378,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -69718,6 +69410,20 @@
       "places_taken": null,
       "from_date": "2026-09-17T16:15:00Z",
       "to_date": "2026-09-17T16:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985620,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-17T16:15:00Z",
+      "to_date": "2026-09-17T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -72144,6 +71850,20 @@
       "cancelled": false
     },
     {
+      "nid": 985621,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-18T16:15:00Z",
+      "to_date": "2026-09-18T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906578,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -72340,6 +72060,20 @@
       "cancelled": false
     },
     {
+      "nid": 985825,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-18T17:30:00Z",
+      "to_date": "2026-09-18T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907368,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -72462,6 +72196,20 @@
       "places_taken": null,
       "from_date": "2026-09-18T18:30:00Z",
       "to_date": "2026-09-18T19:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985721,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-18T18:40:00Z",
+      "to_date": "2026-09-18T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -75714,6 +75462,20 @@
       "cancelled": false
     },
     {
+      "nid": 985595,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-21T16:15:00Z",
+      "to_date": "2026-09-21T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906581,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -77786,6 +77548,20 @@
       "cancelled": false
     },
     {
+      "nid": 985622,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-22T15:00:00Z",
+      "to_date": "2026-09-22T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944064,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -78346,6 +78122,20 @@
       "cancelled": false
     },
     {
+      "nid": 985623,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-22T16:15:00Z",
+      "to_date": "2026-09-22T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923733,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -78804,6 +78594,20 @@
       "places_taken": null,
       "from_date": "2026-09-22T18:00:00Z",
       "to_date": "2026-09-22T18:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985624,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-22T18:00:00Z",
+      "to_date": "2026-09-22T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -80705,6 +80509,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-23T16:15:00Z",
+      "to_date": "2026-09-23T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985625,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-23T16:15:00Z",
+      "to_date": "2026-09-23T17:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985762,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-09-23T16:15:00Z",
       "to_date": "2026-09-23T17:45:00Z",
@@ -82728,6 +82560,20 @@
       "cancelled": false
     },
     {
+      "nid": 985626,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-24T15:00:00Z",
+      "to_date": "2026-09-24T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942384,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -83200,6 +83046,20 @@
       "places_taken": null,
       "from_date": "2026-09-24T16:15:00Z",
       "to_date": "2026-09-24T16:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985627,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-24T16:15:00Z",
+      "to_date": "2026-09-24T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -85514,6 +85374,20 @@
       "cancelled": false
     },
     {
+      "nid": 985628,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-25T16:15:00Z",
+      "to_date": "2026-09-25T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906592,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -85780,6 +85654,20 @@
       "cancelled": false
     },
     {
+      "nid": 985826,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-09-25T17:30:00Z",
+      "to_date": "2026-09-25T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907371,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -85944,6 +85832,20 @@
       "places_taken": null,
       "from_date": "2026-09-25T18:30:00Z",
       "to_date": "2026-09-25T19:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985722,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-25T18:40:00Z",
+      "to_date": "2026-09-25T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -89014,6 +88916,20 @@
       "cancelled": false
     },
     {
+      "nid": 985596,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-28T16:15:00Z",
+      "to_date": "2026-09-28T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906517,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -91044,6 +90960,20 @@
       "cancelled": false
     },
     {
+      "nid": 985629,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-29T15:00:00Z",
+      "to_date": "2026-09-29T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944073,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -91548,6 +91478,20 @@
       "cancelled": false
     },
     {
+      "nid": 985630,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-29T16:15:00Z",
+      "to_date": "2026-09-29T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923762,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -91993,6 +91937,20 @@
       "from_date": "2026-09-29T18:00:00Z",
       "to_date": "2026-10-22T19:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985631,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-09-29T18:00:00Z",
+      "to_date": "2026-09-29T19:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -93893,6 +93851,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-30T16:15:00Z",
+      "to_date": "2026-09-30T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985632,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-09-30T16:15:00Z",
+      "to_date": "2026-09-30T17:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985763,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-09-30T16:15:00Z",
       "to_date": "2026-09-30T17:45:00Z",
@@ -95902,6 +95888,20 @@
       "cancelled": false
     },
     {
+      "nid": 985633,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-01T15:00:00Z",
+      "to_date": "2026-10-01T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942390,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -96346,6 +96346,20 @@
       "places_taken": null,
       "from_date": "2026-10-01T16:15:00Z",
       "to_date": "2026-10-01T16:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985634,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-01T16:15:00Z",
+      "to_date": "2026-10-01T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -97386,20 +97400,6 @@
       "cancelled": false
     },
     {
-      "nid": 942392,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": null,
-      "places_max": 25,
-      "places_taken": null,
-      "from_date": "2026-10-02T09:00:00Z",
-      "to_date": "2026-10-02T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 943273,
       "sport_name": "Rückenfit",
       "title": "Training",
@@ -97452,6 +97452,20 @@
       "places_taken": null,
       "from_date": "2026-10-02T09:00:00Z",
       "to_date": "2026-10-02T09:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 942392,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 25,
+      "places_taken": null,
+      "from_date": "2026-10-02T09:00:00Z",
+      "to_date": "2026-10-02T10:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -98646,6 +98660,20 @@
       "cancelled": false
     },
     {
+      "nid": 985635,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-02T16:15:00Z",
+      "to_date": "2026-10-02T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906604,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -98842,6 +98870,20 @@
       "cancelled": false
     },
     {
+      "nid": 985827,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-02T17:30:00Z",
+      "to_date": "2026-10-02T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907374,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -98964,6 +99006,20 @@
       "places_taken": null,
       "from_date": "2026-10-02T18:30:00Z",
       "to_date": "2026-10-02T19:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985723,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-02T18:40:00Z",
+      "to_date": "2026-10-02T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -101880,6 +101936,20 @@
       "cancelled": false
     },
     {
+      "nid": 985597,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-05T16:15:00Z",
+      "to_date": "2026-10-05T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906605,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -103854,6 +103924,20 @@
       "cancelled": false
     },
     {
+      "nid": 985636,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-06T15:00:00Z",
+      "to_date": "2026-10-06T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944082,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -104330,6 +104414,20 @@
       "cancelled": false
     },
     {
+      "nid": 985637,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-06T16:15:00Z",
+      "to_date": "2026-10-06T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923791,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -104746,6 +104844,20 @@
       "places_taken": null,
       "from_date": "2026-10-06T18:00:00Z",
       "to_date": "2026-10-06T18:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985638,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-06T18:00:00Z",
+      "to_date": "2026-10-06T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -106605,6 +106717,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-07T16:15:00Z",
+      "to_date": "2026-10-07T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985639,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-07T16:15:00Z",
+      "to_date": "2026-10-07T17:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985764,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-10-07T16:15:00Z",
       "to_date": "2026-10-07T17:45:00Z",
@@ -108558,6 +108698,20 @@
       "cancelled": false
     },
     {
+      "nid": 985640,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-08T15:00:00Z",
+      "to_date": "2026-10-08T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942396,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -108988,6 +109142,20 @@
       "places_taken": null,
       "from_date": "2026-10-08T16:15:00Z",
       "to_date": "2026-10-08T16:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985641,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-08T16:15:00Z",
+      "to_date": "2026-10-08T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -109986,20 +110154,6 @@
       "cancelled": false
     },
     {
-      "nid": 942398,
-      "sport_name": "Pilates",
-      "title": "Training",
-      "facility_name": "Sport Center Winterthur",
-      "location": "Sport Center Winterthur",
-      "places_free": null,
-      "places_max": 25,
-      "places_taken": null,
-      "from_date": "2026-10-09T09:00:00Z",
-      "to_date": "2026-10-09T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
       "nid": 943278,
       "sport_name": "Rückenfit",
       "title": "Training",
@@ -110021,6 +110175,20 @@
       "location": "Sport Center Polyterrasse",
       "places_free": null,
       "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-09T09:00:00Z",
+      "to_date": "2026-10-09T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 942398,
+      "sport_name": "Pilates",
+      "title": "Training",
+      "facility_name": "Sport Center Winterthur",
+      "location": "Sport Center Winterthur",
+      "places_free": null,
+      "places_max": 25,
       "places_taken": null,
       "from_date": "2026-10-09T09:00:00Z",
       "to_date": "2026-10-09T10:00:00Z",
@@ -111162,6 +111330,20 @@
       "cancelled": false
     },
     {
+      "nid": 985642,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-09T16:15:00Z",
+      "to_date": "2026-10-09T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906616,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -111372,6 +111554,20 @@
       "cancelled": false
     },
     {
+      "nid": 985828,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-09T17:30:00Z",
+      "to_date": "2026-10-09T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907377,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -111494,6 +111690,20 @@
       "places_taken": null,
       "from_date": "2026-10-09T18:30:00Z",
       "to_date": "2026-10-09T19:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985724,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-09T18:40:00Z",
+      "to_date": "2026-10-09T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -114382,6 +114592,20 @@
       "cancelled": false
     },
     {
+      "nid": 985598,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-12T16:15:00Z",
+      "to_date": "2026-10-12T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 906619,
       "sport_name": "CrossFit",
       "title": "Training",
@@ -115334,6 +115558,20 @@
       "cancelled": false
     },
     {
+      "nid": 889843,
+      "sport_name": "Testangebot",
+      "title": "Körperzusammensetzung BIA",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 1,
+      "places_taken": null,
+      "from_date": "2026-10-13T07:30:00Z",
+      "to_date": "2026-10-13T08:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 905259,
       "sport_name": "Seniorenuni Sport",
       "title": "Fitnessberatung Basic | Einführung in's Krafttraining",
@@ -115359,20 +115597,6 @@
       "from_date": "2026-10-13T07:30:00Z",
       "to_date": "2026-10-13T08:55:00Z",
       "niveau_name": "Einsteiger 1",
-      "cancelled": false
-    },
-    {
-      "nid": 889843,
-      "sport_name": "Testangebot",
-      "title": "Körperzusammensetzung BIA",
-      "facility_name": "Sport Center Polyterrasse",
-      "location": "Sport Center Polyterrasse",
-      "places_free": null,
-      "places_max": 1,
-      "places_taken": null,
-      "from_date": "2026-10-13T07:30:00Z",
-      "to_date": "2026-10-13T08:30:00Z",
-      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -115442,20 +115666,6 @@
       "places_taken": null,
       "from_date": "2026-10-13T08:50:00Z",
       "to_date": "2026-10-13T10:00:00Z",
-      "niveau_name": "Alle",
-      "cancelled": false
-    },
-    {
-      "nid": 905293,
-      "sport_name": "Seniorenuni Sport",
-      "title": "Tanzen 60plus",
-      "facility_name": "Sport Center Irchel",
-      "location": "Sport Center Irchel",
-      "places_free": null,
-      "places_max": 50,
-      "places_taken": null,
-      "from_date": "2026-10-13T09:00:00Z",
-      "to_date": "2026-10-13T09:50:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -115540,6 +115750,20 @@
       "places_taken": null,
       "from_date": "2026-10-13T09:00:00Z",
       "to_date": "2026-10-13T10:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 905293,
+      "sport_name": "Seniorenuni Sport",
+      "title": "Tanzen 60plus",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 50,
+      "places_taken": null,
+      "from_date": "2026-10-13T09:00:00Z",
+      "to_date": "2026-10-13T09:50:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -116370,6 +116594,20 @@
       "cancelled": false
     },
     {
+      "nid": 985643,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-13T15:00:00Z",
+      "to_date": "2026-10-13T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944091,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -116846,6 +117084,20 @@
       "cancelled": false
     },
     {
+      "nid": 985644,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-13T16:15:00Z",
+      "to_date": "2026-10-13T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923819,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -117276,6 +117528,20 @@
       "places_taken": null,
       "from_date": "2026-10-13T18:00:00Z",
       "to_date": "2026-10-13T18:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985645,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-13T18:00:00Z",
+      "to_date": "2026-10-13T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -119079,6 +119345,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-14T16:15:00Z",
+      "to_date": "2026-10-14T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985646,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-14T16:15:00Z",
+      "to_date": "2026-10-14T17:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985765,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-10-14T16:15:00Z",
       "to_date": "2026-10-14T17:45:00Z",
@@ -121032,6 +121326,20 @@
       "cancelled": false
     },
     {
+      "nid": 985647,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-15T15:00:00Z",
+      "to_date": "2026-10-15T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942402,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -121476,6 +121784,20 @@
       "places_taken": null,
       "from_date": "2026-10-15T16:15:00Z",
       "to_date": "2026-10-15T16:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985648,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-15T16:15:00Z",
+      "to_date": "2026-10-15T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -123678,6 +124000,20 @@
       "cancelled": false
     },
     {
+      "nid": 985649,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-16T16:15:00Z",
+      "to_date": "2026-10-16T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917943,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -123874,6 +124210,20 @@
       "cancelled": false
     },
     {
+      "nid": 985829,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-16T17:30:00Z",
+      "to_date": "2026-10-16T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907380,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -123996,6 +124346,20 @@
       "places_taken": null,
       "from_date": "2026-10-16T18:30:00Z",
       "to_date": "2026-10-16T19:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985725,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-16T18:40:00Z",
+      "to_date": "2026-10-16T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -127038,6 +127402,20 @@
       "cancelled": false
     },
     {
+      "nid": 985599,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-19T16:15:00Z",
+      "to_date": "2026-10-19T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918023,
       "sport_name": "Ballett",
       "title": "Training",
@@ -129222,6 +129600,20 @@
       "cancelled": false
     },
     {
+      "nid": 985650,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-20T15:00:00Z",
+      "to_date": "2026-10-20T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944100,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -129698,6 +130090,20 @@
       "cancelled": false
     },
     {
+      "nid": 985651,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-20T16:15:00Z",
+      "to_date": "2026-10-20T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923848,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -130128,6 +130534,20 @@
       "places_taken": null,
       "from_date": "2026-10-20T18:00:00Z",
       "to_date": "2026-10-20T18:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985652,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-20T18:00:00Z",
+      "to_date": "2026-10-20T19:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -131935,6 +132355,34 @@
       "from_date": "2026-10-21T16:15:00Z",
       "to_date": "2026-10-21T17:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985653,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-21T16:15:00Z",
+      "to_date": "2026-10-21T17:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985766,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-10-21T16:15:00Z",
+      "to_date": "2026-10-21T17:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -134010,6 +134458,20 @@
       "cancelled": false
     },
     {
+      "nid": 985654,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-22T15:00:00Z",
+      "to_date": "2026-10-22T16:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942408,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -134454,6 +134916,20 @@
       "places_taken": null,
       "from_date": "2026-10-22T16:15:00Z",
       "to_date": "2026-10-22T16:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985655,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-22T16:15:00Z",
+      "to_date": "2026-10-22T17:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -136810,6 +137286,20 @@
       "cancelled": false
     },
     {
+      "nid": 985656,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-23T16:15:00Z",
+      "to_date": "2026-10-23T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917946,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -137020,6 +137510,20 @@
       "cancelled": false
     },
     {
+      "nid": 985830,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-23T17:30:00Z",
+      "to_date": "2026-10-23T19:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907383,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -137157,6 +137661,20 @@
       "from_date": "2026-10-23T18:30:00Z",
       "to_date": "2026-12-04T20:55:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985726,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-23T18:40:00Z",
+      "to_date": "2026-10-23T20:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -139974,6 +140492,20 @@
       "cancelled": false
     },
     {
+      "nid": 985600,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-26T17:15:00Z",
+      "to_date": "2026-10-26T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918028,
       "sport_name": "Ballett",
       "title": "Training",
@@ -141990,6 +142522,20 @@
       "cancelled": false
     },
     {
+      "nid": 985657,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-27T16:00:00Z",
+      "to_date": "2026-10-27T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944109,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -142522,6 +143068,20 @@
       "cancelled": false
     },
     {
+      "nid": 985658,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-27T17:15:00Z",
+      "to_date": "2026-10-27T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923877,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -142966,6 +143526,20 @@
       "places_taken": null,
       "from_date": "2026-10-27T19:00:00Z",
       "to_date": "2026-10-27T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985659,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-10-27T19:00:00Z",
+      "to_date": "2026-10-27T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -144755,6 +145329,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-28T17:15:00Z",
+      "to_date": "2026-10-28T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985660,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-28T17:15:00Z",
+      "to_date": "2026-10-28T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985767,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-10-28T17:15:00Z",
       "to_date": "2026-10-28T18:45:00Z",
@@ -146708,6 +147310,20 @@
       "cancelled": false
     },
     {
+      "nid": 985661,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-29T16:00:00Z",
+      "to_date": "2026-10-29T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942414,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -147138,6 +147754,20 @@
       "places_taken": null,
       "from_date": "2026-10-29T17:15:00Z",
       "to_date": "2026-10-29T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985662,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-29T17:15:00Z",
+      "to_date": "2026-10-29T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -149326,6 +149956,20 @@
       "cancelled": false
     },
     {
+      "nid": 985663,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-30T17:15:00Z",
+      "to_date": "2026-10-30T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917949,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -149522,6 +150166,20 @@
       "cancelled": false
     },
     {
+      "nid": 985831,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-10-30T18:30:00Z",
+      "to_date": "2026-10-30T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907386,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -149630,6 +150288,20 @@
       "places_taken": null,
       "from_date": "2026-10-30T19:30:00Z",
       "to_date": "2026-10-30T20:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985727,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-10-30T19:40:00Z",
+      "to_date": "2026-10-30T21:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -152462,6 +153134,20 @@
       "cancelled": false
     },
     {
+      "nid": 985601,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-02T17:15:00Z",
+      "to_date": "2026-11-02T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918033,
       "sport_name": "Ballett",
       "title": "Training",
@@ -154450,6 +155136,20 @@
       "cancelled": false
     },
     {
+      "nid": 985664,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-03T16:00:00Z",
+      "to_date": "2026-11-03T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944118,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -154940,6 +155640,20 @@
       "cancelled": false
     },
     {
+      "nid": 985665,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-03T17:15:00Z",
+      "to_date": "2026-11-03T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923906,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -155328,6 +156042,20 @@
       "places_taken": null,
       "from_date": "2026-11-03T19:00:00Z",
       "to_date": "2026-11-03T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985666,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-03T19:00:00Z",
+      "to_date": "2026-11-03T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -157065,6 +157793,34 @@
       "from_date": "2026-11-04T17:15:00Z",
       "to_date": "2026-11-04T18:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985667,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-04T17:15:00Z",
+      "to_date": "2026-11-04T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985768,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-11-04T17:15:00Z",
+      "to_date": "2026-11-04T18:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -158986,6 +159742,20 @@
       "cancelled": false
     },
     {
+      "nid": 985668,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-05T16:00:00Z",
+      "to_date": "2026-11-05T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942420,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -159416,6 +160186,20 @@
       "places_taken": null,
       "from_date": "2026-11-05T17:15:00Z",
       "to_date": "2026-11-05T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985669,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-05T17:15:00Z",
+      "to_date": "2026-11-05T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -161548,6 +162332,20 @@
       "cancelled": false
     },
     {
+      "nid": 985670,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-06T17:15:00Z",
+      "to_date": "2026-11-06T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917952,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -161758,6 +162556,20 @@
       "cancelled": false
     },
     {
+      "nid": 985832,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-06T18:30:00Z",
+      "to_date": "2026-11-06T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907389,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -161866,6 +162678,20 @@
       "places_taken": null,
       "from_date": "2026-11-06T19:30:00Z",
       "to_date": "2026-11-06T20:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985728,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-06T19:40:00Z",
+      "to_date": "2026-11-06T21:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -164488,6 +165314,20 @@
       "cancelled": false
     },
     {
+      "nid": 985602,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-09T17:15:00Z",
+      "to_date": "2026-11-09T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918038,
       "sport_name": "Ballett",
       "title": "Training",
@@ -166476,6 +167316,20 @@
       "cancelled": false
     },
     {
+      "nid": 985671,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-10T16:00:00Z",
+      "to_date": "2026-11-10T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944127,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -166952,6 +167806,20 @@
       "cancelled": false
     },
     {
+      "nid": 985672,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-10T17:15:00Z",
+      "to_date": "2026-11-10T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923935,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -167397,6 +168265,20 @@
       "from_date": "2026-11-10T19:00:00Z",
       "to_date": "2026-12-03T20:00:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985673,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-10T19:00:00Z",
+      "to_date": "2026-11-10T20:30:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -169199,6 +170081,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-11T17:15:00Z",
+      "to_date": "2026-11-11T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985674,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-11T17:15:00Z",
+      "to_date": "2026-11-11T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985769,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-11-11T17:15:00Z",
       "to_date": "2026-11-11T18:45:00Z",
@@ -171124,6 +172034,20 @@
       "cancelled": false
     },
     {
+      "nid": 985675,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-12T16:00:00Z",
+      "to_date": "2026-11-12T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942426,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -171554,6 +172478,20 @@
       "places_taken": null,
       "from_date": "2026-11-12T17:15:00Z",
       "to_date": "2026-11-12T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985676,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-12T17:15:00Z",
+      "to_date": "2026-11-12T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -173700,6 +174638,20 @@
       "cancelled": false
     },
     {
+      "nid": 985677,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-13T17:15:00Z",
+      "to_date": "2026-11-13T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917953,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -173896,6 +174848,20 @@
       "cancelled": false
     },
     {
+      "nid": 985833,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-13T18:30:00Z",
+      "to_date": "2026-11-13T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907392,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -174004,6 +174970,20 @@
       "places_taken": null,
       "from_date": "2026-11-13T19:30:00Z",
       "to_date": "2026-11-13T20:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985729,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-13T19:40:00Z",
+      "to_date": "2026-11-13T21:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -176780,6 +177760,20 @@
       "cancelled": false
     },
     {
+      "nid": 985603,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-16T17:15:00Z",
+      "to_date": "2026-11-16T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918043,
       "sport_name": "Ballett",
       "title": "Training",
@@ -178782,6 +179776,20 @@
       "cancelled": false
     },
     {
+      "nid": 985678,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-17T16:00:00Z",
+      "to_date": "2026-11-17T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944136,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -179258,6 +180266,20 @@
       "cancelled": false
     },
     {
+      "nid": 985679,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-17T17:15:00Z",
+      "to_date": "2026-11-17T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923964,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -179688,6 +180710,20 @@
       "places_taken": null,
       "from_date": "2026-11-17T19:00:00Z",
       "to_date": "2026-11-17T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985680,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-17T19:00:00Z",
+      "to_date": "2026-11-17T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -181439,6 +182475,34 @@
       "from_date": "2026-11-18T17:15:00Z",
       "to_date": "2026-11-18T18:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985681,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-18T17:15:00Z",
+      "to_date": "2026-11-18T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985770,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-11-18T17:15:00Z",
+      "to_date": "2026-11-18T18:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -183360,6 +184424,20 @@
       "cancelled": false
     },
     {
+      "nid": 985682,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-19T16:00:00Z",
+      "to_date": "2026-11-19T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942432,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -183790,6 +184868,20 @@
       "places_taken": null,
       "from_date": "2026-11-19T17:15:00Z",
       "to_date": "2026-11-19T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985683,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-19T17:15:00Z",
+      "to_date": "2026-11-19T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -185922,6 +187014,20 @@
       "cancelled": false
     },
     {
+      "nid": 985684,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-20T17:15:00Z",
+      "to_date": "2026-11-20T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917956,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -186118,6 +187224,20 @@
       "cancelled": false
     },
     {
+      "nid": 985834,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-11-20T18:30:00Z",
+      "to_date": "2026-11-20T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907395,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -186226,6 +187346,20 @@
       "places_taken": null,
       "from_date": "2026-11-20T19:30:00Z",
       "to_date": "2026-11-20T20:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985730,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-20T19:40:00Z",
+      "to_date": "2026-11-20T21:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -188960,6 +190094,20 @@
       "cancelled": false
     },
     {
+      "nid": 985604,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-23T17:15:00Z",
+      "to_date": "2026-11-23T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918048,
       "sport_name": "Ballett",
       "title": "Training",
@@ -190976,6 +192124,20 @@
       "cancelled": false
     },
     {
+      "nid": 985685,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-24T16:00:00Z",
+      "to_date": "2026-11-24T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944145,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -191452,6 +192614,20 @@
       "cancelled": false
     },
     {
+      "nid": 985686,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-24T17:15:00Z",
+      "to_date": "2026-11-24T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 923993,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -191882,6 +193058,20 @@
       "places_taken": null,
       "from_date": "2026-11-24T19:00:00Z",
       "to_date": "2026-11-24T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985687,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-11-24T19:00:00Z",
+      "to_date": "2026-11-24T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -193451,6 +194641,34 @@
       "from_date": "2026-11-25T17:15:00Z",
       "to_date": "2026-11-25T18:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985688,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-25T17:15:00Z",
+      "to_date": "2026-11-25T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985771,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-11-25T17:15:00Z",
+      "to_date": "2026-11-25T18:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -195064,6 +196282,20 @@
       "cancelled": false
     },
     {
+      "nid": 985689,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-26T16:00:00Z",
+      "to_date": "2026-11-26T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942438,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -195438,6 +196670,20 @@
       "places_taken": null,
       "from_date": "2026-11-26T17:15:00Z",
       "to_date": "2026-11-26T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985690,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-26T17:15:00Z",
+      "to_date": "2026-11-26T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -197150,6 +198396,20 @@
       "cancelled": false
     },
     {
+      "nid": 985691,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-27T17:15:00Z",
+      "to_date": "2026-11-27T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917959,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -197370,6 +198630,20 @@
       "places_taken": null,
       "from_date": "2026-11-27T19:30:00Z",
       "to_date": "2026-11-27T20:35:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985731,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-27T19:40:00Z",
+      "to_date": "2026-11-27T21:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -199866,6 +201140,20 @@
       "cancelled": false
     },
     {
+      "nid": 985605,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-11-30T17:15:00Z",
+      "to_date": "2026-11-30T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918052,
       "sport_name": "Ballett",
       "title": "Training",
@@ -201868,6 +203156,20 @@
       "cancelled": false
     },
     {
+      "nid": 985692,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-01T16:00:00Z",
+      "to_date": "2026-12-01T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944154,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -202358,6 +203660,20 @@
       "cancelled": false
     },
     {
+      "nid": 985693,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-01T17:15:00Z",
+      "to_date": "2026-12-01T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924018,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -202774,6 +204090,20 @@
       "places_taken": null,
       "from_date": "2026-12-01T19:00:00Z",
       "to_date": "2026-12-01T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985694,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-01T19:00:00Z",
+      "to_date": "2026-12-01T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -204511,6 +205841,34 @@
       "from_date": "2026-12-02T17:15:00Z",
       "to_date": "2026-12-02T18:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985695,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-02T17:15:00Z",
+      "to_date": "2026-12-02T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985772,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-12-02T17:15:00Z",
+      "to_date": "2026-12-02T18:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -206418,6 +207776,20 @@
       "cancelled": false
     },
     {
+      "nid": 985696,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-03T16:00:00Z",
+      "to_date": "2026-12-03T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942444,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -206862,6 +208234,20 @@
       "places_taken": null,
       "from_date": "2026-12-03T17:15:00Z",
       "to_date": "2026-12-03T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985697,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-03T17:15:00Z",
+      "to_date": "2026-12-03T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -208798,6 +210184,20 @@
       "cancelled": false
     },
     {
+      "nid": 985698,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-04T17:15:00Z",
+      "to_date": "2026-12-04T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917960,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -208938,6 +210338,20 @@
       "cancelled": false
     },
     {
+      "nid": 985835,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-04T18:30:00Z",
+      "to_date": "2026-12-04T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 914243,
       "sport_name": "Fussball",
       "title": "Futsal, freies Spiel",
@@ -208991,6 +210405,20 @@
       "from_date": "2026-12-04T19:30:00Z",
       "to_date": "2026-12-04T21:15:00Z",
       "niveau_name": "Einsteiger + Mittlere",
+      "cancelled": false
+    },
+    {
+      "nid": 985732,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-04T19:40:00Z",
+      "to_date": "2026-12-04T21:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -211836,6 +213264,20 @@
       "cancelled": false
     },
     {
+      "nid": 985606,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-07T17:15:00Z",
+      "to_date": "2026-12-07T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918057,
       "sport_name": "Ballett",
       "title": "Training",
@@ -213978,6 +215420,20 @@
       "cancelled": false
     },
     {
+      "nid": 985699,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-08T16:00:00Z",
+      "to_date": "2026-12-08T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944163,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -214454,6 +215910,20 @@
       "cancelled": false
     },
     {
+      "nid": 985700,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-08T17:15:00Z",
+      "to_date": "2026-12-08T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924046,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -214870,6 +216340,20 @@
       "places_taken": null,
       "from_date": "2026-12-08T19:00:00Z",
       "to_date": "2026-12-08T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985701,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-08T19:00:00Z",
+      "to_date": "2026-12-08T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -216757,6 +218241,34 @@
       "location": "Sport Center Irchel",
       "places_free": null,
       "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-09T17:15:00Z",
+      "to_date": "2026-12-09T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985702,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-09T17:15:00Z",
+      "to_date": "2026-12-09T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985773,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
       "places_taken": null,
       "from_date": "2026-12-09T17:15:00Z",
       "to_date": "2026-12-09T18:45:00Z",
@@ -218752,6 +220264,20 @@
       "cancelled": false
     },
     {
+      "nid": 985703,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-10T16:00:00Z",
+      "to_date": "2026-12-10T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942450,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -219182,6 +220708,20 @@
       "places_taken": null,
       "from_date": "2026-12-10T17:15:00Z",
       "to_date": "2026-12-10T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985704,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-10T17:15:00Z",
+      "to_date": "2026-12-10T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -221454,6 +222994,20 @@
       "cancelled": false
     },
     {
+      "nid": 985705,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-11T17:15:00Z",
+      "to_date": "2026-12-11T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917963,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -221664,6 +223218,20 @@
       "cancelled": false
     },
     {
+      "nid": 985836,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-11T18:30:00Z",
+      "to_date": "2026-12-11T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907403,
       "sport_name": "Tischtennis",
       "title": "Training",
@@ -221787,6 +223355,20 @@
       "from_date": "2026-12-11T19:30:00Z",
       "to_date": "2027-02-12T20:55:00Z",
       "niveau_name": "Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985733,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": null,
+      "location": "Turnhalle Schönengrund Winterthur",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-11T19:40:00Z",
+      "to_date": "2026-12-11T21:00:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -224576,6 +226158,20 @@
       "cancelled": false
     },
     {
+      "nid": 985607,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-14T17:15:00Z",
+      "to_date": "2026-12-14T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 918062,
       "sport_name": "Ballett",
       "title": "Training",
@@ -226578,6 +228174,20 @@
       "cancelled": false
     },
     {
+      "nid": 985706,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Wädenswil Turnhalle Untermosen",
+      "location": "Wädenswil",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-15T16:00:00Z",
+      "to_date": "2026-12-15T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 944172,
       "sport_name": "Yoga",
       "title": "Training (mit Livestream)",
@@ -227054,6 +228664,20 @@
       "cancelled": false
     },
     {
+      "nid": 985707,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-15T17:15:00Z",
+      "to_date": "2026-12-15T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 924075,
       "sport_name": "Kung Fu",
       "title": "Ving Tsun Training",
@@ -227470,6 +229094,20 @@
       "places_taken": null,
       "from_date": "2026-12-15T19:00:00Z",
       "to_date": "2026-12-15T19:55:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985708,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-15T19:00:00Z",
+      "to_date": "2026-12-15T20:30:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -229207,6 +230845,34 @@
       "from_date": "2026-12-16T17:15:00Z",
       "to_date": "2026-12-16T18:55:00Z",
       "niveau_name": "Mittlere + Fortgeschrittene",
+      "cancelled": false
+    },
+    {
+      "nid": 985709,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-16T17:15:00Z",
+      "to_date": "2026-12-16T18:45:00Z",
+      "niveau_name": "Einsteiger",
+      "cancelled": false
+    },
+    {
+      "nid": 985774,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-12-16T17:15:00Z",
+      "to_date": "2026-12-16T18:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -231100,6 +232766,20 @@
       "cancelled": false
     },
     {
+      "nid": 985710,
+      "sport_name": "Burner Games",
+      "title": "Training für Frauen",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-17T16:00:00Z",
+      "to_date": "2026-12-17T17:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 942456,
       "sport_name": "Aerial Yoga & Fitness",
       "title": "Training",
@@ -231516,6 +233196,20 @@
       "places_taken": null,
       "from_date": "2026-12-17T17:15:00Z",
       "to_date": "2026-12-17T17:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985711,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-17T17:15:00Z",
+      "to_date": "2026-12-17T18:45:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -233606,6 +235300,20 @@
       "cancelled": false
     },
     {
+      "nid": 985712,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Gloriarank",
+      "location": "Sport Center Gloriarank",
+      "places_free": null,
+      "places_max": 20,
+      "places_taken": null,
+      "from_date": "2026-12-18T17:15:00Z",
+      "to_date": "2026-12-18T18:45:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 917966,
       "sport_name": "Jazz Dance",
       "title": "Training",
@@ -233798,6 +235506,20 @@
       "places_taken": null,
       "from_date": "2026-12-18T18:30:00Z",
       "to_date": "2026-12-18T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985837,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2026-12-18T18:30:00Z",
+      "to_date": "2026-12-18T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -238576,6 +240298,20 @@
       "cancelled": false
     },
     {
+      "nid": 985713,
+      "sport_name": "Burner Games",
+      "title": "Training",
+      "facility_name": "Sport Center Fluntern",
+      "location": "Sport Center Fluntern (externe Halle)",
+      "places_free": null,
+      "places_max": 16,
+      "places_taken": null,
+      "from_date": "2026-12-22T19:00:00Z",
+      "to_date": "2026-12-22T20:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 947553,
       "sport_name": "Zumba",
       "title": "Training",
@@ -240029,6 +241765,20 @@
       "from_date": "2026-12-23T17:15:00Z",
       "to_date": "2026-12-23T18:45:00Z",
       "niveau_name": "Fortgeschrittene 1 + 2",
+      "cancelled": false
+    },
+    {
+      "nid": 985775,
+      "sport_name": "Langlauf",
+      "title": "Herbsttraining",
+      "facility_name": "Sport Center Irchel",
+      "location": "Sport Center Irchel",
+      "places_free": null,
+      "places_max": 12,
+      "places_taken": null,
+      "from_date": "2026-12-23T17:15:00Z",
+      "to_date": "2026-12-23T18:45:00Z",
+      "niveau_name": "Alle",
       "cancelled": false
     },
     {
@@ -252352,6 +254102,20 @@
       "cancelled": false
     },
     {
+      "nid": 985838,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-08T18:30:00Z",
+      "to_date": "2027-01-08T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907410,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -264280,6 +266044,20 @@
       "cancelled": false
     },
     {
+      "nid": 985839,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-15T18:30:00Z",
+      "to_date": "2027-01-15T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907413,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -276194,6 +277972,20 @@
       "cancelled": false
     },
     {
+      "nid": 985840,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-22T18:30:00Z",
+      "to_date": "2027-01-22T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907416,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -288048,6 +289840,20 @@
       "places_taken": null,
       "from_date": "2027-01-29T18:30:00Z",
       "to_date": "2027-01-29T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985841,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-01-29T18:30:00Z",
+      "to_date": "2027-01-29T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
@@ -299980,6 +301786,20 @@
       "cancelled": false
     },
     {
+      "nid": 985842,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-05T18:30:00Z",
+      "to_date": "2027-02-05T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907422,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -311852,6 +313672,20 @@
       "cancelled": false
     },
     {
+      "nid": 985843,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-12T18:30:00Z",
+      "to_date": "2027-02-12T20:00:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
       "nid": 907425,
       "sport_name": "Tischtennis",
       "title": "freies Spiel",
@@ -320402,6 +322236,20 @@
       "places_taken": null,
       "from_date": "2027-02-19T18:30:00Z",
       "to_date": "2027-02-19T19:30:00Z",
+      "niveau_name": "Alle",
+      "cancelled": false
+    },
+    {
+      "nid": 985844,
+      "sport_name": "Cycling Class",
+      "title": "Training",
+      "facility_name": "Sport Center Polyterrasse",
+      "location": "Sport Center Polyterrasse",
+      "places_free": null,
+      "places_max": 35,
+      "places_taken": null,
+      "from_date": "2027-02-19T18:30:00Z",
+      "to_date": "2027-02-19T20:00:00Z",
       "niveau_name": "Alle",
       "cancelled": false
     },
