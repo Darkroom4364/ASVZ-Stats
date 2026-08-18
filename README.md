@@ -22,7 +22,7 @@ Live at: `https://darkroom4364.github.io/ASVZ-Stats/`
 
 ## Data
 
-- Raw snapshots: `data/raw/YYYY-MM-DD.json` (retained 90 days)
+- Raw snapshots: `data/raw/YYYY-MM-DDTHH-MM-SS.ffffffZ.json.gz` (one gzip-compressed snapshot per file; retained 90 days)
 - Pre-computed summaries: `data/summary/*.json`
 
 ## Local development

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Collect ASVZ event occupancy snapshots."""
 
+import gzip
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -45,23 +46,17 @@ def fetch_all_events():
 
 def main():
     events = fetch_all_events()
+    now = datetime.now(timezone.utc)
     snapshot = {
-        "ts": datetime.now(timezone.utc).isoformat(),
+        "ts": now.isoformat(),
         "events": events,
     }
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     out_dir = REPO_ROOT / "data" / "raw"
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_file = out_dir / f"{today}.json"
-
-    if out_file.exists():
-        snapshots = json.loads(out_file.read_text())
-    else:
-        snapshots = []
-
-    snapshots.append(snapshot)
-    out_file.write_text(json.dumps(snapshots, indent=2))
+    out_file = out_dir / f"{now:%Y-%m-%dT%H-%M-%S.%fZ}.json.gz"
+    with gzip.open(out_file, "wt", encoding="utf-8") as f:
+        json.dump([snapshot], f, ensure_ascii=False, separators=(",", ":"))
     print(f"Collected {len(events)} events → {out_file}")
 
 

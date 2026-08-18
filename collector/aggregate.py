@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Aggregate raw ASVZ snapshots into summary files for the dashboard."""
 
+import gzip
 import json
 from collections import defaultdict
 from datetime import datetime
@@ -19,14 +20,17 @@ OUT_DIR = REPO_ROOT / "docs" / "data" / "summary"
 
 
 def load_all_snapshots():
-    """Yield every snapshot dict from all raw JSON files."""
+    """Yield every snapshot from legacy JSON or compressed JSON files."""
     if not RAW_DIR.exists():
         return
-    for f in sorted(RAW_DIR.glob("*.json")):
+    files = sorted((*RAW_DIR.glob("*.json"), *RAW_DIR.glob("*.json.gz")))
+    for f in files:
         try:
-            for snap in json.loads(f.read_text()):
-                yield snap
-        except (json.JSONDecodeError, TypeError):
+            open_file = gzip.open if f.suffix == ".gz" else open
+            with open_file(f, "rt", encoding="utf-8") as raw:
+                for snap in json.load(raw):
+                    yield snap
+        except (OSError, EOFError, UnicodeDecodeError, json.JSONDecodeError, TypeError):
             continue
 
 
@@ -41,12 +45,6 @@ def valid_events(snapshot):
         yield e
 
 
-def build_latest(snapshots):
-    """Return the last snapshot from the last raw file, or None."""
-    latest = None
-    for snap in snapshots:
-        latest = snap
-    return latest
 
 
 def build_sport_details(all_events):
@@ -140,23 +138,25 @@ def write_json(path, obj):
 
 
 def main():
-    snapshots = list(load_all_snapshots())
-
-    # latest.json
-    latest = build_latest(iter(snapshots)) if snapshots else None
-    write_json(OUT_DIR / "latest.json", latest or {})
-
-    # Collect all valid events, keeping only the peak observation per event
-    # (highest places_taken) to reflect actual fill, not early registration
+    latest = None
     best = {}
-    for snap in snapshots:
-        for e in valid_events(snap):
+    snapshot_count = 0
+    for snapshot in load_all_snapshots():
+        snapshot_count += 1
+        latest = snapshot
+        for e in valid_events(snapshot):
             nid = e.get("nid")
             if nid is None:
                 continue
             prev = best.get(nid)
             if prev is None or (e.get("places_taken") or 0) > (prev.get("places_taken") or 0):
                 best[nid] = e
+
+    # latest.json
+    write_json(OUT_DIR / "latest.json", latest or {})
+
+    # Collect all valid events, keeping only the peak observation per event
+    # (highest places_taken) to reflect actual fill, not early registration
     all_events = list(best.values())
 
     # sport_details.json
@@ -171,7 +171,7 @@ def main():
         if p.exists():
             p.unlink()
 
-    print(f"Aggregated {len(snapshots)} snapshots, {len(all_events)} events → {OUT_DIR}")
+    print(f"Aggregated {snapshot_count} snapshots, {len(all_events)} events → {OUT_DIR}")
 
 
 if __name__ == "__main__":

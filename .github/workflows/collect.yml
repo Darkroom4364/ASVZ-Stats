@@ -24,11 +24,15 @@ jobs:
       - name: Run collector
         run: python collector/collect.py
 
+      - name: Cleanup old raw data
+        run: |
+          cutoff=$(date -u -d '89 days ago' +%F)
+          for file in data/raw/*.json data/raw/*.json.gz; do
+            [[ -e "$file" && "${file##*/}" < "$cutoff" ]] && rm "$file"
+          done
+
       - name: Run aggregator
         run: python collector/aggregate.py
-
-      - name: Cleanup old raw data
-        run: find data/raw -name "*.json" -mtime +90 -delete
 
       - name: Commit and push
         run: |
