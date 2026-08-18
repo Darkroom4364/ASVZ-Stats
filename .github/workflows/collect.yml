@@ -28,7 +28,9 @@ jobs:
         run: |
           cutoff=$(date -u -d '89 days ago' +%F)
           for file in data/raw/*.json data/raw/*.json.gz; do
-            [[ -e "$file" && "${file##*/}" < "$cutoff" ]] && rm "$file"
+            if [[ -e "$file" && "${file##*/}" < "$cutoff" ]]; then
+              rm "$file"
+            fi
           done
 
       - name: Run aggregator
