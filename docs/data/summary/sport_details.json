@@ -33,14 +33,14 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 20.9,
-        "places_taken": 181,
+        "avg_occupancy_pct": 21.0,
+        "places_taken": 182,
         "places_max": 400,
         "data_points": 3,
         "by_hour": {
           "6": 0.0,
           "12": 17.5,
-          "16": 45.2
+          "16": 45.5
         }
       }
     }
@@ -278,7 +278,7 @@
           "11": 32.4,
           "12": 0.0,
           "13": 48.3,
-          "14": 13.5,
+          "14": 13.6,
           "15": 0.0,
           "16": 43.9,
           "17": 0.0
@@ -515,12 +515,12 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 5.5,
+        "avg_occupancy_pct": 5.7,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 68,
         "by_hour": {
-          "8": 11.9,
+          "8": 12.3,
           "9": 0.0,
           "12": 8.0,
           "13": 0.0
@@ -591,13 +591,13 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 19.6,
+        "avg_occupancy_pct": 19.7,
         "places_taken": 0,
         "places_max": 55,
         "data_points": 171,
         "by_hour": {
           "7": 40.1,
-          "8": 19.7,
+          "8": 19.9,
           "9": 0.0,
           "10": 17.2,
           "11": 0.0,
@@ -772,7 +772,7 @@
         "places_max": 25,
         "data_points": 127,
         "by_hour": {
-          "8": 19.3,
+          "8": 19.5,
           "9": 0.0,
           "10": 17.6,
           "11": 0.0,
@@ -900,14 +900,14 @@
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 18.8,
+        "avg_occupancy_pct": 18.9,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 42,
         "by_hour": {
           "13": 0.0,
           "14": 0.0,
-          "15": 41.6,
+          "15": 41.8,
           "16": 0.0,
           "17": 0.0
         }
@@ -1253,7 +1253,7 @@
           "9": 6.3,
           "10": 34.0,
           "11": 0.0,
-          "14": 20.7,
+          "14": 20.8,
           "15": 0.0,
           "16": 44.5,
           "17": 14.7,
@@ -1306,7 +1306,7 @@
     }
   },
   "Eishockey": {
-    "avg_occupancy_pct": 0.0,
+    "avg_occupancy_pct": 1.7,
     "facility_count": 2,
     "facilities": {
       "Dolder Eisbahn": {
@@ -1319,12 +1319,12 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 0.0,
-        "places_taken": 0,
+        "avg_occupancy_pct": 3.3,
+        "places_taken": 1,
         "places_max": 30,
         "data_points": 1,
         "by_hour": {
-          "5": 0.0
+          "5": 3.3
         }
       }
     }
@@ -1456,14 +1456,14 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 44.0,
+        "avg_occupancy_pct": 44.1,
         "places_taken": 0,
         "places_max": 1,
         "data_points": 281,
         "by_hour": {
           "8": 100.0,
           "9": 100.0,
-          "10": 63.9,
+          "10": 65.3,
           "11": 0.0,
           "12": 50.0,
           "14": 66.7,
@@ -1995,7 +1995,7 @@
         "places_max": 22,
         "data_points": 88,
         "by_hour": {
-          "16": 15.5,
+          "16": 15.6,
           "17": 0.0
         }
       },
@@ -2355,7 +2355,7 @@
         "places_max": 30,
         "data_points": 184,
         "by_hour": {
-          "9": 7.9,
+          "9": 8.0,
           "10": 0.0,
           "14": 19.2,
           "15": 7.9,
@@ -2696,7 +2696,7 @@
     }
   },
   "Muscle Pump": {
-    "avg_occupancy_pct": 20.9,
+    "avg_occupancy_pct": 21.0,
     "facility_count": 6,
     "facilities": {
       "PH Zürich": {
@@ -2741,7 +2741,7 @@
           "9": 29.6,
           "10": 9.2,
           "11": 26.4,
-          "12": 15.7,
+          "12": 15.8,
           "13": 0.0,
           "14": 42.4,
           "15": 28.0,
@@ -2759,7 +2759,7 @@
           "6": 16.8,
           "7": 13.3,
           "8": 23.8,
-          "9": 23.6,
+          "9": 23.7,
           "10": 5.8,
           "11": 25.1,
           "12": 0.0,
@@ -2772,12 +2772,12 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 17.8,
+        "avg_occupancy_pct": 17.9,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 280,
         "by_hour": {
-          "8": 28.3,
+          "8": 28.8,
           "9": 0.0,
           "10": 33.6,
           "11": 0.0,
@@ -2995,7 +2995,7 @@
           "5": 37.7,
           "7": 22.6,
           "8": 0.0,
-          "10": 17.4,
+          "10": 17.6,
           "11": 20.0,
           "12": 0.0,
           "13": 17.7,
@@ -3221,12 +3221,12 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 11.4,
+        "avg_occupancy_pct": 11.5,
         "places_taken": 1,
         "places_max": 16,
         "data_points": 56,
         "by_hour": {
-          "7": 11.7,
+          "7": 12.5,
           "8": 6.7,
           "10": 0.0,
           "16": 21.7,
@@ -3614,16 +3614,16 @@
     }
   },
   "Ski-/Snowboard- und Freeridetouren": {
-    "avg_occupancy_pct": 55.6,
+    "avg_occupancy_pct": 56.7,
     "facility_count": 2,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 63.3,
-        "places_taken": 19,
+        "avg_occupancy_pct": 66.7,
+        "places_taken": 20,
         "places_max": 30,
         "data_points": 1,
         "by_hour": {
-          "16": 63.3
+          "16": 66.7
         }
       },
       "Unknown": {
@@ -4831,7 +4831,7 @@
         "data_points": 178,
         "by_hour": {
           "9": 0.0,
-          "10": 10.0,
+          "10": 10.1,
           "11": 0.0,
           "16": 22.8,
           "17": 0.0
