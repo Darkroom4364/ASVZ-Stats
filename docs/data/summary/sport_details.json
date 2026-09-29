@@ -59,12 +59,12 @@
     "facility_count": 3,
     "facilities": {
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 27.3,
+        "avg_occupancy_pct": 27.2,
         "places_taken": 0,
         "places_max": 19,
-        "data_points": 199,
+        "data_points": 198,
         "by_hour": {
-          "16": 55.9,
+          "16": 56.0,
           "17": 10.2,
           "18": 19.4,
           "19": 0.0
@@ -74,7 +74,7 @@
         "avg_occupancy_pct": 20.3,
         "places_taken": 0,
         "places_max": 19,
-        "data_points": 194,
+        "data_points": 193,
         "by_hour": {
           "7": 49.4,
           "8": 0.0,
@@ -87,12 +87,12 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 6.3,
+        "avg_occupancy_pct": 6.5,
         "places_taken": 0,
         "places_max": 19,
         "data_points": 52,
         "by_hour": {
-          "15": 14.2,
+          "15": 14.6,
           "16": 0.0
         }
       }
@@ -138,18 +138,18 @@
     }
   },
   "Aikido": {
-    "avg_occupancy_pct": 7.1,
+    "avg_occupancy_pct": 6.8,
     "facility_count": 1,
     "facilities": {
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 7.1,
+        "avg_occupancy_pct": 6.8,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 74,
+        "data_points": 73,
         "by_hour": {
           "15": 5.0,
-          "16": 25.6,
-          "17": 5.0,
+          "16": 24.9,
+          "17": 5.2,
           "18": 0.0
         }
       }
@@ -189,16 +189,16 @@
     }
   },
   "Badminton": {
-    "avg_occupancy_pct": 27.0,
+    "avg_occupancy_pct": 26.6,
     "facility_count": 6,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 20.4,
+        "avg_occupancy_pct": 20.6,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 30,
         "by_hour": {
-          "18": 43.8,
+          "18": 44.2,
           "19": 0.0
         }
       },
@@ -213,23 +213,23 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 29.8,
+        "avg_occupancy_pct": 29.2,
         "places_taken": 2,
         "places_max": 12,
-        "data_points": 185,
+        "data_points": 183,
         "by_hour": {
-          "17": 69.7,
-          "18": 39.8,
+          "17": 68.8,
+          "18": 39.3,
           "19": 0.2
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 24.6,
+        "avg_occupancy_pct": 24.3,
         "places_taken": 0,
         "places_max": 24,
-        "data_points": 58,
+        "data_points": 57,
         "by_hour": {
-          "11": 51.5,
+          "11": 52.2,
           "12": 25.3,
           "13": 0.0
         }
@@ -246,55 +246,55 @@
         }
       },
       "Winterthur Kanti Büelrain": {
-        "avg_occupancy_pct": 56.2,
+        "avg_occupancy_pct": 50.0,
         "places_taken": 8,
         "places_max": 16,
-        "data_points": 2,
+        "data_points": 1,
         "by_hour": {
-          "15": 56.2
+          "15": 50.0
         }
       }
     }
   },
   "Ballett": {
-    "avg_occupancy_pct": 19.1,
+    "avg_occupancy_pct": 18.6,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 18.9,
+        "avg_occupancy_pct": 19.0,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 128,
         "by_hour": {
-          "15": 25.2,
+          "15": 25.6,
           "16": 30.2,
-          "17": 21.2,
+          "17": 21.3,
           "18": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 33.4,
+        "avg_occupancy_pct": 31.1,
         "places_taken": 0,
         "places_max": 15,
-        "data_points": 58,
+        "data_points": 56,
         "by_hour": {
-          "16": 71.4,
-          "17": 32.4,
+          "16": 69.2,
+          "17": 30.0,
           "18": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 20.2,
+        "avg_occupancy_pct": 19.9,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 278,
+        "data_points": 275,
         "by_hour": {
           "6": 33.8,
           "7": 0.0,
-          "8": 22.7,
+          "8": 23.3,
           "9": 0.0,
           "10": 7.7,
-          "11": 43.8,
+          "11": 43.0,
           "12": 0.0,
           "13": 64.4,
           "14": 17.9,
@@ -304,22 +304,22 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 5.5,
+        "avg_occupancy_pct": 5.2,
         "places_taken": 2,
         "places_max": 20,
-        "data_points": 84,
+        "data_points": 82,
         "by_hour": {
           "14": 7.6,
           "15": 0.0,
-          "17": 21.0,
-          "18": 3.8,
+          "17": 20.8,
+          "18": 3.3,
           "19": 0.0
         }
       }
     }
   },
   "Basketball": {
-    "avg_occupancy_pct": 13.9,
+    "avg_occupancy_pct": 13.8,
     "facility_count": 6,
     "facilities": {
       "PH Zürich": {
@@ -333,42 +333,42 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 10.9,
+        "avg_occupancy_pct": 11.2,
         "places_taken": 2,
         "places_max": 20,
         "data_points": 97,
         "by_hour": {
-          "9": 11.5,
-          "10": 12.8,
+          "9": 11.3,
+          "10": 13.6,
           "11": 0.0,
           "16": 10.0,
-          "18": 28.4,
+          "18": 29.0,
           "19": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 16.1,
+        "avg_occupancy_pct": 16.0,
         "places_taken": 0,
         "places_max": 16,
-        "data_points": 116,
+        "data_points": 115,
         "by_hour": {
-          "10": 28.3,
+          "10": 28.5,
           "11": 0.0,
           "16": 36.7,
           "17": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 15.3,
+        "avg_occupancy_pct": 15.0,
         "places_taken": 0,
         "places_max": 60,
-        "data_points": 136,
+        "data_points": 135,
         "by_hour": {
           "10": 37.5,
           "11": 20.9,
           "12": 12.8,
           "13": 0.0,
-          "18": 45.1,
+          "18": 44.2,
           "19": 0.0
         }
       },
@@ -399,16 +399,16 @@
     "facility_count": 5,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 80.2,
+        "avg_occupancy_pct": 81.1,
         "places_taken": 14,
         "places_max": 14,
-        "data_points": 73,
+        "data_points": 70,
         "by_hour": {
           "7": 100.0,
           "12": 100.0,
-          "15": 77.3,
+          "15": 78.9,
           "16": 100.0,
-          "17": 82.6
+          "17": 82.1
         }
       },
       "Sport Center Hönggerberg": {
@@ -428,7 +428,7 @@
         "places_max": 32,
         "data_points": 66,
         "by_hour": {
-          "18": 26.6,
+          "18": 26.9,
           "19": 0.0
         }
       },
@@ -453,16 +453,16 @@
     }
   },
   "BigAir": {
-    "avg_occupancy_pct": 23.2,
+    "avg_occupancy_pct": 23.8,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 20.8,
+        "avg_occupancy_pct": 21.8,
         "places_taken": 0,
         "places_max": 15,
         "data_points": 46,
         "by_hour": {
-          "7": 0.0,
+          "7": 11.7,
           "8": 0.0,
           "16": 59.8,
           "17": 0.0
@@ -481,16 +481,16 @@
     }
   },
   "Body Balance": {
-    "avg_occupancy_pct": 11.1,
+    "avg_occupancy_pct": 11.3,
     "facility_count": 6,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 8.9,
+        "avg_occupancy_pct": 9.0,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 90,
         "by_hour": {
-          "5": 12.9,
+          "5": 13.8,
           "6": 0.0,
           "16": 28.1,
           "17": 7.3,
@@ -508,7 +508,7 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 14.4,
+        "avg_occupancy_pct": 14.5,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 96,
@@ -516,7 +516,7 @@
           "5": 9.8,
           "6": 0.0,
           "9": 23.5,
-          "10": 26.6,
+          "10": 27.1,
           "11": 0.0
         }
       },
@@ -528,7 +528,7 @@
         "by_hour": {
           "8": 16.9,
           "9": 0.0,
-          "12": 11.0,
+          "12": 11.2,
           "13": 0.0
         }
       },
@@ -545,7 +545,7 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 9.6,
+        "avg_occupancy_pct": 10.1,
         "places_taken": 0,
         "places_max": 25,
         "data_points": 54,
@@ -553,7 +553,7 @@
           "10": 24.0,
           "14": 2.7,
           "15": 0.0,
-          "17": 32.7,
+          "17": 34.9,
           "18": 0.0
         }
       }
@@ -574,12 +574,12 @@
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 20.7,
+        "avg_occupancy_pct": 19.7,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 30,
+        "data_points": 29,
         "by_hour": {
-          "17": 41.3,
+          "17": 40.7,
           "18": 0.0
         }
       },
@@ -597,15 +597,15 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 23.2,
+        "avg_occupancy_pct": 23.3,
         "places_taken": 0,
         "places_max": 55,
-        "data_points": 147,
+        "data_points": 146,
         "by_hour": {
           "7": 60.8,
           "8": 22.1,
           "9": 0.0,
-          "10": 24.8,
+          "10": 25.7,
           "11": 0.0,
           "16": 67.8,
           "17": 22.3,
@@ -613,17 +613,17 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 12.4,
+        "avg_occupancy_pct": 12.5,
         "places_taken": 0,
         "places_max": 80,
-        "data_points": 228,
+        "data_points": 227,
         "by_hour": {
-          "10": 25.6,
+          "10": 26.7,
           "11": 5.4,
           "12": 4.7,
           "13": 13.5,
           "14": 2.8,
-          "16": 46.5,
+          "16": 47.1,
           "17": 18.0,
           "18": 0.0
         }
@@ -639,12 +639,12 @@
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 13.2,
+        "avg_occupancy_pct": 13.3,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 80,
         "by_hour": {
-          "15": 26.5,
+          "15": 27.0,
           "16": 10.6,
           "17": 0.0
         }
@@ -652,7 +652,7 @@
     }
   },
   "BodyART": {
-    "avg_occupancy_pct": 14.1,
+    "avg_occupancy_pct": 13.8,
     "facility_count": 3,
     "facilities": {
       "CAB Move": {
@@ -666,46 +666,46 @@
         }
       },
       "PH Zürich": {
-        "avg_occupancy_pct": 21.7,
+        "avg_occupancy_pct": 21.4,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 53,
+        "data_points": 52,
         "by_hour": {
           "16": 75.0,
-          "17": 8.9,
+          "17": 8.0,
           "18": 0.0
         }
       },
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 6.4,
+        "avg_occupancy_pct": 6.0,
         "places_taken": 0,
         "places_max": 50,
-        "data_points": 30,
+        "data_points": 29,
         "by_hour": {
-          "10": 12.8,
+          "10": 12.4,
           "11": 0.0
         }
       }
     }
   },
   "Bodyfit 50plus": {
-    "avg_occupancy_pct": 3.2,
+    "avg_occupancy_pct": 3.0,
     "facility_count": 1,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 3.2,
+        "avg_occupancy_pct": 3.0,
         "places_taken": 0,
         "places_max": 50,
-        "data_points": 28,
+        "data_points": 27,
         "by_hour": {
-          "7": 6.4,
+          "7": 6.3,
           "8": 0.0
         }
       }
     }
   },
   "Bodyforming": {
-    "avg_occupancy_pct": 15.9,
+    "avg_occupancy_pct": 15.7,
     "facility_count": 7,
     "facilities": {
       "CAB Move": {
@@ -720,10 +720,10 @@
         }
       },
       "PH Zürich": {
-        "avg_occupancy_pct": 21.9,
+        "avg_occupancy_pct": 22.1,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 54,
+        "data_points": 53,
         "by_hour": {
           "10": 13.2,
           "11": 0.0,
@@ -732,17 +732,17 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 17.3,
+        "avg_occupancy_pct": 17.4,
         "places_taken": 0,
         "places_max": 35,
-        "data_points": 158,
+        "data_points": 155,
         "by_hour": {
-          "9": 55.8,
-          "10": 13.6,
+          "9": 58.5,
+          "10": 13.3,
           "11": 0.0,
-          "12": 10.8,
+          "12": 10.9,
           "13": 1.3,
-          "14": 27.9,
+          "14": 28.0,
           "15": 0.0
         }
       },
@@ -759,16 +759,16 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 18.2,
+        "avg_occupancy_pct": 17.3,
         "places_taken": 0,
         "places_max": 60,
-        "data_points": 110,
+        "data_points": 108,
         "by_hour": {
           "6": 22.3,
           "7": 0.0,
           "13": 28.2,
-          "14": 13.6,
-          "15": 34.1,
+          "14": 12.9,
+          "15": 31.7,
           "16": 0.0
         }
       },
@@ -780,7 +780,7 @@
         "by_hour": {
           "8": 35.3,
           "9": 0.0,
-          "10": 23.3,
+          "10": 23.6,
           "11": 0.0,
           "14": 25.6,
           "15": 28.1,
@@ -852,26 +852,26 @@
     "facility_count": 4,
     "facilities": {
       "Rämibühl": {
-        "avg_occupancy_pct": 16.0,
+        "avg_occupancy_pct": 15.6,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 25,
+        "data_points": 24,
         "by_hour": {
-          "18": 36.4,
+          "18": 37.3,
           "19": 0.0
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 17.5,
+        "avg_occupancy_pct": 17.4,
         "places_taken": 0,
         "places_max": 24,
-        "data_points": 100,
+        "data_points": 99,
         "by_hour": {
-          "9": 16.2,
+          "9": 14.6,
           "10": 0.0,
           "12": 15.0,
           "15": 19.9,
-          "16": 31.5,
+          "16": 32.2,
           "17": 5.6
         }
       },
@@ -883,7 +883,7 @@
         "by_hour": {
           "12": 45.0,
           "13": 0.0,
-          "14": 49.0,
+          "14": 49.2,
           "15": 0.0
         }
       },
@@ -900,7 +900,7 @@
     }
   },
   "Brazilian Jiu Jitsu": {
-    "avg_occupancy_pct": 20.1,
+    "avg_occupancy_pct": 20.2,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
@@ -920,25 +920,25 @@
         "avg_occupancy_pct": 21.7,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 143,
+        "data_points": 141,
         "by_hour": {
           "9": 53.1,
           "10": 0.0,
           "11": 42.3,
-          "12": 17.7,
-          "13": 16.4,
+          "12": 17.9,
+          "13": 15.9,
           "14": 0.0,
           "15": 65.8,
           "16": 0.0
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 13.2,
+        "avg_occupancy_pct": 13.6,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 14,
         "by_hour": {
-          "15": 30.8,
+          "15": 31.7,
           "16": 0.0
         }
       },
@@ -955,7 +955,7 @@
     }
   },
   "Breakdance": {
-    "avg_occupancy_pct": 10.2,
+    "avg_occupancy_pct": 10.3,
     "facility_count": 3,
     "facilities": {
       "PH Zürich": {
@@ -978,38 +978,38 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 11.1,
+        "avg_occupancy_pct": 11.5,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 29,
         "by_hour": {
-          "18": 24.9,
+          "18": 25.6,
           "19": 0.0
         }
       }
     }
   },
   "Burner Games": {
-    "avg_occupancy_pct": 29.8,
+    "avg_occupancy_pct": 29.2,
     "facility_count": 5,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 8.8,
+        "avg_occupancy_pct": 9.6,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 15,
         "by_hour": {
-          "18": 21.9,
+          "18": 24.0,
           "19": 0.0
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 41.3,
+        "avg_occupancy_pct": 40.8,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 104,
+        "data_points": 103,
         "by_hour": {
-          "16": 67.1,
+          "16": 66.7,
           "17": 0.0
         }
       },
@@ -1024,23 +1024,23 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 13.7,
+        "avg_occupancy_pct": 8.9,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 15,
+        "data_points": 14,
         "by_hour": {
-          "17": 77.5,
+          "17": 75.0,
           "18": 8.3,
           "19": 0.0
         }
       },
       "Wädenswil Turnhalle Untermosen": {
-        "avg_occupancy_pct": 9.3,
+        "avg_occupancy_pct": 10.0,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 14,
         "by_hour": {
-          "15": 21.7,
+          "15": 23.3,
           "16": 0.0
         }
       }
@@ -1063,7 +1063,7 @@
     }
   },
   "Calisthenics": {
-    "avg_occupancy_pct": 42.7,
+    "avg_occupancy_pct": 42.3,
     "facility_count": 4,
     "facilities": {
       "Sport Center Fluntern": {
@@ -1088,14 +1088,14 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 40.1,
+        "avg_occupancy_pct": 38.9,
         "places_taken": 0,
         "places_max": 24,
-        "data_points": 98,
+        "data_points": 96,
         "by_hour": {
           "15": 63.6,
-          "16": 52.9,
-          "17": 37.0,
+          "16": 51.6,
+          "17": 35.3,
           "18": 0.0
         }
       },
@@ -1154,26 +1154,26 @@
     }
   },
   "Circuit": {
-    "avg_occupancy_pct": 7.2,
+    "avg_occupancy_pct": 7.8,
     "facility_count": 3,
     "facilities": {
       "PH Zürich": {
-        "avg_occupancy_pct": 2.9,
+        "avg_occupancy_pct": 3.9,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 24,
+        "data_points": 18,
         "by_hour": {
-          "10": 5.8,
+          "10": 11.7,
           "11": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 8.0,
+        "avg_occupancy_pct": 8.1,
         "places_taken": 0,
         "places_max": 80,
         "data_points": 28,
         "by_hour": {
-          "16": 17.3,
+          "16": 17.5,
           "17": 0.0
         }
       },
@@ -1190,18 +1190,18 @@
     }
   },
   "CrossFit": {
-    "avg_occupancy_pct": 20.9,
+    "avg_occupancy_pct": 20.8,
     "facility_count": 1,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 20.9,
+        "avg_occupancy_pct": 20.8,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 446,
+        "data_points": 443,
         "by_hour": {
           "15": 39.0,
           "16": 23.2,
-          "17": 19.9,
+          "17": 19.7,
           "18": 1.7,
           "19": 8.3
         }
@@ -1209,34 +1209,34 @@
     }
   },
   "Cycling Class": {
-    "avg_occupancy_pct": 19.8,
+    "avg_occupancy_pct": 19.7,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
         "avg_occupancy_pct": 19.5,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 131,
+        "data_points": 130,
         "by_hour": {
           "6": 12.0,
           "7": 0.0,
-          "10": 45.5,
+          "10": 46.6,
           "11": 0.0,
           "17": 65.6,
           "18": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 21.7,
+        "avg_occupancy_pct": 21.8,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 537,
+        "data_points": 536,
         "by_hour": {
           "6": 41.6,
           "7": 3.6,
-          "8": 4.6,
+          "8": 5.6,
           "9": 1.3,
-          "10": 54.7,
+          "10": 55.0,
           "11": 0.0,
           "16": 68.4,
           "17": 13.5,
@@ -1244,37 +1244,37 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 20.6,
+        "avg_occupancy_pct": 20.3,
         "places_taken": 0,
         "places_max": 35,
-        "data_points": 795,
+        "data_points": 791,
         "by_hour": {
-          "4": 54.6,
+          "4": 55.6,
           "5": 0.0,
           "6": 16.2,
           "7": 0.0,
           "8": 32.4,
           "9": 7.8,
-          "10": 45.2,
+          "10": 45.1,
           "11": 0.0,
-          "14": 37.6,
-          "15": 1.2,
-          "16": 57.5,
-          "17": 13.3,
+          "14": 36.0,
+          "15": 1.3,
+          "16": 57.0,
+          "17": 12.6,
           "18": 0.7,
           "19": 0.0
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 10.2,
+        "avg_occupancy_pct": 10.4,
         "places_taken": 0,
         "places_max": 25,
         "data_points": 169,
         "by_hour": {
-          "7": 16.7,
+          "7": 20.0,
           "8": 0.0,
           "9": 0.0,
-          "10": 29.0,
+          "10": 29.7,
           "11": 0.0,
           "14": 22.0,
           "15": 14.9,
@@ -1339,41 +1339,41 @@
     }
   },
   "Entspannen": {
-    "avg_occupancy_pct": 1.6,
+    "avg_occupancy_pct": 1.7,
     "facility_count": 3,
     "facilities": {
       "Relax CAB": {
-        "avg_occupancy_pct": 2.9,
+        "avg_occupancy_pct": 3.0,
         "places_taken": 0,
         "places_max": 44,
-        "data_points": 687,
+        "data_points": 683,
         "by_hour": {
-          "9": 4.2,
-          "10": 6.4,
-          "11": 3.0,
+          "9": 4.3,
+          "10": 6.8,
+          "11": 3.1,
           "12": 0.0
         }
       },
       "Relax Hönggerberg": {
-        "avg_occupancy_pct": 0.3,
+        "avg_occupancy_pct": 0.4,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 226,
         "by_hour": {
-          "10": 1.2,
+          "10": 1.6,
           "11": 0.2,
           "12": 0.0
         }
       },
       "Relax Uniturm": {
-        "avg_occupancy_pct": 0.6,
+        "avg_occupancy_pct": 0.7,
         "places_taken": 0,
         "places_max": 36,
-        "data_points": 583,
+        "data_points": 579,
         "by_hour": {
           "7": 0.3,
           "8": 0.0,
-          "10": 1.8,
+          "10": 2.2,
           "11": 0.3,
           "12": 0.0
         }
@@ -1398,34 +1398,34 @@
     }
   },
   "Feldenkrais": {
-    "avg_occupancy_pct": 4.8,
+    "avg_occupancy_pct": 4.4,
     "facility_count": 1,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 4.8,
+        "avg_occupancy_pct": 4.4,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 51,
+        "data_points": 50,
         "by_hour": {
           "10": 9.4,
           "11": 0.0,
-          "15": 12.4,
+          "15": 11.7,
           "16": 0.0
         }
       }
     }
   },
   "Fitnessberatung": {
-    "avg_occupancy_pct": 36.6,
+    "avg_occupancy_pct": 36.1,
     "facility_count": 7,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 43.8,
+        "avg_occupancy_pct": 45.1,
         "places_taken": 0,
         "places_max": 1,
-        "data_points": 96,
+        "data_points": 91,
         "by_hour": {
-          "10": 75.0,
+          "10": 93.3,
           "11": 0.0,
           "15": 85.7,
           "16": 46.7,
@@ -1433,26 +1433,26 @@
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 34.0,
+        "avg_occupancy_pct": 32.3,
         "places_taken": 0,
         "places_max": 1,
-        "data_points": 81,
+        "data_points": 79,
         "by_hour": {
           "11": 0.0,
-          "15": 90.0,
-          "16": 37.8,
+          "15": 89.3,
+          "16": 36.1,
           "17": 0.0
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 29.5,
+        "avg_occupancy_pct": 29.9,
         "places_taken": 0,
         "places_max": 2,
         "data_points": 259,
         "by_hour": {
           "7": 80.0,
           "8": 52.6,
-          "9": 21.9,
+          "9": 25.0,
           "10": 46.2,
           "11": 0.0,
           "12": 83.3,
@@ -1464,34 +1464,34 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 48.0,
+        "avg_occupancy_pct": 46.7,
         "places_taken": 0,
-        "places_max": 1,
-        "data_points": 228,
+        "places_max": 2,
+        "data_points": 229,
         "by_hour": {
           "8": 100.0,
           "9": 100.0,
-          "10": 88.5,
+          "10": 90.4,
           "11": 0.0,
-          "12": 40.0,
-          "14": 81.0,
+          "12": 30.0,
+          "14": 80.0,
           "15": 57.0,
           "16": 43.1,
           "17": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 32.6,
+        "avg_occupancy_pct": 32.1,
         "places_taken": 0,
-        "places_max": 1,
-        "data_points": 314,
+        "places_max": 2,
+        "data_points": 316,
         "by_hour": {
-          "6": 54.5,
+          "6": 50.0,
           "7": 50.0,
-          "8": 25.0,
-          "9": 0.0,
-          "10": 82.1,
-          "11": 41.4,
+          "8": 24.6,
+          "9": 3.3,
+          "10": 80.8,
+          "11": 37.9,
           "12": 0.0,
           "15": 79.2,
           "16": 39.3,
@@ -1500,7 +1500,7 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 35.6,
+        "avg_occupancy_pct": 34.8,
         "places_taken": 0,
         "places_max": 1,
         "data_points": 135,
@@ -1508,20 +1508,20 @@
           "9": 75.0,
           "10": 29.2,
           "11": 0.0,
-          "12": 85.7,
+          "12": 71.4,
           "15": 100.0,
           "16": 46.2,
           "17": 0.0
         }
       },
       "Sport Center Wädenswil": {
-        "avg_occupancy_pct": 38.7,
+        "avg_occupancy_pct": 38.3,
         "places_taken": 0,
         "places_max": 1,
-        "data_points": 62,
+        "data_points": 60,
         "by_hour": {
-          "15": 93.3,
-          "16": 32.3,
+          "15": 92.9,
+          "16": 33.3,
           "17": 0.0
         }
       }
@@ -1606,7 +1606,7 @@
         "avg_occupancy_pct": 0.0,
         "places_taken": 0,
         "places_max": 12,
-        "data_points": 135,
+        "data_points": 134,
         "by_hour": {
           "10": 0.0,
           "11": 0.0,
@@ -1630,7 +1630,7 @@
     }
   },
   "Functional Performance Training": {
-    "avg_occupancy_pct": 81.4,
+    "avg_occupancy_pct": 80.0,
     "facility_count": 3,
     "facilities": {
       "Sport Center Gloriarank": {
@@ -1645,12 +1645,12 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 83.2,
-        "places_taken": 10,
+        "avg_occupancy_pct": 79.5,
+        "places_taken": 2,
         "places_max": 10,
-        "data_points": 16,
+        "data_points": 17,
         "by_hour": {
-          "10": 65.0,
+          "10": 50.0,
           "15": 86.9,
           "16": 84.0
         }
@@ -1668,7 +1668,7 @@
     }
   },
   "Funktionelles Outdoortraining": {
-    "avg_occupancy_pct": 19.0,
+    "avg_occupancy_pct": 19.1,
     "facility_count": 5,
     "facilities": {
       "Sport Center Fluntern": {
@@ -1701,38 +1701,38 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 19.1,
-        "places_taken": 0,
-        "places_max": 20,
-        "data_points": 32,
-        "by_hour": {
-          "16": 35.9,
-          "17": 0.0
-        }
-      },
-      "Sport Center Winterthur": {
-        "avg_occupancy_pct": 1.6,
+        "avg_occupancy_pct": 19.0,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 31,
         "by_hour": {
-          "10": 3.1,
+          "16": 36.9,
+          "17": 0.0
+        }
+      },
+      "Sport Center Winterthur": {
+        "avg_occupancy_pct": 1.3,
+        "places_taken": 0,
+        "places_max": 20,
+        "data_points": 30,
+        "by_hour": {
+          "10": 2.7,
           "11": 0.0
         }
       }
     }
   },
   "Fussball": {
-    "avg_occupancy_pct": 19.6,
+    "avg_occupancy_pct": 19.3,
     "facility_count": 7,
     "facilities": {
       "Messehalle 9": {
-        "avg_occupancy_pct": 10.1,
+        "avg_occupancy_pct": 10.3,
         "places_taken": 0,
         "places_max": 16,
         "data_points": 52,
         "by_hour": {
-          "18": 22.8,
+          "18": 23.2,
           "19": 0.0
         }
       },
@@ -1750,16 +1750,16 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 13.6,
+        "avg_occupancy_pct": 13.7,
         "places_taken": 1,
         "places_max": 18,
         "data_points": 292,
         "by_hour": {
           "7": 5.6,
           "9": 7.4,
-          "10": 5.7,
+          "10": 6.0,
           "11": 0.0,
-          "14": 17.9,
+          "14": 18.0,
           "15": 19.6,
           "16": 0.0,
           "18": 45.3,
@@ -1767,16 +1767,16 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 34.9,
+        "avg_occupancy_pct": 33.8,
         "places_taken": 0,
         "places_max": 16,
-        "data_points": 118,
+        "data_points": 116,
         "by_hour": {
           "10": 6.7,
           "11": 0.0,
           "14": 57.3,
           "16": 85.9,
-          "18": 70.0,
+          "18": 68.3,
           "19": 0.0
         }
       },
@@ -1793,12 +1793,12 @@
         }
       },
       "Winterthur Kanti Büelrain": {
-        "avg_occupancy_pct": 35.0,
+        "avg_occupancy_pct": 28.7,
         "places_taken": 0,
         "places_max": 15,
-        "data_points": 7,
+        "data_points": 6,
         "by_hour": {
-          "16": 35.0
+          "16": 28.7
         }
       },
       "Wädenswil Turnhalle Untermosen": {
@@ -1814,11 +1814,11 @@
     }
   },
   "Golf": {
-    "avg_occupancy_pct": 58.1,
+    "avg_occupancy_pct": 59.1,
     "facility_count": 2,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 64.2,
+        "avg_occupancy_pct": 65.0,
         "places_taken": 0,
         "places_max": 5,
         "data_points": 24,
@@ -1829,21 +1829,21 @@
           "12": 71.4,
           "13": 40.0,
           "14": 0.0,
-          "15": 60.0,
+          "15": 70.0,
           "16": 93.3,
           "17": 100.0
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 45.8,
+        "avg_occupancy_pct": 46.2,
         "places_taken": 0,
         "places_max": 12,
-        "data_points": 12,
+        "data_points": 11,
         "by_hour": {
           "12": 0.0,
           "13": 0.0,
           "15": 50.0,
-          "16": 57.1,
+          "16": 59.7,
           "17": 50.0
         }
       }
@@ -1854,13 +1854,13 @@
     "facility_count": 3,
     "facilities": {
       "PH Zürich": {
-        "avg_occupancy_pct": 31.5,
+        "avg_occupancy_pct": 31.7,
         "places_taken": 5,
         "places_max": 16,
         "data_points": 38,
         "by_hour": {
           "16": 53.1,
-          "18": 51.7,
+          "18": 52.1,
           "19": 0.0
         }
       },
@@ -1889,7 +1889,7 @@
     }
   },
   "Hip Hop": {
-    "avg_occupancy_pct": 14.2,
+    "avg_occupancy_pct": 14.3,
     "facility_count": 3,
     "facilities": {
       "Sport Center Irchel": {
@@ -1907,7 +1907,7 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 11.1,
+        "avg_occupancy_pct": 11.2,
         "places_taken": 40,
         "places_max": 40,
         "data_points": 194,
@@ -1919,7 +1919,7 @@
           "12": 55.0,
           "16": 24.2,
           "17": 21.7,
-          "18": 3.5,
+          "18": 3.7,
           "19": 0.0
         }
       },
@@ -1927,9 +1927,9 @@
         "avg_occupancy_pct": 6.5,
         "places_taken": 5,
         "places_max": 20,
-        "data_points": 56,
+        "data_points": 55,
         "by_hour": {
-          "14": 12.2,
+          "14": 12.7,
           "15": 0.0,
           "16": 17.6,
           "17": 0.0,
@@ -1958,7 +1958,7 @@
     }
   },
   "Jazz Dance": {
-    "avg_occupancy_pct": 11.7,
+    "avg_occupancy_pct": 11.6,
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
@@ -1975,7 +1975,7 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 10.3,
+        "avg_occupancy_pct": 10.5,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 111,
@@ -1984,37 +1984,37 @@
           "11": 0.0,
           "12": 18.3,
           "13": 0.0,
-          "14": 43.7,
-          "15": 4.2,
+          "14": 44.4,
+          "15": 4.9,
           "16": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 11.5,
+        "avg_occupancy_pct": 11.3,
         "places_taken": 0,
         "places_max": 40,
-        "data_points": 401,
+        "data_points": 399,
         "by_hour": {
           "6": 30.5,
           "7": 11.2,
           "8": 6.3,
           "9": 9.0,
-          "10": 11.3,
+          "10": 11.6,
           "11": 0.6,
           "13": 58.2,
           "14": 11.5,
           "15": 0.0,
-          "17": 48.1,
+          "17": 44.1,
           "18": 0.0
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 5.5,
+        "avg_occupancy_pct": 5.9,
         "places_taken": 5,
         "places_max": 20,
         "data_points": 28,
         "by_hour": {
-          "14": 11.8,
+          "14": 12.7,
           "15": 0.0,
           "17": 25.0
         }
@@ -2026,22 +2026,22 @@
     "facility_count": 4,
     "facilities": {
       "Rämibühl": {
-        "avg_occupancy_pct": 10.3,
+        "avg_occupancy_pct": 10.4,
         "places_taken": 0,
         "places_max": 22,
         "data_points": 72,
         "by_hour": {
-          "16": 24.8,
+          "16": 25.0,
           "17": 0.0
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 10.6,
+        "avg_occupancy_pct": 10.5,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 34,
+        "data_points": 33,
         "by_hour": {
-          "17": 20.1,
+          "17": 20.3,
           "18": 0.0
         }
       },
@@ -2068,7 +2068,7 @@
     }
   },
   "Judo": {
-    "avg_occupancy_pct": 22.6,
+    "avg_occupancy_pct": 22.8,
     "facility_count": 3,
     "facilities": {
       "Sport Center Hönggerberg": {
@@ -2083,23 +2083,23 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 25.9,
+        "avg_occupancy_pct": 26.2,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 112,
         "by_hour": {
-          "16": 66.9,
-          "17": 20.8,
+          "16": 67.9,
+          "17": 20.9,
           "18": 0.0
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 7.5,
+        "avg_occupancy_pct": 7.9,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 14,
         "by_hour": {
-          "14": 17.5,
+          "14": 18.3,
           "15": 0.0
         }
       }
@@ -2161,12 +2161,12 @@
         }
       },
       "Werdinsel": {
-        "avg_occupancy_pct": 70.0,
+        "avg_occupancy_pct": 72.3,
         "places_taken": 6,
         "places_max": 7,
-        "data_points": 20,
+        "data_points": 18,
         "by_hour": {
-          "16": 70.0
+          "16": 72.3
         }
       }
     }
@@ -2201,13 +2201,13 @@
     "facility_count": 4,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 23.3,
+        "avg_occupancy_pct": 23.5,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 66,
         "by_hour": {
           "13": 0.0,
-          "14": 70.6,
+          "14": 71.3,
           "15": 0.0,
           "17": 40.0,
           "18": 18.5,
@@ -2226,60 +2226,60 @@
           "13": 0.0,
           "16": 61.3,
           "17": 0.0,
-          "18": 23.6,
+          "18": 23.8,
           "19": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 24.8,
+        "avg_occupancy_pct": 24.2,
         "places_taken": 0,
         "places_max": 24,
-        "data_points": 62,
+        "data_points": 61,
         "by_hour": {
           "8": 38.3,
           "9": 0.0,
-          "10": 59.2,
+          "10": 59.0,
           "11": 0.0,
-          "12": 85.0
+          "12": 87.5
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 14.1,
+        "avg_occupancy_pct": 14.4,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 49,
         "by_hour": {
-          "17": 38.8,
+          "17": 39.4,
           "18": 1.0
         }
       }
     }
   },
   "Klettern": {
-    "avg_occupancy_pct": 40.0,
+    "avg_occupancy_pct": 40.5,
     "facility_count": 4,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 40.6,
+        "avg_occupancy_pct": 41.3,
         "places_taken": 0,
         "places_max": 6,
-        "data_points": 12,
+        "data_points": 11,
         "by_hour": {
           "4": 66.7,
-          "5": 64.2,
+          "5": 71.9,
           "6": 0.0,
           "7": 50.0,
           "8": 0.0
         }
       },
       "Uster Kletterhalle GRIFFIG": {
-        "avg_occupancy_pct": 42.2,
+        "avg_occupancy_pct": 43.3,
         "places_taken": 0,
         "places_max": 8,
         "data_points": 13,
         "by_hour": {
           "14": 12.5,
-          "15": 85.7,
+          "15": 100.0,
           "16": 70.0,
           "17": 16.7
         }
@@ -2309,7 +2309,7 @@
     }
   },
   "Kondi": {
-    "avg_occupancy_pct": 5.0,
+    "avg_occupancy_pct": 5.1,
     "facility_count": 8,
     "facilities": {
       "PH Zürich": {
@@ -2325,24 +2325,24 @@
         }
       },
       "Riesbach": {
-        "avg_occupancy_pct": 3.0,
+        "avg_occupancy_pct": 3.9,
         "places_taken": 0,
         "places_max": 60,
         "data_points": 25,
         "by_hour": {
-          "10": 7.5,
+          "10": 9.7,
           "11": 0.0
         }
       },
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 7.1,
+        "avg_occupancy_pct": 7.2,
         "places_taken": 0,
         "places_max": 60,
         "data_points": 60,
         "by_hour": {
           "10": 15.6,
           "11": 0.0,
-          "16": 14.6,
+          "16": 15.5,
           "17": 0.0
         }
       },
@@ -2350,25 +2350,25 @@
         "avg_occupancy_pct": 6.9,
         "places_taken": 0,
         "places_max": 120,
-        "data_points": 161,
+        "data_points": 160,
         "by_hour": {
           "10": 15.4,
           "11": 0.0,
-          "16": 10.4,
+          "16": 10.7,
           "17": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 8.9,
+        "avg_occupancy_pct": 9.0,
         "places_taken": 0,
         "places_max": 60,
-        "data_points": 217,
+        "data_points": 216,
         "by_hour": {
-          "10": 9.7,
+          "10": 9.9,
           "11": 0.0,
           "15": 30.6,
           "16": 7.9,
-          "17": 10.8,
+          "17": 11.3,
           "18": 0.0
         }
       },
@@ -2376,11 +2376,11 @@
         "avg_occupancy_pct": 3.5,
         "places_taken": 0,
         "places_max": 120,
-        "data_points": 739,
+        "data_points": 736,
         "by_hour": {
           "5": 2.6,
           "9": 8.1,
-          "10": 4.4,
+          "10": 4.5,
           "11": 0.0,
           "14": 4.1,
           "15": 2.3,
@@ -2390,17 +2390,17 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 6.2,
+        "avg_occupancy_pct": 6.0,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 158,
+        "data_points": 157,
         "by_hour": {
           "9": 13.9,
           "10": 0.0,
           "14": 23.6,
           "15": 7.8,
           "16": 0.0,
-          "17": 15.3,
+          "17": 13.3,
           "18": 0.0
         }
       },
@@ -2417,7 +2417,7 @@
     }
   },
   "Kung Fu": {
-    "avg_occupancy_pct": 8.5,
+    "avg_occupancy_pct": 8.6,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
@@ -2431,12 +2431,12 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 8.3,
+        "avg_occupancy_pct": 8.4,
         "places_taken": 0,
         "places_max": 25,
         "data_points": 49,
         "by_hour": {
-          "16": 21.5,
+          "16": 21.7,
           "17": 0.0
         }
       }
@@ -2470,7 +2470,7 @@
     }
   },
   "Les Mills Core": {
-    "avg_occupancy_pct": 16.8,
+    "avg_occupancy_pct": 16.5,
     "facility_count": 5,
     "facilities": {
       "PH Zürich": {
@@ -2486,12 +2486,12 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 23.6,
+        "avg_occupancy_pct": 23.3,
         "places_taken": 0,
         "places_max": 35,
-        "data_points": 115,
+        "data_points": 114,
         "by_hour": {
-          "6": 21.6,
+          "6": 18.8,
           "7": 0.0,
           "8": 76.0,
           "9": 0.0,
@@ -2510,12 +2510,12 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 7.3,
+        "avg_occupancy_pct": 6.0,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 28,
+        "data_points": 27,
         "by_hour": {
-          "15": 16.9,
+          "15": 14.8,
           "16": 0.0
         }
       },
@@ -2550,7 +2550,7 @@
     }
   },
   "Manege": {
-    "avg_occupancy_pct": 22.0,
+    "avg_occupancy_pct": 21.6,
     "facility_count": 4,
     "facilities": {
       "PH Zürich": {
@@ -2564,12 +2564,12 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 18.9,
+        "avg_occupancy_pct": 17.8,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 128,
+        "data_points": 124,
         "by_hour": {
-          "17": 37.8,
+          "17": 36.7,
           "18": 0.0
         }
       },
@@ -2595,16 +2595,16 @@
     }
   },
   "Meditation": {
-    "avg_occupancy_pct": 3.8,
+    "avg_occupancy_pct": 3.9,
     "facility_count": 3,
     "facilities": {
       "Relax CAB": {
-        "avg_occupancy_pct": 5.0,
+        "avg_occupancy_pct": 5.1,
         "places_taken": 13,
         "places_max": 13,
-        "data_points": 295,
+        "data_points": 293,
         "by_hour": {
-          "10": 17.0,
+          "10": 17.2,
           "11": 0.3,
           "12": 0.0,
           "15": 50.0,
@@ -2634,16 +2634,16 @@
     }
   },
   "Mixed Martial Arts": {
-    "avg_occupancy_pct": 17.9,
+    "avg_occupancy_pct": 18.1,
     "facility_count": 3,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 5.5,
+        "avg_occupancy_pct": 5.6,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 22,
         "by_hour": {
-          "10": 17.1,
+          "10": 17.7,
           "11": 0.0
         }
       },
@@ -2658,14 +2658,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 23.7,
+        "avg_occupancy_pct": 24.0,
         "places_taken": 0,
         "places_max": 24,
         "data_points": 60,
         "by_hour": {
           "8": 52.5,
           "9": 7.5,
-          "10": 50.2,
+          "10": 50.8,
           "11": 0.0
         }
       }
@@ -2716,11 +2716,11 @@
     }
   },
   "Mountainbike": {
-    "avg_occupancy_pct": 35.8,
+    "avg_occupancy_pct": 35.2,
     "facility_count": 1,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 35.8,
+        "avg_occupancy_pct": 35.2,
         "places_taken": 6,
         "places_max": 8,
         "data_points": 20,
@@ -2728,57 +2728,57 @@
           "5": 75.0,
           "8": 50.0,
           "15": 25.0,
-          "16": 33.3
+          "16": 32.5
         }
       }
     }
   },
   "Muscle Pump": {
-    "avg_occupancy_pct": 25.3,
+    "avg_occupancy_pct": 25.2,
     "facility_count": 6,
     "facilities": {
       "PH Zürich": {
-        "avg_occupancy_pct": 34.5,
+        "avg_occupancy_pct": 32.1,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 29,
+        "data_points": 28,
         "by_hour": {
-          "16": 71.4,
+          "16": 69.2,
           "17": 0.0
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 26.5,
+        "avg_occupancy_pct": 26.4,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 471,
+        "data_points": 468,
         "by_hour": {
-          "5": 46.7,
-          "6": 16.2,
+          "5": 48.1,
+          "6": 16.7,
           "7": 33.4,
-          "8": 8.0,
+          "8": 9.5,
           "9": 33.3,
           "10": 33.0,
           "11": 23.1,
           "12": 0.0,
           "13": 30.0,
-          "14": 33.5,
-          "15": 27.0,
+          "14": 33.0,
+          "15": 26.1,
           "16": 23.8,
           "17": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 28.4,
+        "avg_occupancy_pct": 28.3,
         "places_taken": 0,
         "places_max": 55,
-        "data_points": 409,
+        "data_points": 407,
         "by_hour": {
           "7": 61.5,
           "8": 30.6,
-          "9": 36.7,
+          "9": 36.6,
           "10": 10.8,
-          "11": 27.9,
+          "11": 27.2,
           "12": 19.6,
           "13": 0.0,
           "14": 54.9,
@@ -2791,29 +2791,29 @@
         "avg_occupancy_pct": 24.1,
         "places_taken": 0,
         "places_max": 60,
-        "data_points": 762,
+        "data_points": 759,
         "by_hour": {
-          "5": 44.7,
-          "6": 16.9,
-          "7": 16.6,
+          "5": 46.3,
+          "6": 17.3,
+          "7": 17.1,
           "8": 27.0,
-          "9": 30.0,
+          "9": 29.8,
           "10": 4.5,
           "11": 35.1,
           "12": 0.0,
           "14": 72.5,
           "15": 0.0,
-          "16": 71.4,
+          "16": 69.2,
           "17": 31.5,
-          "18": 42.1,
+          "18": 41.0,
           "19": 0.0
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 21.1,
+        "avg_occupancy_pct": 20.7,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 239,
+        "data_points": 238,
         "by_hour": {
           "8": 47.5,
           "9": 0.0,
@@ -2821,19 +2821,19 @@
           "11": 0.0,
           "15": 60.6,
           "16": 15.5,
-          "17": 25.2,
+          "17": 22.3,
           "18": 0.0
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 24.7,
+        "avg_occupancy_pct": 24.2,
         "places_taken": 0,
         "places_max": 29,
-        "data_points": 159,
+        "data_points": 158,
         "by_hour": {
           "5": 33.6,
           "6": 0.0,
-          "15": 64.7,
+          "15": 61.4,
           "16": 30.8,
           "17": 41.5,
           "18": 0.0
@@ -2874,61 +2874,61 @@
     }
   },
   "Paddeln": {
-    "avg_occupancy_pct": 75.7,
+    "avg_occupancy_pct": 75.9,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 75.7,
+        "avg_occupancy_pct": 75.9,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 91,
+        "data_points": 90,
         "by_hour": {
           "8": 76.2,
           "11": 79.3,
-          "16": 74.8
+          "16": 75.2
         }
       }
     }
   },
   "Padel": {
-    "avg_occupancy_pct": 52.5,
+    "avg_occupancy_pct": 53.2,
     "facility_count": 1,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 52.5,
+        "avg_occupancy_pct": 53.2,
         "places_taken": 0,
         "places_max": 2,
-        "data_points": 1059,
+        "data_points": 1047,
         "by_hour": {
-          "6": 28.1,
-          "7": 46.8,
-          "8": 51.7,
-          "9": 40.5,
-          "10": 48.8,
-          "11": 33.0,
-          "12": 38.2,
-          "13": 47.3,
-          "14": 59.7,
-          "15": 78.8,
-          "16": 81.8,
-          "17": 82.0,
-          "18": 71.4,
+          "6": 27.8,
+          "7": 47.8,
+          "8": 52.3,
+          "9": 41.7,
+          "10": 50.0,
+          "11": 33.9,
+          "12": 38.6,
+          "13": 47.8,
+          "14": 60.3,
+          "15": 79.2,
+          "16": 83.2,
+          "17": 82.5,
+          "18": 72.5,
           "19": 0.0
         }
       }
     }
   },
   "Parkour": {
-    "avg_occupancy_pct": 11.6,
+    "avg_occupancy_pct": 11.3,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 13.5,
+        "avg_occupancy_pct": 12.9,
         "places_taken": 0,
         "places_max": 12,
-        "data_points": 32,
+        "data_points": 31,
         "by_hour": {
-          "17": 27.1,
+          "17": 26.7,
           "18": 0.0
         }
       },
@@ -2949,21 +2949,21 @@
     "facility_count": 8,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 23.1,
+        "avg_occupancy_pct": 23.3,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 472,
+        "data_points": 469,
         "by_hour": {
           "5": 21.9,
-          "6": 17.2,
-          "7": 18.3,
-          "8": 21.9,
+          "6": 16.6,
+          "7": 19.6,
+          "8": 24.6,
           "9": 24.9,
           "10": 36.8,
           "11": 23.6,
           "12": 0.0,
           "15": 41.3,
-          "16": 14.5,
+          "16": 13.7,
           "17": 28.7,
           "18": 36.7,
           "19": 0.0
@@ -2980,46 +2980,46 @@
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 24.9,
+        "avg_occupancy_pct": 25.1,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 56,
         "by_hour": {
           "17": 78.2,
-          "18": 10.7,
+          "18": 11.1,
           "19": 0.0
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 27.1,
+        "avg_occupancy_pct": 26.9,
         "places_taken": 11,
         "places_max": 20,
-        "data_points": 191,
+        "data_points": 189,
         "by_hour": {
           "9": 35.8,
-          "10": 31.9,
+          "10": 32.2,
           "11": 1.8,
-          "14": 62.3,
-          "15": 27.3,
+          "14": 62.5,
+          "15": 25.0,
           "16": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 18.1,
+        "avg_occupancy_pct": 17.9,
         "places_taken": 0,
         "places_max": 50,
-        "data_points": 355,
+        "data_points": 353,
         "by_hour": {
           "5": 36.0,
-          "6": 6.4,
+          "6": 7.2,
           "7": 23.0,
           "8": 0.0,
           "10": 28.6,
           "11": 29.7,
           "12": 0.0,
           "13": 33.2,
-          "14": 20.4,
-          "15": 16.9,
+          "14": 19.6,
+          "15": 16.4,
           "16": 0.0,
           "17": 74.5,
           "18": 0.0
@@ -3037,13 +3037,13 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 20.3,
+        "avg_occupancy_pct": 20.7,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 131,
+        "data_points": 130,
         "by_hour": {
           "9": 36.7,
-          "10": 28.8,
+          "10": 30.4,
           "11": 0.0,
           "15": 50.2,
           "16": 0.0,
@@ -3069,18 +3069,18 @@
     }
   },
   "Ragga": {
-    "avg_occupancy_pct": 5.6,
+    "avg_occupancy_pct": 5.2,
     "facility_count": 1,
     "facilities": {
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 5.6,
+        "avg_occupancy_pct": 5.2,
         "places_taken": 0,
         "places_max": 60,
-        "data_points": 56,
+        "data_points": 55,
         "by_hour": {
           "14": 8.7,
           "15": 0.0,
-          "17": 14.4,
+          "17": 13.5,
           "18": 0.0
         }
       }
@@ -3137,16 +3137,17 @@
     }
   },
   "Roundnet": {
-    "avg_occupancy_pct": 7.8,
+    "avg_occupancy_pct": 7.9,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 17.9,
-        "places_taken": 7,
+        "avg_occupancy_pct": 18.3,
+        "places_taken": 8,
         "places_max": 24,
         "data_points": 13,
         "by_hour": {
-          "17": 17.9
+          "16": 33.3,
+          "17": 17.0
         }
       },
       "Sport Center Irchel": {
@@ -3162,59 +3163,58 @@
     }
   },
   "Rowing Class": {
-    "avg_occupancy_pct": 22.5,
+    "avg_occupancy_pct": 22.2,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 15.9,
+        "avg_occupancy_pct": 15.8,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 132,
         "by_hour": {
-          "10": 50.3,
+          "10": 49.1,
           "11": 0.0,
           "15": 33.4,
-          "16": 2.2,
+          "16": 2.4,
           "17": 18.8,
           "18": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 24.1,
+        "avg_occupancy_pct": 23.8,
         "places_taken": 0,
         "places_max": 15,
-        "data_points": 521,
+        "data_points": 518,
         "by_hour": {
           "5": 56.1,
           "6": 0.0,
           "7": 27.8,
           "8": 0.0,
-          "10": 58.9,
+          "10": 59.9,
           "11": 0.0,
-          "15": 48.7,
-          "16": 46.3,
-          "17": 17.1,
+          "15": 46.0,
+          "16": 45.8,
+          "17": 16.5,
           "18": 0.0
         }
       }
     }
   },
   "Rudern": {
-    "avg_occupancy_pct": 88.6,
+    "avg_occupancy_pct": 90.3,
     "facility_count": 2,
     "facilities": {
       "Ruderclubs Zürichsee": {
-        "avg_occupancy_pct": 86.3,
+        "avg_occupancy_pct": 89.2,
         "places_taken": 0,
         "places_max": 999,
-        "data_points": 24,
+        "data_points": 22,
         "by_hour": {
-          "3": 33.3,
+          "3": 45.0,
           "4": 100.0,
           "5": 100.0,
           "7": 100.0,
           "8": 71.4,
-          "9": 100.0,
           "10": 100.0,
           "11": 0.0,
           "17": 100.0
@@ -3238,20 +3238,20 @@
     }
   },
   "Running": {
-    "avg_occupancy_pct": 19.8,
+    "avg_occupancy_pct": 19.5,
     "facility_count": 6,
     "facilities": {
       "Sport Center Fluntern": {
-        "avg_occupancy_pct": 19.9,
+        "avg_occupancy_pct": 19.5,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 144,
+        "data_points": 142,
         "by_hour": {
           "7": 25.7,
           "8": 0.0,
           "10": 13.8,
           "11": 0.0,
-          "16": 46.5,
+          "16": 46.7,
           "17": 2.0,
           "18": 0.0
         }
@@ -3266,23 +3266,23 @@
           "8": 0.0,
           "10": 0.0,
           "15": 50.0,
-          "16": 29.1,
+          "16": 29.2,
           "17": 0.0,
           "18": 12.5
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 23.8,
+        "avg_occupancy_pct": 23.1,
         "places_taken": 4,
         "places_max": 16,
-        "data_points": 109,
+        "data_points": 108,
         "by_hour": {
           "7": 42.2,
           "8": 0.0,
           "10": 9.7,
           "11": 0.0,
           "14": 25.0,
-          "16": 65.5,
+          "16": 64.5,
           "17": 0.0,
           "18": 8.3
         }
@@ -3299,12 +3299,12 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 8.4,
+        "avg_occupancy_pct": 8.6,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 30,
         "by_hour": {
-          "16": 18.1,
+          "16": 18.3,
           "17": 0.0
         }
       },
@@ -3324,18 +3324,18 @@
     }
   },
   "Rückenfit": {
-    "avg_occupancy_pct": 12.0,
+    "avg_occupancy_pct": 12.2,
     "facility_count": 4,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 2.4,
+        "avg_occupancy_pct": 2.2,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 58,
+        "data_points": 57,
         "by_hour": {
           "7": 3.3,
           "8": 0.0,
-          "11": 6.2,
+          "11": 5.7,
           "12": 0.0
         }
       },
@@ -3350,45 +3350,45 @@
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 11.0,
+        "avg_occupancy_pct": 11.4,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 56,
         "by_hour": {
           "8": 12.9,
           "9": 0.0,
-          "10": 33.4,
+          "10": 35.2,
           "11": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 17.9,
+        "avg_occupancy_pct": 18.0,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 54,
         "by_hour": {
           "11": 41.5,
           "12": 0.0,
-          "16": 32.8,
+          "16": 33.1,
           "17": 0.0
         }
       }
     }
   },
   "Salsa": {
-    "avg_occupancy_pct": 20.0,
+    "avg_occupancy_pct": 19.6,
     "facility_count": 5,
     "facilities": {
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 24.6,
+        "avg_occupancy_pct": 23.4,
         "places_taken": 0,
         "places_max": 36,
-        "data_points": 90,
+        "data_points": 88,
         "by_hour": {
           "14": 36.7,
           "15": 0.0,
-          "18": 73.3,
-          "19": 18.9,
+          "18": 71.4,
+          "19": 17.4,
           "20": 0.0
         }
       },
@@ -3487,13 +3487,13 @@
         }
       },
       "Bad City": {
-        "avg_occupancy_pct": 13.7,
+        "avg_occupancy_pct": 13.6,
         "places_taken": 0,
         "places_max": 14,
-        "data_points": 168,
+        "data_points": 166,
         "by_hour": {
-          "4": 24.2,
-          "5": 11.3,
+          "4": 24.0,
+          "5": 11.2,
           "6": 5.9
         }
       },
@@ -3565,7 +3565,7 @@
     }
   },
   "Segeln Yacht": {
-    "avg_occupancy_pct": 92.0,
+    "avg_occupancy_pct": 91.9,
     "facility_count": 2,
     "facilities": {
       "Unknown": {
@@ -3587,7 +3587,7 @@
         "avg_occupancy_pct": 100.0,
         "places_taken": 4,
         "places_max": 4,
-        "data_points": 47,
+        "data_points": 45,
         "by_hour": {
           "6": 100.0,
           "7": 100.0,
@@ -3601,37 +3601,37 @@
     }
   },
   "Seniorenuni Sport": {
-    "avg_occupancy_pct": 26.0,
+    "avg_occupancy_pct": 25.8,
     "facility_count": 1,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 26.0,
+        "avg_occupancy_pct": 25.8,
         "places_taken": 0,
         "places_max": 55,
         "data_points": 128,
         "by_hour": {
           "7": 40.0,
-          "8": 43.3,
-          "9": 36.7,
+          "8": 42.5,
+          "9": 36.4,
           "10": 0.0,
-          "14": 43.1,
+          "14": 43.2,
           "15": 0.0
         }
       }
     }
   },
   "Shotokan Karate": {
-    "avg_occupancy_pct": 14.5,
+    "avg_occupancy_pct": 14.7,
     "facility_count": 2,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 14.9,
+        "avg_occupancy_pct": 15.2,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 98,
+        "data_points": 97,
         "by_hour": {
-          "16": 15.0,
-          "17": 24.7,
+          "16": 15.3,
+          "17": 25.0,
           "18": 0.0
         }
       },
@@ -3648,11 +3648,11 @@
     }
   },
   "Ski / Snowboard": {
-    "avg_occupancy_pct": 32.4,
+    "avg_occupancy_pct": 32.6,
     "facility_count": 1,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 32.4,
+        "avg_occupancy_pct": 32.6,
         "places_taken": 4,
         "places_max": 14,
         "data_points": 33,
@@ -3660,23 +3660,23 @@
           "5": 50.0,
           "7": 20.5,
           "8": 30.1,
-          "18": 42.6
+          "18": 43.7
         }
       }
     }
   },
   "Ski-/Snowboard- und Freeridetouren": {
-    "avg_occupancy_pct": 2.1,
+    "avg_occupancy_pct": 2.2,
     "facility_count": 2,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 63.3,
-        "places_taken": 8,
+        "avg_occupancy_pct": 65.0,
+        "places_taken": 9,
         "places_max": 30,
         "data_points": 2,
         "by_hour": {
           "16": 100.0,
-          "17": 26.7
+          "17": 30.0
         }
       },
       "Unknown": {
@@ -3694,22 +3694,22 @@
           "10": 0.0,
           "11": 0.0,
           "15": 0.0,
-          "17": 33.3
+          "17": 34.7
         }
       }
     }
   },
   "Slacklinen": {
-    "avg_occupancy_pct": 6.3,
+    "avg_occupancy_pct": 6.1,
     "facility_count": 3,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 1.0,
+        "avg_occupancy_pct": 0.3,
         "places_taken": 0,
         "places_max": 12,
-        "data_points": 32,
+        "data_points": 31,
         "by_hour": {
-          "17": 2.1,
+          "17": 0.6,
           "18": 0.0
         }
       },
@@ -3859,24 +3859,24 @@
     }
   },
   "Squash": {
-    "avg_occupancy_pct": 6.7,
+    "avg_occupancy_pct": 6.6,
     "facility_count": 1,
     "facilities": {
       "Winterthur Squashanlage Gertrud": {
-        "avg_occupancy_pct": 6.7,
+        "avg_occupancy_pct": 6.6,
         "places_taken": 12,
         "places_max": 18,
-        "data_points": 1833,
+        "data_points": 1825,
         "by_hour": {
-          "9": 10.7,
-          "10": 3.4,
-          "11": 4.3,
+          "9": 10.8,
+          "10": 3.6,
+          "11": 4.2,
           "12": 0.0,
-          "14": 10.1,
-          "15": 7.2,
-          "16": 12.7,
-          "17": 8.0,
-          "18": 7.6,
+          "14": 10.2,
+          "15": 6.8,
+          "16": 12.6,
+          "17": 7.7,
+          "18": 7.2,
           "19": 0.0
         }
       }
@@ -3909,20 +3909,20 @@
     }
   },
   "Standup Paddeln": {
-    "avg_occupancy_pct": 92.1,
+    "avg_occupancy_pct": 92.4,
     "facility_count": 1,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 92.1,
+        "avg_occupancy_pct": 92.4,
         "places_taken": 16,
         "places_max": 16,
-        "data_points": 81,
+        "data_points": 80,
         "by_hour": {
           "8": 85.4,
           "11": 100.0,
           "13": 87.5,
           "15": 100.0,
-          "16": 92.0
+          "16": 92.4
         }
       }
     }
@@ -3944,22 +3944,22 @@
     }
   },
   "Stretch & Relax": {
-    "avg_occupancy_pct": 9.7,
+    "avg_occupancy_pct": 9.5,
     "facility_count": 3,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 8.5,
+        "avg_occupancy_pct": 8.2,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 138,
+        "data_points": 137,
         "by_hour": {
           "6": 6.9,
           "7": 0.0,
           "9": 30.5,
           "10": 0.0,
-          "14": 16.3,
+          "14": 14.2,
           "15": 0.0,
-          "16": 30.0,
+          "16": 35.6,
           "17": 20.3,
           "18": 0.0
         }
@@ -3989,70 +3989,70 @@
     }
   },
   "Surfskaten": {
-    "avg_occupancy_pct": 55.1,
+    "avg_occupancy_pct": 54.6,
     "facility_count": 1,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 55.1,
+        "avg_occupancy_pct": 54.6,
         "places_taken": 0,
         "places_max": 8,
-        "data_points": 47,
+        "data_points": 46,
         "by_hour": {
           "15": 49.2,
-          "16": 66.4
+          "16": 65.8
         }
       }
     }
   },
   "T-BOW": {
-    "avg_occupancy_pct": 7.3,
+    "avg_occupancy_pct": 7.4,
     "facility_count": 6,
     "facilities": {
       "PH Zürich": {
-        "avg_occupancy_pct": 5.1,
+        "avg_occupancy_pct": 5.5,
         "places_taken": 0,
         "places_max": 34,
         "data_points": 52,
         "by_hour": {
-          "10": 14.9,
+          "10": 16.5,
           "11": 0.0,
           "17": 5.9,
           "18": 0.0
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 12.6,
+        "avg_occupancy_pct": 12.7,
         "places_taken": 0,
         "places_max": 30,
         "data_points": 57,
         "by_hour": {
-          "16": 24.7,
+          "16": 25.1,
           "17": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 10.0,
+        "avg_occupancy_pct": 9.8,
         "places_taken": 0,
         "places_max": 55,
-        "data_points": 170,
+        "data_points": 169,
         "by_hour": {
           "10": 12.0,
           "11": 0.0,
-          "15": 25.4,
+          "15": 25.1,
           "16": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 5.6,
+        "avg_occupancy_pct": 5.7,
         "places_taken": 0,
         "places_max": 55,
-        "data_points": 128,
+        "data_points": 127,
         "by_hour": {
           "10": 6.5,
           "11": 0.0,
-          "15": 12.0,
+          "15": 12.2,
           "16": 0.0,
-          "17": 19.0,
+          "17": 19.3,
           "18": 0.0
         }
       },
@@ -4060,11 +4060,11 @@
         "avg_occupancy_pct": 2.1,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 43,
+        "data_points": 42,
         "by_hour": {
-          "7": 4.5,
+          "7": 3.4,
           "8": 0.0,
-          "16": 9.3,
+          "16": 10.7,
           "17": 0.0
         }
       },
@@ -4081,16 +4081,16 @@
     }
   },
   "TRX Suspension Training": {
-    "avg_occupancy_pct": 18.2,
+    "avg_occupancy_pct": 17.9,
     "facility_count": 4,
     "facilities": {
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 32.6,
+        "avg_occupancy_pct": 32.0,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 118,
+        "data_points": 117,
         "by_hour": {
-          "16": 66.4,
+          "16": 65.7,
           "17": 0.0
         }
       },
@@ -4113,26 +4113,26 @@
         "avg_occupancy_pct": 14.3,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 116,
+        "data_points": 115,
         "by_hour": {
           "8": 51.7,
-          "9": 8.4,
+          "9": 8.1,
           "10": 0.0,
           "11": 41.4,
           "12": 0.0
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 12.8,
+        "avg_occupancy_pct": 12.2,
         "places_taken": 0,
         "places_max": 24,
-        "data_points": 164,
+        "data_points": 162,
         "by_hour": {
           "7": 26.0,
           "8": 0.0,
-          "10": 21.5,
+          "10": 18.2,
           "11": 0.0,
-          "14": 17.4,
+          "14": 13.6,
           "15": 5.2,
           "16": 18.2,
           "17": 26.3,
@@ -4142,16 +4142,16 @@
     }
   },
   "Taekwondo": {
-    "avg_occupancy_pct": 13.0,
+    "avg_occupancy_pct": 13.2,
     "facility_count": 3,
     "facilities": {
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 10.2,
+        "avg_occupancy_pct": 10.3,
         "places_taken": 0,
         "places_max": 20,
         "data_points": 54,
         "by_hour": {
-          "15": 18.4,
+          "15": 18.8,
           "16": 0.0,
           "17": 18.8,
           "18": 7.5,
@@ -4169,28 +4169,28 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 10.9,
+        "avg_occupancy_pct": 11.5,
         "places_taken": 0,
         "places_max": 27,
         "data_points": 21,
         "by_hour": {
-          "12": 17.7,
+          "12": 18.5,
           "13": 0.0
         }
       }
     }
   },
   "Tai Chi & Qi Gong": {
-    "avg_occupancy_pct": 7.9,
+    "avg_occupancy_pct": 7.2,
     "facility_count": 1,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 7.9,
+        "avg_occupancy_pct": 7.2,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 50,
+        "data_points": 49,
         "by_hour": {
-          "5": 22.7,
+          "5": 21.4,
           "6": 0.0,
           "17": 9.2,
           "18": 0.0
@@ -4199,17 +4199,17 @@
     }
   },
   "Tango": {
-    "avg_occupancy_pct": 12.0,
+    "avg_occupancy_pct": 11.9,
     "facility_count": 4,
     "facilities": {
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 14.4,
+        "avg_occupancy_pct": 14.3,
         "places_taken": 26,
         "places_max": 36,
-        "data_points": 90,
+        "data_points": 89,
         "by_hour": {
           "14": 72.2,
-          "18": 27.8,
+          "18": 28.0,
           "19": 0.0
         }
       },
@@ -4245,7 +4245,7 @@
     }
   },
   "Tauchen": {
-    "avg_occupancy_pct": 49.5,
+    "avg_occupancy_pct": 50.5,
     "facility_count": 3,
     "facilities": {
       "Bad Bungertwies": {
@@ -4270,14 +4270,14 @@
         }
       },
       "Wassersportzentrum Tiefenbrunnen (WZT)": {
-        "avg_occupancy_pct": 54.7,
+        "avg_occupancy_pct": 56.2,
         "places_taken": 4,
         "places_max": 6,
-        "data_points": 50,
+        "data_points": 48,
         "by_hour": {
           "6": 54.2,
           "14": 50.0,
-          "15": 54.8
+          "15": 56.6
         }
       }
     }
@@ -4330,7 +4330,7 @@
         }
       },
       "Sportcenter Schumacher": {
-        "avg_occupancy_pct": 25.4,
+        "avg_occupancy_pct": 25.6,
         "places_taken": 1,
         "places_max": 4,
         "data_points": 334,
@@ -4338,13 +4338,13 @@
           "5": 84.0,
           "6": 17.2,
           "7": 80.3,
-          "8": 36.0,
+          "8": 36.6,
           "9": 10.2,
-          "10": 11.3,
+          "10": 12.1,
           "11": 8.3,
           "12": 31.0,
           "13": 7.6,
-          "14": 66.7,
+          "14": 72.2,
           "15": 22.2,
           "16": 22.2,
           "17": 83.3,
@@ -4353,20 +4353,20 @@
         }
       },
       "Tennisanlage Fluntern": {
-        "avg_occupancy_pct": 87.6,
+        "avg_occupancy_pct": 87.4,
         "places_taken": 4,
         "places_max": 4,
-        "data_points": 228,
+        "data_points": 227,
         "by_hour": {
           "7": 100.0,
           "8": 84.2,
           "10": 78.8,
-          "11": 85.8,
+          "11": 85.3,
           "12": 92.6,
           "14": 100.0,
           "15": 83.3,
           "16": 100.0,
-          "17": 101.5
+          "17": 101.7
         }
       },
       "Unknown": {
@@ -4426,11 +4426,11 @@
     }
   },
   "Tischtennis": {
-    "avg_occupancy_pct": 12.5,
+    "avg_occupancy_pct": 12.6,
     "facility_count": 2,
     "facilities": {
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 13.4,
+        "avg_occupancy_pct": 13.5,
         "places_taken": 0,
         "places_max": 22,
         "data_points": 185,
@@ -4440,7 +4440,7 @@
           "16": 61.7,
           "17": 13.1,
           "18": 14.8,
-          "19": 7.1,
+          "19": 7.3,
           "20": 0.0
         }
       },
@@ -4457,7 +4457,7 @@
     }
   },
   "Tone&Stretch": {
-    "avg_occupancy_pct": 9.7,
+    "avg_occupancy_pct": 9.6,
     "facility_count": 3,
     "facilities": {
       "CAB Move": {
@@ -4481,12 +4481,12 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 5.7,
+        "avg_occupancy_pct": 5.3,
         "places_taken": 0,
         "places_max": 40,
-        "data_points": 35,
+        "data_points": 34,
         "by_hour": {
-          "15": 8.0,
+          "15": 7.1,
           "16": 4.2
         }
       }
@@ -4600,14 +4600,14 @@
     "facility_count": 9,
     "facilities": {
       "PH Zürich": {
-        "avg_occupancy_pct": 19.5,
+        "avg_occupancy_pct": 17.8,
         "places_taken": 16,
         "places_max": 16,
-        "data_points": 120,
+        "data_points": 117,
         "by_hour": {
           "16": 100.0,
           "17": 50.0,
-          "18": 51.1,
+          "18": 48.1,
           "19": 0.0
         }
       },
@@ -4630,15 +4630,15 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 17.4,
+        "avg_occupancy_pct": 18.2,
         "places_taken": 0,
         "places_max": 16,
-        "data_points": 224,
+        "data_points": 222,
         "by_hour": {
           "7": 21.7,
           "8": 0.0,
-          "10": 43.7,
-          "11": 6.8,
+          "10": 51.6,
+          "11": 7.0,
           "12": 0.0,
           "16": 65.7,
           "17": 0.0
@@ -4660,14 +4660,14 @@
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 23.4,
+        "avg_occupancy_pct": 23.2,
         "places_taken": 0,
         "places_max": 16,
-        "data_points": 366,
+        "data_points": 365,
         "by_hour": {
           "11": 33.3,
           "12": 0.0,
-          "13": 42.9,
+          "13": 33.3,
           "14": 38.2,
           "15": 0.0,
           "17": 54.0,
@@ -4688,22 +4688,22 @@
       },
       "Unknown": {
         "avg_occupancy_pct": 21.5,
-        "places_taken": 109,
+        "places_taken": 110,
         "places_max": 110,
         "data_points": 23,
         "by_hour": {
-          "17": 99.5,
+          "17": 100.0,
           "18": 49.1,
           "19": 0.0
         }
       },
       "Winterthur Kanti Büelrain": {
-        "avg_occupancy_pct": 50.0,
+        "avg_occupancy_pct": 47.2,
         "places_taken": 8,
         "places_max": 18,
         "data_points": 2,
         "by_hour": {
-          "16": 55.6,
+          "16": 50.0,
           "18": 44.4
         }
       },
@@ -4742,35 +4742,35 @@
     }
   },
   "Wandern": {
-    "avg_occupancy_pct": 47.8,
+    "avg_occupancy_pct": 48.0,
     "facility_count": 1,
     "facilities": {
       "Unknown": {
-        "avg_occupancy_pct": 47.8,
+        "avg_occupancy_pct": 48.0,
         "places_taken": 0,
         "places_max": 17,
-        "data_points": 45,
+        "data_points": 44,
         "by_hour": {
           "5": 53.1,
           "6": 100.0,
           "7": 62.5,
           "8": 5.9,
           "9": 100.0,
-          "16": 73.5,
+          "16": 75.4,
           "19": 100.0
         }
       }
     }
   },
   "Windsurfen": {
-    "avg_occupancy_pct": 85.5,
+    "avg_occupancy_pct": 85.0,
     "facility_count": 2,
     "facilities": {
       "Badi Wollishofen": {
-        "avg_occupancy_pct": 82.7,
+        "avg_occupancy_pct": 82.0,
         "places_taken": 8,
         "places_max": 8,
-        "data_points": 26,
+        "data_points": 25,
         "by_hour": {
           "8": 97.9,
           "9": 100.0,
@@ -4792,7 +4792,7 @@
     }
   },
   "Wingsurfen": {
-    "avg_occupancy_pct": 58.7,
+    "avg_occupancy_pct": 58.8,
     "facility_count": 2,
     "facilities": {
       "Badi Wollishofen": {
@@ -4811,40 +4811,40 @@
         }
       },
       "Unknown": {
-        "avg_occupancy_pct": 95.8,
-        "places_taken": 11,
+        "avg_occupancy_pct": 100.0,
+        "places_taken": 12,
         "places_max": 12,
         "data_points": 2,
         "by_hour": {
-          "17": 95.8
+          "17": 100.0
         }
       }
     }
   },
   "Yoga": {
-    "avg_occupancy_pct": 13.3,
+    "avg_occupancy_pct": 13.2,
     "facility_count": 11,
     "facilities": {
       "CAB Move": {
-        "avg_occupancy_pct": 12.3,
+        "avg_occupancy_pct": 12.2,
         "places_taken": 0,
         "places_max": 14,
-        "data_points": 808,
+        "data_points": 804,
         "by_hour": {
           "5": 11.4,
-          "6": 16.6,
+          "6": 16.9,
           "7": 13.0,
           "8": 13.0,
-          "9": 4.4,
-          "10": 13.1,
+          "9": 4.2,
+          "10": 12.6,
           "11": 8.7,
           "12": 0.0,
           "13": 19.2,
           "14": 14.5,
-          "15": 19.5,
+          "15": 19.9,
           "16": 15.3,
-          "17": 17.4,
-          "18": 10.8,
+          "17": 16.4,
+          "18": 10.6,
           "19": 0.0
         }
       },
@@ -4859,12 +4859,12 @@
         }
       },
       "PH Zürich": {
-        "avg_occupancy_pct": 22.5,
+        "avg_occupancy_pct": 22.6,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 104,
+        "data_points": 103,
         "by_hour": {
-          "10": 52.1,
+          "10": 55.8,
           "11": 0.0,
           "17": 55.0,
           "18": 4.5,
@@ -4872,13 +4872,13 @@
         }
       },
       "Sport Center Gloriarank": {
-        "avg_occupancy_pct": 14.4,
+        "avg_occupancy_pct": 14.5,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 114,
         "by_hour": {
           "16": 38.8,
-          "17": 9.1,
+          "17": 9.2,
           "18": 0.0
         }
       },
@@ -4886,30 +4886,30 @@
         "avg_occupancy_pct": 14.9,
         "places_taken": 0,
         "places_max": 20,
-        "data_points": 250,
+        "data_points": 248,
         "by_hour": {
           "10": 21.1,
-          "11": 23.5,
+          "11": 23.2,
           "12": 0.0,
-          "15": 30.6,
-          "16": 6.1,
+          "15": 30.8,
+          "16": 5.9,
           "17": 0.0
         }
       },
       "Sport Center Irchel": {
-        "avg_occupancy_pct": 8.1,
+        "avg_occupancy_pct": 8.0,
         "places_taken": 0,
         "places_max": 50,
-        "data_points": 346,
+        "data_points": 345,
         "by_hour": {
           "5": 23.2,
           "6": 9.7,
-          "7": 4.5,
-          "8": 7.7,
+          "7": 4.6,
+          "8": 6.9,
           "9": 2.9,
           "10": 13.8,
           "11": 6.7,
-          "12": 7.0,
+          "12": 7.1,
           "13": 5.9,
           "14": 9.0,
           "15": 0.0
@@ -4927,39 +4927,39 @@
         }
       },
       "Sport Center Winterthur": {
-        "avg_occupancy_pct": 12.6,
+        "avg_occupancy_pct": 12.5,
         "places_taken": 0,
         "places_max": 25,
-        "data_points": 152,
+        "data_points": 151,
         "by_hour": {
           "9": 24.8,
-          "10": 16.5,
+          "10": 16.7,
           "11": 0.0,
-          "16": 41.4,
+          "16": 41.6,
           "17": 0.0
         }
       },
       "Toni-Areal": {
-        "avg_occupancy_pct": 16.0,
+        "avg_occupancy_pct": 15.7,
         "places_taken": 0,
         "places_max": 30,
-        "data_points": 134,
+        "data_points": 132,
         "by_hour": {
-          "5": 30.6,
+          "5": 28.0,
           "9": 60.3,
           "10": 16.8,
           "11": 0.0,
-          "17": 23.2,
+          "17": 23.0,
           "18": 0.0
         }
       },
       "Turnhalle im Moos": {
-        "avg_occupancy_pct": 7.0,
+        "avg_occupancy_pct": 7.7,
         "places_taken": 0,
         "places_max": 18,
         "data_points": 31,
         "by_hour": {
-          "10": 13.5,
+          "10": 14.9,
           "11": 0.0
         }
       },
@@ -4976,7 +4976,7 @@
     }
   },
   "Zumba": {
-    "avg_occupancy_pct": 12.0,
+    "avg_occupancy_pct": 11.9,
     "facility_count": 8,
     "facilities": {
       "CAB Move": {
@@ -5020,26 +5020,26 @@
         }
       },
       "Sport Center Hönggerberg": {
-        "avg_occupancy_pct": 13.6,
+        "avg_occupancy_pct": 13.5,
         "places_taken": 0,
         "places_max": 35,
         "data_points": 64,
         "by_hour": {
-          "10": 18.7,
+          "10": 18.3,
           "11": 0.0,
-          "18": 34.5,
+          "18": 34.6,
           "19": 0.0
         }
       },
       "Sport Center Polyterrasse": {
-        "avg_occupancy_pct": 17.3,
+        "avg_occupancy_pct": 16.2,
         "places_taken": 0,
         "places_max": 60,
-        "data_points": 54,
+        "data_points": 53,
         "by_hour": {
           "12": 20.0,
           "13": 0.0,
-          "16": 52.3,
+          "16": 50.8,
           "17": 0.0
         }
       },
@@ -5051,7 +5051,7 @@
         "by_hour": {
           "14": 15.7,
           "15": 0.0,
-          "18": 4.7,
+          "18": 4.9,
           "19": 0.0
         }
       },
